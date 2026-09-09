@@ -1,18 +1,19 @@
 {
   "counts": {
     "free_agents": 3056,
-    "news": 0,
+    "news": 100,
+    "schedule_games": 272,
     "weekly_stat_rows": 0
   },
   "current_week": 1,
   "league_id": "1388315713940262912",
   "my_roster_id": 9,
   "ok": true,
-  "refreshed_at_utc": "2026-09-09T03:40:26.075288+00:00",
+  "refreshed_at_utc": "2026-09-09T03:43:56.244644+00:00",
   "season": "2026",
   "sources": {
-    "news": false,
-    "schedule": false,
+    "news": true,
+    "schedule": true,
     "sleeper": true,
     "weekly_stats": false
   },

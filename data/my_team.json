@@ -22,7 +22,68 @@
       "stats": null,
       "status": "Active",
       "team": "KC",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "DEN",
+          "date": "2026-09-14",
+          "home": "KC",
+          "id": "2026_01_DEN_KC",
+          "roof": "outdoors",
+          "spread_line": "2.5",
+          "surface": "grass",
+          "time": "20:15",
+          "total_line": "43.5",
+          "week": 1
+        },
+        {
+          "away": "IND",
+          "date": "2026-09-20",
+          "home": "KC",
+          "id": "2026_02_IND_KC",
+          "roof": "outdoors",
+          "spread_line": "6.5",
+          "surface": "grass",
+          "time": "20:20",
+          "total_line": "47.5",
+          "week": 2
+        },
+        {
+          "away": "KC",
+          "date": "2026-09-27",
+          "home": "MIA",
+          "id": "2026_03_KC_MIA",
+          "roof": "outdoors",
+          "spread_line": "-7.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "44.5",
+          "week": 3
+        },
+        {
+          "away": "KC",
+          "date": "2026-10-04",
+          "home": "LV",
+          "id": "2026_04_KC_LV",
+          "roof": "dome",
+          "spread_line": "-5.5",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "43.5",
+          "week": 4
+        },
+        {
+          "away": "LAC",
+          "date": "2026-10-18",
+          "home": "KC",
+          "id": "2026_06_LAC_KC",
+          "roof": "outdoors",
+          "spread_line": "2.5",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "46.5",
+          "week": 6
+        }
+      ],
       "years_exp": 3
     },
     {
@@ -45,7 +106,68 @@
       "stats": null,
       "status": "Active",
       "team": "BUF",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "BUF",
+          "date": "2026-09-13",
+          "home": "HOU",
+          "id": "2026_01_BUF_HOU",
+          "roof": "",
+          "spread_line": "-1.5",
+          "surface": "astroturf",
+          "time": "13:00",
+          "total_line": "44.5",
+          "week": 1
+        },
+        {
+          "away": "DET",
+          "date": "2026-09-17",
+          "home": "BUF",
+          "id": "2026_02_DET_BUF",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "a_turf",
+          "time": "20:15",
+          "total_line": "52.5",
+          "week": 2
+        },
+        {
+          "away": "LAC",
+          "date": "2026-09-27",
+          "home": "BUF",
+          "id": "2026_03_LAC_BUF",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "a_turf",
+          "time": "13:00",
+          "total_line": "48.5",
+          "week": 3
+        },
+        {
+          "away": "NE",
+          "date": "2026-10-04",
+          "home": "BUF",
+          "id": "2026_04_NE_BUF",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "a_turf",
+          "time": "13:00",
+          "total_line": "49.5",
+          "week": 4
+        },
+        {
+          "away": "BUF",
+          "date": "2026-10-12",
+          "home": "LA",
+          "id": "2026_05_BUF_LA",
+          "roof": "dome",
+          "spread_line": "3",
+          "surface": "matrixturf",
+          "time": "20:15",
+          "total_line": "53.5",
+          "week": 5
+        }
+      ],
       "years_exp": 3
     },
     {
@@ -68,7 +190,68 @@
       "stats": null,
       "status": "Active",
       "team": "NE",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "NE",
+          "date": "2026-09-09",
+          "home": "SEA",
+          "id": "2026_01_NE_SEA",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "fieldturf",
+          "time": "20:20",
+          "total_line": "44.5",
+          "week": 1
+        },
+        {
+          "away": "PIT",
+          "date": "2026-09-20",
+          "home": "NE",
+          "id": "2026_02_PIT_NE",
+          "roof": "outdoors",
+          "spread_line": "4.5",
+          "surface": "fieldturf",
+          "time": "13:00",
+          "total_line": "43.5",
+          "week": 2
+        },
+        {
+          "away": "NE",
+          "date": "2026-09-27",
+          "home": "JAX",
+          "id": "2026_03_NE_JAX",
+          "roof": "outdoors",
+          "spread_line": "",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "",
+          "week": 3
+        },
+        {
+          "away": "NE",
+          "date": "2026-10-04",
+          "home": "BUF",
+          "id": "2026_04_NE_BUF",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "a_turf",
+          "time": "13:00",
+          "total_line": "49.5",
+          "week": 4
+        },
+        {
+          "away": "LV",
+          "date": "2026-10-11",
+          "home": "NE",
+          "id": "2026_05_LV_NE",
+          "roof": "outdoors",
+          "spread_line": "8.5",
+          "surface": "fieldturf",
+          "time": "13:00",
+          "total_line": "44.5",
+          "week": 5
+        }
+      ],
       "years_exp": 2
     },
     {
@@ -81,7 +264,19 @@
       "injury_status": null,
       "last_name": "Lloyd",
       "name": "MarShawn Lloyd",
-      "news": [],
+      "news": [
+        {
+          "impact": "neutral",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLTN1TWtFUkVIWGI5Umk4bUlVVFdYRnFac2ZUV2dla3pubVc2eFJVY0NDMHRqUEhxWVcwUkMwcDlpc0NMN2RRNXZ6SnNUUnlLVkJ3Y1hoSl9BZmR1TzhTMHdqbFFGZlFuRzM1Tm5BMmI2TDVMVUNvdjhuOXBGaFg2akFiaDFuLV9Oc1pldUo2Y0VGZjhXMVdmYklGcUpvMThxczV5bHVmWVROZ0k0d2QzRFp0WWZ0cmNRMVdwcnhianVFemNESnZwMDZDcFdUWmNFaHBXejB3MVRiNU1PQ2NVODZBdkZlRXN0V09v?oc=5",
+          "players_mentioned": [
+            "MarShawn Lloyd"
+          ],
+          "published": "Tue, 08 Sep 2026 13:24:20 GMT",
+          "source": "Google News",
+          "summary": "2026 Fantasy Football Waiver Wire Week 1: MarShawn Lloyd, Ja'Kobi Lane Top Picks &nbsp;&nbsp; Fantasy Alarm",
+          "title": "2026 Fantasy Football Waiver Wire Week 1: MarShawn Lloyd, Ja'Kobi Lane Top Picks - Fantasy Alarm"
+        }
+      ],
       "number": 32,
       "player_id": "11581",
       "position": "RB",
@@ -91,7 +286,68 @@
       "stats": null,
       "status": "Active",
       "team": "GB",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "GB",
+          "date": "2026-09-13",
+          "home": "MIN",
+          "id": "2026_01_GB_MIN",
+          "roof": "dome",
+          "spread_line": "1.5",
+          "surface": "sportturf",
+          "time": "16:25",
+          "total_line": "46.5",
+          "week": 1
+        },
+        {
+          "away": "GB",
+          "date": "2026-09-20",
+          "home": "NYJ",
+          "id": "2026_02_GB_NYJ",
+          "roof": "outdoors",
+          "spread_line": "-5.5",
+          "surface": "fieldturf",
+          "time": "13:00",
+          "total_line": "42.5",
+          "week": 2
+        },
+        {
+          "away": "ATL",
+          "date": "2026-09-24",
+          "home": "GB",
+          "id": "2026_03_ATL_GB",
+          "roof": "outdoors",
+          "spread_line": "7.5",
+          "surface": "grass",
+          "time": "20:15",
+          "total_line": "46.5",
+          "week": 3
+        },
+        {
+          "away": "GB",
+          "date": "2026-10-04",
+          "home": "TB",
+          "id": "2026_04_GB_TB",
+          "roof": "outdoors",
+          "spread_line": "-1.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "47.5",
+          "week": 4
+        },
+        {
+          "away": "CHI",
+          "date": "2026-10-11",
+          "home": "GB",
+          "id": "2026_05_CHI_GB",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "49.5",
+          "week": 5
+        }
+      ],
       "years_exp": 2
     },
     {
@@ -114,7 +370,68 @@
       "stats": null,
       "status": "Active",
       "team": "JAX",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "CLE",
+          "date": "2026-09-13",
+          "home": "JAX",
+          "id": "2026_01_CLE_JAX",
+          "roof": "outdoors",
+          "spread_line": "8.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "40.5",
+          "week": 1
+        },
+        {
+          "away": "JAX",
+          "date": "2026-09-20",
+          "home": "DEN",
+          "id": "2026_02_JAX_DEN",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "grass",
+          "time": "16:05",
+          "total_line": "43.5",
+          "week": 2
+        },
+        {
+          "away": "NE",
+          "date": "2026-09-27",
+          "home": "JAX",
+          "id": "2026_03_NE_JAX",
+          "roof": "outdoors",
+          "spread_line": "",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "",
+          "week": 3
+        },
+        {
+          "away": "JAX",
+          "date": "2026-10-04",
+          "home": "CIN",
+          "id": "2026_04_JAX_CIN",
+          "roof": "outdoors",
+          "spread_line": "2.5",
+          "surface": "fieldturf",
+          "time": "13:00",
+          "total_line": "51.5",
+          "week": 4
+        },
+        {
+          "away": "PHI",
+          "date": "2026-10-11",
+          "home": "JAX",
+          "id": "2026_05_PHI_JAX",
+          "roof": "outdoors",
+          "spread_line": "-1.5",
+          "surface": "grass",
+          "time": "09:30",
+          "total_line": "45.5",
+          "week": 5
+        }
+      ],
       "years_exp": 1
     },
     {
@@ -137,7 +454,68 @@
       "stats": null,
       "status": "Active",
       "team": "CLE",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "CLE",
+          "date": "2026-09-13",
+          "home": "JAX",
+          "id": "2026_01_CLE_JAX",
+          "roof": "outdoors",
+          "spread_line": "8.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "40.5",
+          "week": 1
+        },
+        {
+          "away": "CLE",
+          "date": "2026-09-20",
+          "home": "TB",
+          "id": "2026_02_CLE_TB",
+          "roof": "outdoors",
+          "spread_line": "6.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "42.5",
+          "week": 2
+        },
+        {
+          "away": "CAR",
+          "date": "2026-09-27",
+          "home": "CLE",
+          "id": "2026_03_CAR_CLE",
+          "roof": "outdoors",
+          "spread_line": "-1.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "39.5",
+          "week": 3
+        },
+        {
+          "away": "PIT",
+          "date": "2026-10-01",
+          "home": "CLE",
+          "id": "2026_04_PIT_CLE",
+          "roof": "outdoors",
+          "spread_line": "-2.5",
+          "surface": "grass",
+          "time": "20:15",
+          "total_line": "40.5",
+          "week": 4
+        },
+        {
+          "away": "CLE",
+          "date": "2026-10-11",
+          "home": "NYJ",
+          "id": "2026_05_CLE_NYJ",
+          "roof": "outdoors",
+          "spread_line": "1.5",
+          "surface": "fieldturf",
+          "time": "13:00",
+          "total_line": "39.5",
+          "week": 5
+        }
+      ],
       "years_exp": 1
     },
     {
@@ -160,7 +538,68 @@
       "stats": null,
       "status": "Active",
       "team": "WAS",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "WAS",
+          "date": "2026-09-13",
+          "home": "PHI",
+          "id": "2026_01_WAS_PHI",
+          "roof": "outdoors",
+          "spread_line": "5.5",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "44.5",
+          "week": 1
+        },
+        {
+          "away": "WAS",
+          "date": "2026-09-20",
+          "home": "DAL",
+          "id": "2026_02_WAS_DAL",
+          "roof": "",
+          "spread_line": "4.5",
+          "surface": "matrixturf",
+          "time": "16:25",
+          "total_line": "51.5",
+          "week": 2
+        },
+        {
+          "away": "SEA",
+          "date": "2026-09-27",
+          "home": "WAS",
+          "id": "2026_03_SEA_WAS",
+          "roof": "outdoors",
+          "spread_line": "-3.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "46.5",
+          "week": 3
+        },
+        {
+          "away": "IND",
+          "date": "2026-10-04",
+          "home": "WAS",
+          "id": "2026_04_IND_WAS",
+          "roof": "outdoors",
+          "spread_line": "1.5",
+          "surface": "grass",
+          "time": "09:30",
+          "total_line": "50.5",
+          "week": 4
+        },
+        {
+          "away": "NYG",
+          "date": "2026-10-11",
+          "home": "WAS",
+          "id": "2026_05_NYG_WAS",
+          "roof": "outdoors",
+          "spread_line": "1.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "48.5",
+          "week": 5
+        }
+      ],
       "years_exp": 1
     },
     {
@@ -183,7 +622,68 @@
       "stats": null,
       "status": "Active",
       "team": "SEA",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "NE",
+          "date": "2026-09-09",
+          "home": "SEA",
+          "id": "2026_01_NE_SEA",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "fieldturf",
+          "time": "20:20",
+          "total_line": "44.5",
+          "week": 1
+        },
+        {
+          "away": "SEA",
+          "date": "2026-09-20",
+          "home": "ARI",
+          "id": "2026_02_SEA_ARI",
+          "roof": "",
+          "spread_line": "-10",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "44.5",
+          "week": 2
+        },
+        {
+          "away": "SEA",
+          "date": "2026-09-27",
+          "home": "WAS",
+          "id": "2026_03_SEA_WAS",
+          "roof": "outdoors",
+          "spread_line": "-3.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "46.5",
+          "week": 3
+        },
+        {
+          "away": "LAC",
+          "date": "2026-10-04",
+          "home": "SEA",
+          "id": "2026_04_LAC_SEA",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "fieldturf",
+          "time": "16:25",
+          "total_line": "45.5",
+          "week": 4
+        },
+        {
+          "away": "SF",
+          "date": "2026-10-11",
+          "home": "SEA",
+          "id": "2026_05_SF_SEA",
+          "roof": "outdoors",
+          "spread_line": "3.5",
+          "surface": "fieldturf",
+          "time": "16:25",
+          "total_line": "48.5",
+          "week": 5
+        }
+      ],
       "years_exp": 11
     },
     {
@@ -196,7 +696,20 @@
       "injury_status": "Questionable",
       "last_name": "Kittle",
       "name": "George Kittle",
-      "news": [],
+      "news": [
+        {
+          "impact": "watch",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2hKcmtyc3I2TlhlaDNnNnFlanNCZzVTYnlKbHo1SVBvME9YZVdwdm5lZE1CVHpnV1pLNHZOd3FYTlJHdG1tNGczcWVKS1VoRXpjN05zSzMzbFRvZTBDUjFzSUxsT3BlaHNGenNBRG1wek9oa01mTXhQa2lkZUNhRXpxbw?oc=5",
+          "players_mentioned": [
+            "Patrick Mahomes",
+            "George Kittle"
+          ],
+          "published": "Tue, 08 Sep 2026 20:22:05 GMT",
+          "source": "Google News",
+          "summary": "2026 NFL Week 1 Injury Report: Updates on George Kittle, Patrick Mahomes, more &nbsp;&nbsp; NBC Sports",
+          "title": "2026 NFL Week 1 Injury Report: Updates on George Kittle, Patrick Mahomes, more - NBC Sports"
+        }
+      ],
       "number": 85,
       "player_id": "4217",
       "position": "TE",
@@ -206,7 +719,68 @@
       "stats": null,
       "status": "Active",
       "team": "SF",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "SF",
+          "date": "2026-09-10",
+          "home": "LA",
+          "id": "2026_01_SF_LA",
+          "roof": "dome",
+          "spread_line": "3.5",
+          "surface": "matrixturf",
+          "time": "20:35",
+          "total_line": "48.5",
+          "week": 1
+        },
+        {
+          "away": "MIA",
+          "date": "2026-09-20",
+          "home": "SF",
+          "id": "2026_02_MIA_SF",
+          "roof": "outdoors",
+          "spread_line": "10.5",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "46.5",
+          "week": 2
+        },
+        {
+          "away": "ARI",
+          "date": "2026-09-27",
+          "home": "SF",
+          "id": "2026_03_ARI_SF",
+          "roof": "outdoors",
+          "spread_line": "11.5",
+          "surface": "grass",
+          "time": "16:05",
+          "total_line": "46.5",
+          "week": 3
+        },
+        {
+          "away": "DEN",
+          "date": "2026-10-04",
+          "home": "SF",
+          "id": "2026_04_DEN_SF",
+          "roof": "outdoors",
+          "spread_line": "2.5",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "46.5",
+          "week": 4
+        },
+        {
+          "away": "SF",
+          "date": "2026-10-11",
+          "home": "SEA",
+          "id": "2026_05_SF_SEA",
+          "roof": "outdoors",
+          "spread_line": "3.5",
+          "surface": "fieldturf",
+          "time": "16:25",
+          "total_line": "48.5",
+          "week": 5
+        }
+      ],
       "years_exp": 9
     },
     {
@@ -229,7 +803,68 @@
       "stats": null,
       "status": "Active",
       "team": "DAL",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "DAL",
+          "date": "2026-09-13",
+          "home": "NYG",
+          "id": "2026_01_DAL_NYG",
+          "roof": "outdoors",
+          "spread_line": "-3",
+          "surface": "fieldturf",
+          "time": "20:20",
+          "total_line": "48.5",
+          "week": 1
+        },
+        {
+          "away": "WAS",
+          "date": "2026-09-20",
+          "home": "DAL",
+          "id": "2026_02_WAS_DAL",
+          "roof": "",
+          "spread_line": "4.5",
+          "surface": "matrixturf",
+          "time": "16:25",
+          "total_line": "51.5",
+          "week": 2
+        },
+        {
+          "away": "BAL",
+          "date": "2026-09-27",
+          "home": "DAL",
+          "id": "2026_03_BAL_DAL",
+          "roof": "",
+          "spread_line": "-2.5",
+          "surface": "matrixturf",
+          "time": "16:25",
+          "total_line": "51.5",
+          "week": 3
+        },
+        {
+          "away": "DAL",
+          "date": "2026-10-04",
+          "home": "HOU",
+          "id": "2026_04_DAL_HOU",
+          "roof": "",
+          "spread_line": "2.5",
+          "surface": "astroturf",
+          "time": "13:00",
+          "total_line": "47.5",
+          "week": 4
+        },
+        {
+          "away": "TB",
+          "date": "2026-10-08",
+          "home": "DAL",
+          "id": "2026_05_TB_DAL",
+          "roof": "",
+          "spread_line": "3.5",
+          "surface": "matrixturf",
+          "time": "20:15",
+          "total_line": "52.5",
+          "week": 5
+        }
+      ],
       "years_exp": 6
     },
     {
@@ -252,7 +887,68 @@
       "stats": null,
       "status": "Active",
       "team": "ATL",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "ATL",
+          "date": "2026-09-13",
+          "home": "PIT",
+          "id": "2026_01_ATL_PIT",
+          "roof": "outdoors",
+          "spread_line": "3.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "42.5",
+          "week": 1
+        },
+        {
+          "away": "CAR",
+          "date": "2026-09-20",
+          "home": "ATL",
+          "id": "2026_02_CAR_ATL",
+          "roof": "",
+          "spread_line": "1.5",
+          "surface": "fieldturf",
+          "time": "13:00",
+          "total_line": "44.5",
+          "week": 2
+        },
+        {
+          "away": "ATL",
+          "date": "2026-09-24",
+          "home": "GB",
+          "id": "2026_03_ATL_GB",
+          "roof": "outdoors",
+          "spread_line": "7.5",
+          "surface": "grass",
+          "time": "20:15",
+          "total_line": "46.5",
+          "week": 3
+        },
+        {
+          "away": "ATL",
+          "date": "2026-10-05",
+          "home": "NO",
+          "id": "2026_04_ATL_NO",
+          "roof": "dome",
+          "spread_line": "2.5",
+          "surface": "sportturf",
+          "time": "20:15",
+          "total_line": "45.5",
+          "week": 4
+        },
+        {
+          "away": "BAL",
+          "date": "2026-10-11",
+          "home": "ATL",
+          "id": "2026_05_BAL_ATL",
+          "roof": "",
+          "spread_line": "-4.5",
+          "surface": "fieldturf",
+          "time": "20:20",
+          "total_line": "48.5",
+          "week": 5
+        }
+      ],
       "years_exp": 4
     },
     {
@@ -275,7 +971,68 @@
       "stats": null,
       "status": "Active",
       "team": "TEN",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "NYJ",
+          "date": "2026-09-13",
+          "home": "TEN",
+          "id": "2026_01_NYJ_TEN",
+          "roof": "outdoors",
+          "spread_line": "1.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "39.5",
+          "week": 1
+        },
+        {
+          "away": "PHI",
+          "date": "2026-09-20",
+          "home": "TEN",
+          "id": "2026_02_PHI_TEN",
+          "roof": "outdoors",
+          "spread_line": "-5.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "42.5",
+          "week": 2
+        },
+        {
+          "away": "TEN",
+          "date": "2026-09-27",
+          "home": "NYG",
+          "id": "2026_03_TEN_NYG",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "fieldturf",
+          "time": "13:00",
+          "total_line": "44.5",
+          "week": 3
+        },
+        {
+          "away": "TEN",
+          "date": "2026-10-04",
+          "home": "BAL",
+          "id": "2026_04_TEN_BAL",
+          "roof": "outdoors",
+          "spread_line": "8.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "47.5",
+          "week": 4
+        },
+        {
+          "away": "HOU",
+          "date": "2026-10-11",
+          "home": "TEN",
+          "id": "2026_05_HOU_TEN",
+          "roof": "outdoors",
+          "spread_line": "-3.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "43.5",
+          "week": 5
+        }
+      ],
       "years_exp": 4
     },
     {
@@ -298,7 +1055,68 @@
       "stats": null,
       "status": "Active",
       "team": "MIA",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "MIA",
+          "date": "2026-09-13",
+          "home": "LV",
+          "id": "2026_01_MIA_LV",
+          "roof": "dome",
+          "spread_line": "3.5",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "40.5",
+          "week": 1
+        },
+        {
+          "away": "MIA",
+          "date": "2026-09-20",
+          "home": "SF",
+          "id": "2026_02_MIA_SF",
+          "roof": "outdoors",
+          "spread_line": "10.5",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "46.5",
+          "week": 2
+        },
+        {
+          "away": "KC",
+          "date": "2026-09-27",
+          "home": "MIA",
+          "id": "2026_03_KC_MIA",
+          "roof": "outdoors",
+          "spread_line": "-7.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "44.5",
+          "week": 3
+        },
+        {
+          "away": "MIA",
+          "date": "2026-10-04",
+          "home": "MIN",
+          "id": "2026_04_MIA_MIN",
+          "roof": "dome",
+          "spread_line": "7.5",
+          "surface": "sportturf",
+          "time": "16:05",
+          "total_line": "43.5",
+          "week": 4
+        },
+        {
+          "away": "CIN",
+          "date": "2026-10-11",
+          "home": "MIA",
+          "id": "2026_05_CIN_MIA",
+          "roof": "outdoors",
+          "spread_line": "-6",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "49.5",
+          "week": 5
+        }
+      ],
       "years_exp": 3
     },
     {
@@ -321,7 +1139,68 @@
       "stats": null,
       "status": "Active",
       "team": "LAC",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "ARI",
+          "date": "2026-09-13",
+          "home": "LAC",
+          "id": "2026_01_ARI_LAC",
+          "roof": "dome",
+          "spread_line": "9.5",
+          "surface": "matrixturf",
+          "time": "16:25",
+          "total_line": "47.5",
+          "week": 1
+        },
+        {
+          "away": "LV",
+          "date": "2026-09-20",
+          "home": "LAC",
+          "id": "2026_02_LV_LAC",
+          "roof": "dome",
+          "spread_line": "8.5",
+          "surface": "matrixturf",
+          "time": "16:05",
+          "total_line": "42.5",
+          "week": 2
+        },
+        {
+          "away": "LAC",
+          "date": "2026-09-27",
+          "home": "BUF",
+          "id": "2026_03_LAC_BUF",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "a_turf",
+          "time": "13:00",
+          "total_line": "48.5",
+          "week": 3
+        },
+        {
+          "away": "LAC",
+          "date": "2026-10-04",
+          "home": "SEA",
+          "id": "2026_04_LAC_SEA",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "fieldturf",
+          "time": "16:25",
+          "total_line": "45.5",
+          "week": 4
+        },
+        {
+          "away": "DEN",
+          "date": "2026-10-11",
+          "home": "LAC",
+          "id": "2026_05_DEN_LAC",
+          "roof": "dome",
+          "spread_line": "2.5",
+          "surface": "matrixturf",
+          "time": "16:05",
+          "total_line": "44.5",
+          "week": 5
+        }
+      ],
       "years_exp": 3
     },
     {
@@ -344,7 +1223,68 @@
       "stats": null,
       "status": null,
       "team": "SEA",
-      "upcoming_games": [],
+      "upcoming_games": [
+        {
+          "away": "NE",
+          "date": "2026-09-09",
+          "home": "SEA",
+          "id": "2026_01_NE_SEA",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "fieldturf",
+          "time": "20:20",
+          "total_line": "44.5",
+          "week": 1
+        },
+        {
+          "away": "SEA",
+          "date": "2026-09-20",
+          "home": "ARI",
+          "id": "2026_02_SEA_ARI",
+          "roof": "",
+          "spread_line": "-10",
+          "surface": "grass",
+          "time": "16:25",
+          "total_line": "44.5",
+          "week": 2
+        },
+        {
+          "away": "SEA",
+          "date": "2026-09-27",
+          "home": "WAS",
+          "id": "2026_03_SEA_WAS",
+          "roof": "outdoors",
+          "spread_line": "-3.5",
+          "surface": "grass",
+          "time": "13:00",
+          "total_line": "46.5",
+          "week": 3
+        },
+        {
+          "away": "LAC",
+          "date": "2026-10-04",
+          "home": "SEA",
+          "id": "2026_04_LAC_SEA",
+          "roof": "outdoors",
+          "spread_line": "3",
+          "surface": "fieldturf",
+          "time": "16:25",
+          "total_line": "45.5",
+          "week": 4
+        },
+        {
+          "away": "SF",
+          "date": "2026-10-11",
+          "home": "SEA",
+          "id": "2026_05_SF_SEA",
+          "roof": "outdoors",
+          "spread_line": "3.5",
+          "surface": "fieldturf",
+          "time": "16:25",
+          "total_line": "48.5",
+          "week": 5
+        }
+      ],
       "years_exp": null
     }
   ],
