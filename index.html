@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#07111f" />
+  <title>Jagger GM — Fantasy Command Center</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">JG</div>
+        <div><strong>Jagger GM</strong><span>Fantasy Command Center</span></div>
+      </div>
+      <nav id="nav">
+        <button class="nav-btn active" data-view="command">⌁ <span>Command Center</span></button>
+        <button class="nav-btn" data-view="waivers">↗ <span>Waiver Assassin</span></button>
+        <button class="nav-btn" data-view="trades">⇄ <span>Trade Lab</span></button>
+        <button class="nav-btn" data-view="league">◎ <span>League X-Ray</span></button>
+        <button class="nav-btn" data-view="roster">▦ <span>My Roster</span></button>
+        <button class="nav-btn" data-view="model">⚙ <span>Decision Model</span></button>
+      </nav>
+      <div class="side-foot">
+        <span class="dot"></span><span id="syncText">Loading live league…</span>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <div class="eyebrow">BUTT KISSES · 10 TEAM · FULL PPR</div>
+          <h1 id="pageTitle">Command Center</h1>
+        </div>
+        <div class="top-actions">
+          <div class="pill" id="weekPill">Week —</div>
+          <div class="pill accent" id="faabPill">FAAB —</div>
+        </div>
+      </header>
+
+      <section id="view-command" class="view active"></section>
+      <section id="view-waivers" class="view"></section>
+      <section id="view-trades" class="view"></section>
+      <section id="view-league" class="view"></section>
+      <section id="view-roster" class="view"></section>
+      <section id="view-model" class="view"></section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
