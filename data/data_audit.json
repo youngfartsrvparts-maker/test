@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-09-09T05:16:50.043394+00:00",
+  "checks": {
+    "players_total": 871,
+    "active_skill_players": 801,
+    "owned_players": 152,
+    "historical_prior": 519,
+    "elite_profile": 519,
+    "2025_detail": 481,
+    "weekly_distribution": 519,
+    "schedule_next_game": 777,
+    "current_role_context": 7
+  },
+  "problems": [
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jonathon Brooks",
+      "id": "11583",
+      "historical_prior": 2.5
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Tank Dell",
+      "id": "9502",
+      "historical_prior": 11.86
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "MarShawn Lloyd",
+      "id": "11581",
+      "historical_prior": 2.8
+    }
+  ],
+  "problem_count": 3,
+  "note": "2025 detail is sourced from elite_profile.seasons, generated from nflverse_history.json. UI should use this normalized layer instead of relying on legacy p.history."
+}
