@@ -1,7 +1,6 @@
-import json, os, urllib.request, datetime
+import json, urllib.request, datetime
 from pathlib import Path
 
-# Cloud bridge for Sleeper league 1388315713940262912.
 LEAGUE_ID = "1388315713940262912"
 USERNAME = "ChatGPTJagger"
 USER_ID = "1394868996146204672"
@@ -24,7 +23,6 @@ league = get(f"/league/{LEAGUE_ID}")
 users = get(f"/league/{LEAGUE_ID}/users")
 rosters = get(f"/league/{LEAGUE_ID}/rosters")
 
-# Refresh the large player directory once per UTC day.
 players_path = OUT / "players_nfl.json"
 refresh_players = True
 if players_path.exists():
@@ -57,7 +55,6 @@ def player_obj(pid):
             "injury_status": p.get("injury_status"),
             "years_exp": p.get("years_exp"),
         }
-    # Team defenses are rostered as abbreviations.
     return {"player_id": pid, "name": pid, "position": "DEF" if len(pid) <= 3 else None, "team": pid if len(pid) <= 3 else None}
 
 teams = []
@@ -79,7 +76,6 @@ for r in rosters:
     if r.get("owner_id") == USER_ID or u.get("display_name") == USERNAME:
         my_team = team
 
-# Current NFL week from Sleeper state, then league matchups/transactions for that week.
 state = get("/state/nfl")
 week = int(state.get("week") or 1)
 matchups = get(f"/league/{LEAGUE_ID}/matchups/{week}")
@@ -87,8 +83,15 @@ transactions = get(f"/league/{LEAGUE_ID}/transactions/{week}")
 trending_add = get("/players/nfl/trending/add?lookback_hours=24&limit=100")
 trending_drop = get("/players/nfl/trending/drop?lookback_hours=24&limit=100")
 drafts = get(f"/league/{LEAGUE_ID}/drafts")
+draft_picks = []
+for draft in drafts:
+    draft_id = draft.get("draft_id")
+    if draft_id:
+        try:
+            draft_picks.extend(get(f"/draft/{draft_id}/picks"))
+        except Exception:
+            pass
 
-# Compact free-agent directory for skill positions + kickers; defenses are derived from NFL teams separately.
 fantasy_positions = {"QB", "RB", "WR", "TE", "K"}
 free_agents = []
 for pid, p in players.items():
@@ -125,5 +128,6 @@ dump("matchups.json", matchups)
 dump("transactions.json", transactions)
 dump("trending.json", {"add": trending_add, "drop": trending_drop})
 dump("drafts.json", drafts)
+dump("draft_picks.json", draft_picks)
 dump("nfl_state.json", state)
 print(json.dumps(status, indent=2))
