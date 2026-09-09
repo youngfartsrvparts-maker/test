@@ -12,6 +12,7 @@ on:
       - 'scripts/context_enrich.py'
       - 'scripts/role_news_enrich.py'
       - 'scripts/scenario_enrich.py'
+      - 'scripts/data_audit.py'
       - '.github/workflows/sleeper-sync.yml'
 permissions:
   contents: write
@@ -35,15 +36,11 @@ jobs:
         run: python scripts/role_news_enrich.py
       - name: Build future Sleeper matchup and projection scenarios
         run: python scripts/scenario_enrich.py
+      - name: Audit recommendation data completeness
+        run: python scripts/data_audit.py
       - name: Commit live snapshot
         run: |
           git config user.name "jagger-gm-sync"
           git config user.email "actions@users.noreply.github.com"
           git add data/ v3/snapshot.js
-          if git diff --cached --quiet; then
-            echo "No data changes"
-          else
-            git commit -m "Refresh Jagger GM complete manager intelligence"
-            git pull --rebase
-            git push
-          fi
+          if git diff --cached --quiet; then echo "No data changes"; else git commit -m "Refresh Jagger GM complete manager intelligence"; git pull --rebase; git push; fi
