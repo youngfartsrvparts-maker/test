@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/sync_v3.py'
+      - 'scripts/scenario_enrich.py'
       - '.github/workflows/sleeper-sync.yml'
 permissions:
   contents: write
@@ -20,6 +21,8 @@ jobs:
           python-version: '3.12'
       - name: Pull validated Sleeper league intelligence
         run: python scripts/sync_v3.py
+      - name: Build future matchup and projection scenarios
+        run: python scripts/scenario_enrich.py
       - name: Commit live snapshot
         run: |
           git config user.name "jagger-gm-sync"
