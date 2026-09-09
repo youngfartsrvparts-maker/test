@@ -7,7 +7,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/sync_v3.py'
-      - 'scripts/history_enrich.py'
+      - 'scripts/nflverse_history.py'
       - 'scripts/scenario_enrich.py'
       - '.github/workflows/sleeper-sync.yml'
 permissions:
@@ -20,11 +20,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Pull validated Sleeper league intelligence
+      - name: Pull live league truth from Sleeper
         run: python scripts/sync_v3.py
-      - name: Add Sleeper historical performance priors
-        run: python scripts/history_enrich.py
-      - name: Build future matchup and projection scenarios
+      - name: Add completed-season nflverse production evidence
+        run: python scripts/nflverse_history.py
+      - name: Build future Sleeper matchup and projection scenarios
         run: python scripts/scenario_enrich.py
       - name: Commit live snapshot
         run: |
@@ -34,7 +34,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes"
           else
-            git commit -m "Refresh Jagger GM Sleeper data"
+            git commit -m "Refresh Jagger GM live and historical data"
             git pull --rebase
             git push
           fi
