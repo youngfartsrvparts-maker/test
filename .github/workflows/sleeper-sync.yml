@@ -2,11 +2,12 @@ name: Jagger GM Live Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: '12 * * * *'
+    - cron: '*/15 * * * *'
   push:
     branches: [main]
     paths:
       - 'scripts/sync_v3.py'
+      - 'scripts/history_enrich.py'
       - 'scripts/scenario_enrich.py'
       - '.github/workflows/sleeper-sync.yml'
 permissions:
@@ -21,6 +22,8 @@ jobs:
           python-version: '3.12'
       - name: Pull validated Sleeper league intelligence
         run: python scripts/sync_v3.py
+      - name: Add Sleeper historical performance priors
+        run: python scripts/history_enrich.py
       - name: Build future matchup and projection scenarios
         run: python scripts/scenario_enrich.py
       - name: Commit live snapshot
