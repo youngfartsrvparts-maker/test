@@ -4,20 +4,24 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="theme-color" content="#07111f" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <title>Jagger GM — Fantasy Command Center</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="app-v2.css" />
 </head>
 <body>
   <div class="app-shell">
     <aside class="sidebar">
       <div class="brand">
         <div class="logo">JG</div>
-        <div><strong>Jagger GM</strong><span>Fantasy Command Center</span></div>
+        <div><strong>Jagger GM</strong><span>League Intelligence OS</span></div>
       </div>
       <nav id="nav">
         <button class="nav-btn active" data-view="command">⌁ <span>Command Center</span></button>
         <button class="nav-btn" data-view="waivers">↗ <span>Waiver Assassin</span></button>
         <button class="nav-btn" data-view="trades">⇄ <span>Trade Lab</span></button>
+        <button class="nav-btn" data-view="news">⚡ <span>News Pulse</span></button>
         <button class="nav-btn" data-view="league">◎ <span>League X-Ray</span></button>
         <button class="nav-btn" data-view="roster">▦ <span>My Roster</span></button>
         <button class="nav-btn" data-view="model">⚙ <span>Decision Model</span></button>
@@ -30,10 +34,11 @@
     <main>
       <header class="topbar">
         <div>
-          <div class="eyebrow">BUTT KISSES · 10 TEAM · FULL PPR</div>
+          <div class="eyebrow">BUTT KISSES · 10 TEAM · FULL PPR · 2 FLEX</div>
           <h1 id="pageTitle">Command Center</h1>
         </div>
         <div class="top-actions">
+          <div class="pill" id="sourcePill">LIVE DATA</div>
           <div class="pill" id="weekPill">Week —</div>
           <div class="pill accent" id="faabPill">FAAB —</div>
         </div>
@@ -42,11 +47,12 @@
       <section id="view-command" class="view active"></section>
       <section id="view-waivers" class="view"></section>
       <section id="view-trades" class="view"></section>
+      <section id="view-news" class="view"></section>
       <section id="view-league" class="view"></section>
       <section id="view-roster" class="view"></section>
       <section id="view-model" class="view"></section>
     </main>
   </div>
-  <script src="app.js"></script>
+  <script src="app-v2.js"></script>
 </body>
 </html>
