@@ -11,6 +11,7 @@ on:
       - 'scripts/elite_enrich.py'
       - 'scripts/context_enrich.py'
       - 'scripts/role_news_enrich.py'
+      - 'scripts/my_team_news_enrich.py'
       - 'scripts/scenario_enrich.py'
       - 'scripts/data_audit.py'
       - '.github/workflows/sleeper-sync.yml'
@@ -32,8 +33,10 @@ jobs:
         run: python scripts/elite_enrich.py
       - name: Add weekly distributions current usage and schedule context
         run: python scripts/context_enrich.py
-      - name: Add verified current role changes and breaking-news context
+      - name: Add verified league-wide high-impact role changes
         run: python scripts/role_news_enrich.py
+      - name: Analyze pre-lock news for every player on Jagger roster
+        run: python scripts/my_team_news_enrich.py
       - name: Build future Sleeper matchup and projection scenarios
         run: python scripts/scenario_enrich.py
       - name: Audit recommendation data completeness
