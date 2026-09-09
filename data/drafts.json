@@ -1,0 +1,61 @@
+[
+  {
+    "created": 1785362769424,
+    "creators": [
+      "1388315569022849024"
+    ],
+    "draft_id": "1388315715089502208",
+    "draft_order": {
+      "1129194623726923776": 6,
+      "1388315569022849024": 9,
+      "1388382513935695872": 7,
+      "1390827584266174464": 1,
+      "1394408577644367872": 3,
+      "1394411476319502336": 8,
+      "1394868996146204672": 10,
+      "1396221884936241152": 5,
+      "734240780692140032": 2,
+      "862376504728940544": 4
+    },
+    "last_message_id": "1402877797575180288",
+    "last_message_time": 1788834640452,
+    "last_picked": 1788834639610,
+    "league_id": "1388315713940262912",
+    "metadata": {
+      "description": "",
+      "league_type": "0",
+      "name": "BUTT KISSES",
+      "scoring_type": "ppr",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 0,
+      "autopause_end_time": 960,
+      "autopause_start_time": 240,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 60,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 15,
+      "slots_bn": 5,
+      "slots_def": 1,
+      "slots_flex": 2,
+      "slots_k": 1,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_te": 1,
+      "slots_wr": 2,
+      "teams": 10
+    },
+    "sport": "nfl",
+    "start_time": 1788831502942,
+    "status": "complete",
+    "type": "snake"
+  }
+]
