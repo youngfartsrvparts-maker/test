@@ -1,4 +1,4 @@
-import json, urllib.request, urllib.parse, datetime, re, xml.etree.ElementTree as ET
+import json, urllib.request, datetime, re, xml.etree.ElementTree as ET, csv, io
 from pathlib import Path
 
 LEAGUE_ID = "1388315713940262912"
@@ -25,8 +25,7 @@ def dump(name,obj):
 
 def sleeper(path): return get_json(SLEEPER+path)
 
-def norm(s):
-    return re.sub(r"[^a-z0-9]","",(s or "").lower())
+def norm(s): return re.sub(r"[^a-z0-9]","",(s or "").lower())
 
 league=sleeper(f"/league/{LEAGUE_ID}")
 users=sleeper(f"/league/{LEAGUE_ID}/users")
@@ -85,52 +84,48 @@ for pid,p in players.items():
     if pid in rostered or p.get("position") not in {"QB","RB","WR","TE","K"} or p.get("active") is False: continue
     free_agents.append(pobj(pid))
 
-# Schedule / scoreboard snapshot from ESPN public scoreboard API.
+# Current NFL schedule / game state.
 schedule=[]
 try:
     espn=get_json(f"https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates={season}&limit=400")
     for ev in espn.get("events",[]):
         comp=(ev.get("competitions") or [{}])[0]
         competitors=comp.get("competitors") or []
-        teams_map={c.get("homeAway"):((c.get("team") or {}).get("abbreviation")) for c in competitors}
+        tm={c.get("homeAway"):((c.get("team") or {}).get("abbreviation")) for c in competitors}
         schedule.append({"id":ev.get("id"),"date":ev.get("date"),"name":ev.get("shortName") or ev.get("name"),
                          "status":((ev.get("status") or {}).get("type") or {}).get("name"),"week":((ev.get("week") or {}).get("number")),
-                         "home":teams_map.get("home"),"away":teams_map.get("away")})
-except Exception:
-    schedule=[]
+                         "home":tm.get("home"),"away":tm.get("away")})
+except Exception: schedule=[]
 
-# Weekly stats from an open nflverse-based JSON pipeline; fall back cleanly if week not published yet.
+# Official nflverse weekly player-summary CSV. nflreadr builds the same URL for load_player_stats(summary_level='week').
 weekly_stats=[]
-for w in range(1,max(week,1)+1):
-    url=f"https://raw.githubusercontent.com/NityaGehlot/nfl-data/main/data/player_stats_{season}_week{w:02d}.json"
-    try:
-        rows=get_json(url,timeout=20)
-        if isinstance(rows,list): weekly_stats.extend(rows)
-    except Exception:
-        pass
+try:
+    url=f"https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_{season}.csv"
+    raw=get_bytes(url,timeout=45).decode("utf-8-sig",errors="replace")
+    weekly_stats=list(csv.DictReader(io.StringIO(raw)))
+except Exception: weekly_stats=[]
 
-# Normalize season-to-date stats by player name, keeping fields useful for fantasy decisions.
 stats_by_name={}
 for row in weekly_stats:
-    name=row.get("player_name") or row.get("player_display_name")
+    try:
+        row_week=int(float(row.get("week") or 0))
+        if row_week>week: continue
+    except Exception: row_week=0
+    name=row.get("player_display_name") or row.get("player_name")
     if not name: continue
-    k=norm(name); agg=stats_by_name.setdefault(k,{"name":name,"position":row.get("position"),"team":row.get("team"),"games":0,"fantasy_points_ppr":0,
-        "targets":0,"receptions":0,"carries":0,"rushing_yards":0,"receiving_yards":0,"rushing_tds":0,"receiving_tds":0,"passing_yards":0,"passing_tds":0,"passing_interceptions":0})
+    k=norm(name)
+    agg=stats_by_name.setdefault(k,{"name":name,"position":row.get("position"),"team":row.get("team"),"games":0,"fantasy_points_ppr":0,
+        "targets":0,"receptions":0,"carries":0,"rushing_yards":0,"receiving_yards":0,"rushing_tds":0,"receiving_tds":0,
+        "passing_yards":0,"passing_tds":0,"passing_interceptions":0,"attempts":0,"completions":0})
     agg["games"]+=1
-    for f in ["fantasy_points_ppr","targets","receptions","carries","rushing_yards","receiving_yards","rushing_tds","receiving_tds","passing_yards","passing_tds","passing_interceptions"]:
+    for f in ["fantasy_points_ppr","targets","receptions","carries","rushing_yards","receiving_yards","rushing_tds","receiving_tds","passing_yards","passing_tds","passing_interceptions","attempts","completions"]:
         try: agg[f]+=float(row.get(f) or 0)
         except Exception: pass
-    agg["last_week"]=row.get("week")
-    agg["last_opponent"]=row.get("opponent_team")
-    agg["injury_status"]=row.get("injury_status")
-    agg["practice_status"]=row.get("practice_status")
-    agg["primary_injury"]=row.get("primary_injury")
+    agg["last_week"]=row_week; agg["last_opponent"]=row.get("opponent_team")
 
-# News: use public FantasySP NFL player/headline RSS feeds, then tag league-relevant players by headline/description.
-news=[]
-all_names=[]
-for t in teams:
-    all_names.extend([p["name"] for p in t["players"] if p.get("name")])
+# Free, non-commercial FantasySP RSS feeds; fetch only twice per hour regardless of player count.
+news=[]; all_names=[]
+for t in teams: all_names.extend([p["name"] for p in t["players"] if p.get("name")])
 heat_ids=[x.get("player_id") for x in trending_add[:50]]
 all_names.extend([players.get(pid,{}).get("full_name") for pid in heat_ids if players.get(pid,{})])
 name_set=[]; seen=set()
@@ -138,36 +133,31 @@ for n in all_names:
     if n and n not in seen: seen.add(n); name_set.append(n)
 
 def parse_rss(url):
-    out=[]
-    raw=get_bytes(url,timeout=25)
-    root=ET.fromstring(raw)
+    out=[]; root=ET.fromstring(get_bytes(url,timeout=25))
     for item in root.findall(".//item"):
         title=(item.findtext("title") or "").strip(); desc=re.sub("<[^>]+>"," ",item.findtext("description") or "").strip()
-        link=(item.findtext("link") or "").strip(); pub=(item.findtext("pubDate") or "").strip()
-        text=(title+" "+desc).lower(); mentions=[n for n in name_set if n.lower() in text]
-        out.append({"title":title,"summary":re.sub(r"\s+"," ",desc)[:320],"link":link,"published":pub,"source":"FantasySP","players_mentioned":mentions})
+        link=(item.findtext("link") or "").strip(); pub=(item.findtext("pubDate") or "").strip(); text=(title+" "+desc).lower()
+        mentions=[n for n in name_set if n.lower() in text]
+        out.append({"title":title,"summary":re.sub(r"\s+"," ",desc)[:360],"link":link,"published":pub,"source":"FantasySP","players_mentioned":mentions})
     return out
 for url in ["https://www.fantasysp.com/rss/nfl/allplayer/","https://www.fantasysp.com/rss/nfl/headlines/"]:
     try: news.extend(parse_rss(url))
     except Exception: pass
-# Dedupe and simple impact classification.
+
 news_out=[]; keys=set()
 for a in news:
     k=(a.get("title") or "").lower()
     if not k or k in keys: continue
     keys.add(k); txt=(a.get("title","")+" "+a.get("summary","")).lower()
-    if any(x in txt for x in ["out for","injured reserve","torn","surgery","misses practice","ruled out","suspended"]): impact="negative"
-    elif any(x in txt for x in ["limited practice","questionable","injury","uncertain"]): impact="watch"
-    elif any(x in txt for x in ["starter","starting","breakout","career-high","returns","cleared","full practice"]): impact="positive"
+    if any(x in txt for x in ["injured reserve","torn","surgery","ruled out","suspended","will miss"]): impact="negative"
+    elif any(x in txt for x in ["limited practice","questionable","injury","uncertain","day-to-day"]): impact="watch"
+    elif any(x in txt for x in ["starter","starting","breakout","career-high","returns","cleared","full practice","rb1","wr1"]): impact="positive"
     else: impact="neutral"
     a["impact"]=impact; news_out.append(a)
 news_out=news_out[:250]
-
-# Attach compact stats + recent news to player objects used by the app.
 news_by_name={}
 for a in news_out:
-    for n in a.get("players_mentioned") or []:
-        news_by_name.setdefault(norm(n),[]).append(a)
+    for n in a.get("players_mentioned") or []: news_by_name.setdefault(norm(n),[]).append(a)
 
 def enrich(p):
     q=dict(p); k=norm(q.get("name")); q["stats"]=stats_by_name.get(k); q["news"]=(news_by_name.get(k) or [])[:4]
