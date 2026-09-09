@@ -1,6 +1,7 @@
 import json, os, urllib.request, datetime
 from pathlib import Path
 
+# Cloud bridge for Sleeper league 1388315713940262912.
 LEAGUE_ID = "1388315713940262912"
 USERNAME = "ChatGPTJagger"
 USER_ID = "1394868996146204672"
