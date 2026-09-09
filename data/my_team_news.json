@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.3,
+    "hours_to_lock": 122.1,
     "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.1,
+    "hours_to_lock": 90.9,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 4.4,
+    "hours_to_lock": 2.2,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 96.5,
+    "hours_to_lock": 94.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,9 +66,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.1,
+    "hours_to_lock": 90.9,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.1,
+    "hours_to_lock": 90.9,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,25 +105,44 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 96.5,
+    "hours_to_lock": 94.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 65,
+    "score": -2,
+    "model_modifier": -0.5,
+    "confidence": 86,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
-    "headlines": [],
-    "reason": "Sleeper injury/practice status is the main signal."
+    "headlines": [
+      {
+        "title": "Jacory Croskey-Merritt Limited practice Wednesday - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTW1fNGVucXBhVnU0SGdZNzFLYzJqTEo4bkZEdTFVNDhNNGRqVEF2aVdaYUhIai1ubEtvU0FrdWpTRkIwek54dDdOdEgtcE5YRzRiTTJ3N0tnTHNBdFFzX3haOFZuekxWLUhsck85TDR1Ml9tcGxWb0F2el9wZGJib1RVX19taUNiQXptOUZ4Z1BkdXUtdDJRaU1EblNvQnRDRGc?oc=5",
+        "published": "2026-09-09T21:52:43+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
+        "title": "Jacory Croskey-Merritt, K’Lavon Chaisson, Odafe Oweh limited in Commanders practice - nbcsports.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPREV2UkxSM2szaXhRQVREbUUya3d1VmpaZk5RQURGSHp4aXN2NThOOUdYY3JLWHM0S3Y1alVSSHFlRFJJMEtDSU9CTGdwNmdET0dmVjR4c2Iza0w1UVNJTzVDMGNoOWlDZFd4aVR0UVNHaHhlZlpLYTVIX1E1ZF9mSWlhUUlNYlRqNDh0bnRtSmxYOU1RZE9SV0lTQ0MwbVNseHhvX3B1OTNGVWZBZWtwOEU4anhwNDBRVzJZVUxvWWJoNFNoaVppblFrN3dYQkZWeDBELUpmd2xSZw?oc=5",
+        "published": "2026-09-09T21:51:21+00:00",
+        "source": "nbcsports.com"
+      },
+      {
+        "title": "Commanders' Jacory Croskey-Merritt: Limited practice Wednesday - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTdJTXRZWkN6M2pObnlzUEVUZXBmbElIS3JGMzU0b0Yxc0EzWmY2LXhKRlpTazZLc3hSUlNFUWhkeVdxcUtCTHZObHAwMVF0Q3drbjVHeVUyR2QyU3ZiQUpYeXhIdjJXUHQ3dmpJdDhSRjl2Wnc1c2NwSS14ZmxsMGNIVWpqcTQwZjlxTnJnUWxNSm1Db2NhWVA3d3hPZTFWM042QkVWRFEyNG1fWlE?oc=5",
+        "published": "2026-09-09T21:45:45+00:00",
+        "source": "CBS Sports"
+      }
+    ],
+    "reason": "Jacory Croskey-Merritt Limited practice Wednesday - Fantasy Footballers Podcast"
   },
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 4.4,
+    "hours_to_lock": 2.2,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -137,9 +156,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 28.7,
+    "hours_to_lock": 26.5,
     "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -149,16 +168,16 @@
     "practice": null,
     "headlines": [
       {
-        "title": "George Kittle (Achilles) limited in Tuesday practice - NBC Sports",
+        "title": "George Kittle (Achilles) limited in Tuesday practice - nbcsports.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnFBLVNXa2ZrV0FINFlhc3RmUWtPeHdpbWIxYk9LQzE1SXgwX18yMk1UenAzZVlzbjNrY05DX1Nsc29LVnhoOFp5bGc2aGh4cjhfLWN2VTEySkxjYm14YmtiSEtUdXRFazh5YzlGUi1fcXd4MW9RNlFTbVRYRzZoekRWR19xV19QUHVqNjJUZW1HcWRHOGhYU09LcURLSlYwVFA1d2hPU3RNVHlnbkV2UTRub2piR28?oc=5",
-        "published": "2026-09-09T15:14:02+00:00",
-        "source": "NBC Sports"
+        "published": "2026-09-09T17:04:21+00:00",
+        "source": "nbcsports.com"
       },
       {
-        "title": "George Kittle Could see limited Week 1 role - Fantasy Footballers Podcast",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjhxMWhoRkJzSEplYnRmalJSd2hsNVlNeGFaeDJlVXNvWVo2NVBBQjczZGhkcnZFcEhSVU90cVVTYVlfU2w3bXE4eHk0bEpYTFdJeW5oRlZ2OXp3LWdmOHFNaUw5OTFOZENyendDYTgyVklpTTdQVnBMV25NeGZjVndvY0VfSDF0c0p2ZXpMSjJOS09VNk85bkdB?oc=5",
-        "published": "2026-09-09T03:01:28+00:00",
-        "source": "Fantasy Footballers Podcast"
+        "title": "George Kittle Injury: Could see limited Week 1 role - RotoWire",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjZOcE1HdFBrb3g0a0xNY2NieGVGVHViMXBsdlBVLXhLZEpQY0EwNlJQSEhzX0xUVk4tMEk5R20xYTA4UDljaUNyZDF5dUJlQjE2N0ktVDF5RWdpNk1XcE16Zi01WDJzcUhOeUFfaC1DVzVEVEdZNURnam9OaWxQbDdpQ0hQT3V4ei1mZFRWd1QzcDYtSEhUUlZGQ0EtRWl0alo0?oc=5",
+        "published": "2026-09-09T02:49:22+00:00",
+        "source": "RotoWire"
       },
       {
         "title": "George Kittle limited in practice on Tuesday - USA Today",
@@ -179,10 +198,10 @@
         "source": "RotoWire"
       },
       {
-        "title": "Nick Bosa, George Kittle limited participants in practice - NBC Sports",
+        "title": "Nick Bosa, George Kittle limited participants in practice - nbcsports.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORkswcGE5NGdOWHlpNFJqZVVFSmdBb3Y1ejIwS3hjVlJhRTdRaHU0bGFKelBTN0ROekVrUGJLLS1jMkd1LXBMMXliWTJNbjdBU09FcXFTOG9ycWNDUEc1ek5XaC1oMWxUdDVia25fTEFHQzVCMWc4NTB0cmZHQ0tVcnBoT0lTZnR5M3hEWEkxUVFqVWxPWmRuZGc2WFNFUE53dHBBUmhiV3p4M0tzYklEdDhaUVJkSDVlV2c?oc=5",
         "published": "2026-09-08T22:45:12+00:00",
-        "source": "NBC Sports"
+        "source": "nbcsports.com"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -190,9 +209,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.4,
+    "hours_to_lock": 98.2,
     "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -206,9 +225,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.1,
+    "hours_to_lock": 90.9,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -222,9 +241,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.1,
+    "hours_to_lock": 90.9,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -238,9 +257,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 96.5,
+    "hours_to_lock": 94.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -261,9 +280,9 @@
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 96.5,
+    "hours_to_lock": 94.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -277,9 +296,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-09T19:54:51.373303+00:00",
+    "generated_at": "2026-09-09T22:06:35.655189+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 4.4,
+    "hours_to_lock": 2.2,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
