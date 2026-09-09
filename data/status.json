@@ -1,10 +1,21 @@
 {
+  "counts": {
+    "free_agents": 3056,
+    "news": 0,
+    "weekly_stat_rows": 0
+  },
   "current_week": 1,
   "league_id": "1388315713940262912",
   "my_roster_id": 9,
   "ok": true,
-  "refreshed_at_utc": "2026-09-09T03:30:03.888004+00:00",
+  "refreshed_at_utc": "2026-09-09T03:39:23.243716+00:00",
   "season": "2026",
+  "sources": {
+    "news": false,
+    "schedule": false,
+    "sleeper": true,
+    "weekly_stats": false
+  },
   "team_count": 10,
   "user_id": "1394868996146204672",
   "username": "ChatGPTJagger"
