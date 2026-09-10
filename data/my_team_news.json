@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 103.1,
+    "hours_to_lock": 100.6,
     "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 71.8,
+    "hours_to_lock": 69.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,25 +34,32 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.9,
+    "hours_to_lock": -19.3,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "What A.J. Brown's injury in season opener means for Drake Maye and Patriots offense - sportingnews.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSTVnYVZoNFZxSnloQ054WXdxZnptOWJCU0xpcnJDYkdaOUxmYmFPWTRmOEZMenhCcEZJRExFYXE5S1FyYU5SQ1lPUmppb0Y5S05fUS1TZkJUUzl6REM0UXBTTmw3eldHZTkwQXo4cUdCZ25peEtXRl8yS0JFTTJOMWFoUEhLTjRtODZaVFBhUjVtcDhvVlRmXzJXXzUwa1ZzRFF2S1pReE9lOW1EMDZucVY5blFyOEJmMzZBY2M4YjhLUVU4SHBBdFdPZEdPZlhWV0RZWjV1NVF0dWdj?oc=5",
+        "published": "2026-09-10T03:31:32+00:00",
+        "source": "sportingnews.com"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 75.2,
+    "hours_to_lock": 72.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 71.8,
+    "hours_to_lock": 69.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -78,10 +85,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Bhayshul Tuten Fantasy Football Outlook (2026) - fantasypros.com",
+        "title": "Bhayshul Tuten Fantasy Football Outlook (2026) - FantasyPros",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGtDcTlmVDZHUG1TVjdxdDBaZXFPNHV3TVdIM2dFYU9RdHBUeDlGYWM5VFBLSHIyX0I2Z2ZkT3JRbVVzdlBkd282alZMU3FvWFFxUlhUMVNEZ2Vrci1MSDN6aUJQNElpN0Q1M3RjLXZMLV9jaHVjTlZzMUp6OG1ZU2hR0gGHAUFVX3lxTFBQMG9BMEJWdUF0UHJBVk1ZS3ZNMy1OTjFtWlE2SU11b01WNV9yX1VhVEtfcjBkb1czWHVsamp0ZlQwVGxEWFU0ZFJpdXRSZVNoblRjYlNZUVlWWktqVTFHdFpJS1E3N0gtR1ZmSjJJZTlMbndWNjk2a25meGdfWi1DRzZmdWlqdw?oc=5",
         "published": "2026-09-06T20:12:00+00:00",
-        "source": "fantasypros.com"
+        "source": "FantasyPros"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -89,9 +96,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 71.8,
+    "hours_to_lock": 69.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +112,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 75.2,
+    "hours_to_lock": 72.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -158,9 +165,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.9,
+    "hours_to_lock": -19.3,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -174,9 +181,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 7.4,
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 4.9,
     "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -185,6 +192,12 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "George Kittle Injury Update: Is Kittle Playing in 49ers vs. Rams Tonight? - PrizePicks",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0JuaHpqb0x0dkY1M19idzdyOG5Od2xnbnJ4b1dhUFIzMkRXN01wT2NuaFMwNXZyQjlzdWxId1RqUkRtUF9JSmdvcGZ6NzM4bDRQX0M5TFY5N1lkSEY4MjdFUEJITXgtTm5ZYTlQYWJ5LXA1d0V1MVZRSGtkYUFTQVJyVXdLajRGMDFfZUdMT3IzZ25KZ1NBNmZzU3hNUUNOa2VDU0lrMVh2MXFGWU4yTDV2RFduQkEya1c3SURNUXd4WndrSGc0MTRrdl84Zw?oc=5",
+        "published": "2026-09-10T17:34:53+00:00",
+        "source": "PrizePicks"
+      },
       {
         "title": "George Kittle Limited in Practice Ahead of Week 1 Against Rams - FanDuel",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPclJpOFpiNWVxdEJsaVJ5N3NuQ2k0MlRNSkZkZGppOXpQQmdaVm84OURwQmZkOGJZdHB4X3dWQWtRQU95Q3dkV3hDMDZNWWgtWHNRYktVMjM4aDVaSDJmc2Z4UnYyMjNfSnF5VjUxelh5YnAzWTBZVnkyb2pJX0ZuVnlDU1kxSVZRTW4yamJPOGtrbV9RODdIdzVldGx6ZWhhU05wemdQd3dtcm4tRTROMHdIaTJzVGhyc01TMmxfTXBCVlpwNW44eVFweldXLUREeEphRA?oc=5",
@@ -198,10 +211,10 @@
         "source": "Niners Nation"
       },
       {
-        "title": "49ers injury report: George Kittle, Nick Bosa, and Christian McCaffrey cleared to play vs. Rams - Diario AS",
+        "title": "49ers injury report: George Kittle, Nick Bosa, and Christian McCaffrey cleared to play vs. Rams - en.as.com",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX0ZnWmVEOXJ2MkV0VlNadUM3SnJvdGRKUkJMaFJOdU9FY3R2c2w0SVNDUktld2NJdVFDVmp3NldaS1EwVlVnQmk5SUhIQ01VdHNNZlFlNGxQNDIwTkFpbDRmcHNnUnROSm85MHFMY2tST1pRaUFtY0ZrU1p1Skl3bWNmRHp2TEh5ZDlMVTgzQnNHSGVBdE9DdkVrU1JkaG9TWUN2ODk2dy15bktjb0lUWVRyQ0F2ZE1KbGVRRlZpOGFjMjQ3eDlDaWszbGlHX1JvSi01aEtn0gHWAUFVX3lxTE1fRmdaZUQ5cnYyRXRWU1p1QzdKcm90ZEpSQkxoUk51T0VjdHZzbDRJU0NSS2V3Y0l1UUNWanc2V1pLUTBWVWdCaTlJSEhDTVV0c01mUWU0bFA0MjBOQWlsNGZwc2dSdE5KbzkwcUxja1JPWlFpQW1jRmtTWnVKSXdtY2ZEenZMSHlkOUxVODNCc0dIZUF0T0N2RWtTUmRob1NZQ3Y4OTZ3LXluS2NvSVRZVHJDQXZkTUpsZVFGVmk4YWMyNDd4OUNpazNsaUdfUm9KLTVoS2c?oc=5",
         "published": "2026-09-10T13:34:14+00:00",
-        "source": "Diario AS"
+        "source": "en.as.com"
       },
       {
         "title": "Is George Kittle playing tonight? Latest injury update, fantasy advice for Week 1 - Yahoo Sports",
@@ -214,22 +227,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGkzOXJYZFpuaGY3LUZlVWcyUWxFUzhyc1lORU5ITmZsS1E1U2tZR29Mcjk5TjVZUmlrZDJDSmctelI5MmMtaWFBT3BVSkh0dEdtTTJVMmZudUkwWWVmeHZTVExzSVFndDdTRE1oN3VQLTVEb0Z2Yng4VVNRYk1ObHBtUnVEbVVXZmNVSWRpQVc?oc=5",
         "published": "2026-09-10T06:02:00+00:00",
         "source": "49ers Webzone"
-      },
-      {
-        "title": "George Kittle (Achilles) limited again Wednesday - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWp2eU53TmdXUGtDU0FLTEFNaGpTNHVEa2hsX2xvRXNWNWN1RTdmRXlqZWlmZjd6M05ZRmYwMjNmeUtoNFRTYzZDY3dLX2hSSW16MllLeEJRV0FNNS1kN1owVUJ0R3BlMjZIb2cxeDdOMDRsYzhmeEJQSkV5OC0tVlVESGdMRzZtMFlxSzdHZWdjRXlYSk5EOUZJNUVrRkFCT2ZNNkE3TFVnOUVkM3M3QnpB?oc=5",
-        "published": "2026-09-10T04:04:01+00:00",
-        "source": "NBC Sports"
       }
     ],
-    "reason": "49ers injury report: George Kittle, Nick Bosa, and Christian McCaffrey cleared to play vs. Rams - Diario AS"
+    "reason": "49ers injury report: George Kittle, Nick Bosa, and Christian McCaffrey cleared to play vs. Rams - en.as.com"
   },
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.1,
+    "hours_to_lock": 76.7,
     "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +250,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 71.8,
+    "hours_to_lock": 69.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -259,9 +266,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 71.8,
+    "hours_to_lock": 69.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -275,9 +282,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 75.2,
+    "hours_to_lock": 72.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -298,9 +305,9 @@
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 75.2,
+    "hours_to_lock": 72.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -314,9 +321,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-10T17:11:57.044902+00:00",
+    "generated_at": "2026-09-10T19:40:20.414975+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.9,
+    "hours_to_lock": -19.3,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -326,10 +333,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Seattle Seahawks' final injury report may provide opportunities for role players in the season opener tomorrow night. - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWNXM1VKQ1hKREdveWsyR0xjWFBWWXA1ekRBUFBoNFZ1Nnpxbjl4OHZxV2NYVXRVd29CQVZjSzNiLXE0aG84S0pkZFlfa21HMjE0N0hodUlqMXNObTZSUWc3dUlvUV82aWtkYlpmTHZ0emhWdnNPQXJjc3l6YWlvdXViV2lxZ3JxQXBQUGZB?oc=5",
-        "published": "2026-09-09T00:57:00+00:00",
-        "source": "Yahoo Sports"
+        "title": "Week 1 Injury Report: Seahawks vs. Patriots - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjJTWjBMcWk3QmlwVllzdkYzUHBQWllWY2tkZkI2VjktS1d2QjFRbnM1WHl1Um1TQ1hkd3l2X0g5QnhLYmJaanh0b1BkVUVxTEc4TUM5UWdKYXpjY3JMVmRONktOelpvNkMySUd5VXBSOGxNN28wanVjZUtxR1doV0pR?oc=5",
+        "published": "2026-09-08T23:50:40+00:00",
+        "source": "Seattle Seahawks"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
