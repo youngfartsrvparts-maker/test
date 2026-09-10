@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:11:57.336025+00:00",
+  "generated_at": "2026-09-10T04:40:05.509892+00:00",
   "season": "2025",
   "missing_count": 713,
   "players": [
@@ -1372,15 +1372,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13430",
-      "name": "RJ Maryland",
-      "pos": "TE",
-      "team": "GB",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "13202",
       "name": "Dalevon Campbell",
       "pos": "WR",
@@ -2144,15 +2135,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "11959",
-      "name": "Bryce Oliver",
-      "pos": "WR",
-      "team": "CLE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "13424",
@@ -5314,6 +5296,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "13208",
+      "name": "Kyrese Rowan",
+      "pos": "WR",
+      "team": "NO",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13402",
       "name": "Skyler Bell",
       "pos": "WR",
@@ -6263,6 +6254,15 @@
       "name": "Deion Burks",
       "pos": "WR",
       "team": "IND",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "13949",
+      "name": "Damon Bankston",
+      "pos": "RB",
+      "team": "GB",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
