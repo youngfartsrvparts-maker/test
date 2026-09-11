@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:33:53.016991+00:00",
+  "generated_at": "2026-09-11T01:27:50.724640+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -22,8 +22,19 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 28017,
-      "next_game": null
+      "drops_24h": 22752,
+      "next_game": {
+        "week": 1,
+        "date": "2026-09-13",
+        "time": "13:00",
+        "home": "JAX",
+        "away": "CLE",
+        "spread": 8.5,
+        "total": 39.5,
+        "opponent": "JAX",
+        "home_game": false,
+        "implied_team_points": 24.0
+      }
     },
     {
       "player_id": "10213",
@@ -43,9 +54,20 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 93306,
-      "drops_24h": 13986,
-      "next_game": null
+      "adds_24h": 98166,
+      "drops_24h": 11694,
+      "next_game": {
+        "week": 1,
+        "date": "2026-09-13",
+        "time": "16:25",
+        "home": "LV",
+        "away": "MIA",
+        "spread": 3.0,
+        "total": 40.5,
+        "opponent": "MIA",
+        "home_game": true,
+        "implied_team_points": 18.8
+      }
     },
     {
       "player_id": "11610",
@@ -65,9 +87,20 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 12976,
-      "drops_24h": 30016,
-      "next_game": null
+      "adds_24h": 11664,
+      "drops_24h": 26064,
+      "next_game": {
+        "week": 1,
+        "date": "2026-09-13",
+        "time": "16:25",
+        "home": "LV",
+        "away": "MIA",
+        "spread": 3.0,
+        "total": 40.5,
+        "opponent": "LV",
+        "home_game": false,
+        "implied_team_points": 21.8
+      }
     }
   ],
   "policy": "Free means not rostered by any team in this Sleeper league. Starter flag requires Sleeper depth order 1 or an active lead/starter role signal; external verification is still recommended before acting."

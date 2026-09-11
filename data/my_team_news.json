@@ -2,10 +2,10 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 94.8,
+    "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 52,
@@ -25,10 +25,10 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 63.5,
+    "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -41,10 +41,10 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -25.1,
+    "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 52,
@@ -64,10 +64,10 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 67.0,
+    "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -80,10 +80,10 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 63.5,
+    "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -96,10 +96,10 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 63.5,
+    "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -112,10 +112,10 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 67.0,
+    "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
     "confidence": 95,
@@ -124,16 +124,16 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Jacory Croskey-Merritt Remains limited in practice - thefantasyfootballers.com",
+        "title": "Jacory Croskey-Merritt Remains limited in practice - Fantasy Footballers Podcast",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0dOdkJSeWdUOEFVQ21LLXNYdnZueFR1UlgxMnN1aF9DeE1ycFhCZWtLM2hhMDI3VlNEMzRHT2lpUWVyNkZJN241aVBzVEZHeVVGOWhhNkRmYUdhLWcyNzlZbWVRb0ZLMXZvY0IzdU5MXzAyNTZhS1Y3MHVneUxzWnJzeWVvZlo3ZFFVbzEyWjZ0N2dJeU1fcURKRkFoekVrdDJn?oc=5",
         "published": "2026-09-10T21:51:46+00:00",
-        "source": "thefantasyfootballers.com"
+        "source": "Fantasy Footballers Podcast"
       },
       {
-        "title": "Commanders' Jacory Croskey-Merritt: Remains limited in practice - CBS Sports",
+        "title": "Commanders' Jacory Croskey-Merritt: Remains limited in practice - cbssports.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFB4TTlnTnRQcERkTTFJdlFzYlZGUlFMX0p0QmFpNUlqU0s1T3JaWmVMZnJvY09tLW1FbkZQc1h6eHVvTzk3RWZCeHJ6ZDc5d0p4djE2TUtNT3JlYzFaOG5ZZ3pKb1gxaEd3c1JETXFSdGpXTE5ROURIT1NrRkx2bGdaeFpnNHNkQlNHcURtdUZERnQtOWtReFZVMjh4ZkVvc25IUXB6VTVQQi0yRGpJ?oc=5",
         "published": "2026-09-10T21:41:33+00:00",
-        "source": "CBS Sports"
+        "source": "cbssports.com"
       },
       {
         "title": "Jacory Croskey-Merritt (groin) limited on Wed. - NBC Sports",
@@ -165,10 +165,10 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -25.1,
+    "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -181,10 +181,10 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -0.9,
+    "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
     "confidence": 95,
@@ -193,10 +193,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "George Kittle (Achilles) limited again Wednesday - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQWp2eU53TmdXUGtDU0FLTEFNaGpTNHVEa2hsX2xvRXNWNWN1RTdmRXlqZWlmZjd6M05ZRmYwMjNmeUtoNFRTYzZDY3dLX2hSSW16MllLeEJRV0FNNS1kN1owVUJ0R3BlMjZIb2cxeDdOMDRsYzhmeEJQSkV5OC0tVlVESGdMRzZtMFlxSzdHZWdjRXlYSk5EOUZJNUVrRkFCT2ZNNkE3TFVnOUVkM3M3QnpB?oc=5",
-        "published": "2026-09-10T23:16:39+00:00",
-        "source": "NBC Sports"
+        "title": "Is George Kittle playing in Week 1? Latest on San Francisco 49ers TE - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOWl5M1IybUhISGdBVlNyNDFtdzhsZlAzYzZnWF9oN3NtcGt6Ym1lcWsyem8wUnNYNVlqZTIwb2sxZFUtR3YxdFI1bWdXX0ZEcTFaV3FMMUdXczg2RkluYVI4UmNWTzRFN0pOS2xGQXNjM2gwaHEzNVgzMjhPR2tTNzY5NVk1TmQwOU1sR2R6WmN4SEV4Y2U5MzAwRTdhdXIzM2VoT3R2LTVHZW9tUnhnTTViNm5YdVkzaVktYm1wYUZSYVotRTctbXJhVlpnS0Y1djFYSTFB?oc=5",
+        "published": "2026-09-10T23:14:00+00:00",
+        "source": "USA Today"
       },
       {
         "title": "Don't be surprised if 49ers limit George Kittle and Nick Bosa vs. Rams - Niner Noise",
@@ -205,16 +205,16 @@
         "source": "Niner Noise"
       },
       {
-        "title": "Is George Kittle playing in Week 1? Latest on San Francisco 49ers TE - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOWl5M1IybUhISGdBVlNyNDFtdzhsZlAzYzZnWF9oN3NtcGt6Ym1lcWsyem8wUnNYNVlqZTIwb2sxZFUtR3YxdFI1bWdXX0ZEcTFaV3FMMUdXczg2RkluYVI4UmNWTzRFN0pOS2xGQXNjM2gwaHEzNVgzMjhPR2tTNzY5NVk1TmQwOU1sR2R6WmN4SEV4Y2U5MzAwRTdhdXIzM2VoT3R2LTVHZW9tUnhnTTViNm5YdVkzaVktYm1wYUZSYVotRTctbXJhVlpnS0Y1djFYSTFB?oc=5",
-        "published": "2026-09-10T18:39:00+00:00",
-        "source": "USA Today"
-      },
-      {
         "title": "George Kittle Injury Update: Is Kittle Playing in 49ers vs. Rams Tonight? - PrizePicks",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0JuaHpqb0x0dkY1M19idzdyOG5Od2xnbnJ4b1dhUFIzMkRXN01wT2NuaFMwNXZyQjlzdWxId1RqUkRtUF9JSmdvcGZ6NzM4bDRQX0M5TFY5N1lkSEY4MjdFUEJITXgtTm5ZYTlQYWJ5LXA1d0V1MVZRSGtkYUFTQVJyVXdLajRGMDFfZUdMT3IzZ25KZ1NBNmZzU3hNUUNOa2VDU0lrMVh2MXFGWU4yTDV2RFduQkEya1c3SURNUXd4WndrSGc0MTRrdl84Zw?oc=5",
         "published": "2026-09-10T17:34:53+00:00",
         "source": "PrizePicks"
+      },
+      {
+        "title": "Schefter: 49ers will have George Kittle and Nick Bosa vs. Rams - 49ers Webzone",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2xoRXFzMUNEbTJaSloyZVZqdFR6TmV1dW1QZ3B1V2dDZDZ4S1gyY2xWUkZsQ3JCLUJUZHBGaXZqTUF5OEVtWU83QmxLYU8tSXNqUk1qMndYOHFoUzU3NHVkTjRzNVhYVzdwbVNXem9GSGh3S3pUSXpyMWdQbEhBWklUQzRCUQ?oc=5",
+        "published": "2026-09-10T17:27:00+00:00",
+        "source": "49ers Webzone"
       },
       {
         "title": "George Kittle Limited in Practice Ahead of Week 1 Against Rams - FanDuel",
@@ -234,10 +234,10 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 70.9,
+    "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -250,10 +250,10 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 63.5,
+    "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -266,10 +266,10 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 63.5,
+    "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -282,10 +282,10 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 67.0,
+    "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 52,
@@ -294,10 +294,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Dolphins news: De’Von Achane’s impact vs. Raiders, depth chart release, more - sports.yahoo.com",
+        "title": "Dolphins news: De’Von Achane’s impact vs. Raiders, depth chart release, more - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcjVKcXRtTUhfWEE0akpQSFNYSXAyX2RQNDMtOU13UjZyU0hYSzN1Y0lXZUR4RFdqMXd2bE1zSkVHYnFTdE1GMmFQS3pBN1M3bW5SaUc1Y2hneU9PdXZCUk9rNENOc0dnM2xrM2pOdk95VU1TWF9Dek1oR1o1ZV9nSkl5dENIWmM?oc=5",
         "published": "2026-09-09T11:43:04+00:00",
-        "source": "sports.yahoo.com"
+        "source": "Yahoo Sports"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -305,10 +305,10 @@
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "hours_to_lock": 67.0,
+    "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -321,24 +321,17 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-10T23:33:50.943873+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": null,
-    "kickoff_utc": null,
+    "generated_at": "2026-09-11T01:27:49.104467+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -25.1,
+    "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Week 1 Injury Report: Seahawks vs. Patriots - Seattle Seahawks",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORjJTWjBMcWk3QmlwVllzdkYzUHBQWllWY2tkZkI2VjktS1d2QjFRbnM1WHl1Um1TQ1hkd3l2X0g5QnhLYmJaanh0b1BkVUVxTEc4TUM5UWdKYXpjY3JMVmRONktOelpvNkMySUd5VXBSOGxNN28wanVjZUtxR1doV0pR?oc=5",
-        "published": "2026-09-08T23:50:40+00:00",
-        "source": "Seattle Seahawks"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   }
 ]
