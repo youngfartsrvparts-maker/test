@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:23:21.498068+00:00",
+  "generated_at": "2026-09-11T11:37:17.422062+00:00",
   "checks": {
     "players_total": 873,
     "active_skill_players": 803,
@@ -14,243 +14,9 @@
   "problems": [
     {
       "type": "owned_history_detail_missing",
-      "player": "Drake Maye",
-      "id": "11564",
-      "historical_prior": 13.63
-    },
-    {
-      "type": "owned_history_detail_missing",
       "player": "Jayden Reed",
       "id": "10222",
       "historical_prior": 12.16
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "CeeDee Lamb",
-      "id": "6786",
-      "historical_prior": 19.35
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Kyler Murray",
-      "id": "5849",
-      "historical_prior": 16.39
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jameson Williams",
-      "id": "8148",
-      "historical_prior": 12.02
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Tucker Kraft",
-      "id": "9484",
-      "historical_prior": 9.1
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Mike Evans",
-      "id": "2216",
-      "historical_prior": 12.4
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Tee Higgins",
-      "id": "6801",
-      "historical_prior": 16.5
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Baker Mayfield",
-      "id": "4892",
-      "historical_prior": 17.11
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Travis Kelce",
-      "id": "1466",
-      "historical_prior": 11.79
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Caleb Williams",
-      "id": "11560",
-      "historical_prior": 14.97
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Quentin Johnston",
-      "id": "9754",
-      "historical_prior": 9.9
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Bijan Robinson",
-      "id": "9509",
-      "historical_prior": 18.5
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Saquon Barkley",
-      "id": "4866",
-      "historical_prior": 16.17
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "De'Von Achane",
-      "id": "9226",
-      "historical_prior": 17.55
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jordan Addison",
-      "id": "9756",
-      "historical_prior": 13.84
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jordan Mason",
-      "id": "8408",
-      "historical_prior": 8.26
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "George Kittle",
-      "id": "4217",
-      "historical_prior": 14.74
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Rico Dowdle",
-      "id": "7021",
-      "historical_prior": 10.46
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Rashee Rice",
-      "id": "10229",
-      "historical_prior": 17.32
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Dallas Goedert",
-      "id": "5022",
-      "historical_prior": 11.74
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Garrett Wilson",
-      "id": "8146",
-      "historical_prior": 14.17
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jaxon Smith-Njigba",
-      "id": "9488",
-      "historical_prior": 13.15
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Dak Prescott",
-      "id": "3294",
-      "historical_prior": 17.82
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Michael Wilson",
-      "id": "10232",
-      "historical_prior": 8.07
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Aaron Jones",
-      "id": "4199",
-      "historical_prior": 10.94
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Josh Allen",
-      "id": "4984",
-      "historical_prior": 22.99
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Rashid Shaheed",
-      "id": "8676",
-      "historical_prior": 12.55
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Blake Corum",
-      "id": "11586",
-      "historical_prior": 2.39
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Chris Godwin",
-      "id": "4037",
-      "historical_prior": 11.35
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Breece Hall",
-      "id": "8155",
-      "historical_prior": 15.64
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "DeVonta Smith",
-      "id": "7525",
-      "historical_prior": 15.02
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Zach Charbonnet",
-      "id": "9753",
-      "historical_prior": 9.61
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jahmyr Gibbs",
-      "id": "9221",
-      "historical_prior": 19.52
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Javonte Williams",
-      "id": "7588",
-      "historical_prior": 9.83
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Dalton Schultz",
-      "id": "5001",
-      "historical_prior": 9.72
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "D'Andre Swift",
-      "id": "6790",
-      "historical_prior": 12.57
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jonathon Brooks",
-      "id": "11583",
-      "historical_prior": 2.5
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "James Cook",
-      "id": "8138",
-      "historical_prior": 15.82
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Parker Washington",
-      "id": "9487",
-      "historical_prior": 7.25
     },
     {
       "type": "owned_history_detail_missing",
@@ -260,45 +26,15 @@
     },
     {
       "type": "owned_history_detail_missing",
-      "player": "Marvin Harrison",
-      "id": "11628",
-      "historical_prior": 11.56
+      "player": "George Pickens",
+      "id": "8137",
+      "historical_prior": 11.9
     },
     {
       "type": "owned_history_detail_missing",
-      "player": "Ja'Marr Chase",
-      "id": "7564",
-      "historical_prior": 21.62
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Matthew Stafford",
-      "id": "421",
-      "historical_prior": 18.82
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Kyren Williams",
-      "id": "8150",
-      "historical_prior": 18.22
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Brian Thomas",
-      "id": "11631",
-      "historical_prior": 16.71
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Kenneth Walker",
-      "id": "8151",
-      "historical_prior": 16.47
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Tank Dell",
-      "id": "9502",
-      "historical_prior": 11.86
+      "player": "Dallas Goedert",
+      "id": "5022",
+      "historical_prior": 11.74
     },
     {
       "type": "owned_history_detail_missing",
@@ -308,159 +44,9 @@
     },
     {
       "type": "owned_history_detail_missing",
-      "player": "Justin Jefferson",
-      "id": "6794",
-      "historical_prior": 19.17
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Chuba Hubbard",
-      "id": "7594",
-      "historical_prior": 14.57
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "George Pickens",
-      "id": "8137",
-      "historical_prior": 11.9
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jaylen Waddle",
-      "id": "7526",
-      "historical_prior": 11.18
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Dalton Kincaid",
-      "id": "10236",
-      "historical_prior": 8.22
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Rhamondre Stevenson",
-      "id": "7611",
-      "historical_prior": 11.85
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Christian Watson",
-      "id": "8167",
-      "historical_prior": 8.59
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Courtland Sutton",
-      "id": "5045",
-      "historical_prior": 13.26
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jakobi Meyers",
-      "id": "5947",
-      "historical_prior": 11.91
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Rome Odunze",
-      "id": "11620",
-      "historical_prior": 8.52
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "DJ Moore",
-      "id": "4983",
-      "historical_prior": 11.44
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Brock Bowers",
-      "id": "11604",
-      "historical_prior": 15.45
-    },
-    {
-      "type": "owned_history_detail_missing",
       "player": "Drake London",
       "id": "8112",
       "historical_prior": 14.91
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Nico Collins",
-      "id": "7569",
-      "historical_prior": 17.5
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Romeo Doubs",
-      "id": "8121",
-      "historical_prior": 10.19
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "J.K. Dobbins",
-      "id": "6806",
-      "historical_prior": 14.61
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Tyler Allgeier",
-      "id": "8132",
-      "historical_prior": 6.77
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Josh Downs",
-      "id": "9500",
-      "historical_prior": 11.94
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jalen Coker",
-      "id": "11646",
-      "historical_prior": 8.41
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Chase Brown",
-      "id": "9224",
-      "historical_prior": 12.91
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Trevor Lawrence",
-      "id": "7523",
-      "historical_prior": 15.1
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "DK Metcalf",
-      "id": "5846",
-      "historical_prior": 12.66
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Michael Pittman",
-      "id": "6819",
-      "historical_prior": 11.91
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Kyle Pitts",
-      "id": "7553",
-      "historical_prior": 7.82
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Bucky Irving",
-      "id": "11584",
-      "historical_prior": 14.38
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Wan'Dale Robinson",
-      "id": "8126",
-      "historical_prior": 10.21
     },
     {
       "type": "owned_history_detail_missing",
@@ -470,9 +56,153 @@
     },
     {
       "type": "owned_history_detail_missing",
-      "player": "Ladd McConkey",
-      "id": "11635",
-      "historical_prior": 15.06
+      "player": "Ja'Marr Chase",
+      "id": "7564",
+      "historical_prior": 21.62
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Courtland Sutton",
+      "id": "5045",
+      "historical_prior": 13.26
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Trevor Lawrence",
+      "id": "7523",
+      "historical_prior": 15.1
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Rashee Rice",
+      "id": "10229",
+      "historical_prior": 17.32
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Amon-Ra St. Brown",
+      "id": "7547",
+      "historical_prior": 19.19
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Justin Jefferson",
+      "id": "6794",
+      "historical_prior": 19.17
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Rico Dowdle",
+      "id": "7021",
+      "historical_prior": 10.46
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Tyler Allgeier",
+      "id": "8132",
+      "historical_prior": 6.77
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jalen Hurts",
+      "id": "6904",
+      "historical_prior": 21.0
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Parker Washington",
+      "id": "9487",
+      "historical_prior": 7.25
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jakobi Meyers",
+      "id": "5947",
+      "historical_prior": 11.91
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Saquon Barkley",
+      "id": "4866",
+      "historical_prior": 16.17
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Quentin Johnston",
+      "id": "9754",
+      "historical_prior": 9.9
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Romeo Doubs",
+      "id": "8121",
+      "historical_prior": 10.19
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Josh Allen",
+      "id": "4984",
+      "historical_prior": 22.99
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Drake Maye",
+      "id": "11564",
+      "historical_prior": 13.63
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Rome Odunze",
+      "id": "11620",
+      "historical_prior": 8.52
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Wan'Dale Robinson",
+      "id": "8126",
+      "historical_prior": 10.21
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Christian Watson",
+      "id": "8167",
+      "historical_prior": 8.59
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Matthew Stafford",
+      "id": "421",
+      "historical_prior": 18.82
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Chris Godwin",
+      "id": "4037",
+      "historical_prior": 11.35
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "DK Metcalf",
+      "id": "5846",
+      "historical_prior": 12.66
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Caleb Williams",
+      "id": "11560",
+      "historical_prior": 14.97
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Rashid Shaheed",
+      "id": "8676",
+      "historical_prior": 12.55
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Kyle Pitts",
+      "id": "7553",
+      "historical_prior": 7.82
     },
     {
       "type": "owned_history_detail_missing",
@@ -482,111 +212,9 @@
     },
     {
       "type": "owned_history_detail_missing",
-      "player": "Joe Burrow",
-      "id": "6770",
-      "historical_prior": 19.87
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Trey McBride",
-      "id": "8130",
-      "historical_prior": 13.93
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Isaiah Likely",
-      "id": "8131",
-      "historical_prior": 8.11
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Terry McLaurin",
-      "id": "5927",
-      "historical_prior": 12.33
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jake Ferguson",
-      "id": "8110",
-      "historical_prior": 8.3
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Puka Nacua",
-      "id": "9493",
-      "historical_prior": 18.43
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jaylen Warren",
-      "id": "8228",
-      "historical_prior": 9.21
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Josh Jacobs",
-      "id": "5850",
-      "historical_prior": 15.95
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Chris Olave",
-      "id": "8144",
-      "historical_prior": 10.98
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Jonathan Taylor",
-      "id": "6813",
-      "historical_prior": 17.06
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Zay Flowers",
-      "id": "9997",
-      "historical_prior": 12.49
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "David Montgomery",
-      "id": "5892",
-      "historical_prior": 11.42
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Derrick Henry",
-      "id": "3198",
-      "historical_prior": 16.96
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Malik Nabers",
-      "id": "11632",
-      "historical_prior": 18.24
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Deebo Samuel",
-      "id": "5872",
-      "historical_prior": 11.84
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "Stefon Diggs",
-      "id": "2449",
-      "historical_prior": 13.24
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "MarShawn Lloyd",
-      "id": "11581",
-      "historical_prior": 2.8
-    },
-    {
-      "type": "owned_history_detail_missing",
-      "player": "A.J. Brown",
-      "id": "5859",
-      "historical_prior": 15.28
+      "player": "Dalton Kincaid",
+      "id": "10236",
+      "historical_prior": 8.22
     },
     {
       "type": "owned_history_detail_missing",
@@ -596,9 +224,147 @@
     },
     {
       "type": "owned_history_detail_missing",
+      "player": "Jordan Addison",
+      "id": "9756",
+      "historical_prior": 13.84
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Malik Nabers",
+      "id": "11632",
+      "historical_prior": 18.24
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Blake Corum",
+      "id": "11586",
+      "historical_prior": 2.39
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "J.K. Dobbins",
+      "id": "6806",
+      "historical_prior": 14.61
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Breece Hall",
+      "id": "8155",
+      "historical_prior": 15.64
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "D'Andre Swift",
+      "id": "6790",
+      "historical_prior": 12.57
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Javonte Williams",
+      "id": "7588",
+      "historical_prior": 9.83
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Lamar Jackson",
+      "id": "4881",
+      "historical_prior": 18.62
+    },
+    {
+      "type": "owned_history_detail_missing",
       "player": "Patrick Mahomes",
       "id": "4046",
       "historical_prior": 19.63
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Chase Brown",
+      "id": "9224",
+      "historical_prior": 12.91
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Bijan Robinson",
+      "id": "9509",
+      "historical_prior": 18.5
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Zach Charbonnet",
+      "id": "9753",
+      "historical_prior": 9.61
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Michael Wilson",
+      "id": "10232",
+      "historical_prior": 8.07
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Ladd McConkey",
+      "id": "11635",
+      "historical_prior": 15.06
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Tucker Kraft",
+      "id": "9484",
+      "historical_prior": 9.1
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Josh Jacobs",
+      "id": "5850",
+      "historical_prior": 15.95
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Kyren Williams",
+      "id": "8150",
+      "historical_prior": 18.22
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jalen Coker",
+      "id": "11646",
+      "historical_prior": 8.41
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Baker Mayfield",
+      "id": "4892",
+      "historical_prior": 17.11
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jonathan Taylor",
+      "id": "6813",
+      "historical_prior": 17.06
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Joe Burrow",
+      "id": "6770",
+      "historical_prior": 19.87
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Brock Bowers",
+      "id": "11604",
+      "historical_prior": 15.45
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jake Ferguson",
+      "id": "8110",
+      "historical_prior": 8.3
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Marvin Harrison",
+      "id": "11628",
+      "historical_prior": 11.56
     },
     {
       "type": "owned_history_detail_missing",
@@ -608,9 +374,243 @@
     },
     {
       "type": "owned_history_detail_missing",
-      "player": "Jalen Hurts",
-      "id": "6904",
-      "historical_prior": 21.0
+      "player": "Travis Kelce",
+      "id": "1466",
+      "historical_prior": 11.79
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Deebo Samuel",
+      "id": "5872",
+      "historical_prior": 11.84
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Brian Thomas",
+      "id": "11631",
+      "historical_prior": 16.71
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Tank Dell",
+      "id": "9502",
+      "historical_prior": 11.86
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Tee Higgins",
+      "id": "6801",
+      "historical_prior": 16.5
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "De'Von Achane",
+      "id": "9226",
+      "historical_prior": 17.55
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jonathon Brooks",
+      "id": "11583",
+      "historical_prior": 2.5
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Chuba Hubbard",
+      "id": "7594",
+      "historical_prior": 14.57
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Josh Downs",
+      "id": "9500",
+      "historical_prior": 11.94
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Michael Pittman",
+      "id": "6819",
+      "historical_prior": 11.91
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Derrick Henry",
+      "id": "3198",
+      "historical_prior": 16.96
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jameson Williams",
+      "id": "8148",
+      "historical_prior": 12.02
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jahmyr Gibbs",
+      "id": "9221",
+      "historical_prior": 19.52
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Travis Etienne",
+      "id": "7543",
+      "historical_prior": 10.95
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Zay Flowers",
+      "id": "9997",
+      "historical_prior": 12.49
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "DeVonta Smith",
+      "id": "7525",
+      "historical_prior": 15.02
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Terry McLaurin",
+      "id": "5927",
+      "historical_prior": 12.33
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jaylen Waddle",
+      "id": "7526",
+      "historical_prior": 11.18
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "David Montgomery",
+      "id": "5892",
+      "historical_prior": 11.42
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "DJ Moore",
+      "id": "4983",
+      "historical_prior": 11.44
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Kyler Murray",
+      "id": "5849",
+      "historical_prior": 16.39
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Isaiah Likely",
+      "id": "8131",
+      "historical_prior": 8.11
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Chris Olave",
+      "id": "8144",
+      "historical_prior": 10.98
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Justin Herbert",
+      "id": "6797",
+      "historical_prior": 17.14
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Mike Evans",
+      "id": "2216",
+      "historical_prior": 12.4
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Puka Nacua",
+      "id": "9493",
+      "historical_prior": 18.43
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Davante Adams",
+      "id": "2133",
+      "historical_prior": 16.16
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Rhamondre Stevenson",
+      "id": "7611",
+      "historical_prior": 11.85
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Kenneth Walker",
+      "id": "8151",
+      "historical_prior": 16.47
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Nico Collins",
+      "id": "7569",
+      "historical_prior": 17.5
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Trey McBride",
+      "id": "8130",
+      "historical_prior": 13.93
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Stefon Diggs",
+      "id": "2449",
+      "historical_prior": 13.24
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Dak Prescott",
+      "id": "3294",
+      "historical_prior": 17.82
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "A.J. Brown",
+      "id": "5859",
+      "historical_prior": 15.28
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "MarShawn Lloyd",
+      "id": "11581",
+      "historical_prior": 2.8
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "James Cook",
+      "id": "8138",
+      "historical_prior": 15.82
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Christian McCaffrey",
+      "id": "4034",
+      "historical_prior": 23.11
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Aaron Jones",
+      "id": "4199",
+      "historical_prior": 10.94
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Garrett Wilson",
+      "id": "8146",
+      "historical_prior": 14.17
+    },
+    {
+      "type": "owned_history_detail_missing",
+      "player": "Jaylen Warren",
+      "id": "8228",
+      "historical_prior": 9.21
     }
   ],
   "problem_count": 106,
