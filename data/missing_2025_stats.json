@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T01:27:48.195297+00:00",
+  "generated_at": "2026-09-11T06:23:08.332231+00:00",
   "season": "2025",
-  "missing_count": 713,
+  "missing_count": 715,
   "players": [
     {
       "player_id": "11533",
@@ -478,6 +478,15 @@
       "team": "LAC",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "6045",
+      "name": "Gary Jennings",
+      "pos": "WR",
+      "team": "LAC",
+      "sleeper_gsis_id": "00-0035589",
+      "rookie_year": "2019",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -1372,30 +1381,12 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13202",
-      "name": "Dalevon Campbell",
-      "pos": "WR",
-      "team": "LAC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "10983",
       "name": "Sean Clifford",
       "pos": "QB",
       "team": "CIN",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "12941",
-      "name": "Bryson Nesbit",
-      "pos": "TE",
-      "team": "MIN",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -1516,6 +1507,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12897",
+      "name": "Nate Carter",
+      "pos": "RB",
+      "team": "KC",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "5223",
       "name": "Caleb Scott",
       "pos": "WR",
@@ -1529,6 +1529,15 @@
       "name": "Tre' Harris",
       "pos": "WR",
       "team": "LAC",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12946",
+      "name": "Dontae Fleming",
+      "pos": "WR",
+      "team": "MIN",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
@@ -2215,15 +2224,6 @@
       "team": "TEN",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "8143",
-      "name": "Jerome Ford",
-      "pos": "RB",
-      "team": "WAS",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -4207,6 +4207,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "11186",
+      "name": "Carlos Washington",
+      "pos": "RB",
+      "team": "MIA",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "11583",
       "name": "Jonathon Brooks",
       "pos": "RB",
@@ -5215,15 +5224,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "8801",
-      "name": "Dennis Houston",
-      "pos": "WR",
-      "team": "TB",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "13122",
       "name": "Carter Runyon",
       "pos": "TE",
@@ -5494,6 +5494,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "6798",
+      "name": "Jalen Reagor",
+      "pos": "WR",
+      "team": "MIA",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2020",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "8041",
       "name": "Shane Zylstra",
       "pos": "TE",
@@ -5509,6 +5518,15 @@
       "team": "PIT",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11569",
+      "name": "Jarquez Hunter",
+      "pos": "RB",
+      "team": "MIA",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6432,7 +6450,7 @@
       "gsis": 1481
     },
     "2026": {
-      "gsis": 8
+      "gsis": 18
     }
   }
 }
