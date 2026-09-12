@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T06:01:10.097518+00:00",
+  "generated_at": "2026-09-12T10:41:10.175136+00:00",
   "season": "2025",
-  "missing_count": 715,
+  "missing_count": 714,
   "players": [
     {
       "player_id": "11533",
@@ -2533,15 +2533,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "6964",
-      "name": "Sean McKeon",
-      "pos": "TE",
-      "team": "IND",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2020",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "11648",
       "name": "Kedon Slovis",
       "pos": "QB",
@@ -2774,15 +2765,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "11082",
-      "name": "Ben Sims",
-      "pos": "TE",
-      "team": "MIA",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "8755",
@@ -3276,8 +3258,8 @@
       "pos": "RB",
       "team": "NYJ",
       "sleeper_gsis_id": null,
-      "rookie_year": null,
-      "reason": "no nflverse 2025 weekly match"
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
       "player_id": "12151",
@@ -4330,6 +4312,15 @@
       "team": "KC",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11306",
+      "name": "Xavier Gipson",
+      "pos": "WR",
+      "team": "PHI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
