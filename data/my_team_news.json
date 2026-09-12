@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.6,
+    "hours_to_lock": 58.5,
     "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.3,
+    "hours_to_lock": 27.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -58.4,
+    "hours_to_lock": -61.4,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.7,
+    "hours_to_lock": 30.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -80,9 +80,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.3,
+    "hours_to_lock": 27.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -96,9 +96,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.3,
+    "hours_to_lock": 27.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -112,9 +112,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.7,
+    "hours_to_lock": 30.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -124,10 +124,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Jacory Croskey-Merritt Limited in Practice Ahead of Week 1 Against Eagles - fanduel.com",
+        "title": "Jacory Croskey-Merritt Limited in Practice Ahead of Week 1 Against Eagles - FanDuel",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTFdrM0t6ZkY4Vk1wWlRkZzFhejFJVC1xcnVfdUdaMGx6NjV5WG5jMnRNdURXeTM1RWxwc2dCdjFiNDU2RkVFcE83X2hBOWNYc0g1VTNhamJubDdUaDBDbVg0WWdDTVlkbE1uWmpVcXZLWUk2NVQwUTJWVllfMTVZd0NPTG5FLTZVS204akhweXB5X0dnVDdZVFhSc2ZNWmhDS1JUR1pxNkZZa2R3SU9SbnhDaWRQZ1JpNFpKNFFvM0RNUHFZbklSRUNWSkdSTXBVWnlaUjNlTTc4TWt4QU1mS29rUQ?oc=5",
         "published": "2026-09-11T22:06:43+00:00",
-        "source": "fanduel.com"
+        "source": "FanDuel"
       },
       {
         "title": "Jacory Croskey-Merritt listed as limited - Yahoo Sports",
@@ -154,10 +154,10 @@
         "source": "RotoWire"
       },
       {
-        "title": "Jacory Croskey-Merritt Limited With Groin - draftsharks.com",
+        "title": "Jacory Croskey-Merritt Limited With Groin - Draft Sharks",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmFVQWNiYU9FQ1paelE5VGVvcEJnOTlvWHExbHY4YlIwT1diLWhfU0dyY0lIdGNoQlRtYmlhaXhWd2d6N09WR1JjckYxOW9WWFlfWHpLeVRmdE5QWFRlUnNKV3F2UnRRb2RJUTZIZFV6OHdKUXN5UWJXQ1pLaHNqTlJpNUdaYzdobFk1YnpNY2ZNeDJVV3dMR1hmdnp2UQ?oc=5",
         "published": "2026-09-10T02:29:50+00:00",
-        "source": "draftsharks.com"
+        "source": "Draft Sharks"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -165,9 +165,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -58.4,
+    "hours_to_lock": -61.4,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -181,9 +181,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -34.1,
+    "hours_to_lock": -37.2,
     "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -234,9 +234,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 37.6,
+    "hours_to_lock": 34.6,
     "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -257,9 +257,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.3,
+    "hours_to_lock": 27.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -273,9 +273,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.3,
+    "hours_to_lock": 27.3,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -289,9 +289,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.7,
+    "hours_to_lock": 30.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -312,9 +312,9 @@
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.7,
+    "hours_to_lock": 30.7,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -328,9 +328,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-12T10:41:11.101033+00:00",
+    "generated_at": "2026-09-12T13:44:15.484144+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -58.4,
+    "hours_to_lock": -61.4,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
