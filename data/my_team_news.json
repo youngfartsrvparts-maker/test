@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.0,
+    "hours_to_lock": 33.7,
     "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 6.7,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 2.5,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -82.0,
+    "hours_to_lock": -86.2,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 10.1,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 5.9,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 6.7,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 2.5,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 6.7,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 2.5,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +105,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 10.1,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 5.9,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -158,9 +158,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -82.0,
+    "hours_to_lock": -86.2,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -174,9 +174,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -57.7,
+    "hours_to_lock": -61.9,
     "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -186,10 +186,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "49ers vs. Rams inactives: George Kittle, Nick Bosa cleared to play - 49ers Webzone",
+        "title": "49ers vs. Rams inactives: George Kittle, Nick Bosa cleared to play - 49erswebzone.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlh5VTk3SHE1Yl9uU0Qwdjg3VVRUd3l0cDVtSFgzT2s4OUYycmNzSzBVMFpJQk8yZDdmX0x1OUJJTzczMGNTQ2xCWVZZd2dkRS1MVjdJRDMtUU1ZMnpFRnZVelNDQ25ySzdTQVg3OXgxdFRpbFh4eGoyTG4zMlkzZ2VsSC0zem9mN0w4?oc=5",
         "published": "2026-09-10T23:20:00+00:00",
-        "source": "49ers Webzone"
+        "source": "49erswebzone.com"
       },
       {
         "title": "Is George Kittle playing in Week 1? Latest on San Francisco 49ers TE - USA Today",
@@ -198,16 +198,16 @@
         "source": "USA Today"
       },
       {
-        "title": "Don't be surprised if 49ers limit George Kittle and Nick Bosa vs. Rams - ninernoise.com",
+        "title": "Don't be surprised if 49ers limit George Kittle and Nick Bosa vs. Rams - Niner Noise",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XSnBOc00yM0VBay1sMDNKTUc3R25kT25vVUlHYkF2WDZqQ1p2ZGQwc29KTWY1YUtkazVXTVdsV0h5Zmw2c2ZuT05ScjFDeURYQW55d0U3VHZCZzRoQXRGMW4wNEtuVnk2ajAwOGdCYXVGeU95TGI5Tk5DcG4yUQ?oc=5",
         "published": "2026-09-10T20:00:02+00:00",
-        "source": "ninernoise.com"
+        "source": "Niner Noise"
       },
       {
-        "title": "49ers TE George Kittle off injury report, cleared vs. Rams - Hawkeyes Wire",
+        "title": "49ers TE George Kittle off injury report, cleared vs. Rams - hawkeyeswire.usatoday.com",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjRzUEZlRllkMXJrbkFmc01NQy1nVUZENnA4T0EzYnRQbUtDZk00a2l6RnNZYXVQSWZieFNfLTEzTE0wRE1wdGR5UXoxMDM2NFZ5UVIta3Mtd2N2djNoSlgySExva1lfVXp1eG14LXRLMHdfUnlCNTdaZGttMzEwR19ndnMyRHVGR2tvY3ZRdVdqcjlFRG4zSXM5RW5nYTE4LWZ2OTBqcnFpTzZGNzd5NzNZU1QzQ092TTVVNlpGckxCX0M5UmdtMTJuRldfdUVhc1JZWE82MENkYlliNHc?oc=5",
         "published": "2026-09-10T18:20:00+00:00",
-        "source": "Hawkeyes Wire"
+        "source": "hawkeyeswire.usatoday.com"
       },
       {
         "title": "George Kittle Injury Update: Is Kittle Playing in 49ers vs. Rams Tonight? - PrizePicks",
@@ -216,20 +216,20 @@
         "source": "PrizePicks"
       },
       {
-        "title": "Schefter: 49ers will have George Kittle and Nick Bosa vs. Rams - 49ers Webzone",
+        "title": "Schefter: 49ers will have George Kittle and Nick Bosa vs. Rams - 49erswebzone.com",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd2xoRXFzMUNEbTJaSloyZVZqdFR6TmV1dW1QZ3B1V2dDZDZ4S1gyY2xWUkZsQ3JCLUJUZHBGaXZqTUF5OEVtWU83QmxLYU8tSXNqUk1qMndYOHFoUzU3NHVkTjRzNVhYVzdwbVNXem9GSGh3S3pUSXpyMWdQbEhBWklUQzRCUQ?oc=5",
         "published": "2026-09-10T17:27:00+00:00",
-        "source": "49ers Webzone"
+        "source": "49erswebzone.com"
       }
     ],
-    "reason": "49ers vs. Rams inactives: George Kittle, Nick Bosa cleared to play - 49ers Webzone"
+    "reason": "49ers vs. Rams inactives: George Kittle, Nick Bosa cleared to play - 49erswebzone.com"
   },
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.0,
+    "hours_to_lock": 9.8,
     "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +243,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 6.7,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 2.5,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -259,9 +259,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 6.7,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 2.5,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -275,32 +275,25 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 10.1,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 5.9,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Dolphins news: De’Von Achane’s impact vs. Raiders, depth chart release, more - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcjVKcXRtTUhfWEE0akpQSFNYSXAyX2RQNDMtOU13UjZyU0hYSzN1Y0lXZUR4RFdqMXd2bE1zSkVHYnFTdE1GMmFQS3pBN1M3bW5SaUc1Y2hneU9PdXZCUk9rNENOc0dnM2xrM2pOdk95VU1TWF9Dek1oR1o1ZV9nSkl5dENIWmM?oc=5",
-        "published": "2026-09-09T11:43:04+00:00",
-        "source": "Yahoo Sports"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 10.1,
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 5.9,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -314,9 +307,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-13T10:17:57.890552+00:00",
+    "generated_at": "2026-09-13T14:30:21.391617+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -82.0,
+    "hours_to_lock": -86.2,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": -1,
     "model_modifier": -0.25,

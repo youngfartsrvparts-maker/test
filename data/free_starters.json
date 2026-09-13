@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:17:59.404719+00:00",
+  "generated_at": "2026-09-13T14:30:23.278801+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -22,7 +22,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 8208,
+      "drops_24h": 9936,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",
@@ -30,10 +30,10 @@
         "home": "JAX",
         "away": "CLE",
         "spread": 8.5,
-        "total": 39.5,
+        "total": 40.5,
         "opponent": "JAX",
         "home_game": false,
-        "implied_team_points": 24.0
+        "implied_team_points": 24.5
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 35580,
-      "drops_24h": 6012,
+      "adds_24h": 42960,
+      "drops_24h": 6924,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 5472,
-      "drops_24h": 11240,
+      "adds_24h": 6456,
+      "drops_24h": 13256,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T10:17:56.850579+00:00",
+  "generated_at": "2026-09-13T14:30:20.528510+00:00",
   "season": "2025",
-  "missing_count": 714,
+  "missing_count": 713,
   "players": [
     {
       "player_id": "11533",
@@ -652,6 +652,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "13310",
+      "name": "Miller Moss",
+      "pos": "QB",
+      "team": "CHI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
       "player_id": "5957",
       "name": "Isaac Nauta",
       "pos": "TE",
@@ -1237,15 +1246,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "11633",
-      "name": "Jamari Thrash",
-      "pos": "WR",
-      "team": "CLE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "13964",
       "name": "Myles Montgomery",
       "pos": "RB",
@@ -1495,15 +1495,6 @@
       "team": "GB",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "7599",
-      "name": "Jermar Jefferson",
-      "pos": "RB",
-      "team": "MIN",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2021",
       "reason": "no nflverse 2025 weekly match"
     },
     {
