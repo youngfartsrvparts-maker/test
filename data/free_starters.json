@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:59:36.366140+00:00",
+  "generated_at": "2026-09-14T19:45:04.071595+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -22,7 +22,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 47745,
+      "drops_24h": 46584,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 46152,
-      "drops_24h": 87324,
+      "adds_24h": 13692,
+      "drops_24h": 100890,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 10416,
-      "drops_24h": 85104,
+      "adds_24h": 5688,
+      "drops_24h": 89912,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",
