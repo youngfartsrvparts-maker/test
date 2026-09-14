@@ -2,32 +2,25 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 4.5,
+    "hours_to_lock": 1.5,
     "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Will Rashee Rice play vs. Broncos? Injury update for Chiefs WR - Chiefs Wire",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYjJtYUlwX0JCRnl0a1JkaEpNbHVoaV9yaDZCS0xVVFRDaEFTWnNiM1ZSSUwycnhnVzFYemlrMmFKMHRDdzNGNVF3Zk95VmhHTEh6VjBkWHpDMXRqaU9sRW42WlBuQnB3VGhSMnRkaVdnV0NqbTU3OVFoWFhIRU1pZVBWdHRKWDB0aHlwdUJvdGFoZjU1ekhjV1E5QU80eFZkLVFEQmJtLXo2Zk5aNmdibVlGWkw3MXJWV0RuM1ZIOWJ2NEo3RmNoVXpEODBhZkk4Vzk1LTFoWm1fenBUbGpzdWZFamVMVlVyZTd5aEt6YmxKaUFNVG1lYXRwcFY2cTNUWnc?oc=5",
-        "published": "2026-09-10T22:22:00+00:00",
-        "source": "Chiefs Wire"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.8,
+    "hours_to_lock": -29.8,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +34,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -115.4,
+    "hours_to_lock": -118.4,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +50,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.3,
+    "hours_to_lock": -26.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +66,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.8,
+    "hours_to_lock": -29.8,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +82,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.8,
+    "hours_to_lock": -29.8,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,44 +98,25 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.3,
+    "hours_to_lock": -26.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 66,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Jacory Croskey-Merritt listed as limited - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1AxdXluOWdpVXNxZW1LVWJwekFlaGRkRWgwZ0hsYlNLUVZKTGxWb29jT1BJUm5DMUttNVBfQ2pQclJObW43X2J4aFFlUTBiUTZLQ3l5U0NxVEZleTJncjQtQ3FoZGdaaFc2Z1lUQ3RHWGgzTkQtaVNrVFB0ZXg4LWJ5c3VxdEttakxEdm40cw?oc=5",
-        "published": "2026-09-10T22:10:38+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Jacory Croskey-Merritt Remains limited in practice - Fantasy Footballers Podcast",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0dOdkJSeWdUOEFVQ21LLXNYdnZueFR1UlgxMnN1aF9DeE1ycFhCZWtLM2hhMDI3VlNEMzRHT2lpUWVyNkZJN241aVBzVEZHeVVGOWhhNkRmYUdhLWcyNzlZbWVRb0ZLMXZvY0IzdU5MXzAyNTZhS1Y3MHVneUxzWnJzeWVvZlo3ZFFVbzEyWjZ0N2dJeU1fcURKRkFoekVrdDJn?oc=5",
-        "published": "2026-09-10T21:48:11+00:00",
-        "source": "Fantasy Footballers Podcast"
-      },
-      {
-        "title": "Commanders' Jacory Croskey-Merritt: Remains limited in practice - CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFB4TTlnTnRQcERkTTFJdlFzYlZGUlFMX0p0QmFpNUlqU0s1T3JaWmVMZnJvY09tLW1FbkZQc1h6eHVvTzk3RWZCeHJ6ZDc5d0p4djE2TUtNT3JlYzFaOG5ZZ3pKb1gxaEd3c1JETXFSdGpXTE5ROURIT1NrRkx2bGdaeFpnNHNkQlNHcURtdUZERnQtOWtReFZVMjh4ZkVvc25IUXB6VTVQQi0yRGpJ?oc=5",
-        "published": "2026-09-10T21:41:33+00:00",
-        "source": "CBS Sports"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -115.4,
+    "hours_to_lock": -118.4,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,13 +130,13 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -91.2,
+    "hours_to_lock": -94.2,
     "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
-    "confidence": 73,
+    "confidence": 66,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
@@ -184,12 +158,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOWl5M1IybUhISGdBVlNyNDFtdzhsZlAzYzZnWF9oN3NtcGt6Ym1lcWsyem8wUnNYNVlqZTIwb2sxZFUtR3YxdFI1bWdXX0ZEcTFaV3FMMUdXczg2RkluYVI4UmNWTzRFN0pOS2xGQXNjM2gwaHEzNVgzMjhPR2tTNzY5NVk1TmQwOU1sR2R6WmN4SEV4Y2U5MzAwRTdhdXIzM2VoT3R2LTVHZW9tUnhnTTViNm5YdVkzaVktYm1wYUZSYVotRTctbXJhVlpnS0Y1djFYSTFB?oc=5",
         "published": "2026-09-10T23:14:00+00:00",
         "source": "USA Today"
-      },
-      {
-        "title": "Don't be surprised if 49ers limit George Kittle and Nick Bosa vs. Rams - Niner Noise",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XSnBOc00yM0VBay1sMDNKTUc3R25kT25vVUlHYkF2WDZqQ1p2ZGQwc29KTWY1YUtkazVXTVdsV0h5Zmw2c2ZuT05ScjFDeURYQW55d0U3VHZCZzRoQXRGMW4wNEtuVnk2ajAwOGdCYXVGeU95TGI5Tk5DcG4yUQ?oc=5",
-        "published": "2026-09-10T20:00:02+00:00",
-        "source": "Niner Noise"
       }
     ],
     "reason": "49ers vs. Rams inactives: George Kittle, Nick Bosa cleared to play - 49ers Webzone"
@@ -197,9 +165,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.4,
+    "hours_to_lock": -22.4,
     "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -213,9 +181,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.8,
+    "hours_to_lock": -29.8,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -229,9 +197,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.8,
+    "hours_to_lock": -29.8,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -245,9 +213,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.3,
+    "hours_to_lock": -26.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -261,9 +229,9 @@
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.3,
+    "hours_to_lock": -26.3,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -277,9 +245,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-14T19:45:02.340455+00:00",
+    "generated_at": "2026-09-14T22:45:52.027140+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -115.4,
+    "hours_to_lock": -118.4,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
