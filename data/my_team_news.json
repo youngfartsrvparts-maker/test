@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.4,
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 21.8,
     "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.8,
+    "hours_to_lock": -9.4,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -95.5,
+    "hours_to_lock": -98.1,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -3.4,
+    "hours_to_lock": -6.0,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.8,
+    "hours_to_lock": -9.4,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.8,
+    "hours_to_lock": -9.4,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,13 +105,13 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -3.4,
+    "hours_to_lock": -6.0,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 80,
+    "confidence": 73,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -139,12 +139,6 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmFVQWNiYU9FQ1paelE5VGVvcEJnOTlvWHExbHY4YlIwT1diLWhfU0dyY0lIdGNoQlRtYmlhaXhWd2d6N09WR1JjckYxOW9WWFlfWHpLeVRmdE5QWFRlUnNKV3F2UnRRb2RJUTZIZFV6OHdKUXN5UWJXQ1pLaHNqTlJpNUdaYzdobFk1YnpNY2ZNeDJVV3dMR1hmdnp2UQ?oc=5",
         "published": "2026-09-10T02:29:50+00:00",
         "source": "Draft Sharks"
-      },
-      {
-        "title": "Commanders RB Jacory Croskey-Merritt limited Wednesday - 4for4",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUw5RmNkeTNHcmZSRElNc1pvN2hsNWc0SzhJV01JWUQzM0lwdTRUM1FZekV5SkEtT0ZmNlJwdFgyZDBtZEdRejBuREJBdnM3RVZxN2xGbjYwTXYzakJZOFUxUF9jV1BkbXFLOWxxZXVENUJzWGRPTnpEZ1MxRXF2SE5wV3dLdjBo?oc=5",
-        "published": "2026-09-09T23:57:00+00:00",
-        "source": "4for4"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -152,9 +146,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -95.5,
+    "hours_to_lock": -98.1,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -168,9 +162,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -71.3,
+    "hours_to_lock": -73.8,
     "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -221,9 +215,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.5,
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -237,9 +231,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.8,
+    "hours_to_lock": -9.4,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -253,9 +247,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.8,
+    "hours_to_lock": -9.4,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -269,9 +263,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -3.4,
+    "hours_to_lock": -6.0,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -285,9 +279,9 @@
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -3.4,
+    "hours_to_lock": -6.0,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -301,24 +295,17 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-13T23:50:10.271224+00:00",
+    "generated_at": "2026-09-14T02:25:31.589053+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -95.5,
+    "hours_to_lock": -98.1,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 52,
-    "label": "Some availability risk",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "A.J. Brown Questionable To Return With Ankle Injury In New England Patriots Debut vs. Seattle Seahawks - dallassportsjournal.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnRMdl9FRlhvQ1M2MXB6eG5XYm5TVE9lMWxLdDNUN1NhWFB2bGc2N29zaE1UWF9EeGpONlB5X2Mya3dxNzJJSDNoenVSMVE2Ums5SlFrLVpZSjVSb3BWdHpiQy1ESGtsTGtYejR6QVdCdTBUVEszTi1pUzNCa2tyQnNkUjI?oc=5",
-        "published": "2026-09-10T02:12:45+00:00",
-        "source": "dallassportsjournal.com"
-      }
-    ],
-    "reason": "A.J. Brown Questionable To Return With Ankle Injury In New England Patriots Debut vs. Seattle Seahawks - dallassportsjournal.com"
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
   }
 ]
