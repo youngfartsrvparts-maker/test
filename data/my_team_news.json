@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 16.2,
+    "hours_to_lock": 9.3,
     "kickoff_utc": "2026-09-15T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -15.0,
+    "hours_to_lock": -22.0,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -103.7,
+    "hours_to_lock": -110.7,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.6,
+    "hours_to_lock": -18.6,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,25 +73,32 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -15.0,
+    "hours_to_lock": -22.0,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Jaguars’ Bhayshul Tuten Role Made Clear in Week 1 - heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUnJoTXRLdmF2ZW5oeTBMVElPbVpjYnI5aThrSUpBVTViMDlNdG1ObS1Uamxtb2tPT0xmNld3cnZ3WTZ6WXJKX2Q4dXdqLS1UcFNQRVN3alBYdnJ6dG1wWVBxb2NBTlJPaDVXaUhVdzZSa3djSUwwTGpZRG1qdnZfVXlGZncwenhxdG9TSnp1bkFzWWM?oc=5",
+        "published": "2026-09-14T10:37:04+00:00",
+        "source": "heavy.com"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -15.0,
+    "hours_to_lock": -22.0,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +112,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.6,
+    "hours_to_lock": -18.6,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +147,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -103.7,
+    "hours_to_lock": -110.7,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,9 +163,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -79.4,
+    "hours_to_lock": -86.4,
     "kickoff_utc": "2026-09-11T00:35:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -174,10 +181,10 @@
         "source": "49ers Webzone"
       },
       {
-        "title": "Is George Kittle playing in Week 1? Latest on San Francisco 49ers TE - USA Today",
+        "title": "Is George Kittle playing in Week 1? Latest on San Francisco 49ers TE - usatoday.com",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOWl5M1IybUhISGdBVlNyNDFtdzhsZlAzYzZnWF9oN3NtcGt6Ym1lcWsyem8wUnNYNVlqZTIwb2sxZFUtR3YxdFI1bWdXX0ZEcTFaV3FMMUdXczg2RkluYVI4UmNWTzRFN0pOS2xGQXNjM2gwaHEzNVgzMjhPR2tTNzY5NVk1TmQwOU1sR2R6WmN4SEV4Y2U5MzAwRTdhdXIzM2VoT3R2LTVHZW9tUnhnTTViNm5YdVkzaVktYm1wYUZSYVotRTctbXJhVlpnS0Y1djFYSTFB?oc=5",
         "published": "2026-09-10T23:14:00+00:00",
-        "source": "USA Today"
+        "source": "usatoday.com"
       },
       {
         "title": "Don't be surprised if 49ers limit George Kittle and Nick Bosa vs. Rams - Niner Noise",
@@ -186,10 +193,10 @@
         "source": "Niner Noise"
       },
       {
-        "title": "49ers TE George Kittle off injury report, cleared vs. Rams - hawkeyeswire.usatoday.com",
+        "title": "49ers TE George Kittle off injury report, cleared vs. Rams - Hawkeyes Wire",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjRzUEZlRllkMXJrbkFmc01NQy1nVUZENnA4T0EzYnRQbUtDZk00a2l6RnNZYXVQSWZieFNfLTEzTE0wRE1wdGR5UXoxMDM2NFZ5UVIta3Mtd2N2djNoSlgySExva1lfVXp1eG14LXRLMHdfUnlCNTdaZGttMzEwR19ndnMyRHVGR2tvY3ZRdVdqcjlFRG4zSXM5RW5nYTE4LWZ2OTBqcnFpTzZGNzd5NzNZU1QzQ092TTVVNlpGckxCX0M5UmdtMTJuRldfdUVhc1JZWE82MENkYlliNHc?oc=5",
         "published": "2026-09-10T18:20:00+00:00",
-        "source": "hawkeyeswire.usatoday.com"
+        "source": "Hawkeyes Wire"
       },
       {
         "title": "George Kittle Injury Update: Is Kittle Playing in 49ers vs. Rams Tonight? - PrizePicks",
@@ -209,9 +216,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -7.7,
+    "hours_to_lock": -14.7,
     "kickoff_utc": "2026-09-14T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -225,9 +232,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -15.0,
+    "hours_to_lock": -22.0,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -241,9 +248,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -15.0,
+    "hours_to_lock": -22.0,
     "kickoff_utc": "2026-09-13T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -257,9 +264,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.6,
+    "hours_to_lock": -18.6,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -273,9 +280,9 @@
   {
     "player_id": "9754",
     "name": "Quentin Johnston",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.6,
+    "hours_to_lock": -18.6,
     "kickoff_utc": "2026-09-13T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -289,9 +296,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-14T08:00:19.371694+00:00",
+    "generated_at": "2026-09-14T14:59:34.378193+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -103.7,
+    "hours_to_lock": -110.7,
     "kickoff_utc": "2026-09-10T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
