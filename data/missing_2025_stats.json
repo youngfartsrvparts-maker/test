@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T11:39:38.074611+00:00",
+  "generated_at": "2026-09-15T15:40:44.299235+00:00",
   "season": "2025",
-  "missing_count": 713,
+  "missing_count": 715,
   "players": [
     {
       "player_id": "11533",
@@ -946,6 +946,15 @@
       "team": "ARI",
       "sleeper_gsis_id": null,
       "rookie_year": "2021",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12908",
+      "name": "Chandler Brayboy",
+      "pos": "WR",
+      "team": "NE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3013,7 +3022,7 @@
       "player_id": "8207",
       "name": "Tyler Goodson",
       "pos": "RB",
-      "team": "ATL",
+      "team": "DAL",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
@@ -6203,6 +6212,15 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "12738",
+      "name": "Phil Mafah",
+      "pos": "RB",
+      "team": "NYG",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "8155",

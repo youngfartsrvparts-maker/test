@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-09-15T11:39:40.706485+00:00",
+  "generated_at": "2026-09-15T15:40:47.075064+00:00",
   "league_id": "1388315713940262912",
-  "count": 3,
+  "count": 2,
   "players": [
-    {
-      "player_id": "6783",
-      "name": "Jerry Jeudy",
-      "pos": "WR",
-      "team": "CLE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 12.65,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 52668,
-      "next_game": {
-        "week": 1,
-        "date": "2026-09-13",
-        "time": "13:00",
-        "home": "JAX",
-        "away": "CLE",
-        "spread": 8.5,
-        "total": 40.5,
-        "opponent": "JAX",
-        "home_game": false,
-        "implied_team_points": 24.5
-      }
-    },
     {
       "player_id": "10213",
       "name": "Tre Tucker",
@@ -54,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 8130,
-      "drops_24h": 121866,
+      "adds_24h": 8562,
+      "drops_24h": 156096,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",
@@ -87,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 15856,
-      "drops_24h": 88664,
+      "adds_24h": 30176,
+      "drops_24h": 111608,
       "next_game": {
         "week": 1,
         "date": "2026-09-13",
