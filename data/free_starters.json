@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:01:14.715532+00:00",
+  "generated_at": "2026-09-16T09:54:05.767369+00:00",
   "league_id": "1388315713940262912",
   "count": 2,
   "players": [
@@ -22,18 +22,18 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 252342,
+      "drops_24h": 269310,
       "next_game": {
-        "week": 1,
-        "date": "2026-09-13",
-        "time": "16:25",
-        "home": "LV",
-        "away": "MIA",
-        "spread": 3.0,
-        "total": 40.5,
-        "opponent": "MIA",
-        "home_game": true,
-        "implied_team_points": 18.8
+        "week": 2,
+        "date": "2026-09-20",
+        "time": "16:05",
+        "home": "LAC",
+        "away": "LV",
+        "spread": 6.5,
+        "total": 43.5,
+        "opponent": "LAC",
+        "home_game": false,
+        "implied_team_points": 25.0
       }
     },
     {
@@ -54,19 +54,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 78928,
-      "drops_24h": 162264,
+      "adds_24h": 88752,
+      "drops_24h": 168048,
       "next_game": {
-        "week": 1,
-        "date": "2026-09-13",
+        "week": 2,
+        "date": "2026-09-20",
         "time": "16:25",
-        "home": "LV",
+        "home": "SF",
         "away": "MIA",
-        "spread": 3.0,
-        "total": 40.5,
-        "opponent": "LV",
+        "spread": 13.5,
+        "total": 45.5,
+        "opponent": "SF",
         "home_game": false,
-        "implied_team_points": 21.8
+        "implied_team_points": 29.5
       }
     }
   ],
