@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.8,
+    "hours_to_lock": 96.6,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 26.8,
+    "hours_to_lock": 24.5,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 91.5,
+    "hours_to_lock": 89.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 91.5,
+    "hours_to_lock": 89.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.6,
+    "hours_to_lock": 92.3,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 91.5,
+    "hours_to_lock": 89.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +105,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 92.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -121,9 +121,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 92.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -137,9 +137,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 92.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -153,22 +153,52 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 92.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 87,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
       {
-        "title": "49ers’ George Kittle doesn’t hold back on Brock Purdy expectations for 2026 - 49ers Webzone",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWdNOUlacnN0cU5oR2JCX01uZUo3ZXVVcjZmX3RIcmpnLTlWdlZpaG11ZERsX2FpSnBPWWZCYkFPVFVTSUFfTm54QmxQV1NfT1R0aFFhbVFkOWhIZVBQbFpNMGNkVzdYTVNOMWtoX2NIOXdUNmpaOXE3NjZkTnBibldaYmNJdE5oY0llRVB3?oc=5",
-        "published": "2026-09-15T02:24:42+00:00",
-        "source": "49ers Webzone"
+        "title": "4 veterans rest, George Kittle limited, in 1st Week 2 practice report - Niners Wire",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWVCLXh5Rkl2eUhjbkV1ZktmeEZXSmwzVGRQSFU5VkdNY3UwWTQybDNsVDg5UkNncTEwTmlmMHJCcmg0bGhfMllMOVNkNXYyaTJmN1ZyNGR4a3N5QXRrYmdHNW5VczlFNVRtUGFINFBKT2hQSmVUcmFLcnFHVUowM1kySU84aVZ5bmZQUU9OOVZfZWo4XzJiOXpLLWNRX2xtYm4wU25uWkJSZnhCTWZuWFloc3FrLXBVLVVKVHFERnVSQWtlVkVwajd1dFVRVjJXTENmbjlB?oc=5",
+        "published": "2026-09-16T23:29:00+00:00",
+        "source": "Niners Wire"
+      },
+      {
+        "title": "George Kittle (Achilles) limited at practice Wednesday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHQ0Rnk2bjVKdENCbHpOUXU2RTZSTHhqU2d2NFhkMkttQVJrbjAwUWg1VWRxMkR3MmtFWnlRSEtRZVdYdVplRTdCMi1xMUJNQVRQSjRSVGZhUHY5ZnVCamdpOVl1XzI1ellsMUEycHNQNVJnNHEwdHpBcS1UNWc1SnZBNG1Ccko0LVVSVHk4SVc0SnVKTUdWTVdrYU9tZ9IBowFBVV95cUxObnJIcnpMWExxVU5VU2I1OHZsbG5NMHMtUnJOYlJKejh3cDhEMWRJUjlEYkdfdWlpWDJ3cUtfQmQyR1dUbW1xZzg2NEh3Zk1rTFpHaW1kWDNuZHloUHIxSU5kNGdfSFF3ZzNKeFhCS2RMTGs3VlBnOGpOZXFISnhUVzdXNTc4TFVLckFaYUlhX0otRlpjS1F0VERQS1JvQlJ4SFcw?oc=5",
+        "published": "2026-09-16T23:23:24+00:00",
+        "source": "FantasyPros"
+      },
+      {
+        "title": "George Kittle (Achilles) limited Wednesday - nbcsports.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0dXTzFYZVI2Nks3aVByZk1weGRCVnJtSXZOODd0dHFUbEJkOHVCV2swMEYtellNY2tlYVpILXJpRnJZT3pRaGtacjUzX0VleDFZaE5sWi1GSXdSUFQxazBqMkFxbl9aNkJGUWkzbEtIX192cmtxNVU2SmlPYjhnNG9rLTE3bTVZZVlYN3RQcnlTZzNtLWZVWmt2X3ItYkl0MDFmQlFrQUcwUQ?oc=5",
+        "published": "2026-09-16T23:16:39+00:00",
+        "source": "nbcsports.com"
+      },
+      {
+        "title": "George Kittle Limited in Wednesday's practice - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzlUZ3RnSWgtX2xfNUY0TEZhQ3pJVzJPT096S0hPSTA5dTZsajRhWkIzM1liaTRlZTFGNnQzUHNqanlwMkdielhkUnUtMWc2Z3FhUjFTaldQbUZmR2Z6LXJPd0p5Z3ZVOVdNS3JBSEZzaGtLaklfV0VfSC1xMUx2aWZXNEIydllsUGVucGkxYW54SzhaLWFpc0hPNA?oc=5",
+        "published": "2026-09-16T22:52:51+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
+        "title": "49ers' George Kittle: Limited in Wednesday's practice - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3ZEMFFEc0hjUHRpdHFRRlY0bVZNYnhoMGRpVkJGWGdvSHRTajBwbXpQQlVSME9VUHBaLWFTZTJGV0tkVFFtRGxBblZPckxzQXZ6LU9jcXBvY2lXYmFwcVl1dkY0Ym90NjEtNkZBVGdxSkxrNjNlT2NKYXA1cjlzR3ZGVFdBVlJ0eklhVXNWUkJVejFTZ1RvZlVtRFJuSm1j?oc=5",
+        "published": "2026-09-16T22:40:53+00:00",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "What does 49ers’ season-ending injury mean for George Kittle? - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHV3YWc2d2hmUVVYM2RuTVN4SEs1T09ISkdpdWhUbGZ5TWhxM2FOYmxUNVJ3cjdJeTRldG90UV9hZDJ0X1F3S2NjMnpPZGp4cnhNVWk5dWlRUzhlRWdHWGZndFpIM3BOYlV4SHp4YkJXQmQ5UGQ0T3Q5MXFkV3JVQg?oc=5",
+        "published": "2026-09-16T20:45:34+00:00",
+        "source": "The Big Lead"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -176,9 +206,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 92.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -192,9 +222,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 91.5,
+    "hours_to_lock": 89.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -208,9 +238,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 91.5,
+    "hours_to_lock": 89.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -224,9 +254,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 92.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -240,9 +270,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-16T21:29:08.875685+00:00",
+    "generated_at": "2026-09-16T23:44:21.208058+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 92.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
