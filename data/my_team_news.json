@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 96.6,
+    "hours_to_lock": 94.6,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.5,
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.5,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.3,
+    "hours_to_lock": 87.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.3,
+    "hours_to_lock": 87.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.3,
+    "hours_to_lock": 90.4,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.3,
+    "hours_to_lock": 87.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +105,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.7,
+    "hours_to_lock": 90.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -121,9 +121,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.7,
+    "hours_to_lock": 90.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -137,9 +137,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.7,
+    "hours_to_lock": 90.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -153,9 +153,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.7,
+    "hours_to_lock": 90.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -177,10 +177,10 @@
         "source": "FantasyPros"
       },
       {
-        "title": "George Kittle (Achilles) limited Wednesday - nbcsports.com",
+        "title": "George Kittle (Achilles) limited Wednesday - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0dXTzFYZVI2Nks3aVByZk1weGRCVnJtSXZOODd0dHFUbEJkOHVCV2swMEYtellNY2tlYVpILXJpRnJZT3pRaGtacjUzX0VleDFZaE5sWi1GSXdSUFQxazBqMkFxbl9aNkJGUWkzbEtIX192cmtxNVU2SmlPYjhnNG9rLTE3bTVZZVlYN3RQcnlTZzNtLWZVWmt2X3ItYkl0MDFmQlFrQUcwUQ?oc=5",
-        "published": "2026-09-16T23:16:39+00:00",
-        "source": "nbcsports.com"
+        "published": "2026-09-16T23:17:45+00:00",
+        "source": "NBC Sports"
       },
       {
         "title": "George Kittle Limited in Wednesday's practice - Fantasy Footballers Podcast",
@@ -195,10 +195,10 @@
         "source": "CBS Sports"
       },
       {
-        "title": "What does 49ers’ season-ending injury mean for George Kittle? - The Big Lead",
+        "title": "What Jake Tonges’ season-ending injury means for 49ers’ George Kittle - thebiglead.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHV3YWc2d2hmUVVYM2RuTVN4SEs1T09ISkdpdWhUbGZ5TWhxM2FOYmxUNVJ3cjdJeTRldG90UV9hZDJ0X1F3S2NjMnpPZGp4cnhNVWk5dWlRUzhlRWdHWGZndFpIM3BOYlV4SHp4YkJXQmQ5UGQ0T3Q5MXFkV3JVQg?oc=5",
         "published": "2026-09-16T20:45:34+00:00",
-        "source": "The Big Lead"
+        "source": "thebiglead.com"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -206,9 +206,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.7,
+    "hours_to_lock": 90.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -222,9 +222,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.3,
+    "hours_to_lock": 87.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -238,9 +238,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.3,
+    "hours_to_lock": 87.3,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -254,9 +254,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.7,
+    "hours_to_lock": 90.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -270,9 +270,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-16T23:44:21.208058+00:00",
+    "generated_at": "2026-09-17T01:43:31.498324+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.7,
+    "hours_to_lock": 90.7,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
