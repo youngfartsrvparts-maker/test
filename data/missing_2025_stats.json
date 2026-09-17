@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T16:56:39.421580+00:00",
+  "generated_at": "2026-09-17T19:58:48.067527+00:00",
   "season": "2025",
-  "missing_count": 713,
+  "missing_count": 721,
   "players": [
     {
       "player_id": "11533",
@@ -472,6 +472,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "13805",
+      "name": "E.J. Williams",
+      "pos": "WR",
+      "team": "CAR",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
       "player_id": "11647",
       "name": "Kimani Vidal",
       "pos": "RB",
@@ -506,6 +515,15 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "7608",
+      "name": "Khalil Herbert",
+      "pos": "RB",
+      "team": "ATL",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2021",
+      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "8484",
@@ -1669,6 +1687,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12884",
+      "name": "Quincy Skinner",
+      "pos": "WR",
+      "team": "GB",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13603",
       "name": "Gregory Desrosiers",
       "pos": "RB",
@@ -2047,6 +2074,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12523",
+      "name": "Jimmy Horn",
+      "pos": "WR",
+      "team": "CLE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13401",
       "name": "Michael Trigg",
       "pos": "TE",
@@ -2137,6 +2173,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "11959",
+      "name": "Bryce Oliver",
+      "pos": "WR",
+      "team": "HOU",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13424",
       "name": "Seth McGowan",
       "pos": "RB",
@@ -2215,6 +2260,15 @@
       "team": "TEN",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "8143",
+      "name": "Jerome Ford",
+      "pos": "RB",
+      "team": "MIN",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -2440,6 +2494,15 @@
       "team": "SEA",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12888",
+      "name": "Dalen Cambre",
+      "pos": "WR",
+      "team": "NYG",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -5597,6 +5660,15 @@
       "name": "Elijah Higgins",
       "pos": "TE",
       "team": "ARI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "9227",
+      "name": "Israel Abanikanda",
+      "pos": "RB",
+      "team": "DAL",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
