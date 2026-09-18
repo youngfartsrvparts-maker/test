@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T19:57:15.335007+00:00",
+  "generated_at": "2026-09-18T22:14:06.286790+00:00",
   "season": "2025",
-  "missing_count": 721,
+  "missing_count": 719,
   "players": [
     {
       "player_id": "11533",
@@ -1120,15 +1120,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13749",
-      "name": "Kole Wilson",
-      "pos": "WR",
-      "team": "CLE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "10867",
       "name": "Jake Bobo",
       "pos": "WR",
@@ -1469,15 +1460,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "13816",
-      "name": "Mark Gronowski",
-      "pos": "QB",
-      "team": "HOU",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
       "player_id": "13264",

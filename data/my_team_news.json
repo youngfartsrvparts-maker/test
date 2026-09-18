@@ -2,25 +2,32 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 52.4,
+    "hours_to_lock": 50.1,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
+    "score": 1,
+    "model_modifier": 0.25,
+    "confidence": 52,
+    "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "headlines": [
+      {
+        "title": "Rashee Rice (knee) active for Week 1 - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGh4RnI3ZnNqeF9qdFNfUHc5WHdZUXdNSkw2blA3Y1NjLVMxd2lFRkN3SHZHYmxRcExYRVJyOE5PcjB6YkhwN1BYRndxcjBYYnVOSHc5cjJGSG1rZDJmR2dNeHdnWmJjOG1aNnVJNGtLUGEzb3JCbWQwSEoyZjJuVTBBWk7SAYoBQVVfeXFMTy1WTHMtQnpYYmlKU1Q0bXlubmktb0U0QWROSkdteldnUy1IeFR1eWh1ZW95SGpZX1dFcE9IV29fRWxYWlBYN09PTkk4WWNVQWVLYjU2T2FETjI4cmxMQjg1UkZpREZ4bDBVbHVxSkh1Q2VsOU1RVVU3cFBTc2NHNGFEYm91bG1XWXNn?oc=5",
+        "published": "2026-09-14T23:47:54+00:00",
+        "source": "FantasyPros"
+      }
+    ],
+    "reason": "Rashee Rice (knee) active for Week 1 - FantasyPros"
   },
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.7,
+    "hours_to_lock": -22.0,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 45.0,
+    "hours_to_lock": 42.8,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 45.0,
+    "hours_to_lock": 42.8,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.1,
+    "hours_to_lock": 45.8,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -82,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 45.0,
+    "hours_to_lock": 42.8,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -98,9 +105,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.5,
+    "hours_to_lock": 46.2,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -114,22 +121,28 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.5,
+    "hours_to_lock": 46.2,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 73,
-    "label": "No material negative news found",
-    "injury": null,
+    "score": -2,
+    "model_modifier": -0.5,
+    "confidence": 95,
+    "label": "Some availability risk",
+    "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
-        "title": "Kaelon Black was added to the 49ers’ injury report - Niners Nation",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUxMdlBvbGNCYjNlVjViLVhYdEo4R3E2dkZvdGVZZXpCNVU2OEtnUi1QSkNXcnRtSkNHXzFDVWJDX2VnZ2doOE14WHFOUXBQMlhEZFRwRElRdXIyLVZmMUtvSEdHUktCNHlibFMwLUhfS1ZrMnc1T1BtM1hTUUFNcE1pcXpGT0NFQ2FUb3pDWU5ROWdtU29QbEV0RU9lbHJjbDdHMks1eURnblFlV2dOV3NkNzA?oc=5",
-        "published": "2026-09-18T07:21:24+00:00",
-        "source": "Niners Nation"
+        "title": "49ers vs. Dolphins final injury report: Eddy Piñeiro, Kaelon Black questionable for the game - 49ers Webzone",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGpZajZBT09Ya2lKWFhxb2l0c2V4ZGVoTFN6bXN5OW9UVlZPalp0RF9kZjA3VWtESHp2a2VSWElNVVM0RmZ4ZUo3TjVLNW1jRGY3VXR5ZHQ3ZnVSRjdZZ1VkS2ZSNGM0RTJjbWl4dklLTUlxRVFXVURoc2xLckNxeUdHWDZzcjJ5dmN3Uk1fUEJSZw?oc=5",
+        "published": "2026-09-18T21:22:00+00:00",
+        "source": "49ers Webzone"
+      },
+      {
+        "title": "49ers rookie RB Kaelon Black, kicker Eddy Piñeiro questionable vs. Dolphins - NBC Sports Bay Area & California",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0VPREYxNGhxZW93VVJPeUNSTnNDaHEzaWtMT3JzcFo0VnJ0c05FejVwMjN6cTBpZl9BTGd4bHdQWG9TNmVzVGxSSTc1OVFmcnIxSzZaYTktbmIybjVGeVVKR1Jpa1dOREt6aGx1UVFyVmZ5akFHX3g0a3VDV3ZpZVBQNGp6cS1SeW5PdHRKMGJyTlNyWEJZTUJITzZSSzcydlJmSFVyUmJJUWpDdEtjUDJ1Um9mWmx5Y2FMNnVPONIBxwFBVV95cUxNZTgweklTWV8zeTEyYlJZQ0Viclo0VVpNRFJVUV9wQUR0VWpiQmVGLUZ0T0Fsd0tVUGs5WjNlT0k5bW1zazY4OWVqVm94RWs2ZUFJc3ozek5Sb1NsdVNXTUlWNVZTNWdjbjBnZHFwZUtuSzVJaGM2SEptNmdKaEJmMkRUSUtPSnU0V1poZkRsY21UaTFrQTNGdVkzcHItdnpFdlpnaVk3OXQ2cnRVeS0wTGVIdmFGbjFzeWxzLWpkN2RrMTgwV1lZ?oc=5",
+        "published": "2026-09-18T21:05:38+00:00",
+        "source": "NBC Sports Bay Area & California"
       },
       {
         "title": "49ers vs. Dolphins injury report: Shanahan explains why Kaelon Black was limited in practice - Yardbarker",
@@ -144,20 +157,26 @@
         "source": "FantasyPros"
       },
       {
+        "title": "Kaelon Black was added to the 49ers’ injury report - Niners Nation",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeUxMdlBvbGNCYjNlVjViLVhYdEo4R3E2dkZvdGVZZXpCNVU2OEtnUi1QSkNXcnRtSkNHXzFDVWJDX2VnZ2doOE14WHFOUXBQMlhEZFRwRElRdXIyLVZmMUtvSEdHUktCNHlibFMwLUhfS1ZrMnc1T1BtM1hTUUFNcE1pcXpGT0NFQ2FUb3pDWU5ROWdtU29QbEV0RU9lbHJjbDdHMks1eURnblFlV2dOV3NkNzA?oc=5",
+        "published": "2026-09-17T22:06:12+00:00",
+        "source": "Niners Nation"
+      },
+      {
         "title": "49ers vs. Dolphins injury report: Kyle Shanahan explains why Kaelon Black was limited in practice - 49ers Webzone",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVh3ZTEyclZVcjlWaDJLaU1XVVlOTkp2MWs4UGlzWk1XS2lodzlubHFscGliVFVFSmlQYmY2NkNJclN1bXVEQ2o5cnJ0MGlHUTBqREJMWGk1UEsxVFJndHVtMVloaE1KckxaU012ZHhCSFVJZ3kxeVZ3UGNVTEctR1JIVlh0MVotaG4wTDJQRQ?oc=5",
         "published": "2026-09-17T21:45:00+00:00",
         "source": "49ers Webzone"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "49ers vs. Dolphins final injury report: Eddy Piñeiro, Kaelon Black questionable for the game - 49ers Webzone"
   },
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.5,
+    "hours_to_lock": 46.2,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -171,15 +190,15 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.5,
+    "hours_to_lock": 46.2,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 95,
-    "label": "Some availability risk",
-    "injury": "Questionable",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 87,
+    "label": "No material negative news found",
+    "injury": null,
     "practice": null,
     "headlines": [
       {
@@ -201,10 +220,10 @@
         "source": "FantasyPros"
       },
       {
-        "title": "George Kittle Injury: Another limited showing - RotoWire",
+        "title": "George Kittle Injury: Another limited showing - rotowire.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjYtOEJxMUx0Rk1Ca2cxSkp1UnZGRzhuUHRxRFpyTnhBTE5VdFNmWFNsQ0Y0LU40WkxidEt5Z1RTM0NranRWZ2N3SngzeWxxc04xN1RtLUdaRkFBblFqXzdCOHplck5FamcyV1dqQ2ZTQlhJRzlHTUVRMHUyYlNyNHpJQWI3d0tZcXJoYnE1XzlPS19vejlNMnJBUQ?oc=5",
         "published": "2026-09-17T22:22:35+00:00",
-        "source": "RotoWire"
+        "source": "rotowire.com"
       },
       {
         "title": "George Kittle Week 2 Outlook - Dolphins at 49ers - FantasyPros",
@@ -219,14 +238,14 @@
         "source": "Yahoo Sports"
       }
     ],
-    "reason": "Sleeper injury/practice status is the main signal."
+    "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.5,
+    "hours_to_lock": 46.2,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -240,9 +259,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 45.0,
+    "hours_to_lock": 42.8,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -256,9 +275,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 45.0,
+    "hours_to_lock": 42.8,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -272,9 +291,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.5,
+    "hours_to_lock": 46.2,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -288,9 +307,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-18T19:57:16.386402+00:00",
+    "generated_at": "2026-09-18T22:14:07.189451+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.5,
+    "hours_to_lock": 46.2,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -300,10 +319,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Seattle Seahawks injury report: Cooper Kupp upgraded - cardswire.usatoday.com",
+        "title": "Seattle Seahawks injury report: Cooper Kupp upgraded - USA Today",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLWJhUjZnOE8ydE5QejVXNVFyZ3N3WkRDWFdHMHFzYzRXQU1lNGFYLWJ1SE80Sk1oeE5mY3ROTkpWaldYZm9vekl3cWViaHNSVFJ4VVI5U2czTzhHMzZWSjRxVGY4cjh5bFBDSHR3Ukh0Y3FBNVZ2Y0JsX3d4MzdxUFNTQWZCSUNVU3FGZm94REoxZVgzRFR0c1RDRlRMM05Nb1JJSjVjZS05TndJOFhoNWpxUDlSbDduSmg4UE1wTVVNRDlxVEpCaFZGNVRfQQ?oc=5",
         "published": "2026-09-18T02:31:00+00:00",
-        "source": "cardswire.usatoday.com"
+        "source": "USA Today"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
