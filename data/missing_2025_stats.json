@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T21:00:52.570520+00:00",
+  "generated_at": "2026-09-19T22:59:02.847245+00:00",
   "season": "2025",
-  "missing_count": 719,
+  "missing_count": 718,
   "players": [
     {
       "player_id": "11533",
@@ -6032,15 +6032,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "8176",
-      "name": "Danny Gray",
-      "pos": "WR",
-      "team": "PHI",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "11643",

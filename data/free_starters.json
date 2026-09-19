@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-09-19T21:00:55.549139+00:00",
+  "generated_at": "2026-09-19T22:59:05.770311+00:00",
   "league_id": "1388315713940262912",
-  "count": 2,
+  "count": 4,
   "players": [
+    {
+      "player_id": "7571",
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "team": "BAL",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 9.25,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 26175,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 2,
+        "date": "2026-09-20",
+        "time": "13:00",
+        "home": "BAL",
+        "away": "NO",
+        "spread": 8.5,
+        "total": 46.5,
+        "opponent": "NO",
+        "home_game": true,
+        "implied_team_points": 19.0
+      }
+    },
     {
       "player_id": "10213",
       "name": "Tre Tucker",
@@ -21,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 9234,
-      "drops_24h": 18312,
+      "adds_24h": 9378,
+      "drops_24h": 16668,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
@@ -54,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 31112,
-      "drops_24h": 15472,
+      "adds_24h": 30360,
+      "drops_24h": 14464,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
@@ -67,6 +100,39 @@
         "opponent": "SF",
         "home_game": false,
         "implied_team_points": 29.0
+      }
+    },
+    {
+      "player_id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 1.78,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 337876,
+      "drops_24h": 20657,
+      "next_game": {
+        "week": 2,
+        "date": "2026-09-20",
+        "time": "13:00",
+        "home": "HOU",
+        "away": "CIN",
+        "spread": 2.5,
+        "total": 45.5,
+        "opponent": "CIN",
+        "home_game": true,
+        "implied_team_points": 21.5
       }
     }
   ],

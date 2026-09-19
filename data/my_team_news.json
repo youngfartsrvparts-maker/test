@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 27.3,
+    "hours_to_lock": 25.3,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -44.8,
+    "hours_to_lock": -46.7,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.0,
+    "hours_to_lock": 18.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.0,
+    "hours_to_lock": 18.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,9 +66,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.1,
+    "hours_to_lock": 21.1,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -82,9 +82,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.0,
+    "hours_to_lock": 18.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -98,9 +98,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 21.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -114,9 +114,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 21.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -126,10 +126,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Kaelon Black injury update: Will 49ers RB play vs. Dolphins? - ninerswire.usatoday.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnJLZVhnYmdRQzduRjdPaVhubXhxSWRSelc1b0toM245a3NHRHBSVjctSE9SWWhYWF9oNDVEVUVGYWZDUENnRkhPLS1uZFpRYVE4d1FabGlROHpJakVfTlJMSmxPVkVlaDl2Y3VLVzFXRW5QQklrZk11eUtqWHU4MGhrOVlLUXZMc0h6cDQ5cjVPaVpDZDEwdlJRdjRDdXQ4d1E2a1ktUmZFZHRWc3dpVUhrbFlidDVzLXlsV0tn?oc=5",
+        "title": "Kaelon Black injury update: Will 49ers RB play vs. Dolphins? - Ventura County Star",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjJrUVZqdGRGbGlpVXNWN3A0UlBETW45V1pvQnB0MmFLS09MeUpCblowcmxCaTd1UUM3b21mQmt2bU5GUVhrYTE3TDNVMU1VTFVnakdZOEgxZ0dTYjhQS1g2TndyY21HRld0dEdlcGp6bHRKUkttdmRIWEhybW1iUkhNOHB1aTMzMmJMbFVMQzY2OU1IZk9YX0Y4dmlGYUpYbTVfcGtxTTFLcUxIMEsxeWV3?oc=5",
         "published": "2026-09-19T17:58:00+00:00",
-        "source": "ninerswire.usatoday.com"
+        "source": "Ventura County Star"
       },
       {
         "title": "De'Zhaun Stribling OUT, Kaelon Black and Eddy Piñeiro Questionable vs. Dolphins; Injury Report Ahead of #MIAvsSF - San Francisco 49ers",
@@ -167,9 +167,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 21.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -183,9 +183,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 21.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -219,10 +219,10 @@
         "source": "FantasyPros"
       },
       {
-        "title": "George Kittle limited at practice Wednesday - Yahoo Sports",
+        "title": "George Kittle limited at practice Wednesday - sports.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWJTaE5fTnpNczZkcVh6TFpwRXBtSmhJclg5c01IUEhqN1NhcnlfeGpSVjBoRjJ5a0IxNlhUc2dqQXJRX2d6T2lRQm1FQlMwZi1GZVlORW1JTlVmRWRkS2dCNDJvcmVlY0RWdGpxQzZhRXVOOWd5TjBiZHRjSVdiN05vQlZQTkRwZzlrUE5rZEJ4WGc?oc=5",
         "published": "2026-09-17T02:56:00+00:00",
-        "source": "Yahoo Sports"
+        "source": "sports.yahoo.com"
       },
       {
         "title": "George Kittle limited at practice Wednesday - USA Today",
@@ -236,9 +236,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 21.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -252,9 +252,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.0,
+    "hours_to_lock": 18.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -268,9 +268,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.0,
+    "hours_to_lock": 18.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -284,9 +284,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 21.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -300,9 +300,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "generated_at": "2026-09-19T22:59:03.771323+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 21.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -312,10 +312,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Seattle Seahawks WR Tory Horton to Make 2026 Debut in Arizona, Zach Charbonnet on the Mend - Emerald City Spectrum",
+        "title": "Seattle Seahawks WR Tory Horton to Make 2026 Debut in Arizona, Zach Charbonnet on the Mend - emeraldcityspectrum.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLXMwaGdxYmt2OURlTkZMMExaaEZnanhNcE83Z0dQeTBmTFBfcjlMSmExT3QtQm9wWTl4RFo2RUQwTk5NYl9hWXFfaUZ1cjBUN0ZDUmdXN1kxZUtwMVFaYW43SDlaN2F4bWY2cVBWTjBRNXJpckJwOTdYT2J1bm5RM2syR3l3YmszUXV5bmFuSFpjOU1iMnB4ektMX1FqV0NSZnVWOWRLY0dwaElsdlg4?oc=5",
         "published": "2026-09-19T01:07:09+00:00",
-        "source": "Emerald City Spectrum"
+        "source": "emeraldcityspectrum.com"
       },
       {
         "title": "Nick Emmanwori, Anthony Bradford questionable to play for Seattle Seahawks against Cardinals - FOX 13 Seattle",
@@ -330,10 +330,10 @@
         "source": "Seattle Seahawks"
       },
       {
-        "title": "Seattle Seahawks injury report: Cooper Kupp upgraded - USA Today",
+        "title": "Seattle Seahawks injury report: Cooper Kupp upgraded - cardswire.usatoday.com",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLWJhUjZnOE8ydE5QejVXNVFyZ3N3WkRDWFdHMHFzYzRXQU1lNGFYLWJ1SE80Sk1oeE5mY3ROTkpWaldYZm9vekl3cWViaHNSVFJ4VVI5U2czTzhHMzZWSjRxVGY4cjh5bFBDSHR3Ukh0Y3FBNVZ2Y0JsX3d4MzdxUFNTQWZCSUNVU3FGZm94REoxZVgzRFR0c1RDRlRMM05Nb1JJSjVjZS05TndJOFhoNWpxUDlSbDduSmg4UE1wTVVNRDlxVEpCaFZGNVRfQQ?oc=5",
         "published": "2026-09-18T02:31:00+00:00",
-        "source": "USA Today"
+        "source": "cardswire.usatoday.com"
       }
     ],
     "reason": "Nick Emmanwori, Anthony Bradford questionable to play for Seattle Seahawks against Cardinals - FOX 13 Seattle"
