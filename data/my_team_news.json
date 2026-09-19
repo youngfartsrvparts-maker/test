@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 29.6,
+    "hours_to_lock": 27.3,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -42.4,
+    "hours_to_lock": -44.8,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 22.3,
+    "hours_to_lock": 20.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 22.3,
+    "hours_to_lock": 20.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,9 +66,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.4,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.1,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -82,9 +82,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 22.3,
+    "hours_to_lock": 20.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -98,9 +98,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.7,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -114,9 +114,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.7,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -126,10 +126,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Kaelon Black injury update: Will 49ers RB play vs. Dolphins? - Niners Wire",
+        "title": "Kaelon Black injury update: Will 49ers RB play vs. Dolphins? - ninerswire.usatoday.com",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnJLZVhnYmdRQzduRjdPaVhubXhxSWRSelc1b0toM245a3NHRHBSVjctSE9SWWhYWF9oNDVEVUVGYWZDUENnRkhPLS1uZFpRYVE4d1FabGlROHpJakVfTlJMSmxPVkVlaDl2Y3VLVzFXRW5QQklrZk11eUtqWHU4MGhrOVlLUXZMc0h6cDQ5cjVPaVpDZDEwdlJRdjRDdXQ4d1E2a1ktUmZFZHRWc3dpVUhrbFlidDVzLXlsV0tn?oc=5",
         "published": "2026-09-19T17:58:00+00:00",
-        "source": "Niners Wire"
+        "source": "ninerswire.usatoday.com"
       },
       {
         "title": "De'Zhaun Stribling OUT, Kaelon Black and Eddy Piñeiro Questionable vs. Dolphins; Injury Report Ahead of #MIAvsSF - San Francisco 49ers",
@@ -138,10 +138,10 @@
         "source": "San Francisco 49ers"
       },
       {
-        "title": "49ers vs. Dolphins final injury report: Eddy Piñeiro, Kaelon Black questionable for Week 2 - 49erswebzone.com",
+        "title": "49ers vs. Dolphins final injury report: Eddy Piñeiro, Kaelon Black questionable for Week 2 - 49ers Webzone",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGpZajZBT09Ya2lKWFhxb2l0c2V4ZGVoTFN6bXN5OW9UVlZPalp0RF9kZjA3VWtESHp2a2VSWElNVVM0RmZ4ZUo3TjVLNW1jRGY3VXR5ZHQ3ZnVSRjdZZ1VkS2ZSNGM0RTJjbWl4dklLTUlxRVFXVURoc2xLckNxeUdHWDZzcjJ5dmN3Uk1fUEJSZw?oc=5",
         "published": "2026-09-18T21:22:00+00:00",
-        "source": "49erswebzone.com"
+        "source": "49ers Webzone"
       },
       {
         "title": "49ers rookie RB Kaelon Black, kicker Eddy Piñeiro questionable vs. Dolphins - NBC Sports Bay Area & California",
@@ -150,14 +150,14 @@
         "source": "NBC Sports Bay Area & California"
       },
       {
-        "title": "Kaelon Black (groin) added to injury report Thursday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGw3b0lEbUpxNkJ0SU14a3MyWkhISk9zWUxlR3hmNDd1SFRuSWlCeERHQ1Z3WFVub0ZhcnJPS19KN1dDWjgxUDNlX1dWNFJvcHFrbXdrNzdxaXZ0eUszUDU4WWJiRkZ3UDRiM19UOUxZTEFrLWNyZzdNZW4tSS0tbmU4bGlXMjVVNVNia3JmajdCYjc5ZVJDbWhmWEVka0XSAaQBQVVfeXFMTVVReTVkVURYQVNkZ1hyUnA5eGZfUXBwSGlsYVBUN0xPaTFzNXRJc0tkSjVRT0lZY21UUUZtVnBldC10d0VpMVh5cFlXS2tPSnFRb1RxRHJSSVJlMXhZeFRDVzA3V2ZPZEJyeHRtZVlnM2R2Uk5rMExfWmNxaWhDQ2dsNFBCaEpkYnlwYldPNG9WREVKaS1hTGlUVkFudVJZR19uYV8?oc=5",
-        "published": "2026-09-17T22:50:39+00:00",
-        "source": "FantasyPros"
+        "title": "49ers vs. Dolphins injury report: Shanahan explains why Kaelon Black was limited in practice - Yardbarker",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObzZ3ZmNQdUlYbmwxb2gwanJJMHNYX0dOaWhsdXhIcXVqdmRVR05KdkNNbUJyV0xfNEtWTW1yTUlDOHRwWGQ1b0prTDNHQ0dORFY3aXRRTUxCSjlmYllIT2FxSEV3Q1VqdTdTVWh3T0E3by11NXVIWHFaNGtWd0pfYUZDNFpxRkxLVmV1M0Q2QnlUU2VXNGJQaXhIdzB0am1ZSll5enNBTnRCZGZqak9yUHp2S1dDOTRlQW13dUlKT0hRZHczTVdDdVh1emltUFpJZUhZa21vUlk2UmV2ak9WTnV3?oc=5",
+        "published": "2026-09-17T23:08:31+00:00",
+        "source": "Yardbarker"
       },
       {
         "title": "Kaelon Black (groin) added to injury report Thursday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1hnem4yNTA1UnNzT0JSTU9tLS15b3RnaXBOcWZLLU9KckRjdFU2M2xiVzBqVGdwMldLQ0pIQTc5eGQ4NzV2V3dVNEdZWGQ2T2pRZ0Y3U1ZVWkxQRVhRdTVRU2JCR0p1Q0liNzl1dWxmM1NIV2MweHgyd0JhT1ZIUy1NeW4xQ1MtUGQwVC1ielVLQjVDWG4waUtObTFFcGs0UENVRFpRdV9fOFdPMXdpUWJKUWwtSWg4djRfTVBrVmVkYWlJWTdvV2RZV09mUHFOZFVFSDdEWW3SAaQBQVVfeXFMTVVReTVkVURYQVNkZ1hyUnA5eGZfUXBwSGlsYVBUN0xPaTFzNXRJc0tkSjVRT0lZY21UUUZtVnBldC10d0VpMVh5cFlXS2tPSnFRb1RxRHJSSVJlMXhZeFRDVzA3V2ZPZEJyeHRtZVlnM2R2Uk5rMExfWmNxaWhDQ2dsNFBCaEpkYnlwYldPNG9WREVKaS1hTGlUVkFudVJZR19uYV8?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGw3b0lEbUpxNkJ0SU14a3MyWkhISk9zWUxlR3hmNDd1SFRuSWlCeERHQ1Z3WFVub0ZhcnJPS19KN1dDWjgxUDNlX1dWNFJvcHFrbXdrNzdxaXZ0eUszUDU4WWJiRkZ3UDRiM19UOUxZTEFrLWNyZzdNZW4tSS0tbmU4bGlXMjVVNVNia3JmajdCYjc5ZVJDbWhmWEVka0XSAaQBQVVfeXFMTVVReTVkVURYQVNkZ1hyUnA5eGZfUXBwSGlsYVBUN0xPaTFzNXRJc0tkSjVRT0lZY21UUUZtVnBldC10d0VpMVh5cFlXS2tPSnFRb1RxRHJSSVJlMXhZeFRDVzA3V2ZPZEJyeHRtZVlnM2R2Uk5rMExfWmNxaWhDQ2dsNFBCaEpkYnlwYldPNG9WREVKaS1hTGlUVkFudVJZR19uYV8?oc=5",
         "published": "2026-09-17T22:50:39+00:00",
         "source": "FantasyPros"
       }
@@ -167,9 +167,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.7,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -183,9 +183,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.7,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -194,12 +194,6 @@
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "49ers’ George Kittle gushes over Mike Evans’ early impact - 49erswebzone.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXNaVVBDRXZuYmE3NlVrUmNyTTM4U2dNRmtfSlhTMzdNQmwxR0ZTd3Y2UnBsdU83bm9oc2tPQ2syYVBlQ196OTQ2MVlnY0JncTdVNkZPYzE5UEw4aWZabGQ5OFp4OHhNWkwwNEV1dnlwZjBPMnpXbktTYWx0eVVXa1F4VGFnZw?oc=5",
-        "published": "2026-09-18T04:00:17+00:00",
-        "source": "49erswebzone.com"
-      },
       {
         "title": "George Kittle (Achilles) limited on Thursday - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajUwTFJnZmhqc1l6NThGbjh1RzRaTDJVQzJ5VnU0U0FtY0p6dXM4S0pLT294U252WEZPY2UxTWc2ZG1nVkFNTlJ0XzUtN2YxNV8wUElZdEwwRUUtQ0tqUmNZZjVmYTNSOUV2bDVjbWQ2QnRzZEY5T2JfVnVUbUZvNjRUVVFaTi1ORUZ5TDIyazVaZXc1aVpRSERSWXJnVDB5UFBCTTdRMUlYQXA5?oc=5",
@@ -227,8 +221,14 @@
       {
         "title": "George Kittle limited at practice Wednesday - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWJTaE5fTnpNczZkcVh6TFpwRXBtSmhJclg5c01IUEhqN1NhcnlfeGpSVjBoRjJ5a0IxNlhUc2dqQXJRX2d6T2lRQm1FQlMwZi1GZVlORW1JTlVmRWRkS2dCNDJvcmVlY0RWdGpxQzZhRXVOOWd5TjBiZHRjSVdiN05vQlZQTkRwZzlrUE5rZEJ4WGc?oc=5",
-        "published": "2026-09-17T02:56:19+00:00",
+        "published": "2026-09-17T02:56:00+00:00",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "George Kittle limited at practice Wednesday - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUnlMNTdQQXhNM0JqNDV0VUFTR1lMazFSMjZuNEVVdWtOZWRaLWUxMVFKdHRKRmVwUzlCY2d0RDdMc3JjNXdWNnEwZXVoUngzenZ2QTBib1RUYWNOWVZuT3YyNG1DQk81TEduTC1ZNjRiM1g0NWxYQjBSTWRsVFZqMnRjLXVuSnNxWlZnUFZFMTQzNWtCem5sU2FmcndJYW9BOUtLczM2NHp4bElVRE5WVHFQbEduWnVXSlMxcjh1V2dUUi16Z19WMjM1SUU5ZVhSUllSalJ5SGVPd0FUd2xZWUxUbXZaZw?oc=5",
+        "published": "2026-09-17T02:56:00+00:00",
+        "source": "USA Today"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -236,9 +236,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.7,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -252,9 +252,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 22.3,
+    "hours_to_lock": 20.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -268,9 +268,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 22.3,
+    "hours_to_lock": 20.0,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -284,9 +284,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.7,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -300,9 +300,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-19T18:41:51.951393+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.7,
+    "generated_at": "2026-09-19T21:00:53.547229+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.4,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
