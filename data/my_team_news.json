@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 18.9,
+    "hours_to_lock": 14.4,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -53.2,
+    "hours_to_lock": -57.7,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 11.6,
+    "hours_to_lock": 7.1,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 11.6,
+    "hours_to_lock": 7.1,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.6,
+    "hours_to_lock": 10.2,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 11.6,
+    "hours_to_lock": 7.1,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +105,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "hours_to_lock": 10.5,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -121,9 +121,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "hours_to_lock": 10.5,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": -4,
     "model_modifier": -1.0,
@@ -174,9 +174,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "hours_to_lock": 10.5,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -190,9 +190,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "hours_to_lock": 10.5,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -202,10 +202,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "George Kittle (Achilles) upgrades to FP, will play - nbcsports.com",
+        "title": "George Kittle (Achilles) upgrades to FP, will play - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlI3bF9mSnlVQld6Zm1RVjR0YUlDRUp1VzMxdU5IeGhRUWFGY3VSMThZcXhsemc3SWR4NmlRNUoweHpQWUhmUHY1al9tdTZ3OVItY1cwNThUM0lpdWJhdTE2eXh6WGFLbXFnNzVOUkJpWkVjTWFHSG9fVGFFRHRYcUNSYno1RHVUaHBJWTNEZGI0SkRYd29FNHpDcEZsYTFOMTBOMmQ1bzMwWnBBMzRrTzE5UQ?oc=5",
         "published": "2026-09-18T22:02:00+00:00",
-        "source": "nbcsports.com"
+        "source": "NBC Sports"
       },
       {
         "title": "George Kittle (Achilles) limited again Thursday - FantasyPros",
@@ -243,9 +243,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "hours_to_lock": 10.5,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -259,9 +259,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 11.6,
+    "hours_to_lock": 7.1,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -275,9 +275,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 11.6,
+    "hours_to_lock": 7.1,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -291,9 +291,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "hours_to_lock": 10.5,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -307,13 +307,13 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-20T05:26:15.175842+00:00",
+    "generated_at": "2026-09-20T09:54:57.182362+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "hours_to_lock": 10.5,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 73,
+    "confidence": 66,
     "label": "Some availability risk",
     "injury": null,
     "practice": null,
@@ -335,12 +335,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SRE5mQktkRVhXQVVyRUVCa3d3cjlxTlJtOGdyM1NPVkRyMW5IVEVlUWdiZVFNSmZudDFEZmFaanAwZmFZZFRHY1hHQjcxSnpQLTl2eGt3b3NEZ0RqeUhjWVRfZVdwdWtiSk9zY0JoMmItZmxOaFBtcEdBUjE?oc=5",
         "published": "2026-09-18T21:38:08+00:00",
         "source": "Seattle Seahawks"
-      },
-      {
-        "title": "Seattle Seahawks injury report: Cooper Kupp upgraded - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLWJhUjZnOE8ydE5QejVXNVFyZ3N3WkRDWFdHMHFzYzRXQU1lNGFYLWJ1SE80Sk1oeE5mY3ROTkpWaldYZm9vekl3cWViaHNSVFJ4VVI5U2czTzhHMzZWSjRxVGY4cjh5bFBDSHR3Ukh0Y3FBNVZ2Y0JsX3d4MzdxUFNTQWZCSUNVU3FGZm94REoxZVgzRFR0c1RDRlRMM05Nb1JJSjVjZS05TndJOFhoNWpxUDlSbDduSmg4UE1wTVVNRDlxVEpCaFZGNVRfQQ?oc=5",
-        "published": "2026-09-18T02:31:00+00:00",
-        "source": "USA Today"
       }
     ],
     "reason": "Nick Emmanwori, Anthony Bradford questionable to play for Seattle Seahawks against Cardinals - FOX 13 Seattle"
