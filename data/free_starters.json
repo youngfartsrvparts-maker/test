@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:49:28.856602+00:00",
+  "generated_at": "2026-09-20T17:08:44.106017+00:00",
   "league_id": "1388315713940262912",
   "count": 4,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 30648,
+      "adds_24h": 41992,
       "drops_24h": 0,
       "next_game": {
         "week": 2,
@@ -54,19 +54,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 12108,
-      "drops_24h": 17802,
+      "adds_24h": 17058,
+      "drops_24h": 26430,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
         "time": "16:05",
         "home": "LAC",
         "away": "LV",
-        "spread": 6.5,
+        "spread": 7.0,
         "total": 43.5,
         "opponent": "LAC",
         "home_game": false,
-        "implied_team_points": 25.0
+        "implied_team_points": 25.2
       }
     },
     {
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 38528,
-      "drops_24h": 15440,
+      "adds_24h": 57384,
+      "drops_24h": 23400,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
@@ -120,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 374346,
-      "drops_24h": 25480,
+      "adds_24h": 501956,
+      "drops_24h": 37863,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
