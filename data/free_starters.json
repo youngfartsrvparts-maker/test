@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:26:53.975730+00:00",
+  "generated_at": "2026-09-20T21:43:52.890537+00:00",
   "league_id": "1388315713940262912",
   "count": 4,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 42416,
+      "adds_24h": 40662,
       "drops_24h": 0,
       "next_game": {
         "week": 2,
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 19938,
-      "drops_24h": 29148,
+      "adds_24h": 53532,
+      "drops_24h": 29496,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 65128,
-      "drops_24h": 26776,
+      "adds_24h": 65776,
+      "drops_24h": 29640,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
         "time": "16:25",
         "home": "SF",
         "away": "MIA",
-        "spread": 13.5,
+        "spread": 12.5,
         "total": 44.5,
         "opponent": "SF",
         "home_game": false,
-        "implied_team_points": 29.0
+        "implied_team_points": 28.5
       }
     },
     {
@@ -120,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 468559,
-      "drops_24h": 40950,
+      "adds_24h": 396627,
+      "drops_24h": 44303,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
