@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-21T22:40:50.932057+00:00",
+  "generated_at": "2026-09-22T01:09:44.942315+00:00",
   "league_id": "1388315713940262912",
-  "count": 4,
+  "count": 3,
   "players": [
     {
-      "player_id": "7571",
-      "name": "Rashod Bateman",
+      "player_id": "6783",
+      "name": "Jerry Jeudy",
       "pos": "WR",
-      "team": "BAL",
+      "team": "CLE",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -16,24 +16,24 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 9.25,
+      "ppg_2025": 12.65,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 34458,
-      "drops_24h": 0,
+      "adds_24h": 0,
+      "drops_24h": 52848,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
         "time": "13:00",
-        "home": "BAL",
-        "away": "NO",
+        "home": "TB",
+        "away": "CLE",
         "spread": 8.5,
-        "total": 45.5,
-        "opponent": "NO",
-        "home_game": true,
-        "implied_team_points": 18.5
+        "total": 41.5,
+        "opponent": "TB",
+        "home_game": false,
+        "implied_team_points": 25.0
       }
     },
     {
@@ -54,7 +54,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 354198,
+      "adds_24h": 365520,
       "drops_24h": 0,
       "next_game": {
         "week": 2,
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 16952,
-      "drops_24h": 30720,
+      "adds_24h": 16904,
+      "drops_24h": 32816,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
@@ -100,39 +100,6 @@
         "opponent": "SF",
         "home_game": false,
         "implied_team_points": 28.5
-      }
-    },
-    {
-      "player_id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 1.78,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 40376,
-      "drops_24h": 53711,
-      "next_game": {
-        "week": 2,
-        "date": "2026-09-20",
-        "time": "13:00",
-        "home": "HOU",
-        "away": "CIN",
-        "spread": 3.0,
-        "total": 45.5,
-        "opponent": "CIN",
-        "home_game": true,
-        "implied_team_points": 21.2
       }
     }
   ],
