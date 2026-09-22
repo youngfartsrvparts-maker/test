@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -35.2,
+    "hours_to_lock": -39.4,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -107.3,
+    "hours_to_lock": -111.4,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -42.5,
+    "hours_to_lock": -46.7,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -42.5,
+    "hours_to_lock": -46.7,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.5,
+    "hours_to_lock": -43.6,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -42.5,
+    "hours_to_lock": -46.7,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +105,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.1,
+    "hours_to_lock": -43.3,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -121,13 +121,13 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.1,
+    "hours_to_lock": -43.3,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
-    "score": -4,
-    "model_modifier": -1.0,
-    "confidence": 87,
+    "score": -3,
+    "model_modifier": -0.75,
+    "confidence": 80,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
@@ -161,12 +161,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNDZfeHFzQmUxLUkzRkpJcktTaEFsMlJ2bW9nOG5VT09zVUhwLWxxMXROYlUzM1NjTHo0NC0tazFIQlhoWENMMGN4MktKR3RocGZFV2hHWDRGdmp3SzYzRTYzQWNlVHZrQ0Y3LU84ZHE3Z29WTy1HNVBsYmo4V3UzRDBzVVRpTHZwdmszQ3NLOE1zODJtX0tRTWhZcTV5U2VWY1FtLUJDVkxoTkZfc2ZlVWx4VzJGQnd6QUppY0NGM2tFSTdSd0RhejQ0QUx2eFVZ?oc=5",
         "published": "2026-09-18T23:49:24+00:00",
         "source": "San Francisco 49ers"
-      },
-      {
-        "title": "49ers rookie RB Kaelon Black, kicker Eddy Piñeiro questionable vs. Dolphins - NBC Sports Bay Area & California",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDNDOHl5aFNmWnpxQUI1MnhITzRZVjRsT1Z3ajRBMnJjUkoyVnBwME4wUTVVUEVWN1c4aFlPZ1FyUFJKTklMbXhPQU5Wb0dNUXBRMEZvenNKOXlZSVpFdFR4UjM3S3BOQ0FINGxLcmdSUHhiZ0JwSmU4eTJzeGNUUnRfeE5QMjY2SDR3SW15MFNXQ19ITVF3Vks3MHJzSnZFV3pPVU41dGk3Zkxn0gG0AUFVX3lxTE1lVUhtYkFMLUl0Zlo3bGpndU9xdXdZejFZSm5fN1UzOTEzUzNUWGVqY3REOEdwN1c2OFdOcGhGTl9tU0FFMWdIQ2gxLWlsbVFKNHkxTGNXbDZLODkyOG1NQ2xMWExFYkNvMjVZQlVtYVZJeFBlQXd4ZExyajQxaUJaRnlDS1FUNGQtcF9yU0dzQm9LVUZpXzJEU3g2bnQwSERHTFhxZmU3ZXdCVXMtSlBaUEtIbw?oc=5",
-        "published": "2026-09-18T14:13:19+00:00",
-        "source": "NBC Sports Bay Area & California"
       }
     ],
     "reason": "49ers vs. Dolphins final injury report: Eddy Piñeiro, Kaelon Black questionable for Week 2 - 49ers Webzone"
@@ -174,9 +168,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.1,
+    "hours_to_lock": -43.3,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -190,9 +184,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.1,
+    "hours_to_lock": -43.3,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -202,10 +196,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "49ers Get Major George Kittle Injury Update Before Dolphins Game - Yardbarker",
+        "title": "49ers Get Major George Kittle Injury Update Before Dolphins Game - yardbarker.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMG5LMUMwekc3RHBEUDZ1cXZkN29KQ2w3eHdoTzJJNTRTYXlJd0NVaVpXNEdXSzliTUQxT0pfbTFNV09UMndqWEJPbXdsV3F5ZWNDSG01MjFSQ0VXcDc4dndHdGNBMDNZOVlWYUtLVFhoZ2lHRXVranJ1Mi0yWlJxbXpiYUluZFFoTWMyZU9UVTF5UjNYS3R0aTdWMll1VkRtaTNQbnRoRG9xaU5aMks3WHFpc1R2YVIxZ1o4MWlhSQ?oc=5",
         "published": "2026-09-20T13:39:53+00:00",
-        "source": "Yardbarker"
+        "source": "yardbarker.com"
       },
       {
         "title": "Is George Kittle Playing Today? (Injury Update, Betting Impact for Dolphins vs. 49ers in NFL Week 2) - Sports Illustrated",
@@ -214,10 +208,10 @@
         "source": "Sports Illustrated"
       },
       {
-        "title": "George Kittle (Achilles) upgrades to FP, will play - nbcsports.com",
+        "title": "George Kittle (Achilles) upgrades to FP, will play - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlI3bF9mSnlVQld6Zm1RVjR0YUlDRUp1VzMxdU5IeGhRUWFGY3VSMThZcXhsemc3SWR4NmlRNUoweHpQWUhmUHY1al9tdTZ3OVItY1cwNThUM0lpdWJhdTE2eXh6WGFLbXFnNzVOUkJpWkVjTWFHSG9fVGFFRHRYcUNSYno1RHVUaHBJWTNEZGI0SkRYd29FNHpDcEZsYTFOMTBOMmQ1bzMwWnBBMzRrTzE5UQ?oc=5",
         "published": "2026-09-18T22:02:00+00:00",
-        "source": "nbcsports.com"
+        "source": "NBC Sports"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -225,9 +219,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.1,
+    "hours_to_lock": -43.3,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -241,9 +235,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -42.5,
+    "hours_to_lock": -46.7,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -257,9 +251,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -42.5,
+    "hours_to_lock": -46.7,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -273,9 +267,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.1,
+    "hours_to_lock": -43.3,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -289,9 +283,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-22T11:32:56.274502+00:00",
+    "generated_at": "2026-09-22T15:41:14.176937+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -39.1,
+    "hours_to_lock": -43.3,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
