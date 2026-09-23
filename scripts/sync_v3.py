@@ -47,7 +47,11 @@ league=source('league',f'{V1}/league/{LEAGUE}',lambda x:isinstance(x,dict) and x
 rosters=source('rosters',f'{V1}/league/{LEAGUE}/rosters',lambda x:isinstance(x,list) and len(x)==10,read('rosters.json',[]))
 users=source('users',f'{V1}/league/{LEAGUE}/users',lambda x:isinstance(x,list) and any(u.get('user_id')==USER for u in x),read('users.json',[]))
 if not league or len(rosters)!=10 or not any(r.get('owner_id')==USER for r in rosters):raise SystemExit('Correct 10-team league snapshot unavailable; refusing to overwrite dashboard')
-season=str(league.get('season')); week=max(1,min(18,int((league.get('settings') or {}).get('leg') or 1)))
+season=str(league.get('season'))
+nfl_state=source('nfl_state',f'{V1}/state/nfl',lambda x:isinstance(x,dict) and str(x.get('season'))==season,read('nfl_state.json',{})) or {}
+league_week=int((league.get('settings') or {}).get('leg') or 1)
+state_week=int(nfl_state.get('week') or league_week or 1)
+week=max(1,min(18,max(league_week,state_week)))
 
 # Sleeper says the large player map should only be fetched about once per day.
 players=read('players_nfl.json',{}) or {}; cache=read('players_cache_meta.json',{}) or {}
@@ -132,7 +136,40 @@ except Exception as exc:HEALTH['news']={'ok':False,'url':news_url,'checked_at':S
 
 league_out={'id':LEAGUE,'name':league.get('name'),'season':season,'week':week,'slots':league.get('roster_positions') or [],'scoring':league.get('scoring_settings') or {},'settings':league.get('settings') or {}}
 dashboard={'schema':3,'built_at':STAMP,'updated_at':HEALTH['rosters'].get('updated_at'),'league':league_out,'my_team':my,'teams':teams,'players':P,'matchups':matchups,'transactions':transactions,'news':news[:100],'sources':HEALTH,'source_policy':{'fantasy_data':'Sleeper only','external_news':'headlines only','nflverse':False}}
-save('dashboard.json',dashboard); save('league.json',league); save('rosters.json',rosters); save('users.json',users); save('trending_add_v3.json',trend); save('trending_drop_v3.json',drops); save('draft_picks.json',picks); save('matchups.json',matchups); save('transactions.json',transactions)
+# Compact, ChatGPT-friendly live bridge with resolved player names for every roster.
+resolved_teams=[]
+for t in teams:
+    resolved_teams.append({
+        'roster_id':t['id'],
+        'owner':t['owner'],
+        'team_name':t['name'],
+        'record':{'wins':(t.get('settings') or {}).get('wins',0),'losses':(t.get('settings') or {}).get('losses',0),'ties':(t.get('settings') or {}).get('ties',0)},
+        'players':[dict(P.get(pid,{'id':pid,'name':pid}),starter=(pid in set(t.get('starters') or [])),reserve=(pid in set(t.get('reserve') or []))) for pid in t.get('players',[])]
+    })
+bridge={
+    'refreshed_at_utc':STAMP,
+    'league':league_out,
+    'my_roster_id':my,
+    'teams':resolved_teams,
+    'matchups':matchups,
+    'transactions':transactions,
+    'trending_add':trend,
+    'trending_drop':drops,
+    'sources':HEALTH
+}
+status={
+    'ok':True,
+    'league_id':LEAGUE,
+    'season':season,
+    'current_week':week,
+    'league_week':league_week,
+    'nfl_state_week':state_week,
+    'my_roster_id':my,
+    'team_count':len(teams),
+    'refreshed_at_utc':STAMP,
+    'sources':{k:bool(v.get('ok')) for k,v in HEALTH.items()}
+}
+save('dashboard.json',dashboard); save('chatgpt_bridge.json',bridge); save('status.json',status); save('nfl_state.json',nfl_state); save('league.json',league); save('rosters.json',rosters); save('users.json',users); save('trending_add_v3.json',trend); save('trending_drop_v3.json',drops); save('draft_picks.json',picks); save('matchups.json',matchups); save('transactions.json',transactions)
 if stats:save('stats_week_v3.json',stats)
 if proj:save('projections_week_v3.json',proj)
 if season_stats:save('stats_season_v3.json',season_stats)
