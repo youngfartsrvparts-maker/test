@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-09-23T00:28:26.054037+00:00",
+  "generated_at": "2026-09-23T05:00:01.961292+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
-    {
-      "player_id": "6783",
-      "name": "Jerry Jeudy",
-      "pos": "WR",
-      "team": "CLE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 12.65,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 110133,
-      "next_game": {
-        "week": 2,
-        "date": "2026-09-20",
-        "time": "13:00",
-        "home": "TB",
-        "away": "CLE",
-        "spread": 8.5,
-        "total": 41.5,
-        "opponent": "TB",
-        "home_game": false,
-        "implied_team_points": 25.0
-      }
-    },
     {
       "player_id": "10213",
       "name": "Tre Tucker",
@@ -54,7 +21,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 1015020,
+      "adds_24h": 1087566,
       "drops_24h": 0,
       "next_game": {
         "week": 2,
@@ -87,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 85864,
-      "drops_24h": 94520,
+      "adds_24h": 107656,
+      "drops_24h": 111896,
       "next_game": {
         "week": 2,
         "date": "2026-09-20",
@@ -100,6 +67,39 @@
         "opponent": "SF",
         "home_game": false,
         "implied_team_points": 28.5
+      }
+    },
+    {
+      "player_id": "13346",
+      "name": "Denzel Boston",
+      "pos": "WR",
+      "team": "CLE",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 584928,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 2,
+        "date": "2026-09-20",
+        "time": "13:00",
+        "home": "TB",
+        "away": "CLE",
+        "spread": 8.5,
+        "total": 41.5,
+        "opponent": "TB",
+        "home_game": false,
+        "implied_team_points": 25.0
       }
     }
   ],
