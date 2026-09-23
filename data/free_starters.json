@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-09-23T05:00:01.961292+00:00",
+  "generated_at": "2026-09-23T09:48:11.699345+00:00",
   "league_id": "1388315713940262912",
-  "count": 3,
+  "count": 1,
   "players": [
-    {
-      "player_id": "10213",
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "team": "LV",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 7.01,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 1087566,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 2,
-        "date": "2026-09-20",
-        "time": "16:05",
-        "home": "LAC",
-        "away": "LV",
-        "spread": 6.5,
-        "total": 43.5,
-        "opponent": "LAC",
-        "home_game": false,
-        "implied_team_points": 25.0
-      }
-    },
     {
       "player_id": "11610",
       "name": "Malik Washington",
@@ -54,52 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 107656,
-      "drops_24h": 111896,
+      "adds_24h": 119376,
+      "drops_24h": 121512,
       "next_game": {
-        "week": 2,
-        "date": "2026-09-20",
-        "time": "16:25",
-        "home": "SF",
-        "away": "MIA",
-        "spread": 12.5,
-        "total": 44.5,
-        "opponent": "SF",
-        "home_game": false,
-        "implied_team_points": 28.5
-      }
-    },
-    {
-      "player_id": "13346",
-      "name": "Denzel Boston",
-      "pos": "WR",
-      "team": "CLE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 584928,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 2,
-        "date": "2026-09-20",
+        "week": 3,
+        "date": "2026-09-27",
         "time": "13:00",
-        "home": "TB",
-        "away": "CLE",
-        "spread": 8.5,
-        "total": 41.5,
-        "opponent": "TB",
-        "home_game": false,
-        "implied_team_points": 25.0
+        "home": "MIA",
+        "away": "KC",
+        "spread": -11.5,
+        "total": 46.5,
+        "opponent": "KC",
+        "home_game": true,
+        "implied_team_points": 29.0
       }
     }
   ],
