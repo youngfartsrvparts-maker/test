@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/sync_v3.py'
+      - 'TRIGGER_SYNC.txt'
       - 'scripts/nflverse_history.py'
       - 'scripts/elite_enrich.py'
       - 'scripts/context_enrich.py'
