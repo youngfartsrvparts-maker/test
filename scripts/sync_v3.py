@@ -96,26 +96,57 @@ for m in matchups:
     for pid,pts in (m.get('players_points') or {}).items():
         if str(pid) in P:P[str(pid)]['actual']=pts
 
-# Sleeper's stats/projection feeds are used only when the expected fantasy fields are present.
-# They are not part of the core documented V1 league API, so their health is shown in the app.
-def valid_stat_map(x,field):return isinstance(x,dict) and sum(1 for v in x.values() if isinstance(v,dict) and field in v)>=20
-stats_url=f'{SLEEPER_DATA}/stats/nfl/regular/{season}/{week}'
-stats=source('stats',stats_url,lambda x:valid_stat_map(x,'pts_ppr'),read('stats_week_v3.json',{})) or {}
-proj_url=f'{SLEEPER_DATA}/projections/nfl/regular/{season}/{week}'
-proj=source('projections',proj_url,lambda x:valid_stat_map(x,'pts_ppr'),read('projections_week_v3.json',{})) or {}
-# Optional season totals, useful after Week 1. If unavailable, weekly data remains the source of truth.
-season_stats_url=f'{SLEEPER_DATA}/stats/nfl/regular/{season}'
-season_stats=source('season_stats',season_stats_url,lambda x:isinstance(x,dict),read('stats_season_v3.json',{})) or {}
+# Sleeper stats/projections are an undocumented app feed. In 2026 the useful
+# shape is a LIST of rows from api.sleeper.com with season_type/order_by query
+# parameters, not the older dict keyed by player id. Normalize both shapes.
+def normalize_rows(x):
+    if isinstance(x,dict):
+        return {str(k):v for k,v in x.items() if isinstance(v,dict)}
+    out={}
+    if isinstance(x,list):
+        for row in x:
+            if not isinstance(row,dict): continue
+            pid=row.get('player_id') or (row.get('player') or {}).get('player_id')
+            if pid is not None:
+                # Sleeper nests the actual stat line under stats on some responses.
+                stats_obj=row.get('stats') if isinstance(row.get('stats'),dict) else {}
+                merged={**row,**stats_obj}
+                out[str(pid)]=merged
+    return out
+
+def fetch_sleeper_board(kind, season, week=None):
+    suffix=f'{season}' + (f'/{week}' if week is not None else '')
+    qs='season_type=regular&position[]=DEF&position[]=K&position[]=QB&position[]=RB&position[]=TE&position[]=WR&order_by=pts_ppr'
+    urls=[
+        f'{SLEEPER_DATA}/{kind}/nfl/{suffix}?{qs}',
+        f'{V1}/{kind}/nfl/regular/{season}' + (f'/{week}' if week is not None else ''),
+    ]
+    previous=read(('stats' if kind=='stats' else 'projections') + ('_week_v3.json' if week is not None else '_season_v3.json'),{}) or {}
+    for url in urls:
+        try:
+            raw=getj(url); norm=normalize_rows(raw)
+            real=sum(1 for v in norm.values() if isinstance(v,dict) and (v.get('pts_ppr') is not None or v.get('gp') is not None or v.get('rec') is not None or v.get('rush_att') is not None or v.get('pass_att') is not None))
+            if real>=20:
+                HEALTH[kind if week is not None else 'season_stats']={'ok':True,'url':url,'checked_at':STAMP,'updated_at':STAMP,'retained':False,'rows':len(norm),'real_rows':real}
+                return norm
+        except Exception as exc:
+            last=str(exc)[:220]
+    key=kind if week is not None else 'season_stats'
+    HEALTH[key]={'ok':False,'url':urls[0],'checked_at':STAMP,'updated_at':None,'retained':bool(previous),'note':locals().get('last','No usable rows')}
+    return previous
+
+stats=fetch_sleeper_board('stats',season,week)
+proj=fetch_sleeper_board('projections',season,week)
+season_stats=fetch_sleeper_board('stats',season,None)
 for pid,p in P.items():
     s=stats.get(pid)
-    if isinstance(s,dict):p['stats']=s; p['actual']=s.get('pts_ppr',p['actual'])
+    if isinstance(s,dict):
+        p['stats']=s; p['actual']=s.get('pts_ppr',p['actual'])
     ss=season_stats.get(pid)
-    if isinstance(ss,dict) and ss.get('pts_ppr') is not None:p['season_stats']=ss
+    if isinstance(ss,dict): p['season_stats']=ss
     pr=proj.get(pid)
-    if isinstance(pr,dict) and pr.get('pts_ppr') is not None:p['projection']=pr.get('pts_ppr'); p['projected_stats']=pr
-HEALTH['stats']['note']='Sleeper weekly stats feed validated by pts_ppr coverage; not the documented core V1 league endpoint.'
-HEALTH['projections']['note']='Sleeper weekly projections validated by pts_ppr coverage; estimates only, never treated as outcomes.'
-HEALTH['season_stats']['note']='Sleeper season-total stats feed; optional, and never substituted with another NFL data repository.'
+    if isinstance(pr,dict) and pr.get('pts_ppr') is not None:
+        p['projection']=pr.get('pts_ppr'); p['projected_stats']=pr
 
 # External headlines only. They are context, not a stats source and never alter scores automatically.
 news=[]; news_url='https://news.google.com/rss/search?q=NFL+fantasy+football+injury+waiver+when:7d&hl=en-US&gl=US&ceid=US:en'
