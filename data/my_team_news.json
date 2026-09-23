@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -45.8,
+    "hours_to_lock": -48.1,
     "kickoff_utc": "2026-09-21T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -14,10 +14,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Will Rashee Rice play today? Status update for Chiefs WR in Week 2 - Chiefs Wire",
+        "title": "Will Rashee Rice play today? Status update for Chiefs WR in Week 2 - chiefswire.usatoday.com",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWW1xY1p6S2ZUWHBLQWx1dXlNRG1QVW8zbS1aa1UzV0l3ZDdIeVJ5YlNRMjM4bFJPaTJkOE1TUUlWWXVmeUhLc3ZBbV9ULTBDY0gtbGRVS1hEWWpJYlRJQzRUbno3Z0lEcEl1elpJc2dQam8xMV8xZnhHRUswZXE5elF0QnBlZkxqcGp1d3dGUEZLaC1hcnV4a18xYUJXS1hfc3gzMkF1YzM0Y3cyQmdmYXdWeUFEd3FqWUR5VFY4Z0U5QXRkVTFxM1lUalo5WkNhYTlXRHNIT25HbVpWQW1WQUxlRVYwaVdDSW00Q3UzVlRFNXQzTWZVLWtmZFhVREs5UnBRcQ?oc=5",
         "published": "2026-09-20T12:15:00+00:00",
-        "source": "Chiefs Wire"
+        "source": "chiefswire.usatoday.com"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -117.8,
+    "hours_to_lock": -120.2,
     "kickoff_utc": "2026-09-18T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "11564",
     "name": "Drake Maye",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -53.1,
+    "hours_to_lock": -55.5,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -53.1,
+    "hours_to_lock": -55.5,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -50.0,
+    "hours_to_lock": -52.4,
     "kickoff_utc": "2026-09-20T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -53.1,
+    "hours_to_lock": -55.5,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +105,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.7,
+    "hours_to_lock": -52.1,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -121,14 +121,14 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.7,
+    "hours_to_lock": -52.1,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
-    "score": -3,
-    "model_modifier": -0.75,
-    "confidence": 80,
-    "label": "Negative availability signal",
+    "score": -2,
+    "model_modifier": -0.5,
+    "confidence": 73,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
@@ -151,16 +151,10 @@
         "source": "Ventura County Star"
       },
       {
-        "title": "Kaelon Black (groin) questionable to play Sunday - FantasyPros",
+        "title": "Kaelon Black (groin) questionable to play Sunday - fantasypros.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNenl4djBwLWctVG54c25WR0RGc203Sy12N1ZmcWRJSHlzZHdhZ3FvQ2hPVGp4VjlHZVQ0MEswVG1lV2dScnNCTXNIWUxpYzZ5NzRFQ3lhUHMxQmdsYVJqb2FjOGV5djBQUUJ6SW5udmVkYUU5dWd4UzRSWnJpU0xGUEVnUVR5QTE1aEt2M0VOMmJIYzFnV2NQLUV30gGfAUFVX3lxTE16ZmtKN2JSbWYxQmtQb0Z3ek9Jalg4UHpkU1dEamhMUGtWQWhQZ0FtU21HX2V6TGU3WEdTV2RxRXE2N280ZHA1aUFCWEEzdVpJeG1VcnpVcEEtOVFfT1c0X2FQeTQtLUNPbUU1ZEVVcDJkS2JLWU9lOWlndFFSS0dNYjlKVGZGdUs5U1FFX0ZqSmpYTUF1UTZ3R3hUNXVNQQ?oc=5",
         "published": "2026-09-19T04:10:41+00:00",
-        "source": "FantasyPros"
-      },
-      {
-        "title": "De'Zhaun Stribling OUT, Kaelon Black and Eddy Piñeiro Questionable vs. Dolphins; Injury Report Ahead of #MIAvsSF - San Francisco 49ers",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNDZfeHFzQmUxLUkzRkpJcktTaEFsMlJ2bW9nOG5VT09zVUhwLWxxMXROYlUzM1NjTHo0NC0tazFIQlhoWENMMGN4MktKR3RocGZFV2hHWDRGdmp3SzYzRTYzQWNlVHZrQ0Y3LU84ZHE3Z29WTy1HNVBsYmo4V3UzRDBzVVRpTHZwdmszQ3NLOE1zODJtX0tRTWhZcTV5U2VWY1FtLUJDVkxoTkZfc2ZlVWx4VzJGQnd6QUppY0NGM2tFSTdSd0RhejQ0QUx2eFVZ?oc=5",
-        "published": "2026-09-18T23:49:24+00:00",
-        "source": "San Francisco 49ers"
+        "source": "fantasypros.com"
       }
     ],
     "reason": "49ers vs. Dolphins final injury report: Eddy Piñeiro, Kaelon Black questionable for Week 2 - 49ers Webzone"
@@ -168,9 +162,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.7,
+    "hours_to_lock": -52.1,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -184,9 +178,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.7,
+    "hours_to_lock": -52.1,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -213,9 +207,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.7,
+    "hours_to_lock": -52.1,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -229,9 +223,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -53.1,
+    "hours_to_lock": -55.5,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -245,9 +239,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -53.1,
+    "hours_to_lock": -55.5,
     "kickoff_utc": "2026-09-20T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -261,9 +255,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.7,
+    "hours_to_lock": -52.1,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -277,9 +271,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-22T22:05:07.584632+00:00",
+    "generated_at": "2026-09-23T00:28:24.350973+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.7,
+    "hours_to_lock": -52.1,
     "kickoff_utc": "2026-09-20T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
