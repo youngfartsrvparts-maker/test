@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -14,10 +14,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Will Rashee Rice play today? Status update for Chiefs WR in Week 2 - chiefswire.usatoday.com",
+        "title": "Will Rashee Rice play today? Status update for Chiefs WR in Week 2 - Chiefs Wire",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWW1xY1p6S2ZUWHBLQWx1dXlNRG1QVW8zbS1aa1UzV0l3ZDdIeVJ5YlNRMjM4bFJPaTJkOE1TUUlWWXVmeUhLc3ZBbV9ULTBDY0gtbGRVS1hEWWpJYlRJQzRUbno3Z0lEcEl1elpJc2dQam8xMV8xZnhHRUswZXE5elF0QnBlZkxqcGp1d3dGUEZLaC1hcnV4a18xYUJXS1hfc3gzMkF1YzM0Y3cyQmdmYXdWeUFEd3FqWUR5VFY4Z0U5QXRkVTFxM1lUalo5WkNhYTlXRHNIT25HbVpWQW1WQUxlRVYwaVdDSW00Q3UzVlRFNXQzTWZVLWtmZFhVREs5UnBRcQ?oc=5",
         "published": "2026-09-20T12:15:00+00:00",
-        "source": "chiefswire.usatoday.com"
+        "source": "Chiefs Wire"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -25,25 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
-    "kickoff_utc": "2026-09-27T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
-    "player_id": "11564",
-    "name": "Drake Maye",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +41,9 @@
   {
     "player_id": "11581",
     "name": "MarShawn Lloyd",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.7,
+    "hours_to_lock": 29.6,
     "kickoff_utc": "2026-09-25T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +57,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +73,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,10 +89,26 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
+    "player_id": "12545",
+    "name": "Tyler Shough",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 97.8,
+    "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -121,9 +121,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -137,44 +137,32 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 101.5,
+    "hours_to_lock": 97.5,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
-    "score": 1,
-    "model_modifier": 0.25,
-    "confidence": 66,
-    "label": "Positive/clear signal",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 52,
+    "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "49ers RB Kaelon Black expected to play vs. Dolphins - 49ers Webzone",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54WnE2NFBRM1dBM2Z5bUYxWElfOV91WjJsT3E0MGNOLU1HNkFocjZ6TTVQcTZ1TWpKbm1zbU1DZ3pDSDFQb0FvVXlLYnVYMWpudVJWZE01MVg?oc=5",
-        "published": "2026-09-20T13:32:55+00:00",
-        "source": "49ers Webzone"
-      },
       {
         "title": "Is Kaelon Black Playing Today? Latest 49ers-Dolphins Injury Update - heavy.com",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMk1DeV9ubVgzZVRyZG8zRFAxUllPZ3NXWDZxVEVqbl9ROVRHLWc2RGtDVTU1SFFfWk5yV3FCSHUxZ3laVWpmeWxWOWhyanlQR0dmR0hFYlhVZ2xIajVrR2dldjllYTEyempUS2RBZmdWQXk0UGJvbDhxUUZHa3BNQzBQYWxqM2tTVXBGaHlIZVZjT2p1Z0E?oc=5",
         "published": "2026-09-20T12:28:39+00:00",
         "source": "heavy.com"
-      },
-      {
-        "title": "Kaelon Black injury update: Will 49ers RB play vs. Dolphins? - Niners Wire",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnJLZVhnYmdRQzduRjdPaVhubXhxSWRSelc1b0toM245a3NHRHBSVjctSE9SWWhYWF9oNDVEVUVGYWZDUENnRkhPLS1uZFpRYVE4d1FabGlROHpJakVfTlJMSmxPVkVlaDl2Y3VLVzFXRW5QQklrZk11eUtqWHU4MGhrOVlLUXZMc0h6cDQ5cjVPaVpDZDEwdlJRdjRDdXQ4d1E2a1ktUmZFZHRWc3dpVUhrbFlidDVzLXlsV0tn?oc=5",
-        "published": "2026-09-19T17:58:00+00:00",
-        "source": "Niners Wire"
       }
     ],
-    "reason": "49ers RB Kaelon Black expected to play vs. Dolphins - 49ers Webzone"
+    "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -188,32 +176,25 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 101.5,
+    "hours_to_lock": 97.5,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Is George Kittle Playing Today? (Injury Update, Betting Impact for Dolphins vs. 49ers in NFL Week 2) - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSF9xNjBacldQVHhPX1MwUlRtRmJoSkhQcGpfZXhZelc0clVabFZnVjNsMlFFZWhSTF8wdlRtdWM3T2V2M1BrQ1VmRFJZc0J3Q0dhMzZnUlRhQWZBVmFiMXpMLUF5dEh0cXRjdU93SkF3X24tYkVtLWdwZURsX3dnSi1leWN2YU5penBQSi1nalRYNEtKc0xfQld1VWx2RHpOMVNvdWU5d2ItbFB6SkVr?oc=5",
-        "published": "2026-09-20T08:25:00+00:00",
-        "source": "Sports Illustrated"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 101.9,
+    "hours_to_lock": 97.8,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -227,9 +208,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.7,
+    "hours_to_lock": 29.6,
     "kickoff_utc": "2026-09-25T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +224,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -259,9 +240,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-23T14:33:06.183964+00:00",
+    "generated_at": "2026-09-23T18:37:30.692802+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.4,
+    "hours_to_lock": 94.4,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
