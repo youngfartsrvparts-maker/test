@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:07:06.606835+00:00",
+  "generated_at": "2026-09-24T04:43:31.479147+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 103248,
-      "drops_24h": 314586,
+      "adds_24h": 112014,
+      "drops_24h": 215433,
       "next_game": {
         "week": 3,
         "date": "2026-09-24",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 86688,
-      "drops_24h": 68712,
+      "adds_24h": 76608,
+      "drops_24h": 53912,
       "next_game": {
         "week": 3,
         "date": "2026-09-27",
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 155408,
-      "drops_24h": 105360,
+      "adds_24h": 142280,
+      "drops_24h": 77208,
       "next_game": {
         "week": 3,
         "date": "2026-09-27",
         "time": "13:00",
         "home": "MIA",
         "away": "KC",
-        "spread": -11.5,
+        "spread": -10.5,
         "total": 46.5,
         "opponent": "KC",
         "home_game": true,
-        "implied_team_points": 29.0
+        "implied_team_points": 28.5
       }
     }
   ],

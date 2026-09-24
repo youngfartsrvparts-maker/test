@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -31,9 +31,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -47,9 +47,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -63,9 +63,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -79,9 +79,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -95,9 +95,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.3,
+    "hours_to_lock": 87.7,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -111,9 +111,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -127,9 +127,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.0,
+    "hours_to_lock": 87.4,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -139,10 +139,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Eddy Piñeiro, Kaelon Black Available vs. Dolphins; Inactives for Week 2 #MIAvsSF - San Francisco 49ers",
+        "title": "Eddy Piñeiro, Kaelon Black Available vs. Dolphins; Inactives for Week 2 #MIAvsSF - 49ers.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2pkQk5WdHF6V3VDSTYtRGdjVlJOUWtmMjJQSHFsT29kUzhfaDNlUFBkTzFIbHFtRmpsRHBoaHN0WVJaOVV4dHFzTU5nbVdaa19wcVh4clQ0UnBrMHBtVGdnb0I5dmRiaVlnNzZaRXRaSkRfZlczYWg5VGk2bWVDUkFFdXoyN2xHdDJtMGFTUll5QW5vdHZlNGhqMkc5MDVGdVJ2RnZB?oc=5",
         "published": "2026-09-20T19:15:40+00:00",
-        "source": "San Francisco 49ers"
+        "source": "49ers.com"
       },
       {
         "title": "49ers vs. Dolphins: Kaelon Black among 3 RBs active for San Francisco - Niners Wire",
@@ -157,30 +157,37 @@
         "source": "Niner Noise"
       }
     ],
-    "reason": "Eddy Piñeiro, Kaelon Black Available vs. Dolphins; Inactives for Week 2 #MIAvsSF - San Francisco 49ers"
+    "reason": "Eddy Piñeiro, Kaelon Black Available vs. Dolphins; Inactives for Week 2 #MIAvsSF - 49ers.com"
   },
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.0,
+    "hours_to_lock": 87.4,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Is George Kittle Playing Today? (Injury Update, Betting Impact for Dolphins vs. 49ers in NFL Week 2) - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSF9xNjBacldQVHhPX1MwUlRtRmJoSkhQcGpfZXhZelc0clVabFZnVjNsMlFFZWhSTF8wdlRtdWM3T2V2M1BrQ1VmRFJZc0J3Q0dhMzZnUlRhQWZBVmFiMXpMLUF5dEh0cXRjdU93SkF3X24tYkVtLWdwZURsX3dnSi1leWN2YU5penBQSi1nalRYNEtKc0xfQld1VWx2RHpOMVNvdWU5d2ItbFB6SkVr?oc=5",
+        "published": "2026-09-20T08:25:00+00:00",
+        "source": "Sports Illustrated"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.3,
+    "hours_to_lock": 87.7,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -201,9 +208,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -217,9 +224,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.1,
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.5,
     "kickoff_utc": "2026-09-25T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -233,9 +240,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -249,9 +256,9 @@
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 120.1,
+    "hours_to_lock": 115.5,
     "kickoff_utc": "2026-09-29T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -265,17 +272,24 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-24T00:07:04.847449+00:00",
+    "generated_at": "2026-09-24T04:43:29.530072+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.9,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Sam Darnold, Jadarian Price limited in practice for Seattle Seahawks - FOX 13 Seattle",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWE1mU0huWHp0N254cGxPZjVUUHYtbnBlS0RVRjg2YWZ3anZKdF9uVTBLWjZCa1ZmSzI1eTFhamNicmNTTVNmZEM5elduQlU1ZzRKS2pHUWthNnI4ZzhQZE9BVXNVM0ZrSVdPSW15d0xCUE5zQXJBZWctcFptazF5NQ?oc=5",
+        "published": "2026-09-24T00:41:32+00:00",
+        "source": "FOX 13 Seattle"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   }
 ]
