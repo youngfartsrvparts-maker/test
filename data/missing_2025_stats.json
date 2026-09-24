@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T04:43:28.399498+00:00",
+  "generated_at": "2026-09-24T09:33:29.903362+00:00",
   "season": "2025",
-  "missing_count": 726,
+  "missing_count": 722,
   "players": [
     {
       "player_id": "11533",
@@ -247,15 +247,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "11579",
-      "name": "Audric Estime",
-      "pos": "RB",
-      "team": "NO",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "13301",
       "name": "Antonio Williams",
       "pos": "WR",
@@ -481,30 +472,12 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "13805",
-      "name": "E.J. Williams",
-      "pos": "WR",
-      "team": "CAR",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "11647",
       "name": "Kimani Vidal",
       "pos": "RB",
       "team": "LAC",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "6045",
-      "name": "Gary Jennings",
-      "pos": "WR",
-      "team": "LAC",
-      "sleeper_gsis_id": "00-0035589",
-      "rookie_year": "2019",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -2119,15 +2092,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "8157",
-      "name": "Bailey Zappe",
-      "pos": "QB",
-      "team": "NYJ",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "8223",
       "name": "Velus Jones",
       "pos": "WR",
@@ -2206,6 +2170,15 @@
       "team": "SEA",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12909",
+      "name": "Eli Pancol",
+      "pos": "WR",
+      "team": "IND",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3361,15 +3334,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "14041",
-      "name": "Anderson Castle",
-      "pos": "RB",
-      "team": "IND",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "13429",
       "name": "Seydou Traore",
       "pos": "TE",
@@ -3914,6 +3878,15 @@
       "name": "Cameron Dorner",
       "pos": "WR",
       "team": "NE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "14058",
+      "name": "Malick Meiga",
+      "pos": "WR",
+      "team": "SEA",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
@@ -5519,15 +5492,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "14038",
-      "name": "Trayvon Rudolph",
-      "pos": "WR",
-      "team": "MIN",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
       "player_id": "13278",
