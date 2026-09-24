@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,25 +57,50 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 73,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Browns Add Quinshon Judkins to Injury Report Over ‘Personal’ Issue - heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXEtMnlrQWxjZ0NCdVp4NURuRHVFRFVGVlRPMkhOb21KY2tvZnJFN2ttWGZWVEJ1enZjWlRDWkJYdjVlMHRHclZ3Mnpua0g3YmZfUUJCa3pDa3lYSVFFNlNkbVN2WnZQR3FyZW1Edi1YNjdnVENkLVBvYnZNRnNjUm9HN25oUkRiNUZaQzJCU2JVU1dNbExN?oc=5",
+        "published": "2026-09-24T20:58:20+00:00",
+        "source": "heavy.com"
+      },
+      {
+        "title": "Browns' Quinshon Judkins: Limited for personal reasons Thursday - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWZIWjNVby1vNXVGbmkzaHI5RnhtbW81QjZLVDZLTjZZSldCUUhhd29EZHhoSmdNRFA5a0hmeGQwSzB4dUx6TzlpM3N1WHgwdmd4OWJZU01Nbm9PVUFDQ1A3dEhqWVlJdVpIRGRsZkxaaU5qUUZOdlVhdTFrVnc5U0FGZGxoNUxnS1VZRlc1ZE9vSFNXSWRrZWRLRENhUGx4ekl0Z2J5YjNmdy1nb0VB?oc=5",
+        "published": "2026-09-24T20:35:32+00:00",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Quinshon Judkins (personal) limited at practice on Thursday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckhiTFpvM0p6UW4yMlMwUno3NDIwZ3Zkb3dmQ3Fydzczd2dqX2d0TzlVNWFDS2FxRlVGM1BXZzZtWWlheXM5bjZBWnd4bnMtUllON0dUZGZxckpEbHQ3T2ZpT3N4WmZ0Z3FGN1dwQjVNSWVnTEVXQVFON283cFdkMVVuMlctN2lJX2VKZnJOU3Y3VlNqNmJMQzh1WUZKQ000dmtBRtIBqgFBVV95cUxOdnZvTXVjTE1BWms3Z25INkxSYm9fNTdNU2hZMDJweGx3RTZNRk8xT0t2Y0JuQVlLWnhRTEQyblVfSHdqU2NTUWtUbGJ1Q3lQWFRJZ3R3YWlrQ3ptTGlEbXJFS2Q3Y3NlR0QxaXVoNHQ1SFcxSTI0Z29QR2hzUV8yeW9JU0VfbElaMG5oMWMxZllBTlRZVlZlYjA2S2dDTkJreTIxaFByOGxadw?oc=5",
+        "published": "2026-09-24T20:18:19+00:00",
+        "source": "FantasyPros"
+      },
+      {
+        "title": "Quinshon Judkins listed as limited - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTZvSVR1NXRwVDZXVjkyQXNDa0VTbVZORTFfVTY1cXRqWE5fblNqUmdoSkE5bXE2MHM1UGNyTlRORF9SV1c2dlM4bVNqNW5tNnhudFp3dXJrWmVCWE1ydVRNZUJYV3A0WXVaOGp4MWVqQVpBLW12OWJPSUcwVXI1TGFfTUZuZ0k?oc=5",
+        "published": "2026-09-24T20:08:24+00:00",
+        "source": "Yahoo Sports"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +114,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 70.6,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +130,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -121,44 +146,25 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.6,
+    "hours_to_lock": 70.3,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 66,
-    "label": "Some availability risk",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Eddy Piñeiro, Kaelon Black Available vs. Dolphins; Inactives for Week 2 #MIAvsSF - San Francisco 49ers",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2pkQk5WdHF6V3VDSTYtRGdjVlJOUWtmMjJQSHFsT29kUzhfaDNlUFBkTzFIbHFtRmpsRHBoaHN0WVJaOVV4dHFzTU5nbVdaa19wcVh4clQ0UnBrMHBtVGdnb0I5dmRiaVlnNzZaRXRaSkRfZlczYWg5VGk2bWVDUkFFdXoyN2xHdDJtMGFTUll5QW5vdHZlNGhqMkc5MDVGdVJ2RnZB?oc=5",
-        "published": "2026-09-20T19:15:40+00:00",
-        "source": "San Francisco 49ers"
-      },
-      {
-        "title": "49ers vs. Dolphins: Kaelon Black among 3 RBs active for San Francisco - Niners Wire",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkxhcDlxWGFNNURDSWxPNHNaX3h3R0N3Z013VU9FNE5vdC1mVjNPcS0wM0pETG4tZTZtZzlYWXpEOU01M3NWMWM4YWFEc2U4YzZPVTJZUHppVE5uMTJmenZnY05XbzRfejNsbHV6dDVyYTJ3cy1aV3M4SUlrMjJ6M3BRUGEyclBZWkRzQl9oTUs0eVpscDdWQko3SDZsWGhLd1VkYTVzUlQxcGxLQTVOREpaN1BOQ09SZXFOX1owSGN5Q0xJYkJN?oc=5",
-        "published": "2026-09-20T19:12:00+00:00",
-        "source": "Niners Wire"
-      },
-      {
-        "title": "Kaelon Black active for 49ers vs. Dolphins is secretly good news for 2nd-year pro - Niner Noise",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGZjdFhIdEJNN3hnRndIX056WEtlVHIxLVhTaUtkNlF5VllYWk4tNmtnSXlFYmY1ZThIOGE3QjdrVzRiNk5nbGlpM2kyYXJYZGM0b2psMHA0XzhZZk1fRmg5OUp2OXlDVi11cFBTU3lQd1RwS1M0REN0cVEwWW42cHAzUXJ2bEZJczRKaE15Njh4M3M?oc=5",
-        "published": "2026-09-20T19:08:36+00:00",
-        "source": "Niner Noise"
-      }
-    ],
-    "reason": "Eddy Piñeiro, Kaelon Black Available vs. Dolphins; Inactives for Week 2 #MIAvsSF - San Francisco 49ers"
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.6,
+    "hours_to_lock": 70.3,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -172,9 +178,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 70.6,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -195,9 +201,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -211,9 +217,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 5.7,
+    "hours_to_lock": 2.5,
     "kickoff_utc": "2026-09-25T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -227,9 +233,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +249,9 @@
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 101.7,
+    "hours_to_lock": 98.5,
     "kickoff_utc": "2026-09-29T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -259,9 +265,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-24T18:30:52.761330+00:00",
+    "generated_at": "2026-09-24T21:47:53.652094+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.5,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,

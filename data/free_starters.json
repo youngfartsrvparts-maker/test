@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:30:55.230329+00:00",
+  "generated_at": "2026-09-24T21:47:55.568355+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,16 +21,16 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 85896,
-      "drops_24h": 88380,
+      "adds_24h": 78003,
+      "drops_24h": 80109,
       "next_game": {
         "week": 3,
         "date": "2026-09-24",
         "time": "20:15",
         "home": "GB",
         "away": "ATL",
-        "spread": 4.5,
-        "total": 42.5,
+        "spread": 5.5,
+        "total": 43.5,
         "opponent": "ATL",
         "home_game": true,
         "implied_team_points": 19.0
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 45088,
-      "drops_24h": 27200,
+      "adds_24h": 40416,
+      "drops_24h": 23608,
       "next_game": {
         "week": 3,
         "date": "2026-09-27",
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 88808,
-      "drops_24h": 34136,
+      "adds_24h": 79760,
+      "drops_24h": 29456,
       "next_game": {
         "week": 3,
         "date": "2026-09-27",
         "time": "13:00",
         "home": "MIA",
         "away": "KC",
-        "spread": -11.5,
+        "spread": -10.5,
         "total": 45.5,
         "opponent": "KC",
         "home_game": true,
-        "implied_team_points": 28.5
+        "implied_team_points": 28.0
       }
     }
   ],
