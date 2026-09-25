@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T04:52:40.494296+00:00",
+  "generated_at": "2026-09-25T09:55:24.812509+00:00",
   "season": "2025",
-  "missing_count": 722,
+  "missing_count": 724,
   "players": [
     {
       "player_id": "11533",
@@ -478,6 +478,15 @@
       "team": "LAC",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "6045",
+      "name": "Gary Jennings",
+      "pos": "WR",
+      "team": "LAC",
+      "sleeper_gsis_id": "00-0035589",
+      "rookie_year": "2019",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -4400,6 +4409,15 @@
       "name": "Raheim Sanders",
       "pos": "RB",
       "team": "CLE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12865",
+      "name": "AJ Henning",
+      "pos": "WR",
+      "team": "MIA",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
