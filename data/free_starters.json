@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T14:52:43.292096+00:00",
+  "generated_at": "2026-09-25T19:02:16.737201+00:00",
   "league_id": "1388315713940262912",
-  "count": 3,
+  "count": 2,
   "players": [
     {
       "player_id": "11581",
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 58437,
-      "drops_24h": 161136,
+      "adds_24h": 46368,
+      "drops_24h": 179523,
       "next_game": {
         "week": 3,
         "date": "2026-09-24",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 35368,
-      "drops_24h": 21120,
+      "adds_24h": 33264,
+      "drops_24h": 19448,
       "next_game": {
         "week": 3,
         "date": "2026-09-27",
@@ -67,39 +67,6 @@
         "opponent": "JAX",
         "home_game": false,
         "implied_team_points": 24.2
-      }
-    },
-    {
-      "player_id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 4.73,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 77736,
-      "drops_24h": 26072,
-      "next_game": {
-        "week": 3,
-        "date": "2026-09-27",
-        "time": "13:00",
-        "home": "MIA",
-        "away": "KC",
-        "spread": -10.5,
-        "total": 45.5,
-        "opponent": "KC",
-        "home_game": true,
-        "implied_team_points": 28.0
       }
     }
   ],
