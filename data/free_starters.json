@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T05:30:25.228667+00:00",
+  "generated_at": "2026-09-26T10:14:48.430347+00:00",
   "league_id": "1388315713940262912",
-  "count": 2,
+  "count": 3,
   "players": [
     {
       "player_id": "11581",
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 14643,
-      "drops_24h": 145035,
+      "adds_24h": 14076,
+      "drops_24h": 127296,
       "next_game": {
         "week": 3,
         "date": "2026-09-24",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 23624,
-      "drops_24h": 12104,
+      "adds_24h": 22736,
+      "drops_24h": 11536,
       "next_game": {
         "week": 3,
         "date": "2026-09-27",
@@ -67,6 +67,39 @@
         "opponent": "JAX",
         "home_game": false,
         "implied_team_points": 24.8
+      }
+    },
+    {
+      "player_id": "10218",
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "team": "HOU",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 1.78,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 63560,
+      "drops_24h": 15001,
+      "next_game": {
+        "week": 3,
+        "date": "2026-09-27",
+        "time": "13:00",
+        "home": "IND",
+        "away": "HOU",
+        "spread": -1.5,
+        "total": 42.5,
+        "opponent": "IND",
+        "home_game": false,
+        "implied_team_points": 20.5
       }
     }
   ],

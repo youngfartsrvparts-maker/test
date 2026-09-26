@@ -2,9 +2,9 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -25,9 +25,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,17 +57,23 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 80,
+    "confidence": 87,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Quinshon Judkins News: Clear of injury report - RotoWire",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQW1wc2dPSGg1bGhnYlFFblhWaUU0SmFsNVZqb2hTQWlELU9tQzRvRXQ4UkdoVkNHR2JldG9FOG9vZmpiaW1TNkhLR0ZzNUUzcWpmd3p5Z2VTSi1rUFg0ZklxM2pWMktFWk4tZUxjbmlzTEFEVFQ2dENMQ2VPbWVKU0RHbC0wU1ZJTG96S25WeXE4b041TVNHcy1VQQ?oc=5",
+        "published": "2026-09-25T19:09:03+00:00",
+        "source": "RotoWire"
+      },
       {
         "title": "Browns Add Quinshon Judkins to Injury Report Over ‘Personal’ Issue - heavy.com",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXEtMnlrQWxjZ0NCdVp4NURuRHVFRFVGVlRPMkhOb21KY2tvZnJFN2ttWGZWVEJ1enZjWlRDWkJYdjVlMHRHclZ3Mnpua0g3YmZfUUJCa3pDa3lYSVFFNlNkbVN2WnZQR3FyZW1Edi1YNjdnVENkLVBvYnZNRnNjUm9HN25oUkRiNUZaQzJCU2JVU1dNbExN?oc=5",
@@ -75,10 +81,10 @@
         "source": "heavy.com"
       },
       {
-        "title": "Browns' Quinshon Judkins: Limited for personal reasons Thursday - CBS Sports",
+        "title": "Browns' Quinshon Judkins: Limited for personal reasons Thursday - cbssports.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWZIWjNVby1vNXVGbmkzaHI5RnhtbW81QjZLVDZLTjZZSldCUUhhd29EZHhoSmdNRFA5a0hmeGQwSzB4dUx6TzlpM3N1WHgwdmd4OWJZU01Nbm9PVUFDQ1A3dEhqWVlJdVpIRGRsZkxaaU5qUUZOdlVhdTFrVnc5U0FGZGxoNUxnS1VZRlc1ZE9vSFNXSWRrZWRLRENhUGx4ekl0Z2J5YjNmdy1nb0VB?oc=5",
         "published": "2026-09-24T20:35:32+00:00",
-        "source": "CBS Sports"
+        "source": "cbssports.com"
       },
       {
         "title": "Quinshon Judkins (personal) limited at practice on Thursday - FantasyPros",
@@ -87,10 +93,10 @@
         "source": "FantasyPros"
       },
       {
-        "title": "Quinshon Judkins listed as limited - sports.yahoo.com",
+        "title": "Quinshon Judkins listed as limited - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTZvSVR1NXRwVDZXVjkyQXNDa0VTbVZORTFfVTY1cXRqWE5fblNqUmdoSkE5bXE2MHM1UGNyTlRORF9SV1c2dlM4bVNqNW5tNnhudFp3dXJrWmVCWE1ydVRNZUJYV3A0WXVaOGp4MWVqQVpBLW12OWJPSUcwVXI1TGFfTUZuZ0k?oc=5",
         "published": "2026-09-24T20:08:24+00:00",
-        "source": "sports.yahoo.com"
+        "source": "Yahoo Sports"
       },
       {
         "title": "Quinshon Judkins listed as limited - AOL.ca",
@@ -104,9 +110,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -120,9 +126,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.9,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -136,9 +142,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -152,9 +158,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.6,
+    "hours_to_lock": 33.8,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -168,9 +174,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.6,
+    "hours_to_lock": 33.8,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -184,9 +190,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.9,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -200,9 +206,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -216,9 +222,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -29.3,
+    "hours_to_lock": -34.0,
     "kickoff_utc": "2026-09-25T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -232,9 +238,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -248,9 +254,9 @@
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 66.7,
+    "hours_to_lock": 62.0,
     "kickoff_utc": "2026-09-29T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -264,9 +270,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-26T05:30:23.487084+00:00",
+    "generated_at": "2026-09-26T10:14:46.665679+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.5,
+    "hours_to_lock": 30.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
