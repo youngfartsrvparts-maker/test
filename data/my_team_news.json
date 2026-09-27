@@ -2,17 +2,23 @@
   {
     "player_id": "10229",
     "name": "Rashee Rice",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
-    "confidence": 52,
+    "confidence": 59,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Will Rashee Rice play today? Status update for Chiefs WR in Week 3 - Chiefs Wire",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQVU2RnNWYzRrdGlDZmVYUlU4cWFCbHRaRWtXQWRIc2NGaFU0b3VPUGRKdG5uSlo4V1dKeUoyYmswaDc2YlJDY2tKb0R2SHJmeDE1ZFJ4eTc5U1pvVFZCNWhVX1M3aW9UMkpYT09JdWNYd212MUJxaFJBSVkzYzZ5eDROUkE1WnA3SUxBNThGdEN5MUd3MWVMU1ItRzg4b1VlSW5ESU1NTGZ3ZFJmcjZQaDMwdTFOVElsVEkwTHp0UElreXVlVXdwbWZDcGFaejE5a0c4U0xNaTVFTXctcVNmcll2dmRaMm8?oc=5",
+        "published": "2026-09-27T12:15:00+00:00",
+        "source": "Chiefs Wire"
+      },
       {
         "title": "Rashee Rice (knee) logs full practice Wednesday - FantasyPros",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSnZ6MFFuR1RSbDhTMmczTXlmZXhLdG9IRDNINkthWExQd05Wb0MyekhxaDBkNnRnRlk2RGhxTml5OGtjUE9za0pPSHBzc2dyWE40XzFhSmtCZWZSR3pkdVNHLXpKNFduZ1d4TW1XTnJiT3JiY19fd045d3UyNWUzSm9FTU5pc1RfVkVPQmVaNzgwSnE1N2l0T9IBngFBVV95cUxNcHVCeUdFa0NFWG1RT1oxVzRKWEUtUjlUUTRhS05la3I1djk2SHlRZmdwVFlvTWhmdG5KSW1PTTZzSUpCZ2hBTnpFODB6eWxWLVhaYmlDOXJGbzZ1bjl2WTY4TEt0VklPWlAzX25oZEdSMGxxSjluRC1CMUh4NjBOR0VISWdPSGViYmhkTE1fUi11Q08yS3JrMmduMTNBdw?oc=5",
@@ -25,25 +31,32 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Dalton Kincaid Week 3 Outlook - Chargers at Bills - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTnNTM3Z1QzZEYUpVZWRlODlhNllJZTZIVDBtUWdkY2g1SEhRR0VYUGpSNENkOWVwallxUDRZY19VTmdQYVVwMjhHeF9mRFVzLVVEZllNUmVGSUhOamFDU2kzMl9xWmZqc2pfcVh5YjJTdG5OSkVBQ2FYSThPdUw1ZnlSQnBKdzNpa2FF0gGQAUFVX3lxTE8tLVROZVNhTnRjLVNpVzdsckN0VVQ4Sy1wS19wTEpNRnQtUzVlOEtkaGJ4VWppeUdpemp1V3lVZG9id3RkS29CYmlQRkd0djI4VG9FNFhBS2s0TDkxY0hHR1JBQlVhNTJZbWIzWTdTR3lDeTJtbjIxX3dVRlNHTTMwLUUyVmFKU1lBZEN0OEJUYw?oc=5",
+        "published": "2026-09-23T23:08:00+00:00",
+        "source": "FantasyPros"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +70,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -69,16 +82,16 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Quinshon Judkins News: Clear of injury report - RotoWire",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQW1wc2dPSGg1bGhnYlFFblhWaUU0SmFsNVZqb2hTQWlELU9tQzRvRXQ4UkdoVkNHR2JldG9FOG9vZmpiaW1TNkhLR0ZzNUUzcWpmd3p5Z2VTSi1rUFg0ZklxM2pWMktFWk4tZUxjbmlzTEFEVFQ2dENMQ2VPbWVKU0RHbC0wU1ZJTG96S25WeXE4b041TVNHcy1VQQ?oc=5",
-        "published": "2026-09-25T19:09:03+00:00",
-        "source": "RotoWire"
-      },
-      {
         "title": "Browns Add Quinshon Judkins to Injury Report Over ‘Personal’ Issue - heavy.com",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXEtMnlrQWxjZ0NCdVp4NURuRHVFRFVGVlRPMkhOb21KY2tvZnJFN2ttWGZWVEJ1enZjWlRDWkJYdjVlMHRHclZ3Mnpua0g3YmZfUUJCa3pDa3lYSVFFNlNkbVN2WnZQR3FyZW1Edi1YNjdnVENkLVBvYnZNRnNjUm9HN25oUkRiNUZaQzJCU2JVU1dNbExN?oc=5",
         "published": "2026-09-24T20:58:20+00:00",
         "source": "heavy.com"
+      },
+      {
+        "title": "Quinshon Judkins Limited for personal reasons Thursday - thefantasyfootballers.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFNMdWFLTHRIdkgyb0R3QnpvYmphV2dvdDJ0VDZTMWNVRjQzd2NGZlI5SFlWeU9oRnlZZ1JGZ0c0Y1ZjdUNtaFFUY29TSk5lbl9IOWVDMTAyWlVrWElEV0xSd0VtQ29pczlHY2x3NmpWTTUxUVpvSkRnTjhaSGZVb0VRV0tnUjFPbEY2a0xiSk5kVGYxY1BHeU01V25vMFVubzhrZmVGOXQ?oc=5",
+        "published": "2026-09-24T20:45:55+00:00",
+        "source": "thefantasyfootballers.com"
       },
       {
         "title": "Browns' Quinshon Judkins: Limited for personal reasons Thursday - CBS Sports",
@@ -93,16 +106,16 @@
         "source": "FantasyPros"
       },
       {
-        "title": "Quinshon Judkins listed as limited - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTZvSVR1NXRwVDZXVjkyQXNDa0VTbVZORTFfVTY1cXRqWE5fblNqUmdoSkE5bXE2MHM1UGNyTlRORF9SV1c2dlM4bVNqNW5tNnhudFp3dXJrWmVCWE1ydVRNZUJYV3A0WXVaOGp4MWVqQVpBLW12OWJPSUcwVXI1TGFfTUZuZ0k?oc=5",
-        "published": "2026-09-24T20:08:24+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
         "title": "Quinshon Judkins listed as limited - AOL.ca",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNU1HR0lTai1pcHhtbTFTYjFmaHBRTzBQYm1vYkFLeU9DOUFTajE5VWJaUENUMHhNRUlLWDQxZ0JCOE5oUm5paDZ1U1huWjZWaGk3MUFfOFZiR1V6aW5GLUdMRk1COWtEdzdDNDhiWS1fYWdZUDhyRGZMMUJqb1E?oc=5",
         "published": "2026-09-24T20:08:24+00:00",
         "source": "AOL.ca"
+      },
+      {
+        "title": "Quinshon Judkins listed as limited - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGRzdXE5MkdKS0RHdVRROG1GdGVIeEdRSEFyWkljbWI0UzlfbHg3LTJuZGkyT1VzT3pYR01DaFFWdjZnblFwckFVbGh1RnZhZ2ZaOHRURkZvLVozelBwaHdMWmxISENqcUJxTTBpaF9CUnd2U3E0VUw0dHItb2RoTHg5UldpS1dscWxuZmdtREhsUnU5RnhQbXVRRW5IM0dIRVRHbGo2alZKTGFlc1d3TXNvWU1fd2VYLXdKbmZDZTU4VTZ6Z25Dc2RReEpOTFdFOVE?oc=5",
+        "published": "2026-09-24T20:08:00+00:00",
+        "source": "USA Today"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -110,9 +123,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -126,9 +139,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 13.1,
+    "hours_to_lock": 7.2,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -142,9 +155,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -158,9 +171,9 @@
   {
     "player_id": "13414",
     "name": "Kaelon Black",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 12.7,
+    "hours_to_lock": 6.9,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -174,9 +187,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 12.7,
+    "hours_to_lock": 6.9,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -190,9 +203,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 13.1,
+    "hours_to_lock": 7.2,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -206,9 +219,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -222,9 +235,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -55.1,
+    "hours_to_lock": -60.9,
     "kickoff_utc": "2026-09-25T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -238,9 +251,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -254,9 +267,9 @@
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.9,
+    "hours_to_lock": 35.1,
     "kickoff_utc": "2026-09-29T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -270,9 +283,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-27T07:20:59.047843+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 9.7,
+    "generated_at": "2026-09-27T13:10:54.173767+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.8,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,

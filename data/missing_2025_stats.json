@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T07:20:57.690594+00:00",
+  "generated_at": "2026-09-27T13:10:52.981735+00:00",
   "season": "2025",
-  "missing_count": 724,
+  "missing_count": 723,
   "players": [
     {
       "player_id": "11533",
@@ -1529,15 +1529,6 @@
       "name": "Tre' Harris",
       "pos": "WR",
       "team": "LAC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "12946",
-      "name": "Dontae Fleming",
-      "pos": "WR",
-      "team": "MIN",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
