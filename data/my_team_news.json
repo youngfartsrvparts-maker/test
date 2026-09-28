@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.2,
+    "hours_to_lock": -19.5,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -68,10 +68,10 @@
         "source": "heavy.com"
       },
       {
-        "title": "Quinshon Judkins Limited for personal reasons Thursday - thefantasyfootballers.com",
+        "title": "Quinshon Judkins Limited for personal reasons Thursday - Fantasy Footballers Podcast",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFNMdWFLTHRIdkgyb0R3QnpvYmphV2dvdDJ0VDZTMWNVRjQzd2NGZlI5SFlWeU9oRnlZZ1JGZ0c0Y1ZjdUNtaFFUY29TSk5lbl9IOWVDMTAyWlVrWElEV0xSd0VtQ29pczlHY2x3NmpWTTUxUVpvSkRnTjhaSGZVb0VRV0tnUjFPbEY2a0xiSk5kVGYxY1BHeU01V25vMFVubzhrZmVGOXQ?oc=5",
         "published": "2026-09-24T20:45:55+00:00",
-        "source": "thefantasyfootballers.com"
+        "source": "Fantasy Footballers Podcast"
       },
       {
         "title": "Browns' Quinshon Judkins: Limited for personal reasons Thursday - CBS Sports",
@@ -103,9 +103,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -119,9 +119,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.2,
+    "hours_to_lock": -19.5,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -135,9 +135,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -151,9 +151,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.5,
+    "hours_to_lock": -19.9,
     "kickoff_utc": "2026-09-27T20:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -167,9 +167,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.2,
+    "hours_to_lock": -19.5,
     "kickoff_utc": "2026-09-27T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -179,10 +179,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Is CeeDee Lamb injured? Fans left frustrated as Cowboys WR sees limited involvement vs Ravens | Hindustan Times - hindustantimes.com",
+        "title": "Is CeeDee Lamb injured? Fans left frustrated as Cowboys WR sees limited involvement vs Ravens | Hindustan Times - Hindustan Times",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTGlfYlFSVy1JbW80b2dyaVFzOVAtZ09sX2xIb2E5STVfMGRRYXFvT00xYmlPaE9ZZnRPanZja2J1OHJwOEhtdUIzdHRRbFZYWTVCaGZIVURyZGVianhFWGVUX3AzNkRXcUJwdVYxR1J5aWJnVW5kWUJIMVlfRTRqUUpiaWg4dkhBRFJBemFWVGd4U1B6WktwRHpwREdybEstMGJTcG5KSlpqV2puU3pfUGpFY0pRVWlCUUE5Unh1T1cyVkxDekg4RW5kNTRZOVpzTDFGLXFYdk45R190WS0zWFhWaU5POFRTdHlfNXMwa0lnQjjSAfgBQVVfeXFMT28wbEo5R19zT010SnA3MGZ3MjJuQTR0Q1N5NER1eEdtOTYtbUxTMEZzSGs5c0l6UnU3MWd0aFk5Q1F6TmhiQmNJamtYSXd1LU1ISHhxYnpXMnkwRGpKU3FFTll1Tm5ZaHpnc1c5dEdsS2ZMeTNMeVpkQUFGSlNycWpiV0NlMzR4Y2dicTgwSHo3cWxldTE0dTJpNXpHZlh5RU1kRTI4SW1DT0RiTnhRYllVUl9VZll2bURMZTJOcXI0OVRLYVZscHpNVWpjTkxIRWpieV92NVZJQnNTRTJ5UFhQeXRZN1k4ZlpqQzJaMjN1MUJFXzdqOGM?oc=5",
         "published": "2026-09-27T21:19:49+00:00",
-        "source": "hindustantimes.com"
+        "source": "Hindustan Times"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -190,9 +190,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 16.6,
+    "hours_to_lock": 8.3,
     "kickoff_utc": "2026-09-29T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -206,9 +206,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -222,9 +222,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -79.4,
+    "hours_to_lock": -87.7,
     "kickoff_utc": "2026-09-25T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -238,52 +238,52 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
-    "score": -6,
-    "model_modifier": -1.5,
-    "confidence": 87,
+    "score": -5,
+    "model_modifier": -1.25,
+    "confidence": 95,
     "label": "Negative availability signal",
-    "injury": null,
+    "injury": "Out",
     "practice": null,
     "headlines": [
       {
         "title": "De'Von Achane injury update as Dolphins RB ruled out with knee ailment - USA Today",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2kwSXJHazU0bHdrNC1MYS1SSzZrWWdSMjN3UG1NX0hIbjhGenpydjA3NVBtR0JsYU9rUGdvVUNuLVZjemRhNlBqRUNQSjR3X2lNb3pYVHhtOW5NWFlxeS02NjhFTVQtV1ozeG9WbzU4S2RiZGpVeVZXMlhSck90ZkJEZmFnbXNyd2kxUTJJNHBtM18xMWI0b3UzNW8zcGlDNExBVjl5RQ?oc=5",
-        "published": "2026-09-27T21:07:00+00:00",
+        "published": "2026-09-28T14:50:00+00:00",
         "source": "USA Today"
+      },
+      {
+        "title": "Dolphins RB depth chart with De’Von Achane out for the 2026 NFL season - bolavip.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlVQeUNPbHh3YVRWY2ZVWTQxT1lKV05YZnFKNGRkQ0FPZzlIdlRZbWlwbkJ2ckJIMGFERWZEWTBqdko0SWRzZEhpaFgxR2NST0JjQkJ0cWI3OWpZS3VkSVhydk14YnB1MXNGb09EY1N2WWd1am5OSkk4S3Blc3pGbTNPVlliQ1pQSTBmVkR3RkdNbUp5eTBodDhudnfSAaIBQVVfeXFMT180dGJOVGE2OXVtaHhVdGdkQzJSUW9vT3ZOS0Y2MzdmQXVPdEQzZ0JpUUZLdk0zenV5cFFua2FNWjNUcl9xdEdwRHhzSU5oNDE5M2FWZ2JwVWhlbWpFbHJHMndEcElBdjBFd3kwMVNGZkZkd1VZbkxiZTdnT0NfYktVV3o2NnpWRUhUSGFtOWlOVlpvYzBjdGcwT0J2UVhBcmh3?oc=5",
+        "published": "2026-09-28T14:47:25+00:00",
+        "source": "bolavip.com"
+      },
+      {
+        "title": "De'Von Achane injury update: Fantasy football replacements on Dolphins depth chart - ftw.usatoday.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPalhEMXlRQUZmTnpmdVkyWGlXNER6Y2hPdnIzcXRuTGlyUldkM0p0TTY4aDd3LWNRSEtGc1ZpSWI4ZWFZUTFVdWcxdlZQaWZQeDh4OFdhZ1JEckFaVXkxOVlHVW5fdk1ma1pGZ3FrZldwdXRiTzVSTDhuUDY1WlBlQXZ5SGt6MkhCSXpHa2Z3QnVtQmZuUnpzYzlHY0MzZFFFTzZkdHpPdzh0ckoxSjZQdG1hU01SQktCSDQwZlFhLVA?oc=5",
+        "published": "2026-09-28T14:47:00+00:00",
+        "source": "ftw.usatoday.com"
+      },
+      {
+        "title": "De’Von Achane injury: Who to replace him with from fantasy football waiver wire - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3RmWjRQemt5LVNTLXVJYzVnZWlTZlZvdEZZTlFKcjFFSnR5ZHBtcnBKR3ZYNmJ3UU55Y3ZwVVRvSEloQXl0RmpxbzFfV1ZBSlVvWWtpM3QzbkE1S3QwZzdGWV8wSVJLRFhybWNpbFUyTWdjdFpabWN5SnRGX1hralhJSW8?oc=5",
+        "published": "2026-09-28T11:30:00+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Dolphins RB De’Von Achane exits Chiefs game with knee injury: ‘Does not sound very optimistic’ - Sun Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81VHFmdk10Z1RkdmVFMnRfaTlQaEVycXRJeGxDbk9hLU5oZldORlgzQzlEZElaeThYcTJqMUpSQUVld1U4dDJ1ZDE0OUZyRmd6ZXRIZlo4M1NDMWstSm1yenR5c0lNNm9lRlhncWZzaw?oc=5",
+        "published": "2026-09-27T21:49:09+00:00",
+        "source": "Sun Sentinel"
       },
       {
         "title": "Dolphins 'not very optimistic' about De'Von Achane injury after star RB exits Week 3 loss - CBS Sports",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDNwb0FXNTR1M1Z3OXYtYW1XWS01Wld0MTUwLVIyRW5lWEY3Nnk1Y3plNURUWVpFZXJNR2k3SW1WcHNXR3FCWEpuVjhlN3NGcjBTOVozank3VHR4WGswWVN5X2ZzaVFuOERCUDNYZ0dUa3Y4ellES0hvX2dCTl93R2lZMkVyeHBs?oc=5",
         "published": "2026-09-27T20:52:00+00:00",
         "source": "CBS Sports"
-      },
-      {
-        "title": "De'Von Achane's injury 'does not sound optimistic,' Dolphins head coach Jeff Hafley says after Miami's 24-10 loss to Chiefs - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2lQWFZkU3VROW8xMWU3X08xZEt0Zl9iVTQxWVVoc2hPcUlJekQ5TWhWMkZKckdHM3RSSGFjOUF3bWZmd3VXRGVfODd5bWluSloyYVNnaEQ4M3VJZGxvYlRjMXQ1TU9qbFRuWDdPSnRSMUJNcW4yc183eV9OeE0xRHFrZzdtX3dEaVR6eG15UC1DWmgzNk9DeEVfb2RhMlY3MmZuSGF5R29SaUltOGgxeXVqQjdPU2t5RXhDLTVjV1hPbHQ4WW5YLUhod05hcVpP?oc=5",
-        "published": "2026-09-27T20:44:59+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "What happened to De'Von Achane? Live injury updates for Dolphins vs. Chiefs on Sunday 9/27/26 - DraftKings Network",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNakRKb0c4eHlhMWg2TW93eUExT3BMODdxTmtSSVNrUDZhY0F5MGk4VU9kcVVjRnhQV3lhSXhTbkc5OW9tVzltZ2JMWUJpRE1rbjI5YkRRLVJEdDBrTGRNMHRvRWJhcDlZZTE1bThrUkI3d082NE5xX0ZDWlAzVGV1WnN0UFZrdkxtSExobzcyd0JzUjdBTDItSjF3WmQ5VnQ2b2lmN0hwZVFVWFM2YUZjVi1OTE5MUUZRRFNtMVJiUUhfYV9Sd2drUEVfTHo1ZHI1?oc=5",
-        "published": "2026-09-27T20:44:14+00:00",
-        "source": "DraftKings Network"
-      },
-      {
-        "title": "De'Von Achane Ruled Out With Knee Injury - Sports Injury Central",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakpkNU9rb0xkaTFRZTh6ekNLVTluQTA5YmNXRDJockprSkRJVnZ2ZDBxd0dTMEJZTHpPOTE4aTRGT01XZjRrZTF3LUFrODNMclpZa0luM3NjbzNEQnNpRG9KNzZlZ2IxVmMtTGJLVDl0bWYzZGxLWHpmRWhocUxlNHYtS09WUlFKY0Rial9QR0UyN1RKYWc?oc=5",
-        "published": "2026-09-27T20:14:05+00:00",
-        "source": "Sports Injury Central"
-      },
-      {
-        "title": "Dolphins Announce Brutal De’Von Achane Injury Update - heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0YzdzZBTW9uUmtSVXNZczBkUGlEcGRkMFdnOUhmU2h3RnFaNEIzRU1jRm9KMEVRZ1lmZ0I4WUtKdWJKQV9JMnh5SjZwQW1BdkUxNVNMV0tyQ01KbFlFdnFwRUlLbVR0dWRTLWxfbmxMZzd3WnpOS19uR1NHMkk4TndGNzctX1FCWEFz?oc=5",
-        "published": "2026-09-27T20:05:49+00:00",
-        "source": "heavy.com"
       }
     ],
     "reason": "De'Von Achane injury update as Dolphins RB ruled out with knee ailment - USA Today"
@@ -291,9 +291,9 @@
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 16.6,
+    "hours_to_lock": 8.3,
     "kickoff_utc": "2026-09-29T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -307,9 +307,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-28T07:37:11.529138+00:00",
+    "generated_at": "2026-09-28T15:57:03.742797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -14.6,
+    "hours_to_lock": -23.0,
     "kickoff_utc": "2026-09-27T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
