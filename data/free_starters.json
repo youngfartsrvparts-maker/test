@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:57:03.599420+00:00",
+  "generated_at": "2026-09-29T13:41:52.029782+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,19 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 35091,
-      "drops_24h": 350190,
+      "adds_24h": 47223,
+      "drops_24h": 435933,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
         "time": "13:00",
         "home": "TB",
         "away": "GB",
-        "spread": -3.5,
+        "spread": -4.5,
         "total": 39.5,
         "opponent": "TB",
         "home_game": false,
-        "implied_team_points": 18.0
+        "implied_team_points": 17.5
       }
     },
     {
@@ -55,7 +55,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 102864,
+      "drops_24h": 134240,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 8694,
-      "drops_24h": 55671,
+      "adds_24h": 0,
+      "drops_24h": 82908,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
