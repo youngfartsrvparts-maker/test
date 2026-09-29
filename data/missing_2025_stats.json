@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T13:41:48.831950+00:00",
+  "generated_at": "2026-09-29T18:52:22.923154+00:00",
   "season": "2025",
-  "missing_count": 723,
+  "missing_count": 725,
   "players": [
     {
       "player_id": "11533",
@@ -661,6 +661,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "13431",
+      "name": "Miles Kitselman",
+      "pos": "TE",
+      "team": "DET",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
       "player_id": "13310",
       "name": "Miller Moss",
       "pos": "QB",
@@ -946,6 +955,15 @@
       "team": "TEN",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "8500",
+      "name": "John FitzPatrick",
+      "pos": "TE",
+      "team": "CLE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -1642,15 +1660,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "10221",
-      "name": "Ronnie Bell",
-      "pos": "WR",
-      "team": "LV",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "8408",
       "name": "Jordan Mason",
       "pos": "RB",
@@ -1772,15 +1781,6 @@
       "name": "Tucker Kraft",
       "pos": "TE",
       "team": "GB",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "10215",
-      "name": "Jake Haener",
-      "pos": "QB",
-      "team": "NYG",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
@@ -2644,7 +2644,7 @@
       "player_id": "11565",
       "name": "J.J. McCarthy",
       "pos": "QB",
-      "team": "MIN",
+      "team": "NYG",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -5557,6 +5557,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "9490",
+      "name": "Tyler Scott",
+      "pos": "WR",
+      "team": "LV",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "4349",
       "name": "Taquan Mizzell",
       "pos": "RB",
@@ -5636,6 +5645,15 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "13862",
+      "name": "Treyvhon Saunders",
+      "pos": "WR",
+      "team": "HOU",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
       "player_id": "4683",
@@ -6217,7 +6235,7 @@
       "player_id": "11068",
       "name": "Mitchell Tinsley",
       "pos": "WR",
-      "team": "HOU",
+      "team": "CIN",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"

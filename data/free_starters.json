@@ -1,8 +1,74 @@
 {
-  "generated_at": "2026-09-29T13:41:52.029782+00:00",
+  "generated_at": "2026-09-29T18:52:26.337619+00:00",
   "league_id": "1388315713940262912",
-  "count": 3,
+  "count": 5,
   "players": [
+    {
+      "player_id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 9.15,
+      "floor_2025": 6.2,
+      "ceiling_2025": 14.5,
+      "targets_pg": 3.55,
+      "carries_pg": 11.91,
+      "adds_24h": 577424,
+      "drops_24h": 75360,
+      "next_game": {
+        "week": 4,
+        "date": "2026-10-05",
+        "time": "20:15",
+        "home": "NO",
+        "away": "ATL",
+        "spread": 3.0,
+        "total": 48.5,
+        "opponent": "ATL",
+        "home_game": true,
+        "implied_team_points": 22.8
+      }
+    },
+    {
+      "player_id": "11576",
+      "name": "Braelon Allen",
+      "pos": "RB",
+      "team": "NYJ",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 5.01,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 1771928,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 4,
+        "date": "2026-10-04",
+        "time": "13:00",
+        "home": "CHI",
+        "away": "NYJ",
+        "spread": 3.5,
+        "total": 42.5,
+        "opponent": "CHI",
+        "home_game": false,
+        "implied_team_points": 23.0
+      }
+    },
     {
       "player_id": "11581",
       "name": "MarShawn Lloyd",
@@ -21,19 +87,52 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 47223,
-      "drops_24h": 435933,
+      "adds_24h": 51075,
+      "drops_24h": 508410,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
         "time": "13:00",
         "home": "TB",
         "away": "GB",
-        "spread": -4.5,
+        "spread": -3.5,
         "total": 39.5,
         "opponent": "TB",
         "home_game": false,
-        "implied_team_points": 17.5
+        "implied_team_points": 18.0
+      }
+    },
+    {
+      "player_id": "12495",
+      "name": "Ollie Gordon",
+      "pos": "RB",
+      "team": "MIA",
+      "depth": 1,
+      "injury": "Questionable",
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 5090176,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 4,
+        "date": "2026-10-04",
+        "time": "16:05",
+        "home": "MIN",
+        "away": "MIA",
+        "spread": 11.5,
+        "total": 38.5,
+        "opponent": "MIN",
+        "home_game": false,
+        "implied_team_points": 25.0
       }
     },
     {
@@ -55,7 +154,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 134240,
+      "drops_24h": 166528,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
@@ -67,39 +166,6 @@
         "opponent": "BUF",
         "home_game": false,
         "implied_team_points": 27.8
-      }
-    },
-    {
-      "player_id": "10218",
-      "name": "Xavier Hutchinson",
-      "pos": "WR",
-      "team": "HOU",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 1.78,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 82908,
-      "next_game": {
-        "week": 4,
-        "date": "2026-10-04",
-        "time": "13:00",
-        "home": "HOU",
-        "away": "DAL",
-        "spread": 2.5,
-        "total": 47.5,
-        "opponent": "DAL",
-        "home_game": true,
-        "implied_team_points": 22.5
       }
     }
   ],
