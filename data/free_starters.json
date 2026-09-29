@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:15:18.121556+00:00",
+  "generated_at": "2026-09-29T06:57:03.599420+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,19 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 30114,
-      "drops_24h": 302031,
+      "adds_24h": 35091,
+      "drops_24h": 350190,
       "next_game": {
-        "week": 3,
-        "date": "2026-09-24",
-        "time": "20:15",
-        "home": "GB",
-        "away": "ATL",
-        "spread": 4.5,
-        "total": 43.5,
-        "opponent": "ATL",
-        "home_game": true,
-        "implied_team_points": 19.5
+        "week": 4,
+        "date": "2026-10-04",
+        "time": "13:00",
+        "home": "TB",
+        "away": "GB",
+        "spread": -3.5,
+        "total": 39.5,
+        "opponent": "TB",
+        "home_game": false,
+        "implied_team_points": 18.0
       }
     },
     {
@@ -55,18 +55,18 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 83392,
+      "drops_24h": 102864,
       "next_game": {
-        "week": 3,
-        "date": "2026-09-27",
+        "week": 4,
+        "date": "2026-10-04",
         "time": "13:00",
-        "home": "JAX",
+        "home": "BUF",
         "away": "NE",
-        "spread": 3.0,
-        "total": 46.5,
-        "opponent": "JAX",
+        "spread": 7.0,
+        "total": 48.5,
+        "opponent": "BUF",
         "home_game": false,
-        "implied_team_points": 24.8
+        "implied_team_points": 27.8
       }
     },
     {
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 10885,
-      "drops_24h": 41153,
+      "adds_24h": 8694,
+      "drops_24h": 55671,
       "next_game": {
-        "week": 3,
-        "date": "2026-09-27",
+        "week": 4,
+        "date": "2026-10-04",
         "time": "13:00",
-        "home": "IND",
-        "away": "HOU",
-        "spread": -1.5,
-        "total": 41.5,
-        "opponent": "IND",
-        "home_game": false,
-        "implied_team_points": 20.0
+        "home": "HOU",
+        "away": "DAL",
+        "spread": 2.5,
+        "total": 47.5,
+        "opponent": "DAL",
+        "home_game": true,
+        "implied_team_points": 22.5
       }
     }
   ],
