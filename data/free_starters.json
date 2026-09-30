@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:07:11.420666+00:00",
+  "generated_at": "2026-09-30T19:15:33.216004+00:00",
   "league_id": "1388315713940262912",
   "count": 4,
   "players": [
@@ -21,19 +21,19 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 852120,
-      "drops_24h": 67600,
+      "adds_24h": 758656,
+      "drops_24h": 59200,
       "next_game": {
         "week": 4,
         "date": "2026-10-05",
         "time": "20:15",
         "home": "NO",
         "away": "ATL",
-        "spread": 3.0,
-        "total": 48.5,
+        "spread": 2.5,
+        "total": 47.5,
         "opponent": "ATL",
         "home_game": true,
-        "implied_team_points": 22.8
+        "implied_team_points": 22.5
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 66609,
-      "drops_24h": 927324,
+      "adds_24h": 78381,
+      "drops_24h": 837612,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
@@ -121,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 274216,
+      "drops_24h": 250176,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
