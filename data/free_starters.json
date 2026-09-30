@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T01:44:45.681732+00:00",
+  "generated_at": "2026-09-30T07:29:56.343321+00:00",
   "league_id": "1388315713940262912",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player_id": "4035",
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 694304,
-      "drops_24h": 70056,
+      "adds_24h": 820136,
+      "drops_24h": 67000,
       "next_game": {
         "week": 4,
         "date": "2026-10-05",
@@ -34,39 +34,6 @@
         "opponent": "ATL",
         "home_game": true,
         "implied_team_points": 22.8
-      }
-    },
-    {
-      "player_id": "11576",
-      "name": "Braelon Allen",
-      "pos": "RB",
-      "team": "NYJ",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 5.01,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 2335424,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 4,
-        "date": "2026-10-04",
-        "time": "13:00",
-        "home": "CHI",
-        "away": "NYJ",
-        "spread": 3.5,
-        "total": 43.5,
-        "opponent": "CHI",
-        "home_game": false,
-        "implied_team_points": 23.5
       }
     },
     {
@@ -87,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 51102,
-      "drops_24h": 684738,
+      "adds_24h": 52722,
+      "drops_24h": 884313,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
@@ -103,36 +70,36 @@
       }
     },
     {
-      "player_id": "12495",
-      "name": "Ollie Gordon",
-      "pos": "RB",
-      "team": "MIA",
+      "player_id": "5846",
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "team": "PIT",
       "depth": 1,
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "role": null,
       "role_confidence": null,
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 5633726,
+      "ppg_2025": 12.48,
+      "floor_2025": 8.1,
+      "ceiling_2025": 20.88,
+      "targets_pg": 6.6,
+      "carries_pg": 0.13,
+      "adds_24h": 0,
       "drops_24h": 0,
       "next_game": {
         "week": 4,
-        "date": "2026-10-04",
-        "time": "16:05",
-        "home": "MIN",
-        "away": "MIA",
-        "spread": 10.5,
+        "date": "2026-10-01",
+        "time": "20:15",
+        "home": "CLE",
+        "away": "PIT",
+        "spread": -2.5,
         "total": 38.5,
-        "opponent": "MIN",
+        "opponent": "CLE",
         "home_game": false,
-        "implied_team_points": 24.5
+        "implied_team_points": 18.0
       }
     },
     {
@@ -154,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 212264,
+      "drops_24h": 261872,
       "next_game": {
         "week": 4,
         "date": "2026-10-04",
