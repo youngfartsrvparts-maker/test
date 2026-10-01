@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.9,
+    "hours_to_lock": 86.9,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 118.1,
     "kickoff_utc": "2026-10-06T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.9,
+    "hours_to_lock": 86.9,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.1,
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.1,
     "kickoff_utc": "2026-10-02T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,9 +66,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 86.4,
+    "hours_to_lock": 83.4,
     "kickoff_utc": "2026-10-04T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -82,9 +82,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 118.1,
     "kickoff_utc": "2026-10-06T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -98,9 +98,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.1,
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.1,
     "kickoff_utc": "2026-10-02T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -114,9 +114,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.3,
+    "hours_to_lock": 90.3,
     "kickoff_utc": "2026-10-04T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -130,9 +130,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.9,
+    "hours_to_lock": 86.9,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -153,9 +153,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.9,
+    "hours_to_lock": 86.9,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -169,9 +169,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.9,
+    "hours_to_lock": 86.9,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -185,9 +185,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 118.1,
     "kickoff_utc": "2026-10-06T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -201,9 +201,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.9,
+    "hours_to_lock": 86.9,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -217,9 +217,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.0,
+    "hours_to_lock": 90.0,
     "kickoff_utc": "2026-10-04T20:05:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -228,6 +228,12 @@
     "injury": "IR",
     "practice": null,
     "headlines": [
+      {
+        "title": "Miami Dolphins' Jeff Hafley outlines adjustments minus De'Von Achane - Sarasota Herald-Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkxuTVFWbzZGazVhOWQxcEJTVVlqLWpBcUthR1ZfVFZIUk84SXRHT2t2a1B1bDhlWm5NQTRNZVl0UF8zWTN1U2kwSDQ4bDJZMHBVSTRwRG9hbi13XzdjYW1GbjI0WkxsYzFDSlNnM0Q1OWJtZm5felRodGNmZmtoLWFGY3ZxTFNzeTlNTjIyYjhza2ZLTWpGbTJuT0tkSlRNUkZza0dicktIZGw1d2ozTGVqUzU3LUJ5ZGlZ?oc=5",
+        "published": "2026-09-30T18:22:00+00:00",
+        "source": "Sarasota Herald-Tribune"
+      },
       {
         "title": "Dolphins Consider 4 Free Agent RBs to Replace De’Von Achane - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQWFwY3ZISnhrLXR0dWotNm9Fd1h2el9maEZYZkNxb3JSMWVaSEhNd2VWSTFQdHFnWmZ3MGZScGF3RjUtMmVhZmV5TUVublhWcDdWOUNBWnZsdWlhcEhlMWEwbWhfSTZ0RENybDlYQWNKSF9WeVVQcHdFLVVhbkp1UHlsRXZMdw?oc=5",
@@ -257,22 +263,16 @@
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXBvTW5TZ01yNlVqb0l2RHZ3b3BxYXJzQUstUWlVdGZrdC1FTEp0T1Z4cHl2WW1HM293X0ppbHc1XzlCa2FKSk4tWjVkY1hFNUE3dTBOY1NxQXZNS04zZ2VtMDhRT2QtTWp1UXpJeGxvRHQzX2hCN0ZIMUROTkEzdlpaZWRsQzNDemcyaEdWZFJkZVBvTkY1MEM1SWtfQ1l6MlpGR2pMUFdiT283enVydjd4cVdBVjFYVURnNVJFNVdtazg2RGgtSXNqVHhFRHBBNTBaY3gwU3BCUXc?oc=5",
         "published": "2026-09-28T15:41:59+00:00",
         "source": "The Phinsider"
-      },
-      {
-        "title": "De'Von Achane injury update as Dolphins RB ruled out with knee ailment - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2kwSXJHazU0bHdrNC1MYS1SSzZrWWdSMjN3UG1NX0hIbjhGenpydjA3NVBtR0JsYU9rUGdvVUNuLVZjemRhNlBqRUNQSjR3X2lNb3pYVHhtOW5NWFlxeS02NjhFTVQtV1ozeG9WbzU4S2RiZGpVeVZXMlhSck90ZkJEZmFnbXNyd2kxUTJJNHBtM18xMWI0b3UzNW8zcGlDNExBVjl5RQ?oc=5",
-        "published": "2026-09-28T14:50:00+00:00",
-        "source": "USA Today"
       }
     ],
-    "reason": "De'Von Achane injury update as Dolphins RB ruled out with knee ailment - USA Today"
+    "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.9,
+    "hours_to_lock": 86.9,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -286,28 +286,34 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-09-30T23:06:40.381957+00:00",
+    "generated_at": "2026-10-01T02:06:19.754096+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 93.3,
+    "hours_to_lock": 90.3,
     "kickoff_utc": "2026-10-04T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 80,
+    "confidence": 87,
     "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
       {
-        "title": "Is Abraham Lucas Becoming a Concern for the Seattle Seahawks? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnhwMmZFaml1Q0hsVWlqdFV1TVlFc0ZTNzNTb09WQlZEZWhzT2VFdVlXWEpHc2FkLXVSc0JLVFZQY2kxZ3FWcElxcFRjcDFVN09feEZxMS1VY1A0Q0JmQjdlbDhrenc1LTE4TVAtWDJ5LWJNU2xxalhTTmRoVnVuYTJDS0JSYTVfNlNZTnQxMElzTXhjQ1VUUXVsT0R6Zw?oc=5",
-        "published": "2026-09-30T20:30:00+00:00",
-        "source": "Sports Illustrated"
+        "title": "Week 4 Injury Report: Seahawks vs. Chargers - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6RGxOM2pmRjQxQU92N0doSXZvQUF2aEExQkczWEozcm9PTmFRRUhEbWxwdWh1WUYzWFFYVXpGRlhWbHdGck8xbHh6bEx4T0h5aGs1dGVkU2lxMFZuMm9jWDM0UlhaNTh4UTB2VmJCZUZZRzhmcHg4UTdZWQ?oc=5",
+        "published": "2026-10-01T01:41:15+00:00",
+        "source": "Seattle Seahawks"
       },
       {
-        "title": "Los Angeles Chargers at Seattle Seahawks AI Computer Pick, NFL Prediction, Preview & Odds 10/4/26 - CappersPicks",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0xqU0ZoQzlpYU40N3hndno1NzE5alV6U1FUZVI1UElaazZ3M1lUT0VXSE1SUEtfOWZaQ2lvRWZQTm5OQmE0cWV2bm5nbFhmUnBuN3Y2NGFLdGZwS3plWHFsRjlzTVNLZ3BIWEdTLXdFSVVkOG1oaXcyU3FUQkpPWlpXWVVmck05dEtncGdaTzQxSlg0Qm43eHhmSERxa2pJRUpOWlpWQmZrUmc2YmZEZ3dWZ2FoVlZGMTEyQmN1dXlaNmlvMkE?oc=5",
-        "published": "2026-09-30T19:55:18+00:00",
-        "source": "CappersPicks"
+        "title": "Nick Emmanwori Continues To Ramp Up Toward Playing Full Time, Aims to Show 'I Still Got It' - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSTdxc3RpclZzWjU0dGFoamlhM1pwU2xycGh1WVM5OTEydHlRdzZKS1RlcXZCWjM0TUxjMDFGWWRUTXI1RWs3VmthcklWYWpYek9kc2V6UmVoWGJqYXFsR0VNN09yUEFOMFpLSFh1bTBUc3pQSTc2S2ZKM1M4MTRYc0paTlRfOEpwY1gyU25EYVY3SF9uQm1iWjdTNXpud1FuMUJCRDlGRkxIS19hQmhaeWliZmVvczhDT2c?oc=5",
+        "published": "2026-09-30T23:44:08+00:00",
+        "source": "Seattle Seahawks"
+      },
+      {
+        "title": "Is Abraham Lucas Becoming a Concern for the Seattle Seahawks? - si.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnhwMmZFaml1Q0hsVWlqdFV1TVlFc0ZTNzNTb09WQlZEZWhzT2VFdVlXWEpHc2FkLXVSc0JLVFZQY2kxZ3FWcElxcFRjcDFVN09feEZxMS1VY1A0Q0JmQjdlbDhrenc1LTE4TVAtWDJ5LWJNU2xxalhTTmRoVnVuYTJDS0JSYTVfNlNZTnQxMElzTXhjQ1VUUXVsT0R6Zw?oc=5",
+        "published": "2026-09-30T20:30:00+00:00",
+        "source": "si.com"
       },
       {
         "title": "Seattle Seahawks Rookie Report: Jadarian Price Tumbles Down - Yahoo Sports",
