@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T16:44:30.322652+00:00",
+  "generated_at": "2026-10-02T21:00:12.248416+00:00",
   "season": "2025",
-  "missing_count": 724,
+  "missing_count": 725,
   "players": [
     {
       "player_id": "11533",
@@ -6034,6 +6034,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12826",
+      "name": "Ulysses Bentley",
+      "pos": "RB",
+      "team": "NO",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "11566",
       "name": "Jayden Daniels",
       "pos": "QB",
@@ -6522,16 +6531,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1615
+      "gsis": 1601
     },
     "2024": {
-      "gsis": 1623
+      "gsis": 1612
     },
     "2025": {
-      "gsis": 1553
+      "gsis": 1547
     },
     "2026": {
-      "gsis": 279
+      "gsis": 276
     }
   }
 }
