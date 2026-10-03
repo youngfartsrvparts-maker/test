@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T18:26:28.191460+00:00",
+  "generated_at": "2026-10-03T21:36:38.528484+00:00",
   "season": "2025",
-  "missing_count": 725,
+  "missing_count": 724,
   "players": [
     {
       "player_id": "11533",
@@ -5249,15 +5249,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "11168",
-      "name": "Xavier Smith",
-      "pos": "WR",
-      "team": "LAR",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "6853",
