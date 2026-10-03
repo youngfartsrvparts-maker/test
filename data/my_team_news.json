@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.4,
+    "hours_to_lock": 26.1,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.6,
+    "hours_to_lock": 57.3,
     "kickoff_utc": "2026-10-06T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.4,
+    "hours_to_lock": 26.1,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -34.4,
+    "hours_to_lock": -38.7,
     "kickoff_utc": "2026-10-02T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,9 +66,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 26.9,
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.6,
     "kickoff_utc": "2026-10-04T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -82,9 +82,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.6,
+    "hours_to_lock": 57.3,
     "kickoff_utc": "2026-10-06T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -98,9 +98,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -34.4,
+    "hours_to_lock": -38.7,
     "kickoff_utc": "2026-10-02T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -114,9 +114,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.8,
+    "hours_to_lock": 29.5,
     "kickoff_utc": "2026-10-04T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -130,9 +130,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.4,
+    "hours_to_lock": 26.1,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -146,9 +146,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.4,
+    "hours_to_lock": 26.1,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -187,9 +187,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.4,
+    "hours_to_lock": 26.1,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -203,9 +203,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.6,
+    "hours_to_lock": 57.3,
     "kickoff_utc": "2026-10-06T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -219,9 +219,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.4,
+    "hours_to_lock": 26.1,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -235,13 +235,13 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.5,
+    "hours_to_lock": 29.2,
     "kickoff_utc": "2026-10-04T20:05:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
-    "confidence": 93,
+    "confidence": 86,
     "label": "Negative availability signal",
     "injury": "IR",
     "practice": null,
@@ -263,12 +263,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQWFwY3ZISnhrLXR0dWotNm9Fd1h2el9maEZYZkNxb3JSMWVaSEhNd2VWSTFQdHFnWmZ3MGZScGF3RjUtMmVhZmV5TUVublhWcDdWOUNBWnZsdWlhcEhlMWEwbWhfSTZ0RENybDlYQWNKSF9WeVVQcHdFLVVhbkp1UHlsRXZMdw?oc=5",
         "published": "2026-09-30T16:48:27+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Without De'Von Achane, what does Miami Dolphins depth chart look like? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczF1VmFrMEhEbWkyd19pVF9jVlBxbzlyd0Vpd21BZ3VRMEw0Y0V5S2ZXM0h5T0x0Zm1EUjV3a01VU0h1X3FLUlJ5MzJrMXRuWjNPQU9zcUg0eV9sSVN6d09zd0taTXhFWmdMY3dVNWUxZTRlMm9SMDFmbHBkY1FxSV9kNVFZMVU?oc=5",
-        "published": "2026-09-29T14:52:41+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -276,9 +270,9 @@
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.4,
+    "hours_to_lock": 26.1,
     "kickoff_utc": "2026-10-04T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -292,9 +286,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-03T10:36:20.640569+00:00",
+    "generated_at": "2026-10-03T14:54:11.196117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 33.8,
+    "hours_to_lock": 29.5,
     "kickoff_utc": "2026-10-04T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -311,8 +305,8 @@
       },
       {
         "title": "Las Vegas Raiders 2026 NFL Regular Season Players Stats - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNem5YbjVDQTRuOEpBcDdtZTRwTVhfNWZ6czQ5cjdQeUNBT2V6RGVveVA5d2xXWHlmVmhIQXBxYjdRM3JlRHVUQ2dmeFU4c3VxZnZfTVBMaDJHcDhaNXlfUlBhOEdzd3N4UkFGX192OXZkc0hSRWNET0xIOTI2ZlUtNkJ2WVhuMEN6cXpHaWhGVVEtd1VL?oc=5",
-        "published": "2026-10-02T00:44:22+00:00",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdm13NVlTTUtpU0pWam5OV3pnLTBKRVZhWVpRUVVuOTlDdkh4XzByVVIyTjZYZXBaalktY1VRZlhUVkItQzVhVHd4UndYLTFRODdpOVF0TEVqLXRJZ3E0a0g2M1A2M1U4aFZGUzhNSHZ5c0tjZkR2R2c0TTVDVk5qcjc3Y0FOdnFsWlNOVFRFdjFhcE50MVhScjIwWQ?oc=5",
+        "published": "2026-10-02T07:14:45+00:00",
         "source": "ESPN"
       },
       {
@@ -328,10 +322,10 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "Kansas City Chiefs' final injury report confirms veteran defender will make his 2026 debut in Week 4 vs. Las Vegas Raiders - A to Z Sports",
+        "title": "Kansas City Chiefs' final injury report confirms veteran defender will make his 2026 debut in Week 4 vs. Las Vegas Raiders - atozsports.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1NOa3lzNEotMjdhQ0x6UThNOWFCdzdqb0JKUzVMUy1QeDlGcXRqdzNxTTlxbXJXZFpPSVRHMm51ckktQ2dKTFFTNzlwdFFEbkQ2VW9IQWNlWVlFcE9VZGRwMHlTU0YxQ1FTWWFBc0FueTVMRUlWM1ExVDB5ZXVPMjNfMllSLXlWU1FxdEJnX2h3eEFpUmhlRXA2TzZscDBzeDFZOTVqRGdVbGVBRjhoUDI2NDBIMU0?oc=5",
         "published": "2026-10-01T16:06:21+00:00",
-        "source": "A to Z Sports"
+        "source": "atozsports.com"
       },
       {
         "title": "Las Vegas Raiders Acquire 27-Year-Old RB Before Chiefs Game - Yardbarker",
