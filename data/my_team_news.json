@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 152.3,
+    "hours_to_lock": 147.6,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -14,10 +14,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Bills’ Joe Brady Explains Dalton Kincaid’s Limited Role in Week 4 Loss to Patriots - heavy.com",
+        "title": "Bills’ Joe Brady Explains Dalton Kincaid’s Limited Role in Week 4 Loss to Patriots - Heavy.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3BfN3hVZnJTeGJkZGdVdzNBdzBWdDlmTnhQcGNfVDhhLUFkYkpGVmxsaWJJdHJPRG5oWklUaVV6Q2d6YXV0UjgwTmZya0lHVW4ya0o2UHpKY2hGalZ5c0dDbXhBbjJXSTdnYktNZDhSUFF3RU5iMkNPNGp3SlBRcDItSTRUeWhiWUVqUw?oc=5",
         "published": "2026-10-05T20:14:54+00:00",
-        "source": "heavy.com"
+        "source": "Heavy.com"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -25,9 +25,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.6,
+    "hours_to_lock": 112.8,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12533",
     "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -89,9 +89,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -105,9 +105,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -121,9 +121,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.5,
+    "hours_to_lock": 119.8,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -137,9 +137,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 56.3,
+    "hours_to_lock": 51.6,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -153,9 +153,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -169,9 +169,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -185,9 +185,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.4,
+    "hours_to_lock": 123.7,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -201,9 +201,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -217,9 +217,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -229,16 +229,16 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Why isn’t De’Von Achane playing today? Dolphins RB depth chart vs Vikings in 2026 NFL Week 4 - bolavip.com",
+        "title": "Why isn’t De’Von Achane playing today? Dolphins RB depth chart vs Vikings in 2026 NFL Week 4 - Bolavip US",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTVFU1ktTGVLV3VwdF9Leno1LUhJMTlGQlktckRqYjZHbkVreWNHQW5IdmFnWk9DSmZzSnRWQ09IWWowaG83MDFtU2JvLXRJc0NKT1N5UnpaY2kzZzh6UVRIYnJBVkdPMDlsVHdtX1hLVFpoRmlBV1V4cHV6cU1EN043WW1IbVZveWhuc0VNYTI0SEg4bTFYY3JOV2RMNzNZLURNYVhjVWlFelhjSU1OeVgzVHZ6RnNBdEN1adIBvAFBVV95cUxOWTVFU1ktTGVLV3VwdF9Leno1LUhJMTlGQlktckRqYjZHbkVreWNHQW5IdmFnWk9DSmZzSnRWQ09IWWowaG83MDFtU2JvLXRJc0NKT1N5UnpaY2kzZzh6UVRIYnJBVkdPMDlsVHdtX1hLVFpoRmlBV1V4cHV6cU1EN043WW1IbVZveWhuc0VNYTI0SEg4bTFYY3JOV2RMNzNZLURNYVhjVWlFelhjSU1OeVgzVHZ6RnNBdEN1aQ?oc=5",
         "published": "2026-10-04T18:43:59+00:00",
-        "source": "bolavip.com"
+        "source": "Bolavip US"
       },
       {
-        "title": "Is De'Von Achane Out For Season? Dolphins' RB Depth Chart Takes Different Shape With Injury - heavy.com",
+        "title": "Is De'Von Achane Out For Season? Dolphins' RB Depth Chart Takes Different Shape With Injury - Heavy.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnIxdUtaNV9aZG9POEZxTXN2WWw1VnlvNEdrQjFINTl0OU8xYURSSVBvcHhpdW1QbUJfc3FEUVdwN3gwTG1MX2k4aEVZQ0lINlRudUZRak43UnRxQVNHaWo0UGVHTDRRVDBLZzJIQWVwTUt3VXpxMFpyRkRpdkxlQlNUZHlNdHc0WlhHdXMxVmFIT2lzM3o4b0hsMVV4SDFrYldBNkdlY2Fadw?oc=5",
         "published": "2026-10-04T18:41:26+00:00",
-        "source": "heavy.com"
+        "source": "Heavy.com"
       },
       {
         "title": "Dolphins Elevate RB From Practice Squad After De’Von Achane’s Season-Ending Injury - Yahoo Sports",
@@ -252,9 +252,9 @@
   {
     "player_id": "9486",
     "name": "Dontayvion Wicks",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.6,
+    "hours_to_lock": 112.8,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -268,9 +268,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-06T15:54:45.587833+00:00",
+    "generated_at": "2026-10-06T20:39:35.869530+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.1,
+    "hours_to_lock": 116.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
