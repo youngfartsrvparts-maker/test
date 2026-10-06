@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:16:59.285931+00:00",
+  "generated_at": "2026-10-06T09:09:42.828813+00:00",
   "league_id": "1388315713940262912",
   "count": 4,
   "players": [
@@ -21,19 +21,19 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 28976,
-      "drops_24h": 52776,
+      "adds_24h": 45696,
+      "drops_24h": 53992,
       "next_game": {
-        "week": 4,
-        "date": "2026-10-05",
-        "time": "20:15",
+        "week": 5,
+        "date": "2026-10-11",
+        "time": "13:00",
         "home": "NO",
-        "away": "ATL",
-        "spread": 1.5,
-        "total": 47.5,
-        "opponent": "ATL",
+        "away": "MIN",
+        "spread": -1.5,
+        "total": 42.5,
+        "opponent": "MIN",
         "home_game": true,
-        "implied_team_points": 23.0
+        "implied_team_points": 22.0
       }
     },
     {
@@ -54,19 +54,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 34740,
-      "drops_24h": 55647,
+      "adds_24h": 47628,
+      "drops_24h": 75222,
       "next_game": {
-        "week": 4,
-        "date": "2026-10-04",
+        "week": 5,
+        "date": "2026-10-11",
         "time": "13:00",
-        "home": "TB",
-        "away": "GB",
+        "home": "GB",
+        "away": "CHI",
         "spread": -3.0,
-        "total": 38.5,
-        "opponent": "TB",
-        "home_game": false,
-        "implied_team_points": 17.8
+        "total": 45.5,
+        "opponent": "CHI",
+        "home_game": true,
+        "implied_team_points": 24.2
       }
     },
     {
@@ -87,19 +87,19 @@
       "ceiling_2025": 20.88,
       "targets_pg": 6.6,
       "carries_pg": 0.13,
-      "adds_24h": 0,
+      "adds_24h": 7384,
       "drops_24h": 0,
       "next_game": {
-        "week": 4,
-        "date": "2026-10-01",
-        "time": "20:15",
-        "home": "CLE",
-        "away": "PIT",
-        "spread": -2.5,
-        "total": 38.5,
-        "opponent": "CLE",
-        "home_game": false,
-        "implied_team_points": 18.0
+        "week": 5,
+        "date": "2026-10-11",
+        "time": "13:00",
+        "home": "PIT",
+        "away": "IND",
+        "spread": 2.5,
+        "total": 44.5,
+        "opponent": "IND",
+        "home_game": true,
+        "implied_team_points": 21.0
       }
     },
     {
@@ -120,19 +120,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 120704,
+      "adds_24h": 165656,
       "drops_24h": 0,
       "next_game": {
-        "week": 4,
-        "date": "2026-10-04",
+        "week": 5,
+        "date": "2026-10-11",
         "time": "13:00",
-        "home": "BUF",
-        "away": "NE",
-        "spread": 7.0,
-        "total": 49.5,
-        "opponent": "BUF",
-        "home_game": false,
-        "implied_team_points": 28.2
+        "home": "NE",
+        "away": "LV",
+        "spread": 3.5,
+        "total": 45.5,
+        "opponent": "LV",
+        "home_game": true,
+        "implied_team_points": 21.0
       }
     }
   ],
