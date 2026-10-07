@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:00:47.848084+00:00",
+  "generated_at": "2026-10-07T23:34:44.095479+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 232875,
-      "drops_24h": 210573,
+      "adds_24h": 226701,
+      "drops_24h": 200340,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 23337,
-      "drops_24h": 227430,
+      "adds_24h": 26172,
+      "drops_24h": 226998,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -63,10 +63,10 @@
         "home": "WAS",
         "away": "NYG",
         "spread": 3.5,
-        "total": 43.5,
+        "total": 42.5,
         "opponent": "NYG",
         "home_game": true,
-        "implied_team_points": 20.0
+        "implied_team_points": 19.5
       }
     },
     {
@@ -87,7 +87,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 594160,
+      "adds_24h": 508040,
       "drops_24h": 0,
       "next_game": {
         "week": 5,
@@ -121,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 312550,
+      "drops_24h": 300307,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -129,10 +129,10 @@
         "home": "LAC",
         "away": "DEN",
         "spread": -3.5,
-        "total": 42.5,
+        "total": 41.5,
         "opponent": "DEN",
         "home_game": true,
-        "implied_team_points": 23.0
+        "implied_team_points": 22.5
       }
     },
     {
@@ -154,7 +154,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 186351,
+      "drops_24h": 172557,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
