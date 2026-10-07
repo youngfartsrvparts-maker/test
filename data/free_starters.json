@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T20:39:38.293524+00:00",
+  "generated_at": "2026-10-07T00:07:31.701987+00:00",
   "league_id": "1388315713940262912",
-  "count": 4,
+  "count": 5,
   "players": [
     {
       "player_id": "4035",
@@ -9,7 +9,7 @@
       "pos": "RB",
       "team": "NO",
       "depth": 1,
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 72304,
-      "drops_24h": 62600,
+      "adds_24h": 76112,
+      "drops_24h": 51104,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 117702,
-      "drops_24h": 155961,
+      "adds_24h": 136503,
+      "drops_24h": 167319,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -87,7 +87,7 @@
       "ceiling_2025": 20.88,
       "targets_pg": 6.6,
       "carries_pg": 0.13,
-      "adds_24h": 22052,
+      "adds_24h": 25660,
       "drops_24h": 0,
       "next_game": {
         "week": 5,
@@ -120,7 +120,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 428312,
+      "adds_24h": 503520,
       "drops_24h": 0,
       "next_game": {
         "week": 5,
@@ -133,6 +133,39 @@
         "opponent": "LV",
         "home_game": true,
         "implied_team_points": 21.0
+      }
+    },
+    {
+      "player_id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 9.9,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 243656,
+      "next_game": {
+        "week": 5,
+        "date": "2026-10-11",
+        "time": "16:05",
+        "home": "LAC",
+        "away": "DEN",
+        "spread": -3.5,
+        "total": 42.5,
+        "opponent": "DEN",
+        "home_game": true,
+        "implied_team_points": 23.0
       }
     }
   ],
