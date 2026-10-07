@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-10-07T05:52:41.899531+00:00",
+  "generated_at": "2026-10-07T12:19:25.086378+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
-    {
-      "player_id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "depth": 1,
-      "injury": "Questionable",
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 9.15,
-      "floor_2025": 6.2,
-      "ceiling_2025": 14.5,
-      "targets_pg": 3.55,
-      "carries_pg": 11.91,
-      "adds_24h": 62008,
-      "drops_24h": 51456,
-      "next_game": {
-        "week": 5,
-        "date": "2026-10-11",
-        "time": "13:00",
-        "home": "NO",
-        "away": "MIN",
-        "spread": -1.5,
-        "total": 42.5,
-        "opponent": "MIN",
-        "home_game": true,
-        "implied_team_points": 22.0
-      }
-    },
     {
       "player_id": "11581",
       "name": "MarShawn Lloyd",
@@ -54,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 182574,
-      "drops_24h": 208989,
+      "adds_24h": 223965,
+      "drops_24h": 232281,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -70,10 +37,10 @@
       }
     },
     {
-      "player_id": "5846",
-      "name": "DK Metcalf",
-      "pos": "WR",
-      "team": "PIT",
+      "player_id": "12533",
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "team": "WAS",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -82,24 +49,24 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 12.48,
-      "floor_2025": 8.1,
-      "ceiling_2025": 20.88,
-      "targets_pg": 6.6,
-      "carries_pg": 0.13,
-      "adds_24h": 31428,
-      "drops_24h": 0,
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 254385,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
         "time": "13:00",
-        "home": "PIT",
-        "away": "IND",
-        "spread": 2.5,
-        "total": 44.5,
-        "opponent": "IND",
+        "home": "WAS",
+        "away": "NYG",
+        "spread": 3.5,
+        "total": 43.5,
+        "opponent": "NYG",
         "home_game": true,
-        "implied_team_points": 21.0
+        "implied_team_points": 20.0
       }
     },
     {
@@ -120,7 +87,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 663824,
+      "adds_24h": 705048,
       "drops_24h": 0,
       "next_game": {
         "week": 5,
@@ -154,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 309932,
+      "drops_24h": 342902,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -166,6 +133,39 @@
         "opponent": "DEN",
         "home_game": true,
         "implied_team_points": 23.0
+      }
+    },
+    {
+      "player_id": "9486",
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "team": "PHI",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 6.92,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 210525,
+      "next_game": {
+        "week": 5,
+        "date": "2026-10-11",
+        "time": "09:30",
+        "home": "JAX",
+        "away": "PHI",
+        "spread": 7.0,
+        "total": 42.5,
+        "opponent": "JAX",
+        "home_game": false,
+        "implied_team_points": 24.8
       }
     }
   ],

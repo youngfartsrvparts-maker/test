@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 138.4,
+    "hours_to_lock": 131.9,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -31,9 +31,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -47,9 +47,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 103.6,
+    "hours_to_lock": 97.2,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -63,25 +63,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
-    "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
-    "player_id": "12533",
-    "name": "Jacory Croskey-Merritt",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -95,9 +79,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -111,9 +95,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -125,12 +109,63 @@
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
+    "player_id": "4035",
+    "name": "Alvin Kamara",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 100.7,
+    "kickoff_utc": "2026-10-11T17:00:00+00:00",
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 86,
+    "label": "Some availability risk",
+    "injury": "Questionable",
+    "practice": null,
+    "headlines": [
+      {
+        "title": "Alvin Kamara Injury Update: Why Saints’ RB Exits Game on Monday Night Football - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV21iWE0wbmxTN0t0UmU3Xy1rLVAweFVxcGlRa0VZVXZKR09ZMFlPdF8tYy1LU0pyVWYzLWx6QjFNd244N0ZhQ0U2Um1MeDRGamxMZHk1bExlZXlpVm1OZHhqNnJVMnlQeTRFU3VQbHJxdnFiUGttRnE4TEZOZV9TZUVheXJRcjZsMjR6Z3hycm52V3VmY1VMS011bHRJZE9ET0E?oc=5",
+        "published": "2026-10-06T02:42:00+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "What happened to Alvin Kamara? Live injury updates for Falcons vs. Saints on Monday 10/5/26 - DraftKings Network",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkdKMkZ6dWdqV0hFN3dyN2xxUDVMNU1OZXp6ZW1KQV9tVWJPcVRJRFRBME9OalFmRFVhak9xUDJEUGthSFZyR0g2aVdKQm9haHJLTjRaRVp4S3lMc2p6MkM2bEJEM29tNmZWdXA2Y185bGctRENHLXJ5S25Rc1d3MF91S01DRWFLRjJGdzFxTUdDN1UyN0RVUGhGU0R6Unc4UV9NekV4b2QzMVFVSnZoaWkza3VQcTRIcXV0NlVEZG5nSzNnZVphaUYtZXpVSTA?oc=5",
+        "published": "2026-10-06T02:40:13+00:00",
+        "source": "DraftKings Network"
+      },
+      {
+        "title": "Alvin Kamara injury update: Latest news on Saints RB’s status in Week 4 game - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDNTQ09jcHA1ZlhIa29MNjZqeEJkbkFMdDRiWXFlZXk3Z3Z6N3JkbTYwVTRuU0hLMGp3Qng2SmhkbURWX29JYl9kQmQyUVdrMkhWNjRBblI5OGl3ekFUS1BidnA4bnNxREhvYWc2ZmhieDA1Wi1oeFphVWZRbHlfakFla1A3dlU?oc=5",
+        "published": "2026-10-06T02:24:00+00:00",
+        "source": "Yahoo Sports"
+      }
+    ],
+    "reason": "Sleeper injury/practice status is the main signal."
+  },
+  {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 110.5,
+    "hours_to_lock": 104.1,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
+    "player_id": "5846",
+    "name": "DK Metcalf",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 100.7,
+    "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -143,9 +178,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 42.4,
+    "hours_to_lock": 35.9,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -159,9 +194,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -175,9 +210,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -191,9 +226,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 114.5,
+    "hours_to_lock": 108.0,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -207,9 +242,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -223,13 +258,13 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
-    "confidence": 86,
+    "confidence": 93,
     "label": "Negative availability signal",
     "injury": "IR",
     "practice": null,
@@ -247,36 +282,26 @@
         "source": "Heavy.com"
       },
       {
-        "title": "Dolphins Elevate RB From Practice Squad After De’Von Achane’s Season-Ending Injury - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSnlJcGs5NEN1WTBOTW9sSGNNTkxTWGU5ckcxQkk5N0l4LWczakNVbGwyUkJTMC1uSkY4N1hscjdJbFpQYVZ0c0h0TWFTZFZGS2xEcXpZVXU4eEgtWWYwTHBJcDJtZHJDTl95UUxWY1RZRFRIRG02NHpEOXMzNnJxSmRmelJUdnVYOWxJ?oc=5",
-        "published": "2026-10-03T16:35:27+00:00",
-        "source": "Yahoo Sports"
+        "title": "Is De'Von Achane Playing Today? (Injury Update, Betting Impact for Dolphins vs. Vikings in NFL Week 4) - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYldLOXZzcVZ5N21zbVFYNFFTVXRnLVppWUJMWEZsRGZtN1pQMmw2OWUxTFQ1WFNLWU1RVFhRVDNNYUEwMDFkTFRGQXhubGpIWWJheFgxVjBtVTB6MGFUU01tQnpBd3FTWFltY2poSWN0bzcxTEtZNnVxR3R3QlNqeUIzMEdtZHB6U3dycWFNXzBxZ2tfWlBFWkxOWVI4SHFuV0Iyc2trM0l2cF9JQksybQ?oc=5",
+        "published": "2026-10-04T12:06:39+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Dolphins Sign 15-Touchdown Running Back After De’Von Achane Injury - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSndQRjYybnUxR0I0d1hYel9RNEpfWGp3TzM5aVlBTkRCY18yNXNyOTVZQlNGdE41V3pzMmw5RUJCRFU3cTJoZmotWmJHSlJYMm1JT2RRRXpGTDFFSU5Ja19CYmpWaGFmZlNTa2pfNm92aG04LW1yZktaZEtIQkZQM1BzUG1adFgyTkE?oc=5",
+        "published": "2026-10-03T19:50:13+00:00",
+        "source": "Heavy.com"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
   },
   {
-    "player_id": "9486",
-    "name": "Dontayvion Wicks",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 103.6,
-    "kickoff_utc": "2026-10-11T13:30:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-07T05:52:39.479964+00:00",
+    "generated_at": "2026-10-07T12:19:22.077192+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.1,
+    "hours_to_lock": 100.7,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
@@ -298,28 +323,28 @@
         "source": "A to Z Sports"
       },
       {
+        "title": "Las Vegas Raiders Consider Trade Deadline Upgrades Amid Undefeated Start - SuaraGarut.ID",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1TVBFdmJwWjk1RVk2WFNtcW1IZldzNm5fUmxvX1dQRFBnaTFGbG9ob1lQeHdlRzVtZVUxNkpOQ3RJM09LZzh1V3hWYzBJMG4tTXNFWGwwYTgyTTVGbnVmcmkxVDYxVW9kRDZUd2otbHNpOFE?oc=5",
+        "published": "2026-10-04T21:00:00+00:00",
+        "source": "SuaraGarut.ID"
+      },
+      {
         "title": "Las Vegas Raiders' inactives for Week 4 show that the team is unexpectedly going to be without one of their breakout players from a year ago - A to Z Sports",
         "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPanpaMnNaZ253cERMNTkydjJZTWdDUmRiUlg2Rld2N2FfMzRhMm5RdndWeWhrU3BoVWFHNVRORllYOWI0c2N5aUJ5clhsSjVrRTZQSWRUYUIxdlIyeEY2NlVsTlVoMXNxeGJyQ0JpMGNWYnZNSGFMQV9wZUtHSTdzZEQydkVkdHgtaGlJNFc3NjEzcFp1LWNzSWtNcTJIZzJlZHVHV1FsNHg3clE2MjdiWTJ3QVJBM292NkhlQUVfTXh4Q04zVUN5SmxVaVN0Y09VNmpJTkQyNUhkYTJYREtqeEM1OU9PMWpFQ1JpdjBQR3JZNXJVMzhFZG1uNXNDbExrUnVUU3c5UTBWVDRYclExUmhGeXlKdjEtRUE?oc=5",
         "published": "2026-10-04T19:17:51+00:00",
         "source": "A to Z Sports"
       },
       {
+        "title": "Inactive players for Kansas City Chiefs vs. Las Vegas Raiders, Week 4 - Chiefs Wire",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaF9HRVNDNGMtRmh0bXVBQWlHWHdoUXNuOGVycWZ6ejFMNHVmSEZRZnhrRHBqOGtRTG9yS25kSmNBVlJuTElvME8tMnhCNVFIcjRnWHNsY2I0UHpGU1BQZDhodi10SWpmY0VqOVVCanpaX2FUVEVmdHk2cUp0Y0c5aFM2WXlBZEV1dXJXRFZZRml0ckpFMGRuTFM5VUJ5VkRUdW5ya2dpcU5uV0tURHVzQk1SaVJ6MXRkUll0cTgwWDBOV1lqankxSE5LZUZXTzdoZjRGZ0Znd01hZ3NvMkM4Qg?oc=5",
+        "published": "2026-10-04T19:14:00+00:00",
+        "source": "Chiefs Wire"
+      },
+      {
         "title": "Kansas City Chiefs' inactive players list for Week 4 vs. Las Vegas Raiders looks slightly different, with a rookie set to sit out - A to Z Sports",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXBYS01PblBYbFdRbmhKcEtfLXktNFFwaHlreW91M0RSWjI1MlFVMDVPdTZaNXczU1cxRzE2cmhOTkUwVlloOUloWmpVelNOc2dTb01ZODNtRmNEWnRqZExmby02eHdHdll0cEppcUlvRG1QSVM4MXFqZVA2b2FrWDY4QzNJLTFFdURqZk1hTkFOUzRhaVNSOVREY3ZuaEZyYjV1bW54RXllMDJz?oc=5",
         "published": "2026-10-04T19:06:26+00:00",
         "source": "A to Z Sports"
-      },
-      {
-        "title": "Inactive players for Kansas City Chiefs vs. Las Vegas Raiders, Week 4 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblNSdVUyRjVyWjQ3QS1zeTI4TERERVdGR0U3cHctejdUcWJnZHVkbjlIR2YxS0Jnbmt6ZkM0Z1J3Sl9QWkFma092MHV1VkYyOGlNdGhIZWVTZXZlbTcydWEyai1aUDdEdXpFNGVxUXV1a0pzbUtZM3huQTc4MlotWnlhX1hsZFgzV3lxNw?oc=5",
-        "published": "2026-10-04T19:05:36+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Inactive players for Kansas City Chiefs vs. Las Vegas Raiders, Week 4 - AOL.ca",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkUxQkFpRGlBX0xZWk1RdVM1dDVZbmVENk5nOUl3THg4ek9TOHlZcl9CeUY4YW80S1E0TVhFb2ZoSGVERXRNdnBiUVdlYmtNajV1N085eWx3NnEybm9GVUh1bWNDTnVlX1lPbG9tU1Bka24tRUVaV1hnekZhQ0U1NXNVOG8?oc=5",
-        "published": "2026-10-04T19:05:36+00:00",
-        "source": "AOL.ca"
       }
     ],
     "reason": "Las Vegas Raiders' inactives for Week 4 show that the team is unexpectedly going to be without one of their breakout players from a year ago - A to Z Sports"
