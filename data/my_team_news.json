@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 131.9,
+    "hours_to_lock": 125.2,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -31,9 +31,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -47,9 +47,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 97.2,
+    "hours_to_lock": 90.5,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -63,9 +63,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -79,9 +79,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -95,9 +95,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -111,17 +111,29 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 86,
+    "confidence": 95,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Alvin Kamara Injury Shows Saints Scary Truth - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzFKRkNmNncxVlVnNW1paEsyYlJSekxpYkVEQm5RYXJxVzViU1JseV9wN1RqTUJydTR0MklvRW9USGRGdTlzR2JuR2JuTFBvQ2pneklVSEdsVFlVQklhNWY2dy1mSnZHd3pJYnByM3VnZXNFNENEaFoxVng0a1lPUlJKbkw0WEtH?oc=5",
+        "published": "2026-10-07T17:31:04+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Alvin Kamara injury update: Latest news on Saints RB’s status in Week 4 game - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjJTbTZjS2lZOFB5NzJTNmJUQ2JvTnlFYVRtNmR2d1VQZndhN0VCT05xR2ZpRFduSzVKV0NqZmlxRF9KMzZaVzJvS0wtazBicWw3cWRoSWU3TkRuVE5QZVBXaDJCbF9VZGp4NHNnTkJSU3hmc0RFelVhSzBheWJsQjBWaGNoMVhWN1hBYjlR?oc=5",
+        "published": "2026-10-06T09:29:36+00:00",
+        "source": "The Big Lead"
+      },
       {
         "title": "Alvin Kamara Injury Update: Why Saints’ RB Exits Game on Monday Night Football - Heavy.com",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV21iWE0wbmxTN0t0UmU3Xy1rLVAweFVxcGlRa0VZVXZKR09ZMFlPdF8tYy1LU0pyVWYzLWx6QjFNd244N0ZhQ0U2Um1MeDRGamxMZHk1bExlZXlpVm1OZHhqNnJVMnlQeTRFU3VQbHJxdnFiUGttRnE4TEZOZV9TZUVheXJRcjZsMjR6Z3hycm52V3VmY1VMS011bHRJZE9ET0E?oc=5",
@@ -146,9 +158,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 104.1,
+    "hours_to_lock": 97.4,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -162,9 +174,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -178,9 +190,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.9,
+    "hours_to_lock": 29.2,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -194,9 +206,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -210,9 +222,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -226,9 +238,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 108.0,
+    "hours_to_lock": 101.3,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -242,9 +254,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -258,9 +270,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -299,9 +311,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-07T12:19:22.077192+00:00",
+    "generated_at": "2026-10-07T19:00:45.501117+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 100.7,
+    "hours_to_lock": 94.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
@@ -310,6 +322,12 @@
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Las Vegas Raiders Can't Afford to Sit Their Starting Running Back Yet - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mUTBPVS1HWWYwMU1NSmxNanh0NVdMaEtEQVViLU9wdGNONFY4Tl8yd3hGbGxXdFRzUndjQVhZc2p0VURmdTFHSEtLdDdYZHc0Rl9QT2RUcEgtUi1nZ0x1R2VkNUZMOVBJUl9uY1h6VjV1NEdVUXd1Ym5FMXhfQQ?oc=5",
+        "published": "2026-10-07T04:35:00+00:00",
+        "source": "AOL.com"
+      },
       {
         "title": "Kansas City Chiefs lose WR Tyquan Thornton to a serious injury in a breakout Week 4 performance against the Las Vegas Raiders - A to Z Sports",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNclVNeWVRWUpaX05DeUswNGYwa2ZQbFJPcDJycWV1dml3cXpCLV94WkdvSkxtaFJSdzJQenN2dEM2Xy1yRFBOLVQzSndfakJtOVcwUV9SQmRfcktfV2ZyekZHNTFkdjZnUElFUGZweVRXQWNKSERWSG1sVnViekIyUHp5N2xnVUpWY0EzcWJJM1YzSExORUV2YXlIV0E1UnN5R3h2cUd1dlY5QTF6dTViYlM1WnhHV1hnNHB4YVgwdFNONDQtdEZXSk5n?oc=5",
@@ -339,14 +357,8 @@
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaF9HRVNDNGMtRmh0bXVBQWlHWHdoUXNuOGVycWZ6ejFMNHVmSEZRZnhrRHBqOGtRTG9yS25kSmNBVlJuTElvME8tMnhCNVFIcjRnWHNsY2I0UHpGU1BQZDhodi10SWpmY0VqOVVCanpaX2FUVEVmdHk2cUp0Y0c5aFM2WXlBZEV1dXJXRFZZRml0ckpFMGRuTFM5VUJ5VkRUdW5ya2dpcU5uV0tURHVzQk1SaVJ6MXRkUll0cTgwWDBOV1lqankxSE5LZUZXTzdoZjRGZ0Znd01hZ3NvMkM4Qg?oc=5",
         "published": "2026-10-04T19:14:00+00:00",
         "source": "Chiefs Wire"
-      },
-      {
-        "title": "Kansas City Chiefs' inactive players list for Week 4 vs. Las Vegas Raiders looks slightly different, with a rookie set to sit out - A to Z Sports",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXBYS01PblBYbFdRbmhKcEtfLXktNFFwaHlreW91M0RSWjI1MlFVMDVPdTZaNXczU1cxRzE2cmhOTkUwVlloOUloWmpVelNOc2dTb01ZODNtRmNEWnRqZExmby02eHdHdll0cEppcUlvRG1QSVM4MXFqZVA2b2FrWDY4QzNJLTFFdURqZk1hTkFOUzRhaVNSOVREY3ZuaEZyYjV1bW54RXllMDJz?oc=5",
-        "published": "2026-10-04T19:06:26+00:00",
-        "source": "A to Z Sports"
       }
     ],
-    "reason": "Las Vegas Raiders' inactives for Week 4 show that the team is unexpectedly going to be without one of their breakout players from a year ago - A to Z Sports"
+    "reason": "Las Vegas Raiders Can't Afford to Sit Their Starting Running Back Yet - AOL.com"
   }
 ]
