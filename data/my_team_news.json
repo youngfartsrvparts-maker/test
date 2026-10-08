@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 103.3,
+    "hours_to_lock": 98.4,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 68.5,
+    "hours_to_lock": 63.7,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -73,9 +73,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -126,9 +126,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -142,9 +142,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -153,6 +153,30 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Alvin Kamara (back) officially limited Thursday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkpmdFhyZHJHXzlmckc2UHVYeTRkMU5oeWtGX0Z6ZllpNFQ4UHh3azRLQ3ZQRHY4czBMS2VHYUlnR1luaWdnVVNhSk1ib0pqSFE4NVR0bkhaV05qWWZ6SEFBZjlQaTI3cVN0WUhUV243MFg1UEtjRTdQakhqQkEtVE8zOWRiXy1meTlpdi1IcFNIaXN1bVZyRNIBngFBVV95cUxOYWRLQlBrYXN0dk43SFZPaW5YaVBXRzV4Y0NkUFBtZUYxZlJ5Ml9EMlM2THRJNTNhQkV2UWZ5RVlHaXdUbk9qNG9EVnJSMHdiaUpGNktPdnltUkdMcERiWkx1OWpBemtfaVZxN19UczctVXNZOVR1TDJHTm5ySEhldXhyT3NaQi1aY0FzR0RIbzdvcWo4cTRiLXFzaVlhQQ?oc=5",
+        "published": "2026-10-08T21:19:36+00:00",
+        "source": "FantasyPros"
+      },
+      {
+        "title": "Alvin Kamara Limited in return to practice - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHZ1TEpGU2VGWEwwZFZGR2FqbjNER2tqaDNzMmotY3JSY1gybUowdDIzRnJadlQ3TXJJYjdoMUlzSHBCWmZHaDdKZ2FFalU4MWlRZzRZdEZ3cWM2REdEVzNEMFlITjN2azVwRy1DdXZObndMYW9JajVNNXFYWjZxd3pDclVOR1VFTUdDYnM3NnhXTFVfYkZ1dg?oc=5",
+        "published": "2026-10-08T20:47:47+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
+        "title": "Saints' Alvin Kamara: Limited in return to practice - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlY5SEJ3R0c5TTI4WFhMV1VrdEJJMGFVZGRYY2pqejZpZDJnMmlHc2lPMzl3cVNGUU42c1hhYzFTU1dOZ19OMzM0TF9meWkwZ2RnSGdUM21zREhpMEhjVkZQTkpVeHd4WXB2cEpjSk5OOW56RXgwZ1hDS01NVHM0Y1FYRHNQeFZ3THpsN3l2RzZQZW0wamRwcW1FQzZOcTlNcnVySWtZdHc?oc=5",
+        "published": "2026-10-08T20:32:29+00:00",
+        "source": "CBS Sports"
+      },
+      {
+        "title": "Alvin Kamara Injury: Limited in return to practice - RotoWire",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGxLd2ZIY3paZkVRTXZkUU9WU1BvbFNfQVlJQzhfWkJCVGtBZU9tNTlnQVFtdFZoN3ZPNVkwaGxsT0l3QmNYZjl1WVgyZGdSVlF5MU1PQnYwUE1rNDdIVF9HSl9mc2EwVV9Cb0I0NGJiS0ktaGlVc0VHQkkyaThHN3loUldickFRc1l4R2FMa3FCcXhkWHJfekJEeUlYS0lIOGc?oc=5",
+        "published": "2026-10-08T20:32:29+00:00",
+        "source": "RotoWire"
+      },
       {
         "title": "Wednesday’s Saints vs. Vikings Injury Report: Alvin Kamara did not practice - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaEVhQ3JrdDlsLUpZUDM2SC1nYi15RWx1OUhUMzhpNzRVazFBNFNGbXdvZG05RXl3cTdpa0xhRDhaQk5WVS1nd01tYmU4djZMdlREejBYYkhTR2V2X0NLTU9nRVpKczFkNlhlVkx6MkpWTmRnSEU0WjZzY1VYU1NFRFpxZG9sbE1ic2xz?oc=5",
@@ -164,30 +188,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzFKRkNmNncxVlVnNW1paEsyYlJSekxpYkVEQm5RYXJxVzViU1JseV9wN1RqTUJydTR0MklvRW9USGRGdTlzR2JuR2JuTFBvQ2pneklVSEdsVFlVQklhNWY2dy1mSnZHd3pJYnByM3VnZXNFNENEaFoxVng0a1lPUlJKbkw0WEtH?oc=5",
         "published": "2026-10-07T17:31:04+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Alvin Kamara injury update: Latest news on Saints RB’s status in Week 4 game - The Big Lead",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjJTbTZjS2lZOFB5NzJTNmJUQ2JvTnlFYVRtNmR2d1VQZndhN0VCT05xR2ZpRFduSzVKV0NqZmlxRF9KMzZaVzJvS0wtazBicWw3cWRoSWU3TkRuVE5QZVBXaDJCbF9VZGp4NHNnTkJSU3hmc0RFelVhSzBheWJsQjBWaGNoMVhWN1hBYjlR?oc=5",
-        "published": "2026-10-06T09:29:36+00:00",
-        "source": "The Big Lead"
-      },
-      {
-        "title": "Alvin Kamara Injury Update: Why Saints’ RB Exits Game on Monday Night Football - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV21iWE0wbmxTN0t0UmU3Xy1rLVAweFVxcGlRa0VZVXZKR09ZMFlPdF8tYy1LU0pyVWYzLWx6QjFNd244N0ZhQ0U2Um1MeDRGamxMZHk1bExlZXlpVm1OZHhqNnJVMnlQeTRFU3VQbHJxdnFiUGttRnE4TEZOZV9TZUVheXJRcjZsMjR6Z3hycm52V3VmY1VMS011bHRJZE9ET0E?oc=5",
-        "published": "2026-10-06T02:42:00+00:00",
-        "source": "Heavy.com"
-      },
-      {
-        "title": "What happened to Alvin Kamara? Live injury updates for Falcons vs. Saints on Monday 10/5/26 - DraftKings Network",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkdKMkZ6dWdqV0hFN3dyN2xxUDVMNU1OZXp6ZW1KQV9tVWJPcVRJRFRBME9OalFmRFVhak9xUDJEUGthSFZyR0g2aVdKQm9haHJLTjRaRVp4S3lMc2p6MkM2bEJEM29tNmZWdXA2Y185bGctRENHLXJ5S25Rc1d3MF91S01DRWFLRjJGdzFxTUdDN1UyN0RVUGhGU0R6Unc4UV9NekV4b2QzMVFVSnZoaWkza3VQcTRIcXV0NlVEZG5nSzNnZVphaUYtZXpVSTA?oc=5",
-        "published": "2026-10-06T02:40:13+00:00",
-        "source": "DraftKings Network"
-      },
-      {
-        "title": "Alvin Kamara injury update: Latest news on Saints RB’s status in Week 4 game - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDNTQ09jcHA1ZlhIa29MNjZqeEJkbkFMdDRiWXFlZXk3Z3Z6N3JkbTYwVTRuU0hLMGp3Qng2SmhkbURWX29JYl9kQmQyUVdrMkhWNjRBblI5OGl3ekFUS1BidnA4bnNxREhvYWc2ZmhieDA1Wi1oeFphVWZRbHlfakFla1A3dlU?oc=5",
-        "published": "2026-10-06T02:24:00+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "Wednesday’s Saints vs. Vikings Injury Report: Alvin Kamara did not practice - Yahoo Sports"
@@ -195,9 +195,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 75.4,
+    "hours_to_lock": 70.6,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -211,9 +211,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -227,9 +227,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 7.3,
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 2.4,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,44 +243,62 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 86,
+    "score": -2,
+    "model_modifier": -0.5,
+    "confidence": 95,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
-        "title": "D’Andre Swift (hip/knee) does not practice on Wed. - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGJIZGxBQW9pdnpoMlZJT3BuWmNXVmZMRVpaS01ZYTJmMEFFdlVRODAwWkM3WFNrODNFb1o3eUpUelBDdkh1elZQX3N5SWE0eFR2elBZYjY2STRFaHlrNDM5cHptbXZiX3RCZVZGUEJHekdFWDcwMkZYQi1mZ0VtRzh6T1hSa0hya0prSGp5SzhpN2s4d0piZFo5Yk1rWC1kU1ZRcWhKODR6X1FtSWw4MlhB?oc=5",
-        "published": "2026-10-08T00:54:10+00:00",
-        "source": "NBC Sports"
-      },
-      {
-        "title": "D'Andre Swift, Kyle Monangai both on Bears' injury report Wednesday - NBC 5 Chicago",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaVNGWW1HMUN1S2V1NGU2bDdTTUwxa3gwTUxQMUpqQzMzWG1jbUxaRGR3czRwN01xdWFYWkJoMTJ4dDNkM0trLUJpVEM2a0k5WlVtMWY3bWp4TTYzSjZfdHg1aEl3ckZJUXhneFduX1hVMHJ6b0sxTVZKNEZxdDBDVnJhdGNjLTBxZ1o0anlBVHFrVF94ZWoyb2ZzeDcxMkdfRkRBTlZoejNPTm05UkVYYllQNWYtd1diRUg2TWtFcjRLOUphZjZjZWh0cGZWLUxoTHoyRW5POHNHSlVELVhUQ9IB6AFBVV95cUxPRDBtd2hGUDFQaVRoR21KT1FhWjRCNDdNY2tmc3NBeUhLNGxlY3RoTkR3ZHNhV3dqdUVydjhtVmZBeXdhN3lHWnpNUVRqeENuaDBpbGRaNTdSNk54ZUdORnVLTUF6VEIzVTNDMjlmRkh2YXpQLUw4dFgyRTd2RTB5eUtoMk4zM25XVUZlY1NHb2J1TjkyOWpMbGtnQ0ZFMnk0YUk1T2NRaHVpQ3dXNVVRbUZZTnU1QXM1dl9hZzQtM0FqZVpWenBDMmtBOTJZZ3hka3NDRXBDcmpNUUxfaDZYQ25vNzhuZ2RR?oc=5",
-        "published": "2026-10-07T20:32:39+00:00",
+        "title": "Bears' injury report features updates on D'Andre Swift, Joe Thuney - NBC 5 Chicago",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW10UDJDRDdBYXZCSlpQSFZVV0RXdTdXVlEzYUFfYU1OclRvM2JzMS16UC1GNkFFTUVuRFhNcy12MXhXREJQYmNpby1aR05XUHFCb0VRR1BUQmxubGFva0l0LW1hZzdGaTlrNHJJWVVTSkdvaE1rMjF6dHBqT3Z1Y2xheWNnWUgxM2h0cDQzVnFTTmhFX0xDZGxvaVU3WFFJNDFUZmQyOXkyRXFrbXNXQXZYOFlIZVFscjhJUmN0cTV4MjlMWjZaOTROWUczUlRWaGpfTWJpZ21ONWlOS3lj0gHnAUFVX3lxTE9QSUVLbUZMZHVUa0h5VmVfOVE5dDBHam1WdUllY21KRjdwTDUzMUlLOV80cGppX1NScWZXUS1CdFVKdTdXeFNqaEtUT04xOFpEa2RUVGRFWkZDYnRRd0Vxa2RnV09tZ0xzRzNhcGd1Qk1XOGdQVGJIekM5RmJlY0tlN2NDZ3hrOXlSNHViN1dpSnp2RjlXcGc4YzRkU0NIS21zdGZqS0VtTF9IbnN4Z0IxTU1RSHJCWlBJUGU5MDRpc0tYUGEtbHFUN19RX1BTMEFIWHZGUDNILTI1Wm1WOU1LM1JPbGtwdw?oc=5",
+        "published": "2026-10-08T20:43:21+00:00",
         "source": "NBC 5 Chicago"
       },
       {
-        "title": "Kyle Monangai, D'Andre Swift and More Injury Updates From Bears' Wednesday Practice Report - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDh0QllhR0hFSUxSZXNkSUhEYVVwX2xFRHFJdzFaS21uQlpoUUNXanVHcEx0akZLVTZrenMxdDR3bENkOFcxZ2MtSVQwUFpfckpLR0NhSW9CQ0hxei1ZeWJvaEY0VHAtMW53RElHWGdDWTZXNm5iS3Z6MVBGR01lV1BCT2JTaUdNU2JDZXM3OG04b19HRlZEWDhqRklwcnQ3SUtucmgyYmIwWVBh?oc=5",
-        "published": "2026-10-07T19:58:35+00:00",
-        "source": "Sports Illustrated"
+        "title": "Bears RB D'Andre Swift limited, Kyle Monangai DNP again - The Olympian",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FTVdwV0ltVWUtcTJQa0NlWEpIdmlsSjE4ZlNrT2Nlb3BlRGRHeDdubW55bXpuRFVPYVFIUUVMX2k4aXZ6djZDaXlHVFJBeVl5TUFGZjJ1OFZ1eDFBQTNLTlpucGJmSUJDUDdmcw?oc=5",
+        "published": "2026-10-08T20:02:00+00:00",
+        "source": "The Olympian"
+      },
+      {
+        "title": "Bears Announce Injury Updates on D’Andre Swift, 11 Others Before Packers Game - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON25ZYjV0YTY4T2pzY0hBUUFmZjhwblhnSFhXc1p4UGxFNDNjSUhqeWp2alAtTVp1TV9YbU1wTksyN01NOEs3R1YtRUdIYzR1MWI1Rm5lXzJPZVRlQWs0bng1ZGg4UXE3TWFRUlJuXzdHaUEwQzR6TzRFWWY5QVM3RGdMUWI3SkdtVXB3?oc=5",
+        "published": "2026-10-08T20:01:30+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUFjVXlkbDE1UF92cFN2SWFzWFc5VXI3b3h5RE56aW9FMElJZGsxempOMVN1TmtaUW9WYm1Gd0ctTjRvRXp2LURwVF9SRjJPSGNhNk8wSU9OQTNaOWlPRnpQVkNId1FweXdZWGUwTV9CanZWZjFzckRVMjU1RTBWLURaR3N1eE9wOFNIUTlMZ2dQTUpDUlNnNmpB?oc=5",
+        "published": "2026-10-08T19:43:43+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
+        "title": "D'Andre Swift upgraded to limited practice - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5iWjNPbURSNURSUERMdVBlUFpIUmg5OVJGbWlIbzJVeUdnS3laUjM5MzIzM2dQam1fOF9WMGZUTnp6ZEctRjFQcjI5NDNld2gyck9fdGd4R3N6aTlIMzFrbjhGNWwwajl3eld2MFdmWC1nRTEwaGx0MkZJRmxjNjZyRS1PZmpDRUp0ZUE3eC0?oc=5",
+        "published": "2026-10-08T19:42:51+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "D’Andre Swift returns to practice, Kyle Monangai still out - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDdSMnpUb1o1UjNPMGxnNzFZZFRERG1McG1lZUNNYlE5cjJONmE2TXJyejFMTTFsUlNOMWxvTVhfMHhGM2FrWDQ3dWZuVTNfVXMxR0xUVEdrMERFUUVlSnNPTjROaEZxVUtJSFpEZDN1d0NWVGIxYU9JQTFfa2Ntb2V5c3RrVmlWOXBESFRiSFRGNTVQUTVEdEVlT3RmYUMyaDFWNS05aUhOaG00U3hyczUwbldNcTlBd1E?oc=5",
+        "published": "2026-10-08T19:27:35+00:00",
+        "source": "NBC Sports"
       }
     ],
-    "reason": "Sleeper injury/practice status is the main signal."
+    "reason": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast"
   },
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -294,9 +312,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.4,
+    "hours_to_lock": 74.5,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -310,9 +328,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -326,38 +344,25 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
-    "confidence": 79,
+    "confidence": 65,
     "label": "Negative availability signal",
     "injury": "IR",
     "practice": null,
-    "headlines": [
-      {
-        "title": "Why isn’t De’Von Achane playing today? Dolphins RB depth chart vs Vikings in 2026 NFL Week 4 - Bolavip US",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSm9MX0ItRjRkcGxUelV4NVBwZFRibmJBZFpLUXJUeUFCZDVnbno3UzZrSHRJN1JqaUZ0X1l1TE81S3JrQmU2RS1pQzRaWVdaU0gwQ3EwZTJXNk5rN0tsS1JhcVc2OWx4bzdlNjBKdC12b2s5Q2lfcTM0cUVHMzVTdThWc2NTZmRPUWpydE1uUkVfaGtkQjNxQnlBSFRJc1I4dTA3b3B4Z3kweHp1UThlWUtnd1BMV3fSAbwBQVVfeXFMTlk1RVNZLUxlS1d1cHRfS3p6NS1ISTE5RkJZLXJEamI2R25Fa3ljR0FuSHZhZ1pPQ0pmc0p0VkNPSFlqMGhvNzAxbVNiby10SXNDSk9TeVJ6WmNpM2c4elFUSGJyQVZHTzA5bFR3bV9YS1RaaEZpQVdVeHB1enFNRDdON1ltSG1Wb3lobnNFTWEyNEhIOG0xWGNyTldkTDczWS1ETWFYY1VpRXpYY0lNTnlYM1R2ekZzQXRDdWk?oc=5",
-        "published": "2026-10-04T18:43:59+00:00",
-        "source": "Bolavip US"
-      },
-      {
-        "title": "Is De'Von Achane Out For Season? Dolphins' RB Depth Chart Takes Different Shape With Injury - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnIxdUtaNV9aZG9POEZxTXN2WWw1VnlvNEdrQjFINTl0OU8xYURSSVBvcHhpdW1QbUJfc3FEUVdwN3gwTG1MX2k4aEVZQ0lINlRudUZRak43UnRxQVNHaWo0UGVHTDRRVDBLZzJIQWVwTUt3VXpxMFpyRkRpdkxlQlNUZHlNdHc0WlhHdXMxVmFIT2lzM3o4b0hsMVV4SDFrYldBNkdlY2Fadw?oc=5",
-        "published": "2026-10-04T18:41:26+00:00",
-        "source": "Heavy.com"
-      }
-    ],
+    "headlines": [],
     "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-08T16:58:16.650028+00:00",
+    "generated_at": "2026-10-08T21:48:40.629561+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.0,
+    "hours_to_lock": 67.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
