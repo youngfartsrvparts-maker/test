@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 120.7,
+    "hours_to_lock": 117.3,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -31,9 +31,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -47,9 +47,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 85.9,
+    "hours_to_lock": 82.6,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -63,9 +63,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -79,17 +79,23 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 73,
-    "label": "No material negative news found",
-    "injury": null,
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 95,
+    "label": "Some availability risk",
+    "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Tyler Shough limited at practice - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WTXEtMDFBemdhZzFpSF9KQnVtNnAtcERyZk9aQW5reklHNXc2c0paeWNkWVl5M0FpUWh6MTJvQTdsUGllU0ZOaDJtR1RSalBkaVg3bXY0Zm4zSE9MR2xVUVZaMFNNZkJqNzF1WXhmVmNDUTQyMkt0U1F6Q1B6dw?oc=5",
+        "published": "2026-10-08T02:32:00+00:00",
+        "source": "AOL.com"
+      },
       {
         "title": "Tyler Shough limited in practice with left hand injury - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0Itb2tfc0dzRTc4czBLVEx0eXNESTBHYTJja2hBTlBmRkp1Q2FqelBUNC1HVmR6UjZ6OXZpR3FSUEhURFMtWDdxU0xRRlpCdFNuZnNFSnBNcElLWkJXVnhxRnpMNmxRajdTbUpJZG5aZEdyRzc3bkd1Q3dIanZjM3BhUkxoWnpobTFWMWw1aDBSSXNPMEVuV3gzZGRVYWxhTVY2bWpCZmFUa3A4b2ZWMHZhTUs0NEk?oc=5",
@@ -111,18 +117,18 @@
       {
         "title": "NFL news roundup: Saints' Tyler Shough (left hand) limited in practice; Giants' Malik Nabers (knee) sits out - NFL.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0hkSWFFS0xncFZvWnJocVctNG1fdXlxLWZRa0xOYzhLb1VHTE0tUkRidEJGYmV2OTVfM3VxQmljSkZrbHdjbHRZQ0tyN3ZSRmlPRnRfdjRPUVhINklyd3hlcndVVkI3OWI4M3BfZFB0WkxJZTlkNjBmZmMxaUcwMGNPY2tmNHAzMUpodw?oc=5",
-        "published": "2026-10-07T13:32:35+00:00",
+        "published": "2026-10-07T13:32:56+00:00",
         "source": "NFL.com"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -136,9 +142,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -183,9 +189,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.8,
+    "hours_to_lock": 89.5,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -199,9 +205,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -215,9 +221,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.7,
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 21.3,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -231,21 +237,21 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 59,
-    "label": "No material negative news found",
-    "injury": null,
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 86,
+    "label": "Some availability risk",
+    "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
         "title": "D’Andre Swift (hip/knee) does not practice on Wed. - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGJIZGxBQW9pdnpoMlZJT3BuWmNXVmZMRVpaS01ZYTJmMEFFdlVRODAwWkM3WFNrODNFb1o3eUpUelBDdkh1elZQX3N5SWE0eFR2elBZYjY2STRFaHlrNDM5cHptbXZiX3RCZVZGUEJHekdFWDcwMkZYQi1mZ0VtRzh6T1hSa0hya0prSGp5SzhpN2s4d0piZFo5Yk1rWC1kU1ZRcWhKODR6X1FtSWw4MlhB?oc=5",
-        "published": "2026-10-07T20:40:44+00:00",
+        "published": "2026-10-08T00:54:10+00:00",
         "source": "NBC Sports"
       },
       {
@@ -253,16 +259,22 @@
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaVNGWW1HMUN1S2V1NGU2bDdTTUwxa3gwTUxQMUpqQzMzWG1jbUxaRGR3czRwN01xdWFYWkJoMTJ4dDNkM0trLUJpVEM2a0k5WlVtMWY3bWp4TTYzSjZfdHg1aEl3ckZJUXhneFduX1hVMHJ6b0sxTVZKNEZxdDBDVnJhdGNjLTBxZ1o0anlBVHFrVF94ZWoyb2ZzeDcxMkdfRkRBTlZoejNPTm05UkVYYllQNWYtd1diRUg2TWtFcjRLOUphZjZjZWh0cGZWLUxoTHoyRW5POHNHSlVELVhUQ9IB6AFBVV95cUxPRDBtd2hGUDFQaVRoR21KT1FhWjRCNDdNY2tmc3NBeUhLNGxlY3RoTkR3ZHNhV3dqdUVydjhtVmZBeXdhN3lHWnpNUVRqeENuaDBpbGRaNTdSNk54ZUdORnVLTUF6VEIzVTNDMjlmRkh2YXpQLUw4dFgyRTd2RTB5eUtoMk4zM25XVUZlY1NHb2J1TjkyOWpMbGtnQ0ZFMnk0YUk1T2NRaHVpQ3dXNVVRbUZZTnU1QXM1dl9hZzQtM0FqZVpWenBDMmtBOTJZZ3hka3NDRXBDcmpNUUxfaDZYQ25vNzhuZ2RR?oc=5",
         "published": "2026-10-07T20:32:39+00:00",
         "source": "NBC 5 Chicago"
+      },
+      {
+        "title": "Kyle Monangai, D'Andre Swift and More Injury Updates From Bears' Wednesday Practice Report - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDh0QllhR0hFSUxSZXNkSUhEYVVwX2xFRHFJdzFaS21uQlpoUUNXanVHcEx0akZLVTZrenMxdDR3bENkOFcxZ2MtSVQwUFpfckpLR0NhSW9CQ0hxei1ZeWJvaEY0VHAtMW53RElHWGdDWTZXNm5iS3Z6MVBGR01lV1BCT2JTaUdNU2JDZXM3OG04b19HRlZEWDhqRklwcnQ3SUtucmgyYmIwWVBh?oc=5",
+        "published": "2026-10-07T19:58:35+00:00",
+        "source": "Sports Illustrated"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -276,9 +288,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 96.8,
+    "hours_to_lock": 93.4,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -292,9 +304,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -308,9 +320,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -343,9 +355,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-07T23:34:41.839352+00:00",
+    "generated_at": "2026-10-08T02:54:30.140857+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 89.4,
+    "hours_to_lock": 86.1,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,

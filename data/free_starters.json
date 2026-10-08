@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-10-07T23:34:44.095479+00:00",
+  "generated_at": "2026-10-08T02:54:32.543962+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
+    {
+      "player_id": "11577",
+      "name": "Will Shipley",
+      "pos": "RB",
+      "team": "PHI",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 3.14,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 666932,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 5,
+        "date": "2026-10-11",
+        "time": "09:30",
+        "home": "JAX",
+        "away": "PHI",
+        "spread": 7.0,
+        "total": 42.5,
+        "opponent": "JAX",
+        "home_game": false,
+        "implied_team_points": 24.8
+      }
+    },
     {
       "player_id": "11581",
       "name": "MarShawn Lloyd",
@@ -21,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 226701,
-      "drops_24h": 200340,
+      "adds_24h": 210861,
+      "drops_24h": 167859,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -42,7 +75,7 @@
       "pos": "RB",
       "team": "WAS",
       "depth": 1,
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -54,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 26172,
-      "drops_24h": 226998,
+      "adds_24h": 27684,
+      "drops_24h": 198864,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -87,7 +120,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 508040,
+      "adds_24h": 415856,
       "drops_24h": 0,
       "next_game": {
         "week": 5,
@@ -100,39 +133,6 @@
         "opponent": "LV",
         "home_game": true,
         "implied_team_points": 21.0
-      }
-    },
-    {
-      "player_id": "9754",
-      "name": "Quentin Johnston",
-      "pos": "WR",
-      "team": "LAC",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 9.9,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 300307,
-      "next_game": {
-        "week": 5,
-        "date": "2026-10-11",
-        "time": "16:05",
-        "home": "LAC",
-        "away": "DEN",
-        "spread": -3.5,
-        "total": 41.5,
-        "opponent": "DEN",
-        "home_game": true,
-        "implied_team_points": 22.5
       }
     },
     {
@@ -154,7 +154,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 172557,
+      "drops_24h": 139719,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
