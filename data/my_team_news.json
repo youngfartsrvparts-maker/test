@@ -2,13 +2,13 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 110.5,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 59,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -18,12 +18,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3BfN3hVZnJTeGJkZGdVdzNBdzBWdDlmTnhQcGNfVDhhLUFkYkpGVmxsaWJJdHJPRG5oWklUaVV6Q2d6YXV0UjgwTmZya0lHVW4ya0o2UHpKY2hGalZ5c0dDbXhBbjJXSTdnYktNZDhSUFF3RU5iMkNPNGp3SlBRcDItSTRUeWhiWUVqUw?oc=5",
         "published": "2026-10-05T20:14:54+00:00",
         "source": "Heavy.com"
-      },
-      {
-        "title": "Dalton Kincaid Creates A Patriots Coverage Problem Before Josh Allen Scrambles - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaG9xR183ZHl0TGszTFoxTVZsM3pkdDZoQ1NtYnZ2YlMxYmtOVmlZVjFJcmVEdkNMXzhkUHoydkM2SnFBNnlEYTBTR3BRalljTng5TWlHMlZVNUFYRHF0V1hVelVoX0VhcExDaVIwdWNESkJVWnZKQTJscm11em8tTmloc0w3XzFpSlFKaExrOUQ2YUE?oc=5",
-        "published": "2026-10-04T16:37:39+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -31,9 +25,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -47,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 75.8,
+    "hours_to_lock": 68.5,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -63,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -79,9 +73,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -90,6 +84,12 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Saints QB Tyler Shough sweeps hand injury under rug after wearing wrap during Falcons game - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmNIY081LU90czZ5SXFWa2NQal9XTFEtY2tWQjlQZEdUdVduQUZDd3RjUndpbHFFOWdtSHd6czlMdmJTS0NmZ09zUkx6RzQ1R3owRTNZMThSdU9mNVByeU1YVXBiejc5SFN5LWNWMVZIYW1ndThiMm14bFgwdzc0YmdMWTk?oc=5",
+        "published": "2026-10-08T14:14:33+00:00",
+        "source": "Yahoo Sports"
+      },
       {
         "title": "Tyler Shough limited at practice - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkNPejFCRFVLWnVIVUI0Z2l4YnhPWjJBcUFwN2FhNFVyV0duMmQ1YkI2LWRZaUlEV3FKRm1DLTB0dXU5MVdmS3lBMnF0TDVzTUpqWFpSNEtlaHRDenc1bU1GVTExVnl4YTF2MkF0RDNGT1Fzalh1bC1ORXBVVkhRcVBRTUw?oc=5",
@@ -119,12 +119,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzJQZWJQV09VeE9jNlpqY0s3eTc5VHlvd3pleFdaeHpiQnRRcmdBSEktSjA2Sld0WFlocXVjV3hsSmdhYTkyVTNOeDB3TnJMbEVjR1BsSnBRTlpMb2ZSTXFWdm9XbUlPemVlSGQwcHNhdGlQeHExbUNpeFdRTzhzY1ROTER2UVVwb1ZpQWtfUU5Td1J4Y3B5TzNXdEJ1MGFs?oc=5",
         "published": "2026-10-07T20:45:16+00:00",
         "source": "RotoWire"
-      },
-      {
-        "title": "NFL news roundup: Saints' Tyler Shough (left hand) limited in practice; Giants' Malik Nabers (knee) sits out - NFL.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0hkSWFFS0xncFZvWnJocVctNG1fdXlxLWZRa0xOYzhLb1VHTE0tUkRidEJGYmV2OTVfM3VxQmljSkZrbHdjbHRZQ0tyN3ZSRmlPRnRfdjRPUVhINklyd3hlcndVVkI3OWI4M3BfZFB0WkxJZTlkNjBmZmMxaUcwMGNPY2tmNHAzMUpodw?oc=5",
-        "published": "2026-10-07T13:32:35+00:00",
-        "source": "NFL.com"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -132,9 +126,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -148,9 +142,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -159,6 +153,12 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Wednesday’s Saints vs. Vikings Injury Report: Alvin Kamara did not practice - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaEVhQ3JrdDlsLUpZUDM2SC1nYi15RWx1OUhUMzhpNzRVazFBNFNGbXdvZG05RXl3cTdpa0xhRDhaQk5WVS1nd01tYmU4djZMdlREejBYYkhTR2V2X0NLTU9nRVpKczFkNlhlVkx6MkpWTmRnSEU0WjZzY1VYU1NFRFpxZG9sbE1ic2xz?oc=5",
+        "published": "2026-10-08T09:15:40+00:00",
+        "source": "Yahoo Sports"
+      },
       {
         "title": "Alvin Kamara Injury Shows Saints Scary Truth - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzFKRkNmNncxVlVnNW1paEsyYlJSekxpYkVEQm5RYXJxVzViU1JseV9wN1RqTUJydTR0MklvRW9USGRGdTlzR2JuR2JuTFBvQ2pneklVSEdsVFlVQklhNWY2dy1mSnZHd3pJYnByM3VnZXNFNENEaFoxVng0a1lPUlJKbkw0WEtH?oc=5",
@@ -190,14 +190,14 @@
         "source": "Yahoo Sports"
       }
     ],
-    "reason": "Sleeper injury/practice status is the main signal."
+    "reason": "Wednesday’s Saints vs. Vikings Injury Report: Alvin Kamara did not practice - Yahoo Sports"
   },
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 82.7,
+    "hours_to_lock": 75.4,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -211,9 +211,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -227,9 +227,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.5,
+    "hours_to_lock": 7.3,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +243,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -278,9 +278,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -294,9 +294,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 86.6,
+    "hours_to_lock": 79.4,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -310,9 +310,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -326,13 +326,13 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
-    "confidence": 86,
+    "confidence": 79,
     "label": "Negative availability signal",
     "injury": "IR",
     "practice": null,
@@ -348,12 +348,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnIxdUtaNV9aZG9POEZxTXN2WWw1VnlvNEdrQjFINTl0OU8xYURSSVBvcHhpdW1QbUJfc3FEUVdwN3gwTG1MX2k4aEVZQ0lINlRudUZRak43UnRxQVNHaWo0UGVHTDRRVDBLZzJIQWVwTUt3VXpxMFpyRkRpdkxlQlNUZHlNdHc0WlhHdXMxVmFIT2lzM3o4b0hsMVV4SDFrYldBNkdlY2Fadw?oc=5",
         "published": "2026-10-04T18:41:26+00:00",
         "source": "Heavy.com"
-      },
-      {
-        "title": "Is De'Von Achane Playing Today? (Injury Update, Betting Impact for Dolphins vs. Vikings in NFL Week 4) - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYldLOXZzcVZ5N21zbVFYNFFTVXRnLVppWUJMWEZsRGZtN1pQMmw2OWUxTFQ1WFNLWU1RVFhRVDNNYUEwMDFkTFRGQXhubGpIWWJheFgxVjBtVTB6MGFUU01tQnpBd3FTWFltY2poSWN0bzcxTEtZNnVxR3R3QlNqeUIzMEdtZHB6U3dycWFNXzBxZ2tfWlBFWkxOWVI4SHFuV0Iyc2trM0l2cF9JQksybQ?oc=5",
-        "published": "2026-10-04T12:06:39+00:00",
-        "source": "Sports Illustrated"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -361,9 +355,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-08T09:43:16.956394+00:00",
+    "generated_at": "2026-10-08T16:58:16.650028+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 79.3,
+    "hours_to_lock": 72.0,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
