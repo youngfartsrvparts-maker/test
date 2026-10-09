@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T21:48:42.926122+00:00",
+  "generated_at": "2026-10-09T01:33:48.258721+00:00",
   "league_id": "1388315713940262912",
-  "count": 5,
+  "count": 4,
   "players": [
     {
       "player_id": "11577",
@@ -21,7 +21,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 114990,
+      "adds_24h": 106360,
       "drops_24h": 0,
       "next_game": {
         "week": 5,
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 101394,
-      "drops_24h": 70812,
+      "adds_24h": 116397,
+      "drops_24h": 78579,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 17325,
-      "drops_24h": 88236,
+      "adds_24h": 19539,
+      "drops_24h": 93096,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -96,43 +96,10 @@
         "home": "WAS",
         "away": "NYG",
         "spread": 3.5,
-        "total": 41.5,
+        "total": 42.5,
         "opponent": "NYG",
         "home_game": true,
-        "implied_team_points": 19.0
-      }
-    },
-    {
-      "player_id": "8121",
-      "name": "Romeo Doubs",
-      "pos": "WR",
-      "team": "NE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 10.19,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 132904,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 5,
-        "date": "2026-10-11",
-        "time": "13:00",
-        "home": "NE",
-        "away": "LV",
-        "spread": 3.5,
-        "total": 45.5,
-        "opponent": "LV",
-        "home_game": true,
-        "implied_team_points": 21.0
+        "implied_team_points": 19.5
       }
     },
     {
@@ -153,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 22389,
-      "drops_24h": 40758,
+      "adds_24h": 21009,
+      "drops_24h": 50679,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
