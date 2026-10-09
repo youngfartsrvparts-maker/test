@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:04:17.556590+00:00",
+  "generated_at": "2026-10-09T20:05:46.823868+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 108927,
-      "drops_24h": 64026,
+      "adds_24h": 110259,
+      "drops_24h": 62055,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -54,19 +54,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 19323,
-      "drops_24h": 74691,
+      "adds_24h": 20196,
+      "drops_24h": 69687,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
         "time": "13:00",
         "home": "WAS",
         "away": "NYG",
-        "spread": 3.5,
-        "total": 42.5,
+        "spread": 4.5,
+        "total": 41.5,
         "opponent": "NYG",
         "home_game": true,
-        "implied_team_points": 19.5
+        "implied_team_points": 18.5
       }
     },
     {
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 14043,
-      "drops_24h": 49818,
+      "adds_24h": 11142,
+      "drops_24h": 51651,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
