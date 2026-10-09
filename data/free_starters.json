@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-10-09T01:33:48.258721+00:00",
+  "generated_at": "2026-10-09T07:59:45.042239+00:00",
   "league_id": "1388315713940262912",
-  "count": 4,
+  "count": 3,
   "players": [
-    {
-      "player_id": "11577",
-      "name": "Will Shipley",
-      "pos": "RB",
-      "team": "PHI",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 3.14,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 106360,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 5,
-        "date": "2026-10-11",
-        "time": "09:30",
-        "home": "JAX",
-        "away": "PHI",
-        "spread": 7.5,
-        "total": 41.5,
-        "opponent": "JAX",
-        "home_game": false,
-        "implied_team_points": 24.5
-      }
-    },
     {
       "player_id": "11581",
       "name": "MarShawn Lloyd",
@@ -54,19 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 116397,
-      "drops_24h": 78579,
+      "adds_24h": 111690,
+      "drops_24h": 69678,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
         "time": "13:00",
         "home": "GB",
         "away": "CHI",
-        "spread": -2.5,
+        "spread": -1.5,
         "total": 45.5,
         "opponent": "CHI",
         "home_game": true,
-        "implied_team_points": 24.0
+        "implied_team_points": 23.5
       }
     },
     {
@@ -87,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 19539,
-      "drops_24h": 93096,
+      "adds_24h": 19071,
+      "drops_24h": 81261,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -108,7 +75,7 @@
       "pos": "WR",
       "team": "PHI",
       "depth": 1,
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -120,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 21009,
-      "drops_24h": 50679,
+      "adds_24h": 17106,
+      "drops_24h": 49854,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T01:33:44.502382+00:00",
+  "generated_at": "2026-10-09T07:59:41.700948+00:00",
   "season": "2025",
-  "missing_count": 733,
+  "missing_count": 735,
   "players": [
     {
       "player_id": "11533",
@@ -2209,6 +2209,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "11959",
+      "name": "Bryce Oliver",
+      "pos": "WR",
+      "team": "HOU",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13424",
       "name": "Seth McGowan",
       "pos": "RB",
@@ -3883,6 +3892,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "12939",
+      "name": "Anthony Tyus",
+      "pos": "RB",
+      "team": "CAR",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "8129",
       "name": "Dameon Pierce",
       "pos": "RB",
@@ -5010,7 +5028,7 @@
     {
       "player_id": "13433",
       "name": "Riley Nowakowski",
-      "pos": "TE",
+      "pos": "RB",
       "team": "PIT",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
@@ -6603,16 +6621,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1643
+      "gsis": 1626
     },
     "2024": {
-      "gsis": 1640
+      "gsis": 1626
     },
     "2025": {
       "gsis": 1552
     },
     "2026": {
-      "gsis": 362
+      "gsis": 365
     }
   }
 }
