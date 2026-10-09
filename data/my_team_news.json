@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.3,
+    "hours_to_lock": 81.2,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -48,9 +48,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 53.5,
+    "hours_to_lock": 46.4,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -64,9 +64,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -80,12 +80,12 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": 1,
-    "model_modifier": 0.25,
+    "score": 2,
+    "model_modifier": 0.5,
     "confidence": 87,
     "label": "Positive/clear signal",
     "injury": null,
@@ -110,10 +110,10 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "Saints QB Tyler Shough sweeps hand injury under rug after wearing wrap during Falcons game - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmNIY081LU90czZ5SXFWa2NQal9XTFEtY2tWQjlQZEdUdVduQUZDd3RjUndpbHFFOWdtSHd6czlMdmJTS0NmZ09zUkx6RzQ1R3owRTNZMThSdU9mNVByeU1YVXBiejc5SFN5LWNWMVZIYW1ndThiMm14bFgwdzc0YmdMWTk?oc=5",
-        "published": "2026-10-08T14:14:33+00:00",
-        "source": "Yahoo Sports"
+        "title": "Tyler Shough (hand) upgraded to full participant Thursday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3FtNGtTU1BJM0ZoT0hCcldCWUhEY2NPZllDd2pEa002SUV5a01XUnZsMHBtQVZSanNJZW5rSWRWTmk5TkxBWFJnVjB6elNqZ3E3ZkdldUZFQ0MwM1V6ZS1pT3BKSmJZSjN0T3gtampZdDFKN1o4OF9VaGp5WTFJWUxIWlVoM1QyU25reWhYUGY1RGctTG0teEM5bHBFblF0cExFSnl30gGrAUFVX3lxTFBzMWQzUkJiX1NsbWdsSDU2U3JKTl9vM1J2WThUdkhtaTJhTGxPcXhVaXZjQm50bmRDUW0wa3Nuc1I3dk5yUk5GSlFyNHBaRmltbFlMblhySnhwMDAxS25LNDRRbEpuWTdDQkE3V280RmdsNUVTNGN1NmMxY1pRcnZVdVdiNGdlRUpwOUFtb0dNOUN5NGVFWWNCX1p1ck00S1MtOWtXT2RySlBqcw?oc=5",
+        "published": "2026-10-08T21:21:24+00:00",
+        "source": "FantasyPros"
       },
       {
         "title": "Tyler Shough limited at practice - Marco Eagle",
@@ -133,9 +133,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -149,9 +149,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -202,9 +202,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 60.4,
+    "hours_to_lock": 53.3,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -218,9 +218,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -234,9 +234,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -7.7,
+    "hours_to_lock": -14.8,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -246,22 +246,22 @@
     "practice": null,
     "headlines": [
       {
-        "title": "CeeDee Lamb injury update: Latest news on Cowboys WR’s status in Week 5 game - The Big Lead",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTRFdnQ4NGFnQXdkcUNLTG5JZ1p0V2hDQVNyNzhRZzJJRUEwLXlDMWNKdEhsR1k2VVh4dWtRUjJJaFoxZk00UE5qSEhrVWV3cTZOTkNTLUVsM24zaTNhd2pSdjBQcmRkNFVweU9mWmxKa3oydkpHSDMyS2otX09pWU10SGNmemdwd1ItUDhPa3JWTmM?oc=5",
-        "published": "2026-10-09T04:59:56+00:00",
-        "source": "The Big Lead"
-      },
-      {
         "title": "CeeDee Lamb injury update as Cowboys star WR exits vs. Buccaneers - USA Today",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFFUTG1sQXAyWEZ1M1UxbFgyOGJqbDloaUpCejl2UGlXa3BQc3NSeTFHanE4M2dRMjVVbjEzNTFfUTZqRlBsLUtqb3VfaGlVX1NpSjVuV2l4VE5PdUt5Ym5QV0FYUGNLbVYxOVc5Y0c2NFlzbFcxQzFDWEtjU2dhVHFtbkhiV1VXMkZEZWllMDVtdEVIMV92STQ2Q2RxT3BmNkVmeDJXak00NkVTSUtVREx2eXdxUlpmWXMwRUJTSC1CWDEyMDZxUEMxNXBHVDVDaTl0RQ?oc=5",
-        "published": "2026-10-09T04:24:00+00:00",
+        "published": "2026-10-09T11:33:00+00:00",
         "source": "USA Today"
       },
       {
         "title": "CeeDee Lamb questionable to return to TNF in Week 5 - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXBKV19FT3NHOTNJVWpCbnlUR0hsZFZuOWN0c0c1a2RVWGFTNEtzV3FXWG5WYXA3Q1VkQ2pFeXRwRXNUMGVEQUxORFJPRndBLVVSUUFxYXotb2JIRjIybE9YWmRiVTJTYWNXYjBKQkhkaGxtOFpOQlJya19FUXJiSUVuQi1JbmVZanh4cUVXQW1qdVdOM0JYMjZldjlNLU55blRWWm1XdUdmU0JyeV9IUzQyM3RlWHNB?oc=5",
-        "published": "2026-10-09T03:55:20+00:00",
+        "published": "2026-10-09T10:12:57+00:00",
         "source": "NBC Sports"
+      },
+      {
+        "title": "CeeDee Lamb injury update: Latest news on Cowboys WR’s status in Week 5 game - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTRFdnQ4NGFnQXdkcUNLTG5JZ1p0V2hDQVNyNzhRZzJJRUEwLXlDMWNKdEhsR1k2VVh4dWtRUjJJaFoxZk00UE5qSEhrVWV3cTZOTkNTLUVsM24zaTNhd2pSdjBQcmRkNFVweU9mWmxKa3oydkpHSDMyS2otX09pWU10SGNmemdwd1ItUDhPa3JWTmM?oc=5",
+        "published": "2026-10-09T04:59:56+00:00",
+        "source": "The Big Lead"
       },
       {
         "title": "CeeDee Lamb Injury Update: Latest on Cowboys WR After Leaving Week 5 Game - Sports Illustrated",
@@ -287,22 +287,34 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": -2,
-    "model_modifier": -0.5,
+    "score": -1,
+    "model_modifier": -0.25,
     "confidence": 95,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
+        "title": "D'Andre Swift Injury Update Details Likelihood Bears RB Plays and Highlights Concern - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2Z6OUhYb01KZDZ3dld4bEx1amV6YXQ5dVdMUklndE5PSXVFaXhSdEt4V2xTUEZ6Q2EzNUZIdWp2bVJTaHlLQ1ctVVFfMmx6d2ItT3FQQ2pyQ3ZQcVBVcTBYVjFvRjJaSUFYTUZNbkNzMEVWcmEyLVRxU05GQVVoVlY4enlmd1lsZVBVRmFaV0NmUWdOUUlIOG1wNE1VOGFqUmRZOW5B?oc=5",
+        "published": "2026-10-09T14:20:50+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
         "title": "D’Andre Swift (hip/knee) gets in limited session - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHc0Vmt1aGtmUE9Pc25sTWRFNkc0eGU2UWNUbHU2aHg1Nm5IT3JYaDd0dE1FSGVVeHJXYWd4U0QxWkI1bFNqTl9lbVlhZ0JZMjFkbURJM05lZUNYemdyNVFqQk42aXZKVktRSk9yaDk2RFB4TlJDZXlkbElrRjFWZUxTQ09pZmhpbFdzbVZ5RVdYSkdzU09LeVpXT2pLNDZIRTR4QjhlQ09NX0dEYkxuZQ?oc=5",
         "published": "2026-10-09T02:12:08+00:00",
         "source": "NBC Sports"
+      },
+      {
+        "title": "Bears Announce Injury Updates on D’Andre Swift, 11 Others Before Packers Game - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalNRQ3lHUnY0SkVtU2NneWJiVVVfcm9NUnhsS0xQVnJRamdiazVvdGoxdGtLRlpQR3duMUxEUkVXVGp2S25ZYmx6WUlMTi1oNjZ0Z2VteWdlZ3NULTNtQk04a0ZhS2ZPMlczREo2WmpxWnAyQk85cGF6QzI3Tzdnc29SU3lPR28?oc=5",
+        "published": "2026-10-08T22:52:24+00:00",
+        "source": "Yahoo Sports"
       },
       {
         "title": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast",
@@ -317,22 +329,10 @@
         "source": "NBC 5 Chicago"
       },
       {
-        "title": "Bears Announce Injury Updates on D’Andre Swift, 11 Others Before Packers Game - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON25ZYjV0YTY4T2pzY0hBUUFmZjhwblhnSFhXc1p4UGxFNDNjSUhqeWp2alAtTVp1TV9YbU1wTksyN01NOEs3R1YtRUdIYzR1MWI1Rm5lXzJPZVRlQWs0bng1ZGg4UXE3TWFRUlJuXzdHaUEwQzR6TzRFWWY5QVM3RGdMUWI3SkdtVXB3?oc=5",
-        "published": "2026-10-08T20:23:07+00:00",
-        "source": "Heavy.com"
-      },
-      {
         "title": "Bears RB D’Andre Swift limited, Kyle Monangai DNP again - Field Level Media",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0pzS2NDNmZGTXVKNXdVODlxN3dUVGVzdkN2MkY2cjMyZjVNOHhhYU9pZk1YOVlXSjJCSVBPYVRrNmxXTGRsZXpHaFpWa01uNGE3YldZOS1LcGpKREF1QWF0X0ZQVHlWWjVqTklmYVhYUTFUcVpDOEV5ZXd6WG5MRzJUWWtQRGVkRURibTBQNVo?oc=5",
         "published": "2026-10-08T20:21:39+00:00",
         "source": "Field Level Media"
-      },
-      {
-        "title": "D'Andre Swift upgraded to limited practice - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5iWjNPbURSNURSUERMdVBlUFpIUmg5OVJGbWlIbzJVeUdnS3laUjM5MzIzM2dQam1fOF9WMGZUTnp6ZEctRjFQcjI5NDNld2gyck9fdGd4R3N6aTlIMzFrbjhGNWwwajl3eld2MFdmWC1nRTEwaGx0MkZJRmxjNjZyRS1PZmpDRUp0ZUE3eC0?oc=5",
-        "published": "2026-10-08T19:42:51+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast"
@@ -340,9 +340,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -356,9 +356,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 64.3,
+    "hours_to_lock": 57.3,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -372,9 +372,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -388,9 +388,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -404,9 +404,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-09T07:59:42.685769+00:00",
+    "generated_at": "2026-10-09T15:04:14.416262+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 57.0,
+    "hours_to_lock": 49.9,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
