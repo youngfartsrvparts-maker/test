@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T05:45:50.983977+00:00",
+  "generated_at": "2026-10-10T11:35:44.403417+00:00",
   "season": "2025",
-  "missing_count": 735,
+  "missing_count": 734,
   "players": [
     {
       "player_id": "11533",
@@ -3769,7 +3769,7 @@
       "player_id": "13405",
       "name": "Kaytron Allen",
       "pos": "RB",
-      "team": "WAS",
+      "team": "MIA",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
@@ -4672,15 +4672,6 @@
       "team": "LV",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "11199",
-      "name": "Emari Demercado",
-      "pos": "RB",
-      "team": "DAL",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6624,10 +6615,10 @@
       "gsis": 1626
     },
     "2024": {
-      "gsis": 1626
+      "gsis": 1618
     },
     "2025": {
-      "gsis": 1552
+      "gsis": 1544
     },
     "2026": {
       "gsis": 365

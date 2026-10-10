@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:45:54.298640+00:00",
+  "generated_at": "2026-10-10T11:35:47.750407+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 89712,
-      "drops_24h": 37215,
+      "adds_24h": 88263,
+      "drops_24h": 37071,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -42,7 +42,7 @@
       "pos": "RB",
       "team": "WAS",
       "depth": 1,
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 17865,
-      "drops_24h": 40860,
+      "adds_24h": 17415,
+      "drops_24h": 39276,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -75,7 +75,7 @@
       "pos": "WR",
       "team": "PHI",
       "depth": 1,
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 11991,
-      "drops_24h": 29454,
+      "adds_24h": 12297,
+      "drops_24h": 28212,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
