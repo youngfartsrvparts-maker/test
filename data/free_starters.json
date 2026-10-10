@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:35:47.750407+00:00",
+  "generated_at": "2026-10-10T16:22:43.014282+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 88263,
-      "drops_24h": 37071,
+      "adds_24h": 89343,
+      "drops_24h": 39015,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -30,10 +30,10 @@
         "home": "GB",
         "away": "CHI",
         "spread": -1.5,
-        "total": 45.5,
+        "total": 46.5,
         "opponent": "CHI",
         "home_game": true,
-        "implied_team_points": 23.5
+        "implied_team_points": 24.0
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 17415,
-      "drops_24h": 39276,
+      "adds_24h": 17550,
+      "drops_24h": 41283,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 12297,
-      "drops_24h": 28212,
+      "adds_24h": 13647,
+      "drops_24h": 28260,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
