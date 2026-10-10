@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 52.0,
+    "hours_to_lock": 48.7,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.3,
+    "hours_to_lock": 14.0,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -80,9 +80,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
@@ -133,9 +133,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -149,9 +149,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -4,
     "model_modifier": -1.0,
@@ -202,9 +202,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.2,
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 20.9,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -218,9 +218,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -234,9 +234,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -44.0,
+    "hours_to_lock": -47.3,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -272,7 +272,7 @@
       {
         "title": "CeeDee Lamb Injury Update: Latest on Cowboys WR After Leaving Week 5 Game - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0w3YkNhcUVfZThsVGc4bGxmU2ZNejV3aWdiMHYwV0VvWkd0ZGNBek1XcDc0UXlFZnJXOXlCbGcxR2tzNGlQakJJVjhKWl9vSHZYS0dIMjFTYW5oVEhua2NVOExUTmtyeWE5Vk5RdGQ5TjJ6b2lUMFhReFl5OFFQQU12UVdFa2VzZGc?oc=5",
-        "published": "2026-10-09T04:29:35+00:00",
+        "published": "2026-10-09T03:07:46+00:00",
         "source": "Sports Illustrated"
       },
       {
@@ -287,9 +287,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -340,9 +340,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -356,9 +356,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 28.1,
+    "hours_to_lock": 24.8,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -372,9 +372,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -388,9 +388,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -404,9 +404,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-10T20:12:19.376779+00:00",
+    "generated_at": "2026-10-10T23:32:32.113270+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.8,
+    "hours_to_lock": 17.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -418,7 +418,7 @@
       {
         "title": "Las Vegas Raiders @ New England Patriots: Live game updates, stats, play-by-play - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVVaRUhwX21pNVRxVWdsem5BckVPYWZGYjk5YXdyYkpfcVZoaUJSZEJJWVM4WlVmS1BnNm1RQlk0N2NwZ3dMeXNYb0dNMXVxZ2NvemxuR25kcV8tc3lDWXpSMmlXeFk0cGF5ZVhSZHZOUXh2amZMQ280UjRKSmVXV2tSMDZBanM?oc=5",
-        "published": "2026-10-10T17:36:31+00:00",
+        "published": "2026-10-10T20:36:31+00:00",
         "source": "Yahoo Sports"
       },
       {
@@ -440,10 +440,10 @@
         "source": "A to Z Sports"
       },
       {
-        "title": "READINESS: Las Vegas Raiders’ Path to Victory Over Patriots — Injury UPDATES & Star Players’ GAMEPLAN UNVEILED - wtol.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQnNuVk16M1dsYlpqTG1kUGd4eXZDSWVQcDFlWjdmRDNKSXJUMEs1WS1Ia2RoZXBuWjcwWGlmN1NhUUdwUko3d1h4ODdxNjlybXljMW11dDE2N25TZVV1by1GZ3NkWThwbVZJQkZHRGhtME9iejhLZTJ0Ynd0UG8zWGhrZXMydGdEZEhjRVBZYy1vc3Q0dkEzSHVBWk96b3FRZUY3Z3hWV2lqZV9XYTh2aWpDYU8zc2RHMlhuTFppVzU2dEVBYUtuRERpV3RtdUFZc1duQ2YwMzUtTG1aZDdzVG0ya0JSMnpiN09uclltSFQ3NkQ3Y1lTQjdSbGZ5bUpaNXRfVEUzNDhuRk8wci1zZkk2N0ZBSHNUalBYelkwUjNHT1RvOFFmSldjUW1FbnpBZV9FMTJUaFM?oc=5",
+        "title": "READINESS: Las Vegas Raiders’ Path to Victory Over Patriots — Injury UPDATES & Star Players’ GAMEPLAN UNVEILED - 11Alive.com",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZWI3QmRsQ3c2UnNzT2V2bDg3Q1JsQ1AxVzN5UHBZc1pwV0lsbzVSSkNxUk9obVZQUVM5cWt6R0tRNkRIQmpXcWJVOGE1Z203dGJxZ3ZmbzRaVTdrRWtZUVN3dnhCMDhaRmxCVmN3UTFLaTl0OHpIQWFSRWNBcXZ2WmN1a29haElBLW1vb2MwSU5NVkRlVExTR2U0SHNuYVU4S3hwczhCMGRxSkpoMldQNlhES1R3YjZoSDBKR3JVTUNXMUU1eUFiamFsRDV2djJHcEFrUWtQSTdpYjJFWExLQ3NmVjgtTTFwOVdkSjRhTFdrMXd5VEZSUWFuNjNSM25Wc0dnVC1nR0hXbm9iMTZ1TDFwR3VhMnVQeDNvUmNwVWh6WXI5U0pyMDNVemJIcGtrS21aYzREZ3hfNTgz?oc=5",
         "published": "2026-10-09T03:53:00+00:00",
-        "source": "wtol.com"
+        "source": "11Alive.com"
       },
       {
         "title": "INJURY REPORT: Las Vegas Raiders Face Jalen Nailor Challenge, FANTASY Impact Looms For NFL Fans - 13newsnow.com",
