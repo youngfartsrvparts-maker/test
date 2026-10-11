@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.7,
+    "hours_to_lock": 46.1,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.0,
+    "hours_to_lock": 11.3,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -80,9 +80,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
@@ -133,9 +133,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -149,9 +149,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -4,
     "model_modifier": -1.0,
@@ -169,7 +169,7 @@
       {
         "title": "Saints’ Alvin Kamara gets important injury update for Week 5 vs. Vikings - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmZwOE5xcVZMRFY2akI2blJKZGo4TmVLdGh1LWxEUS1VakpwWDFMN29aUXh5bVlHWE96LW1ZZWdxcURSZVRWMW9fMENMNnRzbVRkZDhyNVUxcE1wMDF3X2pZRkNTdnVraFVTaWh0WFZWYng1b3g2OTByaHJKc0FBTFN0a05FOENDWEs0?oc=5",
-        "published": "2026-10-09T20:46:26+00:00",
+        "published": "2026-10-09T21:02:23+00:00",
         "source": "Yahoo Sports"
       },
       {
@@ -202,9 +202,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.9,
+    "hours_to_lock": 18.2,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -218,9 +218,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -234,9 +234,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -47.3,
+    "hours_to_lock": -49.9,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -287,9 +287,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -303,12 +303,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTJoZUhLUGNVblpGdDl0dUxNa0ZYUEJtUVNQbUhvdHVncTdnQ3YzUHNxeHZYck9oendkSnNxak9Rd3dKcUhjSVd3UVFiOVl0ZlE3SUxobzNsYW12enpDd1VrWGxOQWR2c3M2UmZHNG56UGRsSXJxSW9uR3pKQnlDMkJaR0xySUJ6Ykl2WEhxbUlsVU1OVkQxWGNneUdfbjJUQlFTMkc5NA?oc=5",
         "published": "2026-10-09T19:07:15+00:00",
         "source": "Sports Illustrated"
-      },
-      {
-        "title": "Bears Receive Important D’Andre Swift Injury News Ahead of Week 5 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUF4cFRTc1VUWV92NWFnZkRIaElraERJb29Ia1JZTXBoQmQ5YmJKWjNXVDNFN2VGbno0S2R2Ulp1NnNvRGJBMDZiVXNNdWhHT3I2TDhWNDRRMDNCa1VhMXFxSEFKclNVdDQ4NTlDbHVJZ3hobE9Rejhkei02Nko1cjR2dFJZR0k?oc=5",
-        "published": "2026-10-09T17:39:13+00:00",
-        "source": "Yahoo Sports"
       },
       {
         "title": "D'Andre Swift (hip/knee) expected to play in Week 5 - FantasyPros",
@@ -333,6 +327,12 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUFjVXlkbDE1UF92cFN2SWFzWFc5VXI3b3h5RE56aW9FMElJZGsxempOMVN1TmtaUW9WYm1Gd0ctTjRvRXp2LURwVF9SRjJPSGNhNk8wSU9OQTNaOWlPRnpQVkNId1FweXdZWGUwTV9CanZWZjFzckRVMjU1RTBWLURaR3N1eE9wOFNIUTlMZ2dQTUpDUlNnNmpB?oc=5",
         "published": "2026-10-08T21:28:47+00:00",
         "source": "Fantasy Footballers Podcast"
+      },
+      {
+        "title": "Is Roschon Johnson worth adding in fantasy football after D’Andre Swift and Kyle Monangai Bears updates? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOXzRidk1fd2lYYVRMSk9mRWtsaEYzQlJaeThXV25CMXdnWmRHZS10TUhwTnliSjlMcXdLUXpVNzNuMG41QlVGNFI5a1gxaklfOF90TzdNY2hPY0xEZkZzQ3A1VnhqU1dmaTVzajdZWGFuMXpjOWMwS3UxYS16NjlzN3lqMXlQM1RyTlFMZXh3?oc=5",
+        "published": "2026-10-08T20:56:28+00:00",
+        "source": "Yahoo Sports"
       }
     ],
     "reason": "D'Andre Swift (hip/knee) expected to play in Week 5 - FantasyPros"
@@ -340,9 +340,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -356,9 +356,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.8,
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.2,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -372,9 +372,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -388,9 +388,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -404,23 +404,17 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-10T23:32:32.113270+00:00",
+    "generated_at": "2026-10-11T02:10:40.711239+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 14.8,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 87,
+    "confidence": 80,
     "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "Las Vegas Raiders @ New England Patriots: Live game updates, stats, play-by-play - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVVaRUhwX21pNVRxVWdsem5BckVPYWZGYjk5YXdyYkpfcVZoaUJSZEJJWVM4WlVmS1BnNm1RQlk0N2NwZ3dMeXNYb0dNMXVxZ2NvemxuR25kcV8tc3lDWXpSMmlXeFk0cGF5ZVhSZHZOUXh2amZMQ280UjRKSmVXV2tSMDZBanM?oc=5",
-        "published": "2026-10-10T20:36:31+00:00",
-        "source": "Yahoo Sports"
-      },
       {
         "title": "Las Vegas Raiders Can Turn Brock Bowers Coverage Into Michael Mayer Looks - Athlon Sports",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemhaZFRRalJvN2FEYTBILXlIc0xJcGxzODlwTU91ZkFUZnQ2T3pGNllpZ1VETm5jOUJ6RGNiZjZ4a2I4QWdaWGM4Qi1rTUdvOG5sbkkzRkxpVWx0eWlZaUt3LWxia2tqNk0zSnBDV3NER3c1NWh3Q0FmVHlHZDlqb05ta1ZpbC1XUUdyS0pjZzRCcGRxVTNIQlNMa2htaVBYd284?oc=5",
@@ -440,10 +434,10 @@
         "source": "A to Z Sports"
       },
       {
-        "title": "READINESS: Las Vegas Raiders’ Path to Victory Over Patriots — Injury UPDATES & Star Players’ GAMEPLAN UNVEILED - 11Alive.com",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZWI3QmRsQ3c2UnNzT2V2bDg3Q1JsQ1AxVzN5UHBZc1pwV0lsbzVSSkNxUk9obVZQUVM5cWt6R0tRNkRIQmpXcWJVOGE1Z203dGJxZ3ZmbzRaVTdrRWtZUVN3dnhCMDhaRmxCVmN3UTFLaTl0OHpIQWFSRWNBcXZ2WmN1a29haElBLW1vb2MwSU5NVkRlVExTR2U0SHNuYVU4S3hwczhCMGRxSkpoMldQNlhES1R3YjZoSDBKR3JVTUNXMUU1eUFiamFsRDV2djJHcEFrUWtQSTdpYjJFWExLQ3NmVjgtTTFwOVdkSjRhTFdrMXd5VEZSUWFuNjNSM25Wc0dnVC1nR0hXbm9iMTZ1TDFwR3VhMnVQeDNvUmNwVWh6WXI5U0pyMDNVemJIcGtrS21aYzREZ3hfNTgz?oc=5",
+        "title": "READINESS: Las Vegas Raiders’ Path to Victory Over Patriots — Injury UPDATES & Star Players’ GAMEPLAN UNVEILED - WGRZ",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOU04xWDRxU2ZiYkpwMEZBTDd1ZFljY3NzM3FEVTFQbk9wdjIySDNqb1BQS1ZVMDlCM0cxNi10dF81bWlvZnV3d05VSE9YN0pZZUh4WmRZSHJqTG45aTBxOGcwVFB0SHQ3Q3JLV0pGaHpYUThMWEhYck9FTGswcjZFS0Z2TXFwUXd2QUdORzhrRUZLTF85MzctdTdQSDBxbEZ5Q2dTblhLSzN0SF9yeWJlVERuVlFzNUVpVy0zanVEYnd6TENLSUt1RTFXVi1pLW9USEg3YnhYVWZGRFlrMFRENC10RDVxQ244ZHRaT2N4UHpRNGF4LUp6UGQ3SG1BUW9fTWg3dEdNNlpzbVJIWk9XbF8tVy0xTm9QaFV1aldzVUtwZnUzYkpxNGVNSzJ5bzl2OWYzdHJnQzc?oc=5",
         "published": "2026-10-09T03:53:00+00:00",
-        "source": "11Alive.com"
+        "source": "WGRZ"
       },
       {
         "title": "INJURY REPORT: Las Vegas Raiders Face Jalen Nailor Challenge, FANTASY Impact Looms For NFL Fans - 13newsnow.com",
