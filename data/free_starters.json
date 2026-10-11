@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:10:43.417843+00:00",
+  "generated_at": "2026-10-11T08:45:12.046593+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 73404,
-      "drops_24h": 27864,
+      "adds_24h": 80082,
+      "drops_24h": 28872,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 14265,
-      "drops_24h": 29907,
+      "adds_24h": 14589,
+      "drops_24h": 32076,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 10713,
-      "drops_24h": 20547,
+      "adds_24h": 11127,
+      "drops_24h": 21741,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
         "time": "09:30",
         "home": "JAX",
         "away": "PHI",
-        "spread": 7.5,
+        "spread": 8.5,
         "total": 41.5,
         "opponent": "JAX",
         "home_game": false,
-        "implied_team_points": 24.5
+        "implied_team_points": 25.0
       }
     }
   ],

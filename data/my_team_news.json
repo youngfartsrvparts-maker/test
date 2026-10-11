@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 46.1,
+    "hours_to_lock": 39.5,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 11.3,
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 4.7,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -80,9 +80,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
@@ -133,9 +133,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -149,22 +149,22 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": -4,
-    "model_modifier": -1.0,
+    "score": -3,
+    "model_modifier": -0.75,
     "confidence": 95,
     "label": "Negative availability signal",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
-        "title": "Alvin Kamara (back) questionable for Week 5 - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmVCbGNwUmRDY3RTWmxQV0NWeUhNMGxJM2FzR0FjeEhFSEVaVV9iQUNZcEZoRWIxRWhqQnMzdTB0NlItMVhWUldHQVRZVnRVRXpXeExCUWU0QjIta3k1TXlBWnpfd3dqVTlJdGtvbnlxTDdtX0ZwRkx6VWxlX1M0ZXV6R2N4YXRNQndtZkVKaVhlLW1DV3FqOEpRSDRwU1VtM0NQeDNIR1I4VlE?oc=5",
-        "published": "2026-10-09T21:22:10+00:00",
-        "source": "NBC Sports"
+        "title": "Saints’ Alvin Kamara On Verge Of NFL History - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUthN2F4SnEzamt1U1JJTmlMMFlMb3g1dEJacldUUW1PcExxbDNSbmE5TTlLSmhCUnlMXzNUSkhUUEd1R0s3c09HSHVOZXpoY2EtWVpyaDZWblhwblhQYWNIdlJYUjdFY3ZmRmx0OE9mT0J6eUNnSm5lTGJOd0RDQ1BCTmQ?oc=5",
+        "published": "2026-10-10T21:07:37+00:00",
+        "source": "Yahoo Sports"
       },
       {
         "title": "Saints’ Alvin Kamara gets important injury update for Week 5 vs. Vikings - Yahoo Sports",
@@ -197,14 +197,14 @@
         "source": "RotoWire"
       }
     ],
-    "reason": "Alvin Kamara (back) questionable for Week 5 - NBC Sports"
+    "reason": "Alvin Kamara questionable for Week 5 - Yahoo Sports"
   },
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 18.2,
+    "hours_to_lock": 11.7,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -218,9 +218,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -234,9 +234,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -49.9,
+    "hours_to_lock": -56.5,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -287,9 +287,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -317,16 +317,16 @@
         "source": "Sports Illustrated"
       },
       {
+        "title": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUFjVXlkbDE1UF92cFN2SWFzWFc5VXI3b3h5RE56aW9FMElJZGsxempOMVN1TmtaUW9WYm1Gd0ctTjRvRXp2LURwVF9SRjJPSGNhNk8wSU9OQTNaOWlPRnpQVkNId1FweXdZWGUwTV9CanZWZjFzckRVMjU1RTBWLURaR3N1eE9wOFNIUTlMZ2dQTUpDUlNnNmpB?oc=5",
+        "published": "2026-10-09T05:28:58+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
         "title": "Bears Announce Injury Updates on D’Andre Swift, 11 Others Before Packers Game - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalNRQ3lHUnY0SkVtU2NneWJiVVVfcm9NUnhsS0xQVnJRamdiazVvdGoxdGtLRlpQR3duMUxEUkVXVGp2S25ZYmx6WUlMTi1oNjZ0Z2VteWdlZ3NULTNtQk04a0ZhS2ZPMlczREo2WmpxWnAyQk85cGF6QzI3Tzdnc29SU3lPR28?oc=5",
         "published": "2026-10-08T22:52:24+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUFjVXlkbDE1UF92cFN2SWFzWFc5VXI3b3h5RE56aW9FMElJZGsxempOMVN1TmtaUW9WYm1Gd0ctTjRvRXp2LURwVF9SRjJPSGNhNk8wSU9OQTNaOWlPRnpQVkNId1FweXdZWGUwTV9CanZWZjFzckRVMjU1RTBWLURaR3N1eE9wOFNIUTlMZ2dQTUpDUlNnNmpB?oc=5",
-        "published": "2026-10-08T21:28:47+00:00",
-        "source": "Fantasy Footballers Podcast"
       },
       {
         "title": "Is Roschon Johnson worth adding in fantasy football after D’Andre Swift and Kyle Monangai Bears updates? - Yahoo Sports",
@@ -340,9 +340,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -356,9 +356,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 22.2,
+    "hours_to_lock": 15.6,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -372,9 +372,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -388,9 +388,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -404,17 +404,23 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-11T02:10:40.711239+00:00",
+    "generated_at": "2026-10-11T08:45:09.531797+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.8,
+    "hours_to_lock": 8.2,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 80,
-    "label": "Some availability risk",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 73,
+    "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Las Vegas Raiders at New England Patriots - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV3d1UGhyQ0l5bWs2bXYyV3JCdG1jOWNFRXRkeDFKN2VnZjkxTnJkX3JFQkRINDhGaGJhTTZnU1p0TEtMaWg5LXJiZFNKMFl6NXY0aU93VkU5MW1fQ3ExMFNMa3Jwb3ZDTkJteW5tZEFnVXNBLTRRVDhOM25pVVVNQmFZNXBqTHhJMFQxZnktdENBWDFqaWNpZ2JwNlNHVTZZdGpDNTlYQ1RRX3Fud2NvdFViR1ZkbkN6MDFwMkJkYVJ4aEtpS1RFM3d0bDdjYmtVMkg1TDNDS29wUQ?oc=5",
+        "published": "2026-10-11T04:40:57+00:00",
+        "source": "Fubo"
+      },
       {
         "title": "Las Vegas Raiders Can Turn Brock Bowers Coverage Into Michael Mayer Looks - Athlon Sports",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemhaZFRRalJvN2FEYTBILXlIc0xJcGxzODlwTU91ZkFUZnQ2T3pGNllpZ1VETm5jOUJ6RGNiZjZ4a2I4QWdaWGM4Qi1rTUdvOG5sbkkzRkxpVWx0eWlZaUt3LWxia2tqNk0zSnBDV3NER3c1NWh3Q0FmVHlHZDlqb05ta1ZpbC1XUUdyS0pjZzRCcGRxVTNIQlNMa2htaVBYd284?oc=5",
@@ -428,24 +434,12 @@
         "source": "Goal.com"
       },
       {
-        "title": "Las Vegas Raiders get both good and bad news just days before their matchup against the New England Patriots - A to Z Sports",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcXJMLWs3Q01FOUpRazVKaTNuNDN1WlRISGd1QUZlSXZFUmdsOVByMDhJSWIwS0lERHVpU0VYbFA2NGVUcmpTZGlWSzhydHMwUmk1cUFtT1ZrUW14SnJLdzdBUFl6dUUzUzRXcTdqMEtySXB5QU9PVkNiZWEwTEVua18zMmdhc1ZILUNReWFFUktBQ041dnJPRWtfN0RhSE1qRDZhaU9DTjJESlpaZ3BReFBFcU5mSkRON2xrSnlkNFdpbHZBcEcyWF9IMWdTNFBfQU1KWXdIMDc4V0plalJfdzkxYmlsSmpyVjZDRDU2SV8yNjZT?oc=5",
-        "published": "2026-10-09T19:04:00+00:00",
-        "source": "A to Z Sports"
-      },
-      {
         "title": "READINESS: Las Vegas Raiders’ Path to Victory Over Patriots — Injury UPDATES & Star Players’ GAMEPLAN UNVEILED - WGRZ",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOU04xWDRxU2ZiYkpwMEZBTDd1ZFljY3NzM3FEVTFQbk9wdjIySDNqb1BQS1ZVMDlCM0cxNi10dF81bWlvZnV3d05VSE9YN0pZZUh4WmRZSHJqTG45aTBxOGcwVFB0SHQ3Q3JLV0pGaHpYUThMWEhYck9FTGswcjZFS0Z2TXFwUXd2QUdORzhrRUZLTF85MzctdTdQSDBxbEZ5Q2dTblhLSzN0SF9yeWJlVERuVlFzNUVpVy0zanVEYnd6TENLSUt1RTFXVi1pLW9USEg3YnhYVWZGRFlrMFRENC10RDVxQ244ZHRaT2N4UHpRNGF4LUp6UGQ3SG1BUW9fTWg3dEdNNlpzbVJIWk9XbF8tVy0xTm9QaFV1aldzVUtwZnUzYkpxNGVNSzJ5bzl2OWYzdHJnQzc?oc=5",
         "published": "2026-10-09T03:53:00+00:00",
         "source": "WGRZ"
-      },
-      {
-        "title": "INJURY REPORT: Las Vegas Raiders Face Jalen Nailor Challenge, FANTASY Impact Looms For NFL Fans - 13newsnow.com",
-        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVWNBSkJIR0NmZ1haV2p6endVMzN2cTVHcjZ2c0habERobV8yMEpzUEQ0NHhvNnBQSmM3UmFlZGY5WEI2ZW1MRG1sbDA2XzFwc3IwM1RJcU5tRHhtc0VuQmxHcWtIMWFpdXM3amN2Nll6ZHk1bHRaWHNORkM3V19hdzdPeTVoRlYyZnE4VUFCN1Z4d25QSWpZT2NaSnIxY3I2aEdOYmRkdC1SX3U3ZHp5QnlBWWdvOXBRNDNMamxzSEFQMnN0T2tOdWlWenhMa0tHQndodzZGeHdWZXJrYU9LcDM3WXV2emN6eldxTUljaUhEWk1zdW4xRjh0dkV3dnptVWtSYkxra3NKbTVKUjhINFpqUklGQUtYQ1lMeUJBazc3Ti1KNl9FRHI2a2dNMVVEWlBrV1VIVnh4aEdyNUE?oc=5",
-        "published": "2026-10-08T06:24:00+00:00",
-        "source": "13newsnow.com"
       }
     ],
-    "reason": "Las Vegas Raiders get both good and bad news just days before their matchup against the New England Patriots - A to Z Sports"
+    "reason": "No material roster-specific risk headline found in the last 3 days."
   }
 ]
