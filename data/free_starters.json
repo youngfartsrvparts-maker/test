@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:45:12.046593+00:00",
+  "generated_at": "2026-10-11T15:06:10.567851+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 80082,
-      "drops_24h": 28872,
+      "adds_24h": 111978,
+      "drops_24h": 37620,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -30,10 +30,10 @@
         "home": "GB",
         "away": "CHI",
         "spread": -1.5,
-        "total": 46.5,
+        "total": 47.5,
         "opponent": "CHI",
         "home_game": true,
-        "implied_team_points": 24.0
+        "implied_team_points": 24.5
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 14589,
-      "drops_24h": 32076,
+      "adds_24h": 19179,
+      "drops_24h": 39321,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 11127,
-      "drops_24h": 21741,
+      "adds_24h": 13779,
+      "drops_24h": 28398,
       "next_game": {
         "week": 5,
         "date": "2026-10-11",
         "time": "09:30",
         "home": "JAX",
         "away": "PHI",
-        "spread": 8.5,
+        "spread": 7.5,
         "total": 41.5,
         "opponent": "JAX",
         "home_game": false,
-        "implied_team_points": 25.0
+        "implied_team_points": 24.5
       }
     }
   ],

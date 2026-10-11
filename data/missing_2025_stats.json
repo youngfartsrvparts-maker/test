@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:45:08.473436+00:00",
+  "generated_at": "2026-10-11T15:06:07.078105+00:00",
   "season": "2025",
   "missing_count": 734,
   "players": [
@@ -2237,7 +2237,7 @@
     },
     {
       "player_id": "8861",
-      "name": "Irv Charles",
+      "name": "Irvin Charles",
       "pos": "WR",
       "team": "SEA",
       "sleeper_gsis_id": null,
@@ -6612,16 +6612,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1626
+      "gsis": 1624
     },
     "2024": {
-      "gsis": 1618
+      "gsis": 1612
     },
     "2025": {
-      "gsis": 1544
+      "gsis": 1540
     },
     "2026": {
-      "gsis": 365
+      "gsis": 364
     }
   }
 }
