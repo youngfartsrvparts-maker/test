@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T09:30:18.524884+00:00",
+  "generated_at": "2026-10-12T19:18:22.349498+00:00",
   "season": "2025",
-  "missing_count": 734,
+  "missing_count": 731,
   "players": [
     {
       "player_id": "11533",
@@ -308,15 +308,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "12925",
-      "name": "Jamaal Pritchett",
-      "pos": "WR",
-      "team": "NYJ",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "12517",
@@ -3472,7 +3463,7 @@
       "player_id": "11628",
       "name": "Marvin Harrison",
       "pos": "WR",
-      "team": "ARI",
+      "team": "HOU",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -3953,15 +3944,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "12538",
-      "name": "Brady Cook",
-      "pos": "QB",
-      "team": "MIA",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "13010",
@@ -5503,15 +5485,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "8200",
-      "name": "Kevin Austin",
-      "pos": "WR",
-      "team": "NO",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "7528",
       "name": "Najee Harris",
       "pos": "RB",
@@ -6612,13 +6585,13 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1624
+      "gsis": 1639
     },
     "2024": {
-      "gsis": 1612
+      "gsis": 1627
     },
     "2025": {
-      "gsis": 1540
+      "gsis": 1543
     },
     "2026": {
       "gsis": 434
