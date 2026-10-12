@@ -2,55 +2,41 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 21.9,
+    "hours_to_lock": 14.7,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Dalton Kincaid or Khalil Shakir? DJ Moore injury reshapes Week 5 start-sit call - The Big Lead",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYl9RYU9QZ1hCMlVtSzRNX1FkMEV1Q2tpb3ZVM3BfamYzZFJoOFhmZkw0ZTVrdnhSeW5ScWdxWmtxWWJrSHQ0OTVScDlPajFhRy0wOWdIVGZZN093a2ZQaWNHNUNJcW5PZE9FTmpZVjRUSVBWZHkzdnhQbTVPUENSQTJBN2wzMXBzZEZySXNmMnlWWTRadl91YUtSRFNfa3ZhVzljbVF6cTIzSmpxT3RHWWNsanc2aUVqUEpsb1plbzgyRjgwcEh4V0lTSm4tQkJnTHZv?oc=5",
-        "published": "2026-10-11T12:55:58+00:00",
-        "source": "The Big Lead"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Devaughn Vele Week 5 Outlook - Vikings at Saints - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRzQ3Zm8wQ1YzQTlydmVrWmFyVEF2QU9BOTk3U204WUc1ZzJEZ0FjMUNQUnVQMU9LOHRfczM3dm1EQkpTWWlCRGxqRGpFeHRhWDU2UTJud1JiTnl3VTNoYVlvaS1KTUo4bVpfd2VsdlVLc0J2eGVWV3h6ejVQSl9rQ001MzhoNDNSblHSAY8BQVVfeXFMTlMyZEZaNFFZMW9XTUlpVmF5T212OU5ZOExQanJYUjVROHYtZ3p3c203LWdMckk5dUVaQTNpZXVReDA1RkNETzRNREFHTC1aUW92VmV4SFpLRzEyMnVHSFMwdTF6N1JsVUx2ejVEZ2N5Um43cHk4SDNrLU9rbFhPdnAtaFRvWEhabEFyYUNLR1U?oc=5",
-        "published": "2026-10-08T17:35:00+00:00",
-        "source": "FantasyPros"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -12.8,
+    "hours_to_lock": -20.0,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -64,91 +50,48 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 66,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Browns’ Run Game Issue Could Worsen After Quinshon Judkins Injury - 247Sports",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ05iR3I0LXQ3azVjcFRNbHdVc0g0U3B1cXVWMDZtaWUxd2d5bDZuVFJtRU9TNm9QTjNBaHdrbGVEcVhjUkpENmZQMHp5QmRIZU5qWmtNWTh3cWE4emN5d1dsQXBJcGVWRjZXQk9pOHMxLXd2TWFnZXdjSElPbkNLX2dhRUZjS1ZpdUNDN000ekQwZ0pDYzFHUWkyMjIzUHg1T3FpQW12MXY2dC02X2ZaVUhhdGJiSEZqeXlXOWxR?oc=5",
-        "published": "2026-10-11T21:18:54+00:00",
-        "source": "247Sports"
-      },
-      {
-        "title": "Browns Get Bad News on Quinshon Judkins After Jets Loss - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS05KU2haU1didkR5WUFMYTNVc1dfTl96S3N5LU0wS0tsZ01HekxpdU96VllrSGpTZmw0ZklySkJQTGFhTmxyU2N3R2Q5eTc1OHlzQnN2bnR2UUY3TzM1NUZ4bFd2SlI0RGVBRWowTWtCSEpvQW9WSFVyWkJHbGVWOVBZd0p3d1ctYWc?oc=5",
-        "published": "2026-10-11T21:12:01+00:00",
-        "source": "Heavy.com"
-      },
-      {
-        "title": "Quinshon Judkins Week 5 Outlook - Browns at Jets - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazZLUTF2LXpSM2dRTFk4NGxIcVlpdWlZQ0hGeDRXUEVZRWZ2T2p5eVBsVkhJTzZWZ1VYbHMxNUFzclpXUGtvd1NFcmI3dVNRcDF0eHVPVTg1MkxVRWthX3JvZEFUR0lzS3RHV01qOVFqeENJVUt1UzRsM3hlbGFsLTAtN3puTXY4c29RT3RB0gGTAUFVX3lxTE1FVUNzZ3gxTVd4YU0tR05DSVM1Q1lidU9PZUtiQUU2clM1QnVUNnZqcXhDV0x0TjBDa251cVhqVS1SNEFsTGJwQUxONm5SSTJIekFlZUlsY1JRMFkxaHBkMmNpSlhaTGZpUFhYZEx3anhYSUdjWWVYNTUxQmg2WURsU3VSVVpFTXhXUU0xWFlwaUktdw?oc=5",
-        "published": "2026-10-08T17:35:00+00:00",
-        "source": "FantasyPros"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": 2,
-    "model_modifier": 0.5,
-    "confidence": 80,
-    "label": "Positive/clear signal",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 52,
+    "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "Full practice for Tyler Shough - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNlpmdkxfZmtLdlBsNUdFd3RGRXY5TjNjeVBwQjNweDN4NmpKWjhlWnRWWFlacXFaeGE1VmRmd2h2UVVpcUktNlhmQlA5dXpEVGVPamJ2aGxMdnRrUDVGR00zN3RVWERkTjRfNnRpd2k3S1IwZEp4S3E1dkNQUUxuRQ?oc=5",
-        "published": "2026-10-09T01:58:00+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Tyler Shough back to full participation, Alvin Kamara and Chris Olave limited - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYUNtcGxGWHJKbXk3NjFxUmk0eXdEM0tEMkl4eWF0c2s3TEJ3QXlVcC02NU5wRkxwVDlIYXhjdGtoMFZYMHRiSVVZc3J6MDBuZzFQa21xMjBLUjBZTDBRbnZCUVd1dUdicmtHN2JIQk5sRFlLWGM2NGZRcm1Mb19aZWxJekhIWk1OeEZkWmtGcXk1SkVNb21VTjA0LVgxdUQwckV3VEsyRUMwdUM0Yml5Z2xSTF92UVR0b3JsN0JwUDBfMmo3ODJ6UXIwRFkwaVB2VjI3UQ?oc=5",
-        "published": "2026-10-08T22:54:18+00:00",
-        "source": "NBC Sports"
-      },
       {
         "title": "Tyler Shough back to full participation, Alvin Kamara and Chris Olave limited - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0RwNW9ldGpEWnFodFo2a1ZYYVlJa241bC1EcmJ1cS1qR3NINUl3aEE1M1ZvWEM2ZDVQWld0a3R2cTVHVWJkaGxKMHAtUVlyTUljOWFDTEpJaTVNS181bktURm9EZmQ0QnFjQVZXT0xFdDVQUXFPNFpPcnFiVVZrLXc2NWhzSlZVZFZKeXBn?oc=5",
         "published": "2026-10-08T22:52:36+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Tyler Shough (hand) upgraded to full participant Thursday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3FtNGtTU1BJM0ZoT0hCcldCWUhEY2NPZllDd2pEa002SUV5a01XUnZsMHBtQVZSanNJZW5rSWRWTmk5TkxBWFJnVjB6elNqZ3E3ZkdldUZFQ0MwM1V6ZS1pT3BKSmJZSjN0T3gtampZdDFKN1o4OF9VaGp5WTFJWUxIWlVoM1QyU25reWhYUGY1RGctTG0teEM5bHBFblF0cExFSnl30gGrAUFVX3lxTFBzMWQzUkJiX1NsbWdsSDU2U3JKTl9vM1J2WThUdkhtaTJhTGxPcXhVaXZjQm50bmRDUW0wa3Nuc1I3dk5yUk5GSlFyNHBaRmltbFlMblhySnhwMDAxS25LNDRRbEpuWTdDQkE3V280RmdsNUVTNGN1NmMxY1pRcnZVdVdiNGdlRUpwOUFtb0dNOUN5NGVFWWNCX1p1ck00S1MtOWtXT2RySlBqcw?oc=5",
-        "published": "2026-10-08T21:21:24+00:00",
-        "source": "FantasyPros"
-      },
-      {
-        "title": "Tyler Shough limited at practice - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkNPejFCRFVLWnVIVUI0Z2l4YnhPWjJBcUFwN2FhNFVyV0duMmQ1YkI2LWRZaUlEV3FKRm1DLTB0dXU5MVdmS3lBMnF0TDVzTUpqWFpSNEtlaHRDenc1bU1GVTExVnl4YTF2MkF0RDNGT1Fzalh1bC1ORXBVVkhRcVBRTUw?oc=5",
-        "published": "2026-10-08T02:32:00+00:00",
-        "source": "Yahoo Sports"
       }
     ],
-    "reason": "Full practice for Tyler Shough - Yahoo Sports"
+    "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -162,9 +105,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -178,6 +121,12 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTNmeWN6aWFCaGR0VURYemdidWFfVXB4SVJKS0lLcWFVY3lWMFJOYkc3TjlUMlVCMC1tYW5mRjJKcmtZWmhNZnJlU3ctVEFrZUxXblZFS3A2UGI5OWpEekREalktNzdaY0x0NXBaXzhEWGlaOHFsYkhZNThvRl9HX0RZZERENmdjMGZBVkVEZ3JaSUtIRkNjOHNpSlBHLXJha2RFbFlILXFNOEpaczJCT1h3?oc=5",
         "published": "2026-10-11T17:54:08+00:00",
         "source": "Heavy.com"
+      },
+      {
+        "title": "Is Saints’ Alvin Kamara playing vs. Vikings in Week 5? Final injury update - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTQ5S2pQdERxeHFaRnQ1RmNMNWlzUmtyVVJxMlB5WGw3bVE2OGhVVHBXUW11RzBCZnFyelB4MHBJaEVtVzRKLVRfTlhKRzhZckJoM1BPYnFBaFREbG95Z3o3RVJnNk83ekVlQUI3Y2dKSEdZSDNUR18xTG1MVDV5U3VPQWZXdw?oc=5",
+        "published": "2026-10-11T15:19:09+00:00",
+        "source": "Yahoo Sports"
       },
       {
         "title": "Alvin Kamara expected to play in Week 5 - Yahoo Sports",
@@ -202,12 +151,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWxQZGtUbkNNUGpKUHhMZHlVYnJuS3JxWXl1MjJJak8yU0hhZkpCMEdwaGQ4S0UxNThSVVdGbGRCUlhucFRTR290a1ZONkZ6ek03dTROUW1LTlFxbGpUeXc5UU1WTGVBbW9ScXEwLWtoUUZDNko2bGVuZDVaQ29vZnJOQ29vcDdxNFZhTQ?oc=5",
         "published": "2026-10-10T09:51:55+00:00",
         "source": "Fantasy Guru"
-      },
-      {
-        "title": "Saints’ Alvin Kamara gets important injury update for Week 5 vs. Vikings - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmZwOE5xcVZMRFY2akI2blJKZGo4TmVLdGh1LWxEUS1VakpwWDFMN29aUXh5bVlHWE96LW1ZZWdxcURSZVRWMW9fMENMNnRzbVRkZDhyNVUxcE1wMDF3X2pZRkNTdnVraFVTaWh0WFZWYng1b3g2OTByaHJKc0FBTFN0a05FOENDWEs0?oc=5",
-        "published": "2026-10-09T20:46:26+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "Alvin Kamara expected to play in Week 5 - Yahoo Sports"
@@ -215,13 +158,13 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.9,
+    "hours_to_lock": -13.1,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
-    "confidence": 52,
+    "confidence": 59,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
@@ -231,6 +174,12 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRXFBQktlWV9wVXlpdTc2eU9fYmdlUElGSEdXZXJ4RkZZRTg2RE90Mk12NHhRQ3lkNS1ScUc4aXFWdVc0SnRjbE9xcWVPQnliX0ZxcGVDakZxUUVzclN4WWxycFo5X1IyTlI3OVpnTGJlNmFES0FiQTV2TGhDV0NWS25iYllocmFLdTNTSTdfZGIwTTBzQTkxS2VFSW5KZlFIcTU4VU5fZjFaTzdnRjM3dWR4Uk9nenJlWno2TDJGbmZlQThaNXF2WEQ0TmtDd2VnVkNZMHZBY0VVVmlXS3VVSVBtY2pyUQ?oc=5",
         "published": "2026-10-11T19:14:52+00:00",
         "source": "NBC Sports"
+      },
+      {
+        "title": "George Kittle injury update: Will 49ers TE play vs. Seahawks? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEZlWWdkNHlwZklpcXBEZThWckpteFVjNHFlWE1aemtFZmUwRzFlVkJwWmR1OHBSdnZzbzBpZ0dQNWJMNXdyaENFYTVwalN2cFUyak9MSXRuOVdPN3lKR2ZUMmkwdnlxM09YU2hLNDB4c0JWNnplQlhyaFNWcFNIMG8tRVg?oc=5",
+        "published": "2026-10-11T17:18:16+00:00",
+        "source": "Yahoo Sports"
       }
     ],
     "reason": "49ers TE George Kittle is active despite illness; DL Mykel Williams to make his 2026 debut - NBC Sports"
@@ -238,9 +187,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -254,9 +203,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -74.1,
+    "hours_to_lock": -81.3,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -290,31 +239,31 @@
         "source": "Sports Illustrated"
       },
       {
+        "title": "Cowboys close to within 24-16 on George Pickens' TD as CeeDee Lamb is questionable to return - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1RrV2tTaGg0RjVxbWFNcE85aTh4Um5KaUFZajlfOU1EX0QyZU85NC1aOVVhNEdzbC1DZGlnMDNOckZoekt4RXhOMjJxcUhwWTM5UDBZMHNWZEU4dnlqdmxtNnZ0akhXS3JOWEx5SG1Ca2tyUkFBM01ldzktNmFOWg?oc=5",
+        "published": "2026-10-09T03:04:00+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
         "title": "CeeDee Lamb Questionable to Return on Thursday With Quad Injury - NFL News | Fantasy Football - RotoBaller",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTW5VdXJ1WUpLSXJkWlBKZndZR0hhSTFIcU5Oc2EwTHBJdUxmZmI5QlNMa0lhaWlJRmRnMkRyaDFiLWV6cDlJcVhRejhCNnJiczBNNFFPWVlwM3kxT1hLRnJGU3Z0ZlFZNVJtNFk1c1hlWE8talVGSGlIckZCQlhPSTlXMU5zSjhYZnI0MUY2c2dMZlZIQTdOdGNuakdNSDZKNUJsM3Q1MFJwMTJQS3Qw?oc=5",
         "published": "2026-10-09T03:02:10+00:00",
         "source": "RotoBaller"
-      },
-      {
-        "title": "CeeDee Lamb questionable to return to TNF in Week 5 - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXBKV19FT3NHOTNJVWpCbnlUR0hsZFZuOWN0c0c1a2RVWGFTNEtzV3FXWG5WYXA3Q1VkQ2pFeXRwRXNUMGVEQUxORFJPRndBLVVSUUFxYXotb2JIRjIybE9YWmRiVTJTYWNXYjBKQkhkaGxtOFpOQlJya19FUXJiSUVuQi1JbmVZanh4cUVXQW1qdVdOM0JYMjZldjlNLU55blRWWm1XdUdmU0JyeV9IUzQyM3RlWHNB?oc=5",
-        "published": "2026-10-09T02:55:00+00:00",
-        "source": "NBC Sports"
       }
     ],
-    "reason": "CeeDee Lamb Questionable to Return on Thursday With Quad Injury - NFL News | Fantasy Football - RotoBaller"
+    "reason": "Cowboys close to within 24-16 on George Pickens' TD as CeeDee Lamb is questionable to return - Yahoo Sports"
   },
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
+    "score": -1,
+    "model_modifier": -0.25,
     "confidence": 87,
-    "label": "No material negative news found",
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
@@ -323,12 +272,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTJoZUhLUGNVblpGdDl0dUxNa0ZYUEJtUVNQbUhvdHVncTdnQ3YzUHNxeHZYck9oendkSnNxak9Rd3dKcUhjSVd3UVFiOVl0ZlE3SUxobzNsYW12enpDd1VrWGxOQWR2c3M2UmZHNG56UGRsSXJxSW9uR3pKQnlDMkJaR0xySUJ6Ykl2WEhxbUlsVU1OVkQxWGNneUdfbjJUQlFTMkc5NA?oc=5",
         "published": "2026-10-09T19:07:15+00:00",
         "source": "Sports Illustrated"
-      },
-      {
-        "title": "D'Andre Swift (hip/knee) expected to play in Week 5 - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUWdtdFlxU3ViVkxYUC1fNE5NNHpEeDR5Q1liczhpVUNWcURReWZMZVBhbGgtNHdGYXNIRG5HOHNYN2I0dVlteGx0eUc2ZGdCNFl4c0VoNlBOSzJ4WjVRcGV5MGoySl9vUWVGc25BMjgzbUZHSC1aNnkxVEh5bVQwWG84M3dFRTJ6Nk9VN2hMWkl6ZGhpQ0Vz0gGcAUFVX3lxTE9SdFNZS25mMFVoSUFQYmRJSHJzcE51UmRRb2hBS2pYVTJPbjZtM3VZOHdYTGhWTHNrcDdscUdCelh5bjJUVDZzQlo1ODJyRGtwZE91WDRHalo3YnlVX3UwZzQ0Z053ZWkzQ1Z2Q1FPWWRCWXh4WGdrQXdCWGNUX21GcFVqRGZ2YjNaMU41OWN5UENEUWpqc1hRR0xnNA?oc=5",
-        "published": "2026-10-09T15:38:59+00:00",
-        "source": "FantasyPros"
       },
       {
         "title": "D'Andre Swift Injury Update Details Likelihood Bears RB Plays and Highlights Concern - Sports Illustrated",
@@ -353,16 +296,22 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW10UDJDRDdBYXZCSlpQSFZVV0RXdTdXVlEzYUFfYU1OclRvM2JzMS16UC1GNkFFTUVuRFhNcy12MXhXREJQYmNpby1aR05XUHFCb0VRR1BUQmxubGFva0l0LW1hZzdGaTlrNHJJWVVTSkdvaE1rMjF6dHBqT3Z1Y2xheWNnWUgxM2h0cDQzVnFTTmhFX0xDZGxvaVU3WFFJNDFUZmQyOXkyRXFrbXNXQXZYOFlIZVFscjhJUmN0cTV4MjlMWjZaOTROWUczUlRWaGpfTWJpZ21ONWlOS3lj0gHnAUFVX3lxTE9QSUVLbUZMZHVUa0h5VmVfOVE5dDBHam1WdUllY21KRjdwTDUzMUlLOV80cGppX1NScWZXUS1CdFVKdTdXeFNqaEtUT04xOFpEa2RUVGRFWkZDYnRRd0Vxa2RnV09tZ0xzRzNhcGd1Qk1XOGdQVGJIekM5RmJlY0tlN2NDZ3hrOXlSNHViN1dpSnp2RjlXcGc4YzRkU0NIS21zdGZqS0VtTF9IbnN4Z0IxTU1RSHJCWlBJUGU5MDRpc0tYUGEtbHFUN19RX1BTMEFIWHZGUDNILTI1Wm1WOU1LM1JPbGtwdw?oc=5",
         "published": "2026-10-08T20:43:21+00:00",
         "source": "NBC 5 Chicago"
+      },
+      {
+        "title": "Bears RB D’Andre Swift limited, Kyle Monangai DNP again - Field Level Media",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0pzS2NDNmZGTXVKNXdVODlxN3dUVGVzdkN2MkY2cjMyZjVNOHhhYU9pZk1YOVlXSjJCSVBPYVRrNmxXTGRsZXpHaFpWa01uNGE3YldZOS1LcGpKREF1QWF0X0ZQVHlWWjVqTklmYVhYUTFUcVpDOEV5ZXd6WG5MRzJUWWtQRGVkRURibTBQNVo?oc=5",
+        "published": "2026-10-08T20:21:39+00:00",
+        "source": "Field Level Media"
       }
     ],
-    "reason": "D'Andre Swift (hip/knee) expected to play in Week 5 - FantasyPros"
+    "reason": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast"
   },
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -376,9 +325,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -2.0,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -392,9 +341,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -408,9 +357,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -424,9 +373,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "generated_at": "2026-10-12T09:30:19.789703+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -16.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
@@ -435,6 +384,12 @@
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Las Vegas Raiders Get Huge Injury News Hours Before Week 5 - Yardbarker",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUhUQVNZcTRLellVOENBSUltejZoMTNtMVNZT2paMjFhcmt6M1pydDhabHpMSGdfZk94SUdQSWlrT3FmM19FZlZBTTV3UHNIUWxKcEpya2ZjcVBRNXlqZy1CMGREbFhYRnJ5YTNrSVhzdHkxdFNLOFRWdGZ3c0RlT25jNUJVdUtIVG9qZXQxY2hSV0Q1ZU5BSWhXaV9hSlotTkZBVE54Qm5hN1lFMUJpZXdCZlVJLU0?oc=5",
+        "published": "2026-10-11T15:54:09+00:00",
+        "source": "Yardbarker"
+      },
       {
         "title": "Game Day Inactives Revealed for Shorthanded New England Patriots, Las Vegas Raiders - roundtable.io",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlZtaEQycG50WC1wejFMMFpEYzlSZklGSTEzWWVfMjd2X1dZb1VCb05UanVsWkkxNllHOWdTR0xZZURWb19vSjBSZnZqdmJlN0pLWWxnQVplZkdZdmFnVlcxLWtWVjZzNmdOZzhMSDNBT3AtcmVpTDRNVmR0Yk0xVEZab0pyQTlrTjdRNUplYUMzc19SQ2c4bzNnTEZTVlJvVVJFR2xjcmQtWUlUM05UTEVSOUl3QzI5Q0NvcUZadDRKSjQ?oc=5",
@@ -464,12 +419,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV3d1UGhyQ0l5bWs2bXYyV3JCdG1jOWNFRXRkeDFKN2VnZjkxTnJkX3JFQkRINDhGaGJhTTZnU1p0TEtMaWg5LXJiZFNKMFl6NXY0aU93VkU5MW1fQ3ExMFNMa3Jwb3ZDTkJteW5tZEFnVXNBLTRRVDhOM25pVVVNQmFZNXBqTHhJMFQxZnktdENBWDFqaWNpZ2JwNlNHVTZZdGpDNTlYQ1RRX3Fud2NvdFViR1ZkbkN6MDFwMkJkYVJ4aEtpS1RFM3d0bDdjYmtVMkg1TDNDS29wUQ?oc=5",
         "published": "2026-10-11T04:40:57+00:00",
         "source": "Fubo"
-      },
-      {
-        "title": "What to Watch For: New England Patriots Defense vs. Las Vegas Raiders Offense | Week 5 2026 - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDZ5Uk1RZEw4ZkZubFprUmwzTmh0RlduNkRCQ2dPaW9YVTZwMmV5d1BzbmFNS0hqcnNRLWRmT2FSUEMwZEpWQXNjdEVxWFJVU3drQ09TSG9EaDNCY0xGSW5wWkhXSFBTN2hXdWpfSkFpS296bTdybGlUVE5TNWhRM1BpYjRYMndZWE1KRURRRGJtaldySE9ZNVVQaGUtUy1qTUMyMlZRUnlJOU05OHpCamdFVmdMYTdWenBxSUVPNlBoN3o5dDJzLWVn?oc=5",
-        "published": "2026-10-10T11:24:59+00:00",
-        "source": "roundtable.io"
       }
     ],
     "reason": "Game Day Inactives Revealed for Shorthanded New England Patriots, Las Vegas Raiders - roundtable.io"
