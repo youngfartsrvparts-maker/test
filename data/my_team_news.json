@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.1,
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 21.9,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -48,9 +48,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.6,
+    "hours_to_lock": -12.8,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -64,9 +64,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -99,9 +99,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
@@ -146,9 +146,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -162,9 +162,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -173,6 +173,12 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Why Kendre Miller is Playing Over Alvin Kamara for Saints RBs with Early TD - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTNmeWN6aWFCaGR0VURYemdidWFfVXB4SVJKS0lLcWFVY3lWMFJOYkc3TjlUMlVCMC1tYW5mRjJKcmtZWmhNZnJlU3ctVEFrZUxXblZFS3A2UGI5OWpEekREalktNzdaY0x0NXBaXzhEWGlaOHFsYkhZNThvRl9HX0RZZERENmdjMGZBVkVEZ3JaSUtIRkNjOHNpSlBHLXJha2RFbFlILXFNOEpaczJCT1h3?oc=5",
+        "published": "2026-10-11T17:54:08+00:00",
+        "source": "Heavy.com"
+      },
       {
         "title": "Alvin Kamara expected to play in Week 5 - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQamNyWi1fc01nQ0VSLU45Yllha3FyZDctUGVwSEhOME40bXZ6ZkdhdmxmTC03cHFtZk9JSU1PT1U2Si11QzFLU0NNMEdGbzBtdmlzaHJLTGt1aWRvQjlWR2NiRWZEblZkNzBrQ3BlU3hCWkw4WndDWVpYZ2pGWEhuTlVCVjl2UGc?oc=5",
@@ -202,12 +208,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmZwOE5xcVZMRFY2akI2blJKZGo4TmVLdGh1LWxEUS1VakpwWDFMN29aUXh5bVlHWE96LW1ZZWdxcURSZVRWMW9fMENMNnRzbVRkZDhyNVUxcE1wMDF3X2pZRkNTdnVraFVTaWh0WFZWYng1b3g2OTByaHJKc0FBTFN0a05FOENDWEs0?oc=5",
         "published": "2026-10-09T20:46:26+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Alvin Kamara questionable for Week 5 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1hGU3RrMGVuWWJNMlZ2V1hkX1RUZlBKdVhvRFMxQXlJNDFaQjF4Q1ZiSVV0VHRady1BTlFnM3B5STJwbmlZNXRrOW5GWHc5bUN1bU8yRkdudmd4X1prWDJZbWRFaE8wcnJtX2EtZHJOYUJqVEZvOFlIdTJSYzNPSTRzVHhUZDNa?oc=5",
-        "published": "2026-10-09T20:44:07+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "Alvin Kamara expected to play in Week 5 - Yahoo Sports"
@@ -215,13 +215,13 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -2.7,
+    "hours_to_lock": -5.9,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
-    "confidence": 59,
+    "confidence": 52,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
@@ -231,12 +231,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRXFBQktlWV9wVXlpdTc2eU9fYmdlUElGSEdXZXJ4RkZZRTg2RE90Mk12NHhRQ3lkNS1ScUc4aXFWdVc0SnRjbE9xcWVPQnliX0ZxcGVDakZxUUVzclN4WWxycFo5X1IyTlI3OVpnTGJlNmFES0FiQTV2TGhDV0NWS25iYllocmFLdTNTSTdfZGIwTTBzQTkxS2VFSW5KZlFIcTU4VU5fZjFaTzdnRjM3dWR4Uk9nenJlWno2TDJGbmZlQThaNXF2WEQ0TmtDd2VnVkNZMHZBY0VVVmlXS3VVSVBtY2pyUQ?oc=5",
         "published": "2026-10-11T19:14:52+00:00",
         "source": "NBC Sports"
-      },
-      {
-        "title": "George Kittle injury update: Will 49ers TE play vs. Seahawks? - Niners Wire",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOG44OVJydzZwdk15U2dhaFFuUy1ib0tFUmRMamd0ZlhNMmhFN2dINUpCZEhvekJxZTN0TzhNY1NKOW5lQXg2MkJKUDViWGkxeS1lOURob3lzX25CUEN5d3Z5MElYZVczLWltOTJUMW14M2dOQmRDY0QtczRwTVhKbXZLQklSeG1ZQk9VZWtNN0tocksxZXQ1MlVoamh0NVEyVms5UElDTU5VVzdZckROcGpmclU2bkdRMXdhNGNzNA?oc=5",
-        "published": "2026-10-11T17:18:00+00:00",
-        "source": "Niners Wire"
       }
     ],
     "reason": "49ers TE George Kittle is active despite illness; DL Mykel Williams to make his 2026 debut - NBC Sports"
@@ -244,9 +238,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -260,9 +254,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -70.9,
+    "hours_to_lock": -74.1,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -313,9 +307,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -366,9 +360,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -382,9 +376,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 1.2,
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.0,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -398,9 +392,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -414,9 +408,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -430,9 +424,9 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-11T23:08:43.624287+00:00",
+    "generated_at": "2026-10-12T02:20:39.516081+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -6.1,
+    "hours_to_lock": -9.3,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
@@ -454,16 +448,16 @@
         "source": "Raiders.com"
       },
       {
+        "title": "Las Vegas Raiders vs. New England Patriots: TV channel, time, what to know - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXNLMmRhcTNVWXI4aDAtNGxPOVhBRndhT1VZRWxrb3hWZThUc0otNDZEUUV6cUxxQTdoRDdyVDcxeFpGeVdueG9ZMXJkRzh3cWJxdDMya0dxXy1OV3g4eDZ5cDZqMS12YzY4VDJnbGtFV2Y0dzNhdExNVXlJRFR4eXNndw?oc=5",
+        "published": "2026-10-11T14:29:07+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
         "title": "Will Drake Maye play against the Las Vegas Raiders today? Latest injury update on the New England Patriot - The Times of India",
         "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPb3B4cDdQSV85NDZmVXM1RlVpM0U0TklnUUxlS016Mks2aFBrNkVEYnRvQ0J6U002WnZDT2ZNZGxYWVVybFRuSThmODZza2VodEVkY2IzZDNlSXNNU1R5NmJyS1l4SURHMWJYVW9PZGNpaXlYNU1EM0JsbjRhRDVmakg0WGdYNklCTXRJZlM0RGhQX001M1g0bWZfektJVGFHaEJGbUZpaVA0V2QtLXFoNDJRMl9MRnVvTjZWbzM5VWVvemRkdURlZDZJLTZnOEVFVVZrNUxlRGNyZ2pZUUl4dHJ6UTUtaUxJYnoyRU1abHJCMWtia3Q2b2ZIWmthRDFqRzZoalpBN1h2dnhtZUNQVWxMTVNiaElwVUYteko0YUtKd9IBpwJBVV95cUxPSWpNcVVlRm9iTWowOFdOQTZGdk0wQlotNWRPXzl6SXZjamt3NVJVUGRwaUhqTEhXbGgzMmQtNElYLTZZYTFjWTA3RFNRWmhWNk5YcVpsN3lNRURvcnJQbGIyVUN3NUZmblR3MWpRT0hOYy1vS1RQU1ZhTV9hNmN5MUc0ZU92X01fWVBpUHcwUWRQREJIWlEzTFFuMUdkRWd4T0pocGVsaG1LQU1UcC1zZE5NX09sSUNQQWFZbFdpT0c0OWJjUWJybGw2bVppeUpwVXc0UjVydTR4Mkl2QjU5cGU1Uzc2LS1aZUZ6WGJ0eDdPSGpPTC1EMGVYM2VOMGdSZVJlUDZJMlUtVXNVNTdpQ0xpYzM3elY3aTZIZWR0SVBkVDlaOGFR?oc=5",
         "published": "2026-10-11T10:32:00+00:00",
         "source": "The Times of India"
-      },
-      {
-        "title": "Las Vegas Raiders vs. New England Patriots: TV channel, time, what to know - KLAS 8 News Now",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGhxR2w1M2NQTnVOWHJ6M3B2cXdVMzAtNmh4czBpa1R3X0gxV29WS0tETjNLOHpQcHhCc1NqaWtMWUczdzU5WGtTVDE2QzZZcHpadWY2XzdCb0lNUGJwT1hERnllN25WOHZUcmRnZzJxeDZKZUFHRnl2eS00V1ZvWHFHZFYtQl92cDlHT2tWQkd2Zm9LeExHOWV2V0ZWVmJBUFQtV0lybDVnZTktWEFFeTh1Y2xXUC01Yl9mUVFLbkR4aUJ4NmfSAcYBQVVfeXFMUDhocUdsNTNjUE51TlhyejNwdnF3VTMwLTZoeHMwaWtUd19IMVdvVktLRE4zSzh6UHB4QnNTamlrTFlHM3c1OVhrU1QxNkM2WXB6WnVmNl83Qm9JTVBicE9YREZ5ZTduVjh2VHJkZ2cycXg2SmVBR0Z5dnktNFdWb1hxR2RWLUJfdnA5R09rVkJHdmZvS3hMRzlldldGVlZiQVBULVdJcmw1Z2U5LVhBRXk4dWNsV1AtNWJfZlFRS25EeGlCeDZn?oc=5",
-        "published": "2026-10-11T07:29:07+00:00",
-        "source": "KLAS 8 News Now"
       },
       {
         "title": "Las Vegas Raiders at New England Patriots - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
