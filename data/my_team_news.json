@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 4.9,
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -1.3,
     "kickoff_utc": "2026-10-13T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -29.8,
+    "hours_to_lock": -36.0,
     "kickoff_utc": "2026-10-11T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -69,16 +69,16 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Browns’ Run Game Issue Could Worsen After Quinshon Judkins Injury - 247Sports",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ05iR3I0LXQ3azVjcFRNbHdVc0g0U3B1cXVWMDZtaWUxd2d5bDZuVFJtRU9TNm9QTjNBaHdrbGVEcVhjUkpENmZQMHp5QmRIZU5qWmtNWTh3cWE4emN5d1dsQXBJcGVWRjZXQk9pOHMxLXd2TWFnZXdjSElPbkNLX2dhRUZjS1ZpdUNDN000ekQwZ0pDYzFHUWkyMjIzUHg1T3FpQW12MXY2dC02X2ZaVUhhdGJiSEZqeXlXOWxR?oc=5",
-        "published": "2026-10-11T21:18:54+00:00",
-        "source": "247Sports"
-      },
-      {
         "title": "Browns Get Bad News on Quinshon Judkins After Jets Loss - Heavy.com",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS05KU2haU1didkR5WUFMYTNVc1dfTl96S3N5LU0wS0tsZ01HekxpdU96VllrSGpTZmw0ZklySkJQTGFhTmxyU2N3R2Q5eTc1OHlzQnN2bnR2UUY3TzM1NUZ4bFd2SlI0RGVBRWowTWtCSEpvQW9WSFVyWkJHbGVWOVBZd0p3d1ctYWc?oc=5",
         "published": "2026-10-11T21:12:01+00:00",
         "source": "Heavy.com"
+      },
+      {
+        "title": "Browns’ Run Game Issue Could Worsen After Quinshon Judkins Injury - 247Sports",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ05iR3I0LXQ3azVjcFRNbHdVc0g0U3B1cXVWMDZtaWUxd2d5bDZuVFJtRU9TNm9QTjNBaHdrbGVEcVhjUkpENmZQMHp5QmRIZU5qWmtNWTh3cWE4emN5d1dsQXBJcGVWRjZXQk9pOHMxLXd2TWFnZXdjSElPbkNLX2dhRUZjS1ZpdUNDN000ekQwZ0pDYzFHUWkyMjIzUHg1T3FpQW12MXY2dC02X2ZaVUhhdGJiSEZqeXlXOWxR?oc=5",
+        "published": "2026-10-11T19:13:00+00:00",
+        "source": "247Sports"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -86,13 +86,13 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": 2,
-    "model_modifier": 0.5,
-    "confidence": 73,
+    "score": 1,
+    "model_modifier": 0.25,
+    "confidence": 52,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
@@ -102,24 +102,6 @@
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNlpmdkxfZmtLdlBsNUdFd3RGRXY5TjNjeVBwQjNweDN4NmpKWjhlWnRWWFlacXFaeGE1VmRmd2h2UVVpcUktNlhmQlA5dXpEVGVPamJ2aGxMdnRrUDVGR00zN3RVWERkTjRfNnRpd2k3S1IwZEp4S3E1dkNQUUxuRQ?oc=5",
         "published": "2026-10-09T01:58:00+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Tyler Shough back to full participation, Alvin Kamara and Chris Olave limited - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYUNtcGxGWHJKbXk3NjFxUmk0eXdEM0tEMkl4eWF0c2s3TEJ3QXlVcC02NU5wRkxwVDlIYXhjdGtoMFZYMHRiSVVZc3J6MDBuZzFQa21xMjBLUjBZTDBRbnZCUVd1dUdicmtHN2JIQk5sRFlLWGM2NGZRcm1Mb19aZWxJekhIWk1OeEZkWmtGcXk1SkVNb21VTjA0LVgxdUQwckV3VEsyRUMwdUM0Yml5Z2xSTF92UVR0b3JsN0JwUDBfMmo3ODJ6UXIwRFkwaVB2VjI3UQ?oc=5",
-        "published": "2026-10-08T22:54:18+00:00",
-        "source": "NBC Sports"
-      },
-      {
-        "title": "Tyler Shough back to full participation, Alvin Kamara and Chris Olave limited - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0RwNW9ldGpEWnFodFo2a1ZYYVlJa241bC1EcmJ1cS1qR3NINUl3aEE1M1ZvWEM2ZDVQWld0a3R2cTVHVWJkaGxKMHAtUVlyTUljOWFDTEpJaTVNS181bktURm9EZmQ0QnFjQVZXT0xFdDVQUXFPNFpPcnFiVVZrLXc2NWhzSlZVZFZKeXBn?oc=5",
-        "published": "2026-10-08T22:52:36+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Tyler Shough (hand) upgraded to full participant Thursday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3FtNGtTU1BJM0ZoT0hCcldCWUhEY2NPZllDd2pEa002SUV5a01XUnZsMHBtQVZSanNJZW5rSWRWTmk5TkxBWFJnVjB6elNqZ3E3ZkdldUZFQ0MwM1V6ZS1pT3BKSmJZSjN0T3gtampZdDFKN1o4OF9VaGp5WTFJWUxIWlVoM1QyU25reWhYUGY1RGctTG0teEM5bHBFblF0cExFSnl30gGrAUFVX3lxTFBzMWQzUkJiX1NsbWdsSDU2U3JKTl9vM1J2WThUdkhtaTJhTGxPcXhVaXZjQm50bmRDUW0wa3Nuc1I3dk5yUk5GSlFyNHBaRmltbFlMblhySnhwMDAxS25LNDRRbEpuWTdDQkE3V280RmdsNUVTNGN1NmMxY1pRcnZVdVdiNGdlRUpwOUFtb0dNOUN5NGVFWWNCX1p1ck00S1MtOWtXT2RySlBqcw?oc=5",
-        "published": "2026-10-08T21:21:24+00:00",
-        "source": "FantasyPros"
       }
     ],
     "reason": "Full practice for Tyler Shough - Yahoo Sports"
@@ -127,9 +109,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -143,9 +125,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
@@ -196,9 +178,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -22.9,
+    "hours_to_lock": -29.1,
     "kickoff_utc": "2026-10-11T20:25:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -225,9 +207,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -241,9 +223,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -91.1,
+    "hours_to_lock": -97.3,
     "kickoff_utc": "2026-10-09T00:15:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -283,10 +265,10 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "CeeDee Lamb questionable to return to TNF in Week 5 - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXBKV19FT3NHOTNJVWpCbnlUR0hsZFZuOWN0c0c1a2RVWGFTNEtzV3FXWG5WYXA3Q1VkQ2pFeXRwRXNUMGVEQUxORFJPRndBLVVSUUFxYXotb2JIRjIybE9YWmRiVTJTYWNXYjBKQkhkaGxtOFpOQlJya19FUXJiSUVuQi1JbmVZanh4cUVXQW1qdVdOM0JYMjZldjlNLU55blRWWm1XdUdmU0JyeV9IUzQyM3RlWHNB?oc=5",
-        "published": "2026-10-09T02:55:00+00:00",
-        "source": "NBC Sports"
+        "title": "CeeDee Lamb Questionable to Return on Thursday With Quad Injury - NFL News | Fantasy Football - RotoBaller",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTW5VdXJ1WUpLSXJkWlBKZndZR0hhSTFIcU5Oc2EwTHBJdUxmZmI5QlNMa0lhaWlJRmRnMkRyaDFiLWV6cDlJcVhRejhCNnJiczBNNFFPWVlwM3kxT1hLRnJGU3Z0ZlFZNVJtNFk1c1hlWE8talVGSGlIckZCQlhPSTlXMU5zSjhYZnI0MUY2c2dMZlZIQTdOdGNuakdNSDZKNUJsM3Q1MFJwMTJQS3Qw?oc=5",
+        "published": "2026-10-09T03:02:10+00:00",
+        "source": "RotoBaller"
       }
     ],
     "reason": "Cowboys close to within 24-16 on George Pickens' TD as CeeDee Lamb is questionable to return - Yahoo Sports"
@@ -294,13 +276,13 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 87,
+    "confidence": 66,
     "label": "Some availability risk",
     "injury": null,
     "practice": null,
@@ -322,24 +304,6 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUFjVXlkbDE1UF92cFN2SWFzWFc5VXI3b3h5RE56aW9FMElJZGsxempOMVN1TmtaUW9WYm1Gd0ctTjRvRXp2LURwVF9SRjJPSGNhNk8wSU9OQTNaOWlPRnpQVkNId1FweXdZWGUwTV9CanZWZjFzckRVMjU1RTBWLURaR3N1eE9wOFNIUTlMZ2dQTUpDUlNnNmpB?oc=5",
         "published": "2026-10-09T05:28:58+00:00",
         "source": "Fantasy Footballers Podcast"
-      },
-      {
-        "title": "Bears' injury report features updates on D'Andre Swift, Joe Thuney - NBC 5 Chicago",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWW10UDJDRDdBYXZCSlpQSFZVV0RXdTdXVlEzYUFfYU1OclRvM2JzMS16UC1GNkFFTUVuRFhNcy12MXhXREJQYmNpby1aR05XUHFCb0VRR1BUQmxubGFva0l0LW1hZzdGaTlrNHJJWVVTSkdvaE1rMjF6dHBqT3Z1Y2xheWNnWUgxM2h0cDQzVnFTTmhFX0xDZGxvaVU3WFFJNDFUZmQyOXkyRXFrbXNXQXZYOFlIZVFscjhJUmN0cTV4MjlMWjZaOTROWUczUlRWaGpfTWJpZ21ONWlOS3lj0gHnAUFVX3lxTE9QSUVLbUZMZHVUa0h5VmVfOVE5dDBHam1WdUllY21KRjdwTDUzMUlLOV80cGppX1NScWZXUS1CdFVKdTdXeFNqaEtUT04xOFpEa2RUVGRFWkZDYnRRd0Vxa2RnV09tZ0xzRzNhcGd1Qk1XOGdQVGJIekM5RmJlY0tlN2NDZ3hrOXlSNHViN1dpSnp2RjlXcGc4YzRkU0NIS21zdGZqS0VtTF9IbnN4Z0IxTU1RSHJCWlBJUGU5MDRpc0tYUGEtbHFUN19RX1BTMEFIWHZGUDNILTI1Wm1WOU1LM1JPbGtwdw?oc=5",
-        "published": "2026-10-08T20:43:21+00:00",
-        "source": "NBC 5 Chicago"
-      },
-      {
-        "title": "Bears RB D’Andre Swift limited, Kyle Monangai DNP again - Field Level Media",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0pzS2NDNmZGTXVKNXdVODlxN3dUVGVzdkN2MkY2cjMyZjVNOHhhYU9pZk1YOVlXSjJCSVBPYVRrNmxXTGRsZXpHaFpWa01uNGE3YldZOS1LcGpKREF1QWF0X0ZQVHlWWjVqTklmYVhYUTFUcVpDOEV5ZXd6WG5MRzJUWWtQRGVkRURibTBQNVo?oc=5",
-        "published": "2026-10-08T20:21:39+00:00",
-        "source": "Field Level Media"
-      },
-      {
-        "title": "Bears' Thursday Injury Report: Kyle Monangai, D'Andre Swift Trending in Opposite Directions - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGNmenc1SEhfcTloZjZ4Q1FfSGFfenUyamlhWTRMRGxCQlZ6OWZtZ3lCYkp3MGxEVW1adWJYZmFCdVZnVzd0Y2phOEtGcDlwTExMT0N1TWFJS0k5QnBVN05tYS14VHBIalh0NVNvVDczNm1CeHR4TjV0azhQaUF1bG45V2Q0RE42VEFGSUFKUVR6d05KZkgxX0VrblJtLWFLMzFCb05GT2YtUmZRcnFQZmFSWVVmRFRsaUow?oc=5",
-        "published": "2026-10-08T20:05:45+00:00",
-        "source": "Sports Illustrated"
       }
     ],
     "reason": "D'Andre Swift Logs limited practice Thursday - Fantasy Footballers Podcast"
@@ -347,9 +311,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -363,9 +327,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.0,
+    "hours_to_lock": -25.2,
     "kickoff_utc": "2026-10-12T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -379,9 +343,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -395,9 +359,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -411,17 +375,29 @@
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-12T19:18:23.603267+00:00",
+    "generated_at": "2026-10-13T01:30:02.421165+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -26.3,
+    "hours_to_lock": -32.5,
     "kickoff_utc": "2026-10-11T17:00:00+00:00",
-    "score": -6,
-    "model_modifier": -1.5,
+    "score": -2,
+    "model_modifier": -0.5,
     "confidence": 87,
-    "label": "Negative availability signal",
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Las Vegas Raiders Acquire 25-Year-Old WR in Sudden Move - Yardbarker",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWV5c2ZlVWkybnBDSFBxZHpWTU5aZ3RGd1YxeDkwQzNiLU1QNkxHZHdpdGVsSWNIY3hOWmNHMXpwLWJUZUxPWFN6WUFmZVBUYVVNVVZ6R2k1VUZtcjRScF9JZXdmNEUzVGxyVEQwdEtSQlE0MXJxci1CSXdIN0VQOGY3WVdFSzZDZXVPeGxYdlhWblN6Mmp5aE1vYlRIdzY3c1BtekUtcjdHSUY0SUFmdTVfaw?oc=5",
+        "published": "2026-10-12T21:15:12+00:00",
+        "source": "Yardbarker"
+      },
+      {
+        "title": "Klint Kubiak confirms Kirk Cousins is still Las Vegas Raiders’ starting quarterback despite Fernando Mendoza’s debut - Silver And Black Pride",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1VCMjd2TTdlakpZbjhTR1VtdHZtVU85by1tTTdwSzl0bENoZWk1TFplWlVBdzZidVNqempvN01Nc3dxV0wzRE93OVpqclI3UzZCTkZFX3h0QUgwdVhkREdkQ3l6X1lCT1VYdE04bHh1ZHcwTDhJeW5oWFdUanBJeE9fR1NQOTMtdGRwR2VFMEJkOEhwR0dKeVI3dUZ3RWozaTZQbFNId2ZoYUhkVlRJR2JLR1ZJLW1yS2JHZWNWbUdPVmROaFZyb0FJTQ?oc=5",
+        "published": "2026-10-12T21:08:13+00:00",
+        "source": "Silver And Black Pride"
+      },
       {
         "title": "Buffalo Bills vs Las Vegas Raiders Preview & Start Time — October 18, 2026 | SI - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xRXpYRmstNWRNcF9zUmxfcnpENjJYSzh4U1ByaWlxMlNVVVdNeTJ2WmVQUUVwZkdFUk9LbWt4aEZDOTZDeUt3QXB0MHdGMzJOSlJBTXplS193bXY2bVB2R3F6T3YydkVDelJOZUNDcGRvVWs?oc=5",
@@ -445,20 +421,8 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlZtaEQycG50WC1wejFMMFpEYzlSZklGSTEzWWVfMjd2X1dZb1VCb05UanVsWkkxNllHOWdTR0xZZURWb19vSjBSZnZqdmJlN0pLWWxnQVplZkdZdmFnVlcxLWtWVjZzNmdOZzhMSDNBT3AtcmVpTDRNVmR0Yk0xVEZab0pyQTlrTjdRNUplYUMzc19SQ2c4bzNnTEZTVlJvVVJFR2xjcmQtWUlUM05UTEVSOUl3QzI5Q0NvcUZadDRKSjQ?oc=5",
         "published": "2026-10-11T15:43:48+00:00",
         "source": "roundtable.io"
-      },
-      {
-        "title": "Las Vegas Raiders Week 5 Inactives vs. New England Patriots - Raiders.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmNGMGw5QkJwMlk0ZldhcmRIQUxBZmlURDhBQUFBNURsVzNXR2tqN0lINXh4RDRkWDctR2dJeWh3SHpyUEwtTWozVHVRM1h2ZWx0eDdZQ0JtcDFFVWVBbUxxVGRBUEFfemV5bTVycG1NY0h2NG4xNS16RTZvUnlxZGNHUGxXZFNqbTNjRnJSUVhMX016ZkZYYVFn?oc=5",
-        "published": "2026-10-11T15:37:52+00:00",
-        "source": "Raiders.com"
-      },
-      {
-        "title": "Las Vegas Raiders vs. New England Patriots: TV channel, time, what to know - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXNLMmRhcTNVWXI4aDAtNGxPOVhBRndhT1VZRWxrb3hWZThUc0otNDZEUUV6cUxxQTdoRDdyVDcxeFpGeVdueG9ZMXJkRzh3cWJxdDMya0dxXy1OV3g4eDZ5cDZqMS12YzY4VDJnbGtFV2Y0dzNhdExNVXlJRFR4eXNndw?oc=5",
-        "published": "2026-10-11T14:29:07+00:00",
-        "source": "Yahoo Sports"
       }
     ],
-    "reason": "Game Day Inactives Revealed for Shorthanded New England Patriots, Las Vegas Raiders - roundtable.io"
+    "reason": "Klint Kubiak confirms Kirk Cousins is still Las Vegas Raiders’ starting quarterback despite Fernando Mendoza’s debut - Silver And Black Pride"
   }
 ]
