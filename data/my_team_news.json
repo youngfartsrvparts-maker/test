@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 132.2,
+    "hours_to_lock": 124.4,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -31,9 +31,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -47,9 +47,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 125.3,
+    "hours_to_lock": 117.5,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -63,9 +63,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -92,9 +92,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -108,9 +108,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -124,12 +124,12 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
-    "score": 2,
-    "model_modifier": 0.5,
+    "score": 1,
+    "model_modifier": 0.25,
     "confidence": 87,
     "label": "Positive/clear signal",
     "injury": null,
@@ -166,10 +166,10 @@
         "source": "Sports Illustrated"
       },
       {
-        "title": "Saints’ Alvin Kamara On Verge Of NFL History - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUthN2F4SnEzamt1U1JJTmlMMFlMb3g1dEJacldUUW1PcExxbDNSbmE5TTlLSmhCUnlMXzNUSkhUUEd1R0s3c09HSHVOZXpoY2EtWVpyaDZWblhwblhQYWNIdlJYUjdFY3ZmRmx0OE9mT0J6eUNnSm5lTGJOd0RDQ1BCTmQ?oc=5",
-        "published": "2026-10-10T21:07:37+00:00",
-        "source": "Yahoo Sports"
+        "title": "Saints | Alvin Kamara questionable for Week 5 vs. Vikings - Fantasy Guru",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWxQZGtUbkNNUGpKUHhMZHlVYnJuS3JxWXl1MjJJak8yU0hhZkpCMEdwaGQ4S0UxNThSVVdGbGRCUlhucFRTR290a1ZONkZ6ek03dTROUW1LTlFxbGpUeXc5UU1WTGVBbW9ScXEwLWtoUUZDNko2bGVuZDVaQ29vZnJOQ29vcDdxNFZhTQ?oc=5",
+        "published": "2026-10-10T09:51:55+00:00",
+        "source": "Fantasy Guru"
       }
     ],
     "reason": "Saints | Alvin Kamara active against Vikings - Fantasy Guru"
@@ -177,9 +177,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 160.0,
+    "hours_to_lock": 152.3,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -206,9 +206,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -222,13 +222,13 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 136.1,
+    "hours_to_lock": 128.4,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 79,
+    "confidence": 72,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
@@ -238,12 +238,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcFFUTG1sQXAyWEZ1M1UxbFgyOGJqbDloaUpCejl2UGlXa3BQc3NSeTFHanE4M2dRMjVVbjEzNTFfUTZqRlBsLUtqb3VfaGlVX1NpSjVuV2l4VE5PdUt5Ym5QV0FYUGNLbVYxOVc5Y0c2NFlzbFcxQzFDWEtjU2dhVHFtbkhiV1VXMkZEZWllMDVtdEVIMV92STQ2Q2RxT3BmNkVmeDJXak00NkVTSUtVREx2eXdxUlpmWXMwRUJTSC1CWDEyMDZxUEMxNXBHVDVDaTl0RQ?oc=5",
         "published": "2026-10-09T20:07:00+00:00",
         "source": "USA Today"
-      },
-      {
-        "title": "Emergency Cowboys-Browns trade proposal to keep CeeDee Lamb injury from blowing up the season - FanSided",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVZmT3BaUTdtYnpscTNpV2x2V3EtaUdfSVVWbjJ4RjRNUEtKQ09wWUlCT2d6Y1dzMl9nWWd3TnBoT05MSlZXMUJ0eFFNLTVVYzEwa0NwS0tRQURNLUpzSGYtNFFVNzJMUmN1ZWtyeVZpZmlJR1lHR2RiS2x4d0hkS2tWQkFPTk1LWjkyMm1hSE51ZXZpbHEyVndwa0tYRmZBUVZOYzhNaXNrSXhUajJGQUlwMUVVRDVOeEE?oc=5",
-        "published": "2026-10-09T15:04:25+00:00",
-        "source": "FanSided"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -251,13 +245,13 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 59,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -267,12 +261,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTJoZUhLUGNVblpGdDl0dUxNa0ZYUEJtUVNQbUhvdHVncTdnQ3YzUHNxeHZYck9oendkSnNxak9Rd3dKcUhjSVd3UVFiOVl0ZlE3SUxobzNsYW12enpDd1VrWGxOQWR2c3M2UmZHNG56UGRsSXJxSW9uR3pKQnlDMkJaR0xySUJ6Ykl2WEhxbUlsVU1OVkQxWGNneUdfbjJUQlFTMkc5NA?oc=5",
         "published": "2026-10-09T19:07:15+00:00",
         "source": "Sports Illustrated"
-      },
-      {
-        "title": "D'Andre Swift Injury Update Details Likelihood Bears RB Plays and Highlights Concern - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2Z6OUhYb01KZDZ3dld4bEx1amV6YXQ5dVdMUklndE5PSXVFaXhSdEt4V2xTUEZ6Q2EzNUZIdWp2bVJTaHlLQ1ctVVFfMmx6d2ItT3FQQ2pyQ3ZQcVBVcTBYVjFvRjJaSUFYTUZNbkNzMEVWcmEyLVRxU05GQVVoVlY4enlmd1lsZVBVRmFaV0NmUWdOUUlIOG1wNE1VOGFqUmRZOW5B?oc=5",
-        "published": "2026-10-09T14:20:50+00:00",
-        "source": "Sports Illustrated"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -280,9 +268,9 @@
   {
     "player_id": "7839",
     "name": "Evan McPherson",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 296.8,
+    "hours_to_lock": 289.0,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -296,9 +284,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -312,9 +300,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.8,
+    "hours_to_lock": 121.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -328,30 +316,37 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 296.8,
+    "hours_to_lock": 289.0,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
-    "confidence": 65,
+    "confidence": 72,
     "label": "Negative availability signal",
     "injury": "IR",
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Dolphins Cut Ties With Ex-Rams RB Despite De’Von Achane Injury - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM09IbnB0WHpmMW9TR2FrMnhMNEx2QTNJdFRtSFYwVkdoT3YwdzBGa2w0ZVpaWDdmdmFHeFpPTFl4aFNUUWhHWjZwNW5UUFU2WWxqU3hNLS1QUVV3cFZVN2NQaEtmU1FJTk1VVEtkMDhRWWcwYVdEZmZiT3hiNUxGU0Q5M3VvbW0ya1pwQkt6d2RFdW1Pb0JzeQ?oc=5",
+        "published": "2026-10-13T13:41:10+00:00",
+        "source": "Heavy.com"
+      }
+    ],
     "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "LV",
     "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-13T08:13:24.282831+00:00",
+    "generated_at": "2026-10-13T15:58:52.932795+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 132.2,
+    "hours_to_lock": 124.4,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
-    "score": -2,
-    "model_modifier": -0.5,
+    "score": -5,
+    "model_modifier": -1.25,
     "confidence": 87,
-    "label": "Some availability risk",
+    "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
@@ -366,12 +361,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1VCMjd2TTdlakpZbjhTR1VtdHZtVU85by1tTTdwSzl0bENoZWk1TFplWlVBdzZidVNqempvN01Nc3dxV0wzRE93OVpqclI3UzZCTkZFX3h0QUgwdVhkREdkQ3l6X1lCT1VYdE04bHh1ZHcwTDhJeW5oWFdUanBJeE9fR1NQOTMtdGRwR2VFMEJkOEhwR0dKeVI3dUZ3RWozaTZQbFNId2ZoYUhkVlRJR2JLR1ZJLW1yS2JHZWNWbUdPVmROaFZyb0FJTQ?oc=5",
         "published": "2026-10-12T21:08:13+00:00",
         "source": "Silver And Black Pride"
-      },
-      {
-        "title": "Buffalo Bills vs Las Vegas Raiders Preview & Start Time — October 18, 2026 | SI - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xRXpYRmstNWRNcF9zUmxfcnpENjJYSzh4U1ByaWlxMlNVVVdNeTJ2WmVQUUVwZkdFUk9LbWt4aEZDOTZDeUt3QXB0MHdGMzJOSlJBTXplS193bXY2bVB2R3F6T3YydkVDelJOZUNDcGRvVWs?oc=5",
-        "published": "2026-10-12T16:01:35+00:00",
-        "source": "Sports Illustrated"
       },
       {
         "title": "Las Vegas Raiders vs. New England Patriots Live Score and Stats - October 11, 2026 Gametracker - CBS Sports",
@@ -390,6 +379,12 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlZtaEQycG50WC1wejFMMFpEYzlSZklGSTEzWWVfMjd2X1dZb1VCb05UanVsWkkxNllHOWdTR0xZZURWb19vSjBSZnZqdmJlN0pLWWxnQVplZkdZdmFnVlcxLWtWVjZzNmdOZzhMSDNBT3AtcmVpTDRNVmR0Yk0xVEZab0pyQTlrTjdRNUplYUMzc19SQ2c4bzNnTEZTVlJvVVJFR2xjcmQtWUlUM05UTEVSOUl3QzI5Q0NvcUZadDRKSjQ?oc=5",
         "published": "2026-10-11T15:43:48+00:00",
         "source": "roundtable.io"
+      },
+      {
+        "title": "Las Vegas Raiders Week 5 Inactives vs. New England Patriots - Raiders.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmNGMGw5QkJwMlk0ZldhcmRIQUxBZmlURDhBQUFBNURsVzNXR2tqN0lINXh4RDRkWDctR2dJeWh3SHpyUEwtTWozVHVRM1h2ZWx0eDdZQ0JtcDFFVWVBbUxxVGRBUEFfemV5bTVycG1NY0h2NG4xNS16RTZvUnlxZGNHUGxXZFNqbTNjRnJSUVhMX016ZkZYYVFn?oc=5",
+        "published": "2026-10-11T15:37:52+00:00",
+        "source": "Raiders.com"
       }
     ],
     "reason": "Klint Kubiak confirms Kirk Cousins is still Las Vegas Raiders’ starting quarterback despite Fernando Mendoza’s debut - Silver And Black Pride"
