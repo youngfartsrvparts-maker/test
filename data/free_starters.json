@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:30:04.970199+00:00",
+  "generated_at": "2026-10-13T08:13:26.677374+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,19 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 353457,
+      "adds_24h": 604008,
       "drops_24h": 0,
       "next_game": {
-        "week": 5,
-        "date": "2026-10-11",
-        "time": "13:00",
+        "week": 6,
+        "date": "2026-10-18",
+        "time": "20:20",
         "home": "GB",
-        "away": "CHI",
-        "spread": -1.5,
-        "total": 46.5,
-        "opponent": "CHI",
+        "away": "DAL",
+        "spread": 1.5,
+        "total": 52.5,
+        "opponent": "DAL",
         "home_game": true,
-        "implied_team_points": 24.0
+        "implied_team_points": 25.5
       }
     },
     {
@@ -54,19 +54,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 45315,
+      "adds_24h": 50823,
       "drops_24h": 0,
       "next_game": {
-        "week": 5,
-        "date": "2026-10-11",
-        "time": "13:00",
-        "home": "WAS",
-        "away": "NYG",
-        "spread": 3.5,
-        "total": 41.5,
-        "opponent": "NYG",
-        "home_game": true,
-        "implied_team_points": 19.0
+        "week": 6,
+        "date": "2026-10-19",
+        "time": "20:15",
+        "home": "SF",
+        "away": "WAS",
+        "spread": 7.5,
+        "total": 50.5,
+        "opponent": "SF",
+        "home_game": false,
+        "implied_team_points": 29.0
       }
     },
     {
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 8613,
-      "drops_24h": 0,
+      "adds_24h": 11124,
+      "drops_24h": 13077,
       "next_game": {
-        "week": 5,
-        "date": "2026-10-11",
-        "time": "09:30",
-        "home": "JAX",
-        "away": "PHI",
-        "spread": 7.5,
+        "week": 6,
+        "date": "2026-10-18",
+        "time": "13:00",
+        "home": "PHI",
+        "away": "CAR",
+        "spread": 1.5,
         "total": 41.5,
-        "opponent": "JAX",
-        "home_game": false,
-        "implied_team_points": 24.5
+        "opponent": "CAR",
+        "home_game": true,
+        "implied_team_points": 20.0
       }
     }
   ],
