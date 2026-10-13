@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T15:58:55.343105+00:00",
+  "generated_at": "2026-10-13T21:00:41.407350+00:00",
   "league_id": "1388315713940262912",
-  "count": 3,
+  "count": 4,
   "players": [
     {
       "player_id": "11581",
@@ -21,7 +21,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 1115910,
+      "adds_24h": 1457964,
       "drops_24h": 0,
       "next_game": {
         "week": 6,
@@ -34,6 +34,39 @@
         "opponent": "DAL",
         "home_game": true,
         "implied_team_points": 25.5
+      }
+    },
+    {
+      "player_id": "12474",
+      "name": "Woody Marks",
+      "pos": "RB",
+      "team": "HOU",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 159342,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 6,
+        "date": "2026-10-18",
+        "time": "09:30",
+        "home": "JAX",
+        "away": "HOU",
+        "spread": 3.0,
+        "total": 42.5,
+        "opponent": "JAX",
+        "home_game": false,
+        "implied_team_points": 22.8
       }
     },
     {
@@ -54,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 64395,
-      "drops_24h": 0,
+      "adds_24h": 74412,
+      "drops_24h": 35127,
       "next_game": {
         "week": 6,
         "date": "2026-10-19",
@@ -70,10 +103,10 @@
       }
     },
     {
-      "player_id": "9486",
-      "name": "Dontayvion Wicks",
+      "player_id": "10213",
+      "name": "Tre Tucker",
       "pos": "WR",
-      "team": "PHI",
+      "team": "LV",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -82,24 +115,24 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 6.92,
+      "ppg_2025": 7.01,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 13941,
-      "drops_24h": 36702,
+      "adds_24h": 62526,
+      "drops_24h": 69444,
       "next_game": {
         "week": 6,
         "date": "2026-10-18",
-        "time": "13:00",
-        "home": "PHI",
-        "away": "CAR",
-        "spread": 1.5,
-        "total": 41.5,
-        "opponent": "CAR",
+        "time": "16:25",
+        "home": "LV",
+        "away": "BUF",
+        "spread": -5.5,
+        "total": 53.5,
+        "opponent": "BUF",
         "home_game": true,
-        "implied_team_points": 20.0
+        "implied_team_points": 29.5
       }
     }
   ],
