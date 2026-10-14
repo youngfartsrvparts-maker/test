@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T15:05:32.380454+00:00",
+  "generated_at": "2026-10-14T19:20:14.680077+00:00",
   "season": "2025",
-  "missing_count": 733,
+  "missing_count": 729,
   "players": [
     {
       "player_id": "11533",
@@ -2317,6 +2317,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "8143",
+      "name": "Jerome Ford",
+      "pos": "RB",
+      "team": "ARI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "12496",
       "name": "Tai Felton",
       "pos": "WR",
@@ -2848,15 +2857,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13042",
-      "name": "Xavier Guillory",
-      "pos": "WR",
-      "team": "BAL",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "13414",
       "name": "Kaelon Black",
       "pos": "RB",
@@ -2935,15 +2935,6 @@
       "team": "LAC",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "6957",
-      "name": "James Proche",
-      "pos": "WR",
-      "team": "CLE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2020",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3766,6 +3757,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "11257",
+      "name": "Shedrick Jackson",
+      "pos": "WR",
+      "team": "ARI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "7103",
       "name": "Tavien Feaster",
       "pos": "RB",
@@ -4387,15 +4387,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13834",
-      "name": "Cody Hardy",
-      "pos": "TE",
-      "team": "NYJ",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "13425",
       "name": "Jalon Daniels",
       "pos": "QB",
@@ -4660,6 +4651,15 @@
       "player_id": "8121",
       "name": "Romeo Doubs",
       "pos": "WR",
+      "team": "NE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "8123",
+      "name": "Hassan Haskins",
+      "pos": "RB",
       "team": "NE",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
@@ -5287,24 +5287,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "11421",
-      "name": "Ryan Miller",
-      "pos": "WR",
-      "team": "MIA",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "7050",
-      "name": "Josiah Deguara",
-      "pos": "TE",
-      "team": "PHI",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2020",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "13346",
       "name": "Denzel Boston",
       "pos": "WR",
@@ -5408,15 +5390,6 @@
       "name": "Jalin Hyatt",
       "pos": "WR",
       "team": "NYG",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "9492",
-      "name": "Trey Palmer",
-      "pos": "WR",
-      "team": "NO",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
@@ -5591,6 +5564,15 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "12803",
+      "name": "Luke Grimm",
+      "pos": "WR",
+      "team": "LAC",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "11558",
@@ -5822,6 +5804,15 @@
       "name": "Jake Bates",
       "pos": "K",
       "team": "DET",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11056",
+      "name": "Jared Wayne",
+      "pos": "WR",
+      "team": "MIA",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
@@ -6106,15 +6097,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "12826",
-      "name": "Ulysses Bentley",
-      "pos": "RB",
-      "team": "NO",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "11566",
       "name": "Jayden Daniels",
       "pos": "QB",
@@ -6140,15 +6122,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "12015",
-      "name": "Harrison Mevis",
-      "pos": "K",
-      "team": "LAR",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "12185",
@@ -6263,15 +6236,6 @@
       "name": "KC Concepcion",
       "pos": "WR",
       "team": "CLE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "13861",
-      "name": "Daniel Sobkowicz",
-      "pos": "WR",
-      "team": "HOU",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
@@ -6487,7 +6451,7 @@
       "player_id": "11820",
       "name": "Devin Culp",
       "pos": "TE",
-      "team": "TB",
+      "team": "CLE",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -6603,16 +6567,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1639
+      "gsis": 1633
     },
     "2024": {
-      "gsis": 1627
+      "gsis": 1629
     },
     "2025": {
-      "gsis": 1543
+      "gsis": 1538
     },
     "2026": {
-      "gsis": 443
+      "gsis": 440
     }
   }
 }

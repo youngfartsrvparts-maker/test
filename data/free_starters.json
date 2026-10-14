@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:05:36.250128+00:00",
+  "generated_at": "2026-10-14T19:20:18.511039+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -9,7 +9,7 @@
       "pos": "RB",
       "team": "TEN",
       "depth": 1,
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -21,7 +21,7 @@
       "ceiling_2025": 16.16,
       "targets_pg": 2.41,
       "carries_pg": 14.24,
-      "adds_24h": 30005,
+      "adds_24h": 32225,
       "drops_24h": 0,
       "next_game": {
         "week": 6,
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 160242,
-      "drops_24h": 99984,
+      "adds_24h": 167202,
+      "drops_24h": 96336,
       "next_game": {
         "week": 6,
         "date": "2026-10-18",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 181696,
+      "drops_24h": 181104,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
