@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 106.3,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -31,9 +31,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -47,9 +47,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 104.4,
+    "hours_to_lock": 99.4,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -63,9 +63,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -92,9 +92,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -108,10 +108,26 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
+    "player_id": "2747",
+    "name": "Jason Myers",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 38.1,
+    "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -124,13 +140,13 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
-    "confidence": 87,
+    "confidence": 73,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
@@ -154,22 +170,10 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "Alvin Kamara expected to play in Week 5 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQamNyWi1fc01nQ0VSLU45Yllha3FyZDctUGVwSEhOME40bXZ6ZkdhdmxmTC03cHFtZk9JSU1PT1U2Si11QzFLU0NNMEdGbzBtdmlzaHJLTGt1aWRvQjlWR2NiRWZEblZkNzBrQ3BlU3hCWkw4WndDWVpYZ2pGWEhuTlVCVjl2UGc?oc=5",
-        "published": "2026-10-11T13:17:58+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
         "title": "Is Alvin Kamara Playing Today? (Injury Update, Betting Impact for Vikings vs. Saints in NFL Week 5) - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3I2WUFyR0tPNFVBTVJKbG41MW1JMTN2aDU5R3NzSnlzUjJ6YVJTeUtPTGpUWWNEQ0xYYnBHU2pwZzJvNXNBNXRpTjRBV2o1MFhmUHNqTkdDU3pKNG8xendOZDdWS0thalJ1OHR1UmtVVk5KR1pZb2NXeHNrakd6XzJXM1V6aVNWdnNHRTd1WWk1VkJZUk53bkNFM1Y2aTByaTQzYWxObm1MMjl6dnc?oc=5",
         "published": "2026-10-11T12:15:12+00:00",
         "source": "Sports Illustrated"
-      },
-      {
-        "title": "Saints | Alvin Kamara questionable for Week 5 vs. Vikings - Fantasy Guru",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWxQZGtUbkNNUGpKUHhMZHlVYnJuS3JxWXl1MjJJak8yU0hhZkpCMEdwaGQ4S0UxNThSVVdGbGRCUlhucFRTR290a1ZONkZ6ek03dTROUW1LTlFxbGpUeXc5UU1WTGVBbW9ScXEwLWtoUUZDNko2bGVuZDVaQ29vZnJOQ29vcDdxNFZhTQ?oc=5",
-        "published": "2026-10-10T09:51:55+00:00",
-        "source": "Fantasy Guru"
       }
     ],
     "reason": "Saints | Alvin Kamara active against Vikings - Fantasy Guru"
@@ -177,13 +181,13 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 139.1,
+    "hours_to_lock": 134.1,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
-    "confidence": 59,
+    "confidence": 52,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
@@ -193,12 +197,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRXFBQktlWV9wVXlpdTc2eU9fYmdlUElGSEdXZXJ4RkZZRTg2RE90Mk12NHhRQ3lkNS1ScUc4aXFWdVc0SnRjbE9xcWVPQnliX0ZxcGVDakZxUUVzclN4WWxycFo5X1IyTlI3OVpnTGJlNmFES0FiQTV2TGhDV0NWS25iYllocmFLdTNTSTdfZGIwTTBzQTkxS2VFSW5KZlFIcTU4VU5fZjFaTzdnRjM3dWR4Uk9nenJlWno2TDJGbmZlQThaNXF2WEQ0TmtDd2VnVkNZMHZBY0VVVmlXS3VVSVBtY2pyUQ?oc=5",
         "published": "2026-10-11T19:14:52+00:00",
         "source": "NBC Sports"
-      },
-      {
-        "title": "George Kittle injury update: Will 49ers TE play vs. Seahawks? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEZlWWdkNHlwZklpcXBEZThWckpteFVjNHFlWE1aemtFZmUwRzFlVkJwWmR1OHBSdnZzbzBpZ0dQNWJMNXdyaENFYTVwalN2cFUyak9MSXRuOVdPN3lKR2ZUMmkwdnlxM09YU2hLNDB4c0JWNnplQlhyaFNWcFNIMG8tRVg?oc=5",
-        "published": "2026-10-11T17:18:16+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "49ers TE George Kittle is active despite illness; DL Mykel Williams to make his 2026 debut - NBC Sports"
@@ -206,9 +204,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -222,9 +220,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 115.2,
+    "hours_to_lock": 110.2,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -238,26 +236,10 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
-    "player_id": "7839",
-    "name": "Evan McPherson",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 275.9,
-    "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -270,9 +252,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -286,9 +268,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 107.9,
+    "hours_to_lock": 102.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -302,9 +284,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 275.9,
+    "hours_to_lock": 270.9,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -323,56 +305,50 @@
     "reason": "Sleeper injury/practice status is the main signal."
   },
   {
-    "player_id": "LV",
-    "name": "Las Vegas Raiders",
-    "generated_at": "2026-10-14T05:07:53.183999+00:00",
+    "player_id": "SEA",
+    "name": "Seattle Seahawks",
+    "generated_at": "2026-10-14T10:08:31.461645+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
-    "kickoff_utc": "2026-10-18T20:25:00+00:00",
-    "score": -5,
-    "model_modifier": -1.25,
-    "confidence": 87,
+    "hours_to_lock": 38.1,
+    "kickoff_utc": "2026-10-16T00:15:00+00:00",
+    "score": -4,
+    "model_modifier": -1.0,
+    "confidence": 80,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
       {
-        "title": "Las Vegas Raiders Acquire 25-Year-Old WR in Sudden Move - Yardbarker",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWV5c2ZlVWkybnBDSFBxZHpWTU5aZ3RGd1YxeDkwQzNiLU1QNkxHZHdpdGVsSWNIY3hOWmNHMXpwLWJUZUxPWFN6WUFmZVBUYVVNVVZ6R2k1VUZtcjRScF9JZXdmNEUzVGxyVEQwdEtSQlE0MXJxci1CSXdIN0VQOGY3WVdFSzZDZXVPeGxYdlhWblN6Mmp5aE1vYlRIdzY3c1BtekUtcjdHSUY0SUFmdTVfaw?oc=5",
-        "published": "2026-10-12T21:15:12+00:00",
-        "source": "Yardbarker"
+        "title": "Seattle Seahawks vs Denver Broncos Preview & Start Time — October 15, 2026 | SI - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PMVNqRV9tYzNPalh1VGFvMnRxdVpSdVk5a1VQU1hDQTBfVHlGX20ybndmUlZZV3EzZy1halJDNHQxY0U3ZWQ3eGV6TEt5Z0lvZURkSFdGSXpwMjZ1bktsTWJZbjVUVmxwd1BMUUFlaXpBOERNbHRv?oc=5",
+        "published": "2026-10-14T04:34:34+00:00",
+        "source": "Sports Illustrated"
       },
       {
-        "title": "Klint Kubiak confirms Kirk Cousins is still Las Vegas Raiders’ starting quarterback despite Fernando Mendoza’s debut - Silver And Black Pride",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd1VCMjd2TTdlakpZbjhTR1VtdHZtVU85by1tTTdwSzl0bENoZWk1TFplWlVBdzZidVNqempvN01Nc3dxV0wzRE93OVpqclI3UzZCTkZFX3h0QUgwdVhkREdkQ3l6X1lCT1VYdE04bHh1ZHcwTDhJeW5oWFdUanBJeE9fR1NQOTMtdGRwR2VFMEJkOEhwR0dKeVI3dUZ3RWozaTZQbFNId2ZoYUhkVlRJR2JLR1ZJLW1yS2JHZWNWbUdPVmROaFZyb0FJTQ?oc=5",
-        "published": "2026-10-12T21:08:13+00:00",
-        "source": "Silver And Black Pride"
+        "title": "Seattle Seahawks Make Jaxon Smith-Njigba Injury Announcement Before Broncos Game - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnFjZUdQR1hVS3dmRVhvSjhfZndlWk01eVZOM2FpNVkwc1plUU1HM2JaUlZWdmlSd3lraUpaYjBBa1lYR2RYbEZ4TzJjV0xONDFBOW1SYWwwYXB0TGlEdXNkTDRPbHlzSDhUc3RCVEZkWkpjdjNkZzNRMEZKZzRNQTktZlJQRTI3RFRoemJpQ04?oc=5",
+        "published": "2026-10-14T01:11:00+00:00",
+        "source": "Heavy.com"
       },
       {
-        "title": "Game Day Inactives Revealed for Shorthanded New England Patriots, Las Vegas Raiders - roundtable.io",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlZtaEQycG50WC1wejFMMFpEYzlSZklGSTEzWWVfMjd2X1dZb1VCb05UanVsWkkxNllHOWdTR0xZZURWb19vSjBSZnZqdmJlN0pLWWxnQVplZkdZdmFnVlcxLWtWVjZzNmdOZzhMSDNBT3AtcmVpTDRNVmR0Yk0xVEZab0pyQTlrTjdRNUplYUMzc19SQ2c4bzNnTEZTVlJvVVJFR2xjcmQtWUlUM05UTEVSOUl3QzI5Q0NvcUZadDRKSjQ?oc=5",
-        "published": "2026-10-11T15:43:48+00:00",
-        "source": "roundtable.io"
+        "title": "Week 6 Injury Report: Seahawks at Broncos - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYa1NFTWpmYjBLc2xkZ0Q2WmtPSWhLOXVEbXdnSFNXLVFXZkt6UXppZWNrQ1VnWDMzT3I0bVNEUUlTS1hMUmdiWTVSUGMyUThfaG9QN0NVQ1FOWXZmc2RUVHZxZDNFLVk1cy1JRnBUYk9PRlFPRnlIZHB3?oc=5",
+        "published": "2026-10-14T00:01:30+00:00",
+        "source": "Seattle Seahawks"
       },
       {
-        "title": "Las Vegas Raiders Week 5 Inactives vs. New England Patriots - Raiders.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmNGMGw5QkJwMlk0ZldhcmRIQUxBZmlURDhBQUFBNURsVzNXR2tqN0lINXh4RDRkWDctR2dJeWh3SHpyUEwtTWozVHVRM1h2ZWx0eDdZQ0JtcDFFVWVBbUxxVGRBUEFfemV5bTVycG1NY0h2NG4xNS16RTZvUnlxZGNHUGxXZFNqbTNjRnJSUVhMX016ZkZYYVFn?oc=5",
-        "published": "2026-10-11T15:37:52+00:00",
-        "source": "Raiders.com"
+        "title": "2026 Week 5 Seahawks vs. 49ers In-Game Injury Updates: Drake Thomas Questionable With Ankle Injury - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSXdlY1BKTTRjVHoxaTJHREp3SFRFeG1qM3lWNkQ4Mm1DUk9BWURXRVlUeWIyZ1QyOHNsVmFkeklTdVhmeWg4TWstUUxpdmlGUVV4Qm42VFNCM1VkbW5hUERQQW04OURWN0NUTDNHeXlaaDlEXzdmV0dmZTZFZWFIeDd1TDF1WXFraFE?oc=5",
+        "published": "2026-10-11T22:21:52+00:00",
+        "source": "Seattle Seahawks"
       },
       {
-        "title": "Las Vegas Raiders vs. New England Patriots: TV channel, time, what to know - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXNLMmRhcTNVWXI4aDAtNGxPOVhBRndhT1VZRWxrb3hWZThUc0otNDZEUUV6cUxxQTdoRDdyVDcxeFpGeVdueG9ZMXJkRzh3cWJxdDMya0dxXy1OV3g4eDZ5cDZqMS12YzY4VDJnbGtFV2Y0dzNhdExNVXlJRFR4eXNndw?oc=5",
-        "published": "2026-10-11T14:29:07+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Will Drake Maye play against the Las Vegas Raiders today? Latest injury update on the New England Patriot - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPb3B4cDdQSV85NDZmVXM1RlVpM0U0TklnUUxlS016Mks2aFBrNkVEYnRvQ0J6U002WnZDT2ZNZGxYWVVybFRuSThmODZza2VodEVkY2IzZDNlSXNNU1R5NmJyS1l4SURHMWJYVW9PZGNpaXlYNU1EM0JsbjRhRDVmakg0WGdYNklCTXRJZlM0RGhQX001M1g0bWZfektJVGFHaEJGbUZpaVA0V2QtLXFoNDJRMl9MRnVvTjZWbzM5VWVvemRkdURlZDZJLTZnOEVFVVZrNUxlRGNyZ2pZUUl4dHJ6UTUtaUxJYnoyRU1abHJCMWtia3Q2b2ZIWmthRDFqRzZoalpBN1h2dnhtZUNQVWxMTVNiaElwVUYteko0YUtKd9IBpwJBVV95cUxPSWpNcVVlRm9iTWowOFdOQTZGdk0wQlotNWRPXzl6SXZjamt3NVJVUGRwaUhqTEhXbGgzMmQtNElYLTZZYTFjWTA3RFNRWmhWNk5YcVpsN3lNRURvcnJQbGIyVUN3NUZmblR3MWpRT0hOYy1vS1RQU1ZhTV9hNmN5MUc0ZU92X01fWVBpUHcwUWRQREJIWlEzTFFuMUdkRWd4T0pocGVsaG1LQU1UcC1zZE5NX09sSUNQQWFZbFdpT0c0OWJjUWJybGw2bVppeUpwVXc0UjVydTR4Mkl2QjU5cGU1Uzc2LS1aZUZ6WGJ0eDdPSGpPTC1EMGVYM2VOMGdSZVJlUDZJMlUtVXNVNTdpQ0xpYzM3elY3aTZIZWR0SVBkVDlaOGFR?oc=5",
-        "published": "2026-10-11T10:32:00+00:00",
-        "source": "The Times of India"
+        "title": "Seahawks vs. 49ers Week 5 Inactives - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zN015NV9DWDdDWDhuTmdjU1h4QVBiU3JEM3phb2lXeG9tN255SktkbXYyZ0c2TE96Q3VlSkNXU3JmLXF1Z2RCOWNZaTJQYTNhVTlJc0JZNG5hTTJRZ1ZXNFcyaldhNXFJS20td0lVR2lMQQ?oc=5",
+        "published": "2026-10-11T19:03:20+00:00",
+        "source": "Seattle Seahawks"
       }
     ],
-    "reason": "Klint Kubiak confirms Kirk Cousins is still Las Vegas Raiders’ starting quarterback despite Fernando Mendoza’s debut - Silver And Black Pride"
+    "reason": "2026 Week 5 Seahawks vs. 49ers In-Game Injury Updates: Drake Thomas Questionable With Ankle Injury - Seattle Seahawks"
   }
 ]
