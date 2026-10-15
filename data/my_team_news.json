@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 70.7,
+    "hours_to_lock": 68.4,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 63.7,
+    "hours_to_lock": 61.5,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -85,9 +85,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -101,17 +101,29 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 93,
+    "confidence": 95,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Denzel Boston remains a limited participant - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXFXS1Uwd1pFeFBGX05ER0JwUnNXSHFORGlBWW56ek1NSHg2dnp6S0hzZzdoRlA1bG5wQWlHYWdJUkI5MDBfWlhFSHNpOHVwLVBVdUt3X1ZBdlU5eFQ3OWRUNkdhdWZYU19aY3NmSnQwQ0RTcWdNS1JlTXlnOWttNWZJdnlPSkxwdExzOE9B?oc=5",
+        "published": "2026-10-15T22:38:07+00:00",
+        "source": "AOL.com"
+      },
+      {
+        "title": "Denzel Boston remains a limited participant - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORVAzTmdkaHV3eWRhTHNXRFN1ZDNVdFl1ZTJpajVkSVc4QmdPcWZUWnJfd1Z5OHZ1bElVTk9RNHhWc2NyVUdac20wUlMwU2psSlpnVjYzeWNzeXRtdmdEWkxMTHphNUdWeWlyek1WRGJKdHMyQW8ybVAyc2VoRVJ6SkNCbm42V1RhbVpWUTNMcWd5RlFWSFRZNmp0MkJwR3NlMkotbXpkaWFnVE5xTGpWUG5mU2pPRnJjd092V1pqbk4xV2ozb0g2Z28yMFZhVTRyV3RGLWNrWXgzdWNvcmwzcw?oc=5",
+        "published": "2026-10-15T22:38:00+00:00",
+        "source": "USA Today"
+      },
       {
         "title": "Denzel Boston limited at Cleveland Browns practice with injury - Huskies Wire",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMlowM1MyR3A2UE9yZS1wc0E0TmpSR0pRQU9NdXQ2SEVzRFZTWDFRWlJPRWg3NXVQdkZPb1hkMHUzNk9MNThWLXlxNWhtTkZscEtoT0plVmVMOURheU5QRG8xZmRVMlVqV1RvcEFvbFBfWWJDSzlrSWdmVG4zQWRqUDB2SFhCdEV2LWZRaWZsSXVtSmctM0RUeDdITGIyLWJnX3UxS0FKdWdFT3l3Tl9ZeXdzTUc5Q2t2OHdKX2JuMVlxLWJQQVJINkI5VFFMejRTX2tacFFoMGV6bnN6bTdQZDZwMGo?oc=5",
@@ -142,9 +154,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 2.5,
+    "hours_to_lock": 0.3,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -158,9 +170,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -211,9 +223,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.5,
+    "hours_to_lock": 96.3,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -227,9 +239,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +255,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 74.6,
+    "hours_to_lock": 72.4,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -255,10 +267,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Blogging The Boys",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEZVQkRqTkpSZThlOXA1SndMbXBrSFZQejlGZU45MXpncHRROHBZcTNqSk5abFBxdVhDYjVIMXowckEzZjBzSHdQT3lhVGRqWGtFVXM0Z3BUNzltQUZDSGJTMFRqX1VKQkZ1UGJRRzVLRzc1aHZTSUowMEg1VjJZU0JiQWJwRGtFcDhOMFdNRzQycTdMa0FGYjBkOVJJYzM1WHVqSGdfcm5XSDZENXJaQw?oc=5",
+        "title": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFZrWWp3NmtLNDdKUFBhQlhiZk50RW1NUDZDV3J0cVZZaGVGMldETmdSYW5kRlZpc2pkcGczSHEtbW9ScnZUd3RycVZjeXBzaFBBNXpQZFVpN3UyZEFmOGg2dFZrQk9PYlpfdXc4WVQ2VUthVlpSQkpkblQwWm1ZS0tTQTBxVDJwdFE?oc=5",
         "published": "2026-10-15T21:19:50+00:00",
-        "source": "Blogging The Boys"
+        "source": "Yahoo Sports"
       },
       {
         "title": "CeeDee Lamb injury update makes Week 6 Cowboys-Packers matchup more interesting - Yahoo Sports",
@@ -273,14 +285,14 @@
         "source": "Yahoo Sports"
       }
     ],
-    "reason": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Blogging The Boys"
+    "reason": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Yahoo Sports"
   },
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -294,9 +306,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -310,9 +322,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 67.2,
+    "hours_to_lock": 65.0,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -326,9 +338,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 235.2,
+    "hours_to_lock": 233.0,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -349,17 +361,29 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-15T21:45:33.523792+00:00",
+    "generated_at": "2026-10-15T23:58:20.312842+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 2.5,
+    "hours_to_lock": 0.3,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
+    "score": -6,
+    "model_modifier": -1.5,
     "confidence": 87,
-    "label": "No material negative news found",
+    "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Seahawks at Broncos Week 6 Inactives - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80MUU5VHBqUjdpVkZwWEdQbzY4N1psYnNVWmZrVmpUeVRxMjhCNFFSRGlOUVBISzNFajZUTVhOak4tWDR3amF2a29iREJJdi1PSTlyWnhWTWFPR3ZreXZ3aWZPei1rM05MMU1EOWhSdzRpM3JO?oc=5",
+        "published": "2026-10-15T22:50:29+00:00",
+        "source": "Seattle Seahawks"
+      },
+      {
+        "title": "Seahawks Elevate Two From Practice Squad For Week 6 Game at Denver - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTNzUTlabEFScHgxX3E3RGJSWW9ZaTN4N2NlVkRvVXFWMTUteVliZXZlQUw3RzVUTGpOWTdiYU0tVS1XcTE4Y21PTGJ5bHRfS1Y5cGNkNWxhZ0VFZXlERmFxRmxJenVCQUVReEFUWm5aSndMSkVVWHRUTU94cjVNYXVMZ192X0N3Wi1mUEFQcFhvVVdQd0ZreWZHN1Y?oc=5",
+        "published": "2026-10-15T20:21:01+00:00",
+        "source": "Seattle Seahawks"
+      },
       {
         "title": "Will Bo Nix play against the Seattle Seahawks tonight? Latest injury update on the Denver Broncos popular - The Times of India",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTmVWUDZOaDNoRDN3ZzZKaFE4VFJnTk9sQWRCNFRodWdoYjhpTU4yR2oxZ0tVb2VfT1pHaE8wdEZwSy1XSkJhMGtHNlpJMWNoV1RuQzhSZTFrMlp1b2VvdGlrcm9NclY3by1PNGhtZEhFVVYzbU1WSC1Cc2pnQzd4QjZqZlpYd2tWMWhDYmM4V0ZDbGY4em9kMkRwNmlINkhtWldIUHhTckJvNllRWTV6QmRaNVFIOVUyU2J5RFp6MzlEOFpKM0wzMXN0SUxQeUJzdE9waFBDeVlpbGVtUGJQRjU2cHhsZ0Mtc1IydDlMMF81V2tvUFhVeEMyOWc5V3lndGdTcXVHZ1o3WmlqMmpYXy12dDJjd9IBmwJBVV95cUxPZFRVVWdCdVE4dFA5b3EyZXVXb2t1UF9WVENGd3hFcGlvekJBWTFlY3hmaEt1V1p2Q0ZfNVR2MVNMU1hJQnhub28zdHNfRG1xQlYyb2toLTIyWnhILXJTbzRkQjlEX2ZYX0ZrN3dRaVVGcm1ycjR4Nl91eFVicWRDQzNYM2hpUVViSUZJblREQ3N3RzZvYjBTUEx1MVhGQmtCUGw3dzVqY3ByV0dJR2d5VHBDZ29yUXlSOWVZaW1uY3N5Mk9lQmNZc3lMUkdFN2k5dTVnUjJrRjhtY0s1RGpVeUp4OGtjRzMzYzJrOUtZTGZ0dFcxRFJYcFhnb3RVSlJuLXBYN0VwdjdZQUxDTHIxbnpJZDRhUDl3LWtB?oc=5",
@@ -379,24 +403,12 @@
         "source": "Fubo"
       },
       {
-        "title": "Week 6 Injury Report: Seahawks at Broncos - Seattle Seahawks",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYa1NFTWpmYjBLc2xkZ0Q2WmtPSWhLOXVEbXdnSFNXLVFXZkt6UXppZWNrQ1VnWDMzT3I0bVNEUUlTS1hMUmdiWTVSUGMyUThfaG9QN0NVQ1FOWXZmc2RUVHZxZDNFLVk1cy1JRnBUYk9PRlFPRnlIZHB3?oc=5",
-        "published": "2026-10-14T21:11:52+00:00",
+        "title": "Jaxon Smith-Njigba Good To Go, Drake Thomas Ruled Out For Seahawks' Week 6 Game at Denver - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUg2am9ESUV6dWxxdGxDNmRvdlRFanFycHp3emRCUWtpM1FtRXJHNlV5Qm9ZY1h3UDZzVXI3d1FnYU1udHF2dm1IeG12R1p2NXJjSTJzUUxabk1IdjRSb2RXcTM5VVhxb3Vjd2xLS3JSVWQ3QnBZR0QzN3Q2ejhBbk1ncG5aNXZDWW5LeW1NV3RERjk1aFJvQUplYlE3NmFZZGFZbW1BT2pBM2dVOVE2ZHdDZlBsYk1U?oc=5",
+        "published": "2026-10-14T22:48:48+00:00",
         "source": "Seattle Seahawks"
-      },
-      {
-        "title": "Seahawks Sign Velus Jones Jr. To 53-Man Roster, Move Irv Charles To Practice Squad - Seattle Seahawks",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWVXR3pHa3h0c2tSdmhZdEhDcWk1dkdpeE81WWVWUnI5clY2aDdvYXlyYmpER2FYOUtjLURwZDg0UHJXM0ZoRmQ5TXk4WjhPSGZQa3JoSENWS1NnNVRZb2ZaVEtLdVJmcEJHUVlONzN2VDBHTUFjVzJaZENJcVJJamtFNFgyWGs1bDJ1eldvNHZiZVppVFo2STZDdnlxRTBOSk9sMU53X251aHVzQ29V?oc=5",
-        "published": "2026-10-14T21:06:48+00:00",
-        "source": "Seattle Seahawks"
-      },
-      {
-        "title": "Seattle Seahawks Make Jaxon Smith-Njigba Injury Announcement Before Broncos Game - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnFjZUdQR1hVS3dmRVhvSjhfZndlWk01eVZOM2FpNVkwc1plUU1HM2JaUlZWdmlSd3lraUpaYjBBa1lYR2RYbEZ4TzJjV0xONDFBOW1SYWwwYXB0TGlEdXNkTDRPbHlzSDhUc3RCVEZkWkpjdjNkZzNRMEZKZzRNQTktZlJQRTI3RFRoemJpQ04?oc=5",
-        "published": "2026-10-14T01:11:00+00:00",
-        "source": "Heavy.com"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "Seahawks at Broncos Week 6 Inactives - Seattle Seahawks"
   }
 ]
