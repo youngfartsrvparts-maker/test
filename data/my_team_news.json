@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.0,
+    "hours_to_lock": 91.7,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -25,9 +25,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -41,9 +41,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 87.1,
+    "hours_to_lock": 84.8,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,9 +57,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -86,9 +86,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -102,17 +102,29 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 52,
-    "label": "No material negative news found",
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 66,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Limited practice for Denzel Boston - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1A3T195R2ZPTkxZYlpmT1pXWHRaVlFNRWVoUEZRS3BFYUpaWnc0UDdPdDc5cEc1WmF6UDJHWm5IYlZ4Z3JnZ3NfdWhrYjh3WjJNN0F4ZGxVWnN0UEQ2U3FuVFZ5X0VsU285LVFCaFNOaEVORl9ObzBYSmhoUWVqSHc2X3dqX3NCSnBvdWlDc09ma1VuRHluQmF6Qk9YZ2hmV2JJa2Y5MWNYUFJkRWlxSG1LNlpFbnpIcnRVMFNyZWVsblZjc2xnWWFFWU5FYWp0UDBpWGFNb2w4VDdr?oc=5",
+        "published": "2026-10-14T23:14:00+00:00",
+        "source": "USA Today"
+      },
+      {
+        "title": "Denzel Boston (foot) limited in practice Wednesday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjd1al9Gd05sM2pFTkpNeEw3aFlQOGhjUkZ0ZzA2cERwWHJBRDBLNmxPSm1fOGk0UWxpajZSbTBuZ3hqS2pPTks5bzZUMHNPUEV6MkI3bllLRndJTjdMRERmUU5McFBOZmJ5R1V4NndyZ29KUG1RTDFsMnpNX1ZGbUNBeVBKanN3dHVIdC10SGkzcHdSQzdDWtIBngFBVV95cUxOV211RTFXTDctWW5XZXR5TGxBcWd4Uk1xSFRiampINUFGUEVVaHN2NUpNUU1PandkeGdTS0dJTGkxS1Z4QVY0VmlBY012M2Z6ai1rTTJDdFZOeGpYQ3hqT04zS3VYM3IwWHRNbG4wclNobkVpUktqMDZ2ZlYtV1Bnd3Q1Snh1Vkx0RTRUVG5TU3RaWXlUQkZxWGpHanB3QQ?oc=5",
+        "published": "2026-10-14T21:44:33+00:00",
+        "source": "FantasyPros"
+      },
       {
         "title": "Denzel Boston (foot) limited in practice - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1huZVJlMU5OUWZIMTE4VFN2Vm4xbjNRR1I4aDRGX0JFUGdkRDU1MTFsOGRNblJRZV9YZ1JSMGtUUGxoYjh5TFUyN1NvMlp6UXB4eFpQU2k4dGZBTlc2WGNrUnJCTk1nUmowaTF2Z1BHenNNVmhBVnAtZzB6N2g3anRjTG5DdzdoeFRFT2FVbWNRV3RYRVFaNDZ3OGpYY0kzYlI2bHVlRQ?oc=5",
@@ -120,14 +132,14 @@
         "source": "NBC Sports"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "Limited practice for Denzel Boston - USA Today"
   },
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.8,
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.6,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -141,17 +153,29 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
-    "confidence": 80,
+    "confidence": 87,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Saints Seem to Flip Kendre Miller, Alvin Kamara in RB Depth Chart - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHZiSkE3cjBpbUxocTVpRG1odlczSWRod2QxY3AzNjFIYjV6cDNDcXBOLWNSNDhRX3M0ZWNYeTBhS3NMQ202Ri0tT1Vja3I0S3hCWEpMLWs3ZEpnNU45eGlvdm9vNTctUkpPLXk4VllhMjMyM2xMU3RETHhvajVaQmpmd2NFSlhzSkZndlBoYnJjNFpWeFFkS0ZNT0p5M3R0MVRYS1hzUnR6S09HclliZVJINA?oc=5",
+        "published": "2026-10-14T22:33:20+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Alvin Kamara (back) limited at practice Wednesday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjF3VmxoNTFVblBkbWh1NlJSTzJYLWluYnQ3eUV1WlZDNFdrY2lWYnd0X3E3Q3BMZ1hjbkFuVTVBWWFpdVFBa3ZRSi1CWHlveXZad0xnc1YtZWJvRlNwUXREdEhXTklUdGpBMHB0eVpibUV5MHpsUjhrcGN3TnRoc2ZtZ19Zci1qVkVLcTRWRlR2V2F0Y0tj0gGcAUFVX3lxTE13bFNScmtZYjZ2VVlLS05DUEgzbmJyeTdtZXplc09zckhBLWg4UjZWZVJMdHNVU25saTFYQ2VTWGdCOWZxWFJYVjZZeVIxLTZQNElURkd4ZDdwd0NfcG5ENFZKNTYydG9oVHRjUG1oT3N0SGoyN25VeDdyZEVKem10R091MVNSaEx3ZnQ0T0I5SWtiRFJpTGZBN2tuZw?oc=5",
+        "published": "2026-10-14T21:48:54+00:00",
+        "source": "FantasyPros"
+      },
       {
         "title": "Alvin Kamara Injury: Remains limited by back issue - RotoWire",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkd0VFBmOGI3YURVR1Bxa0NWUEMyaGoyWS1vWXpoM0lYdEt5RXJ3aFRrbHcxOUNIVExLQmxocDlnd2I5WDVNSjVtaC1HRGVPQURUTXRQZHg4WFhmT0RoWWtzblMtQjEzV0g3MkJSTWhyZHJBYlhJOUVyQUszZjJ0SVFxeDM1TERxQkVUUS1tMG1HR1Y5V3NtU1ZEZ2g2VzFlR1E?oc=5",
@@ -175,12 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTQ5S2pQdERxeHFaRnQ1RmNMNWlzUmtyVVJxMlB5WGw3bVE2OGhVVHBXUW11RzBCZnFyelB4MHBJaEVtVzRKLVRfTlhKRzhZckJoM1BPYnFBaFREbG95Z3o3RVJnNk83ekVlQUI3Y2dKSEdZSDNUR18xTG1MVDV5U3VPQWZXdw?oc=5",
         "published": "2026-10-11T15:19:09+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Is Alvin Kamara Playing Today? (Injury Update, Betting Impact for Vikings vs. Saints in NFL Week 5) - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3I2WUFyR0tPNFVBTVJKbG41MW1JMTN2aDU5R3NzSnlzUjJ6YVJTeUtPTGpUWWNEQ0xYYnBHU2pwZzJvNXNBNXRpTjRBV2o1MFhmUHNqTkdDU3pKNG8xendOZDdWS0thalJ1OHR1UmtVVk5KR1pZb2NXeHNrakd6XzJXM1V6aVNWdnNHRTd1WWk1VkJZUk53bkNFM1Y2aTByaTQzYWxObm1MMjl6dnc?oc=5",
-        "published": "2026-10-11T12:15:12+00:00",
-        "source": "Sports Illustrated"
       }
     ],
     "reason": "Saints | Alvin Kamara active against Vikings - Fantasy Guru"
@@ -188,9 +206,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 121.8,
+    "hours_to_lock": 119.6,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -211,9 +229,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -227,25 +245,32 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 97.9,
+    "hours_to_lock": 95.7,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 65,
+    "confidence": 72,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Fantasy Football biggest injury scares entering Week 6: CeeDee Lamb, Lamar Jackson, TreVeyon Henderson & more - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjd6SWYxMFk4YXJPOTBlcXpyYVc3a0phaTJTc2RqQXB0UFlhRVgyb0JyMmFsYW1NV2VER2JZMk9Odlp0UWRVX0lnaGY1blA3Z2tnS2VWaGNGTmFIbms4Q00tRzhqeUQtUVlkTUhZMmpuRWlibnQwYkJmZHFiWENzZ2xhc3Q5VDlLS3hpOTd5ZFo?oc=5",
+        "published": "2026-10-13T15:19:43+00:00",
+        "source": "Yahoo Sports"
+      }
+    ],
     "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -259,9 +284,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -275,9 +300,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 90.6,
+    "hours_to_lock": 88.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -291,9 +316,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 258.6,
+    "hours_to_lock": 256.3,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -314,9 +339,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-14T22:26:21.003376+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 25.8,
+    "generated_at": "2026-10-15T00:40:29.113272+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.6,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
