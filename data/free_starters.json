@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:40:32.003571+00:00",
+  "generated_at": "2026-10-15T05:10:49.776930+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": 16.16,
       "targets_pg": 2.41,
       "carries_pg": 14.24,
-      "adds_24h": 34710,
+      "adds_24h": 35170,
       "drops_24h": 0,
       "next_game": {
         "week": 6,
@@ -30,10 +30,10 @@
         "home": "IND",
         "away": "TEN",
         "spread": 7.0,
-        "total": 43.5,
+        "total": 44.5,
         "opponent": "IND",
         "home_game": false,
-        "implied_team_points": 25.2
+        "implied_team_points": 25.8
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 172116,
-      "drops_24h": 93420,
+      "adds_24h": 162816,
+      "drops_24h": 78306,
       "next_game": {
         "week": 6,
         "date": "2026-10-18",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 182072,
+      "drops_24h": 158232,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
