@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T18:38:32.115137+00:00",
+  "generated_at": "2026-10-15T21:45:32.268657+00:00",
   "season": "2025",
-  "missing_count": 729,
+  "missing_count": 732,
   "players": [
     {
       "player_id": "11533",
@@ -2512,6 +2512,15 @@
       "team": "DAL",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12036",
+      "name": "Ian Wheeler",
+      "pos": "RB",
+      "team": "PHI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -5503,6 +5512,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "8200",
+      "name": "Kevin Austin",
+      "pos": "WR",
+      "team": "NO",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "7528",
       "name": "Najee Harris",
       "pos": "RB",
@@ -5653,6 +5671,15 @@
       "team": "PIT",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11569",
+      "name": "Jarquez Hunter",
+      "pos": "RB",
+      "team": "NO",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6567,16 +6594,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1633
+      "gsis": 1648
     },
     "2024": {
       "gsis": 1629
     },
     "2025": {
-      "gsis": 1538
+      "gsis": 1548
     },
     "2026": {
-      "gsis": 440
+      "gsis": 443
     }
   }
 }

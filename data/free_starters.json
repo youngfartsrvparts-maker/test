@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:38:35.663609+00:00",
+  "generated_at": "2026-10-15T21:45:36.163814+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -9,7 +9,7 @@
       "pos": "RB",
       "team": "TEN",
       "depth": 1,
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -21,7 +21,7 @@
       "ceiling_2025": 16.16,
       "targets_pg": 2.41,
       "carries_pg": 14.24,
-      "adds_24h": 22140,
+      "adds_24h": 23125,
       "drops_24h": 0,
       "next_game": {
         "week": 6,
@@ -37,10 +37,10 @@
       }
     },
     {
-      "player_id": "10213",
-      "name": "Tre Tucker",
+      "player_id": "8121",
+      "name": "Romeo Doubs",
       "pos": "WR",
-      "team": "LV",
+      "team": "NE",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -49,24 +49,24 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 7.01,
+      "ppg_2025": 10.19,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 100254,
-      "drops_24h": 41940,
+      "adds_24h": 28592,
+      "drops_24h": 97768,
       "next_game": {
         "week": 6,
         "date": "2026-10-18",
-        "time": "16:25",
-        "home": "LV",
-        "away": "BUF",
-        "spread": -5.5,
-        "total": 53.5,
-        "opponent": "BUF",
+        "time": "13:00",
+        "home": "NE",
+        "away": "NYJ",
+        "spread": 7.5,
+        "total": 43.5,
+        "opponent": "NYJ",
         "home_game": true,
-        "implied_team_points": 29.5
+        "implied_team_points": 18.0
       }
     },
     {
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 87224,
+      "drops_24h": 88480,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
