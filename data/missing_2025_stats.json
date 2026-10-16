@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:04:05.852685+00:00",
+  "generated_at": "2026-10-16T22:48:20.858079+00:00",
   "season": "2025",
   "missing_count": 732,
   "players": [
@@ -295,7 +295,7 @@
       "player_id": "11557",
       "name": "Joe Milton",
       "pos": "QB",
-      "team": "DAL",
+      "team": "PHI",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -6597,10 +6597,10 @@
       "gsis": 1648
     },
     "2024": {
-      "gsis": 1629
+      "gsis": 1626
     },
     "2025": {
-      "gsis": 1548
+      "gsis": 1538
     },
     "2026": {
       "gsis": 450

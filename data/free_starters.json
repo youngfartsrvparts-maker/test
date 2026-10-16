@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T20:04:10.248367+00:00",
+  "generated_at": "2026-10-16T22:48:24.213463+00:00",
   "league_id": "1388315713940262912",
-  "count": 3,
+  "count": 4,
   "players": [
     {
       "player_id": "5967",
@@ -21,7 +21,7 @@
       "ceiling_2025": 16.16,
       "targets_pg": 2.41,
       "carries_pg": 14.24,
-      "adds_24h": 22890,
+      "adds_24h": 21050,
       "drops_24h": 0,
       "next_game": {
         "week": 6,
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 31960,
-      "drops_24h": 82112,
+      "adds_24h": 29256,
+      "drops_24h": 82576,
       "next_game": {
         "week": 6,
         "date": "2026-10-18",
@@ -67,6 +67,39 @@
         "opponent": "NYJ",
         "home_game": true,
         "implied_team_points": 18.0
+      }
+    },
+    {
+      "player_id": "9486",
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "team": "PHI",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 6.92,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 18669,
+      "drops_24h": 43836,
+      "next_game": {
+        "week": 6,
+        "date": "2026-10-18",
+        "time": "13:00",
+        "home": "PHI",
+        "away": "CAR",
+        "spread": -3.5,
+        "total": 39.5,
+        "opponent": "CAR",
+        "home_game": true,
+        "implied_team_points": 21.5
       }
     },
     {
@@ -88,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 90248,
+      "drops_24h": 90512,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",

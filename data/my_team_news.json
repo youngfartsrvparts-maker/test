@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.3,
+    "hours_to_lock": 45.6,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 41.4,
+    "hours_to_lock": 38.7,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
@@ -61,6 +61,18 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Quinshon Judkins questionable for Week 6 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3lpakRmX0JZaWl4YkJTQ3o1NGdMT1lsRWVEanhJQzVoLVJMSWNLVzhoNzZNVHdlR1pjWHhoWnI4ZDNJUFotei1BbWVTYk94RWhCRm95YWo1TFl2bWU0VWxEaEtfMy1VTEx3VXV2QlhUeUFBQjBaSjhOX2hpbEhNbFdJTFRMMl9EWDMzcmRB?oc=5",
+        "published": "2026-10-16T21:28:29+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Quinshon Judkins questionable for Week 6 vs. Ravens - Cleveland Browns",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHFUY3FxQzNlTGo1cDUzLXZmeHVnVjExZnh6M0FHQ1NQeElZR2N1V21iNjFiYmtuX2llVkNXWnhqVjZLc2F5V2tmUXkyd1VINWNsQU5FbUJITnIzeXprRDFGS0VRSzR1eGFNU1JaOEoxVVllMml6bFpiMUlZZldqODVVZUxuM29rLVZWcmdic3YyZFJHcURZR3Bva3UteDZreHRF?oc=5",
+        "published": "2026-10-16T20:15:21+00:00",
+        "source": "Cleveland Browns"
+      },
       {
         "title": "Fantasy Football Injury Impact: How To Manage Quinshon Judkins, Dylan Sampson, And Jaleel McLaughlin In Week 6 - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMDFjdGpfNXJvVldNenkxc3JIYVV4WW1wY2hVaU1OUFRIdHlVUXROVjdPNURVbVlTUGJaUGNscWwtUU9UZ2xKZzZGNjMtbTVVYkxtQ1FLTVYxUkllS2hsc2Z2TXJOZDBNX3BtMlJpbnBSaWRaVDU4bDMzTzgxNEZQZzBiY2RDeEFpcVNocExPWm9QcGwwck5tMG5uZ3RKbXV2UC1fWldGUFRxR1FqVHBTVnF0bGlBMVlGX2RQQWFzcGQyd1oxR1drY0luRFZHQkFIMm1mMk5LTkVDbmMzcXM4R3hn?oc=5",
@@ -74,67 +86,48 @@
         "source": "BrownsZone with Scott Petrak -"
       },
       {
+        "title": "Quinshon Judkins (ankle) questionable for Week 6 - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUNKTlo4dGk1Q1pNaU94SGxZMmR5bzIwNGIzQ0IyU0QzNXUxZ3ZmSW5tMXNDXzJsWEtnVVZoa00weG9iNTgxWW9xR1hvc3hNa0l1U0pIZGhqcUlWSnZLRnYtRHVUVWJtWTRLQ3B1SnhRTXdzemNtSkxFN2djeDdWcWhHMnVjNEI0Q2NudGdlNjd0ZkRqVjFudlF1Qm5KMndrZkdMNUVzNUZOMWVEaEhZS2NR?oc=5",
+        "published": "2026-10-16T18:18:58+00:00",
+        "source": "NBC Sports"
+      },
+      {
         "title": "Browns' Quinshon Judkins: Listed as questionable for Week 6 - CBS Sports",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlV4MDBDbVZGYWFtajdwNWtHaVZEVGU5bDFWcW5hWlcycTZwcnI1WjNjcnJSSXJqQXdIS1pRVTJON3NGNGhDX0tLY21pME9jOVdKcUR5cXJLNzhySjdjUXVLZGgyTl81VDN1TEE3S2RkbVVLbk1PclctQzNMajdmMy1qbGVBZXF3UDVNa2hqcVRJTWYwbWhTUmNjUlJ0em1rbG9oWjZoem1UQQ?oc=5",
         "published": "2026-10-16T18:13:14+00:00",
         "source": "CBS Sports"
-      },
-      {
-        "title": "Quinshon Judkins Injury: Listed as questionable for Week 6 - RotoWire",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZTd6dDZVODN4YnpZbUtGcUs3c3dFTUhhdDNIeHpUTDdqeVBNWGNVUHRFMHl0NjJKVGVmdTdmaUlDMGxyMlhhdWh0YUxoUFZTdUtJNkVMUWRNeUJrMllxR1QzSE4xN0tsR1cyM0dmOEFkSk9BMjFDdjA3N0RXQURLWVBCWkZZVVFJeTBlTGdabFVPb0VVM1k5anY0aTI4SmdnVGxpQ1c4MDVvaEVf?oc=5",
-        "published": "2026-10-16T18:13:14+00:00",
-        "source": "RotoWire"
-      },
-      {
-        "title": "Quinshon Judkins (ankle) questionable for Week 6 - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdUNKTlo4dGk1Q1pNaU94SGxZMmR5bzIwNGIzQ0IyU0QzNXUxZ3ZmSW5tMXNDXzJsWEtnVVZoa00weG9iNTgxWW9xR1hvc3hNa0l1U0pIZGhqcUlWSnZLRnYtRHVUVWJtWTRLQ3B1SnhRTXdzemNtSkxFN2djeDdWcWhHMnVjNEI0Q2NudGdlNjd0ZkRqVjFudlF1Qm5KMndrZkdMNUVzNUZOMWVEaEhZS2NR?oc=5",
-        "published": "2026-10-16T17:31:07+00:00",
-        "source": "NBC Sports"
-      },
-      {
-        "title": "Browns list Mason Graham, Quinshon Judkins, Carson Schwesinger as questionable - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb0hmZVB3dTNoSVF5Q1g4ZzlZMWxvZGp6c2UyVkh2LU9LQWdaSGhUMWo4d2ZrM1FEeURQcEM5UFoyMXRUa0RGVkRHX0ljbEpCSThYZFU0UU1iNEFQc2ZFdnM0cVJnMElaSExjOW5BcUtJdG9pWTM3bEpYbm9hLXJCY2h4dFMyYzdFVjhHWFJBOHp5OGJHVEV5Mkw4OWRqU3FadU9ValQwSjBES3pqT2VJSHlfMC04cEtjbWJ5bG9UNVRwNGl1TnYtY0VEb0hnZUE5d3VBeA?oc=5",
-        "published": "2026-10-16T17:29:41+00:00",
-        "source": "NBC Sports"
       }
     ],
-    "reason": "Lamar Jackson ruled out for Sunday vs. Browns; Mason Graham, Carson Schwesinger, Quinshon Judkins return to practice - BrownsZone with Scott Petrak -"
+    "reason": "Quinshon Judkins questionable for Week 6 - Yahoo Sports"
   },
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Tyler Shough Week 6 Outlook - Saints at Giants - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlJUZi1rbmVkN0owdDVhbkdvNm5oZE9DcHIwNmtKa3JYVmRrd0xzVGJQMW53SUU1UmxHS0RxUlRfUUc5eF9PWnRrTGFEN2pCalNOZUlhWXRnMnpMZFYtY3VSUzh5czFOTkZqTWZaVExXakF4S3NrcmhPeXpVcW5PRDZubUhrNGYy0gGOAUFVX3lxTE5sSnByRDctSTkxUFcxdU44OG5idGd2ZzVJcUJoUVVWUE9MdlVZSF9kSkVDLWppaVA3cy11QkpXOE52cEl6bW1waXFhcnNVNFZKYTBoYmxTamo5RXlWTUhWN0hCWWhlZEo0S19ZeTUzY0w0ZW5qUVRuRjZXY3AxbEtyTU5BWmxobHgySktmMlE?oc=5",
-        "published": "2026-10-15T17:35:00+00:00",
-        "source": "FantasyPros"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 95,
+    "confidence": 87,
     "label": "Some availability risk",
-    "injury": "Questionable",
+    "injury": null,
     "practice": null,
     "headlines": [
       {
@@ -179,9 +172,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.8,
+    "hours_to_lock": -22.6,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -195,9 +188,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -4,
     "model_modifier": -1.0,
@@ -209,8 +202,14 @@
       {
         "title": "Final Saints vs. Giants Injury Report: Alvin Kamara, Chris Olave Questionable - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnVveE9HZU9YWHBKNkI4bUM2RHNjRVNBcU5GX3BVbVdNUDA0R2s0UGFkUEc1Mm8xZl96NTNuek8tSVRfQmJETTVwc1UxM25FVEd5ckprOHMzeVZFcUlMVGNtM1ZsR1kxR0xscmY4ZlBJX0x5X0dGOUlTZHVqY21rX2w2b3o?oc=5",
-        "published": "2026-10-16T19:33:19+00:00",
+        "published": "2026-10-16T19:34:23+00:00",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "Alvin Kamara (back) on questionable line for Wk 6 - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVJMZ25feU5COF93VE5saEJjV2ptNS1CeUJ1dlU5eDFaRW1BbGdLT2kxdy0zTkhSTEN0Y2dTeGQ2dGdfNlJFaFZKNVhFcE0xMmpRNDA5SmNBNU5RTHJQRkNoTmloN2d3RHRaQXdMWGNmU0VlWVVkRjRVTWloWlhnaFRFckZxNDB6dy1pcVJqOEZPd085aU5lZkdhNURPcEtSTWFzUldVaE5PcWdzeDhVeFkyRQ?oc=5",
+        "published": "2026-10-16T19:10:12+00:00",
+        "source": "NBC Sports"
       },
       {
         "title": "New Orleans Saints Make Alvin Kamara Announcement Before Giants Game - Heavy.com",
@@ -231,12 +230,6 @@
         "source": "RotoWire"
       },
       {
-        "title": "Alvin Kamara (back) on questionable line for Wk 6 - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVJMZ25feU5COF93VE5saEJjV2ptNS1CeUJ1dlU5eDFaRW1BbGdLT2kxdy0zTkhSTEN0Y2dTeGQ2dGdfNlJFaFZKNVhFcE0xMmpRNDA5SmNBNU5RTHJQRkNoTmloN2d3RHRaQXdMWGNmU0VlWVVkRjRVTWloWlhnaFRFckZxNDB6dy1pcVJqOEZPd085aU5lZkdhNURPcEtSTWFzUldVaE5PcWdzeDhVeFkyRQ?oc=5",
-        "published": "2026-10-16T18:09:23+00:00",
-        "source": "NBC Sports"
-      },
-      {
         "title": "Alvin Kamara (back) listed as limited Thursday - FantasyPros",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRldTRlVhbkgxNUtUWUxUNVgxTWVVd25hUFhTekVXeVBXXzRwalVUX0VTbzVEczFhY2xQRHc2ejZmVjB5ZzEzMm5uU194cGlqRDUwZHptdWZUYTI0amtaUzhnU3NCWG5rVXdRaHlxa1NfNy1vNWpZczFWd3dpa3pqQVRXNThfaXQ5TEdiQlprakE5MjjSAZgBQVVfeXFMTmFEY1dVSE5ZY1FJNU52SlZtR3dOUHJBS1ZQM0FrQ1BpcmxpMmt1REE3Rk0wblpFTHh5bVpiS2pfM0ZlMzJmYW9LVU5raVJudjBpcVc4MV9PdDBTVGRXRUp5SWd6djJMM3hGWGJ1dkpUZEhlaWN3QWR6bXphWmVVTmxzR0Z2Q2M3UDBUVnYyQWU3Mm9ZcFlHLVU?oc=5",
         "published": "2026-10-16T03:43:00+00:00",
@@ -248,9 +241,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 76.2,
+    "hours_to_lock": 73.4,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -264,22 +257,40 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
-    "score": -4,
-    "model_modifier": -1.0,
-    "confidence": 80,
+    "score": -5,
+    "model_modifier": -1.25,
+    "confidence": 95,
     "label": "Negative availability signal",
-    "injury": null,
+    "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday - Pittsburgh Post-Gazette",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVRkVGZYOFdBbTVFTXh6TExSSjZNcDlPMFBHQVRRV3VGSUY4R1BXSFVMMzlIWmE0cUVOWkl1OTV5eFhKbFZ1aUxFWlJacGozRnVKSW1SS2NVVHd1ZnppWjRrM09fRjBXWC1BUVNiZGg5WUdDNEk3cFlUSWppTGN0QWZPZU85TVpMaHVsdDVtaFcxX1hLZE9YVXB6ZUpVSGJyUzc2MFVLYw?oc=5",
+        "published": "2026-10-16T21:30:22+00:00",
+        "source": "Pittsburgh Post-Gazette"
+      },
+      {
+        "title": "DK Metcalf (illness) now questionable to play Sunday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW5UWnNQYWsxMlA0Q255NkFkS0xMUlEzODJ1X3VEY2lPU2lvWVRtbkM2bUxjMnV5T1o0M20xWnU1aTBLWEJ2ek1VZjNWcFcyZ2YzSnJEU3BBNEhicDBYeGV1UVZaT2tIeDZnZ3J2aHZRSVcwWGNUOEg1azhOWlQ2cXc5c3JhdDBjWG9BRmFBU1R1WjJ6QmJlazFXVU53NHfSAaQBQVVfeXFMTlBKa3FuNUtad1N2SlVtUG83dm5zRE5mc3Q5OGdzZzVzdkw1cEdONVRhbko4VG5VZFpFLWZKQ0pSMTQxU01CNkJ3Q0JmTnd4QUFsZGpKNHVVMUl4TjktR1huSkg3SktId1ViazBsZVloZW9ONzVOM1kzQW5vYjBxY2tPM01YTzVJc2hRa1VwTzhoRk1Fbmtkb2xsX25yRFI2UmdBdDQ?oc=5",
+        "published": "2026-10-16T19:51:46+00:00",
+        "source": "FantasyPros"
+      },
       {
         "title": "DK Metcalf Injury: Questionable due to illness - RotoWire",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0FnNmJFVktBU1RTaFczaE9mTDZHSG1aWDVydmxqeEdMcFlNRlllRWlXd1NVYWtodW81eDZURTRVN0dUQW4xZ3hGdjVrci0wMjJEMFdRbGRiMEZJakVQZnVnQVRKeTZWYVdGVG1Yejk3TW5oSTgwbndfQUF2RnJabGFscFJsVy1vZThYeXlGek5kVkh2MW1XRjNEVE0?oc=5",
         "published": "2026-10-16T19:42:14+00:00",
         "source": "RotoWire"
+      },
+      {
+        "title": "Steelers Get Concerning News on DK Metcalf - Steelers Now",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42WWl0OGt1THJBZ0gzMW1QNGhudFlIcl9idnhpQ204NjFQeGVYQ3QwMUJ5UnE0LThlMXVLdERjSUZpaFVEcUd4SmdPSjFxUGtpbk9WZXhUVXdtcWs0bnpaTU5TUmI1eFg0Vk1PQUhYZDZnLVBHbGc?oc=5",
+        "published": "2026-10-16T19:42:13+00:00",
+        "source": "Steelers Now"
       },
       {
         "title": "DK Metcalf is questionable, and the Steelers passing game can’t afford the loss - Still Curtain",
@@ -292,32 +303,20 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV21peEtqemtLWjVGbVFfaXVHYnBnbExfbnlDSzhUenY2cTRIZVMzUFlJM0hQVi10Q2V4OUlRYTRUQTIyS2RSME5xbW5uM21LRFRRQkdSNU5ndXBDeEE4RlAtXzhqeXB1ZHhQdm5BWmZSSnNMX1ZDRnZVUUdmMzBvbHZ0VktTVkJhV1ZPUEx4RHhOTXJoNU5lN2VjVXVsVUNFa1F1X3AzN0REcHZ3VXZvcEx4Y19yX2ZfaVNDNUE1azBpTm83Q3FWVmp4LUxZNVhnNzNYOQ?oc=5",
         "published": "2026-10-16T19:35:12+00:00",
         "source": "NBC Sports"
-      },
-      {
-        "title": "DK Metcalf (illness) questionable, sits out Friday - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWxnZFlocXRJVWlaVWhzYlhmcDhBVWI0UTB4V2NMNXBzR0V6cUdqM3hfNjU4SFg1NHhwNFUyM25udU1iZC0wc3VxOUt3Zjl0UUFpRC11TEJiTnZaeVJkSDhWMnd6dmsxX3hIUldPdFJtUE5iYW0yVER4cG9IYVFHdlZiaEpXX2p1MmhITGJfQW5JbGswR3M0dUxVRE1qMzJVTjA4VlpoZXk2aV9rTHpUM0hfQQ?oc=5",
-        "published": "2026-10-16T19:17:20+00:00",
-        "source": "NBC Sports"
-      },
-      {
-        "title": "Steelers WR Depth Gets Even Worse With DK Metcalf News - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmxGTUNJYVE1Mmt3MlpUMnBZX0pWUmNUR3RkYzdnYjRIVnVfZEZ3WTh1NzMyNWMwbTNOTkpFU25qb3czYjlpejIxdzZKZGFGUGpCbGFXNkJoX1FyN09VbDZCNW8yOFA1elBWcjNGa1p5UzVsMUNicnVBdG9Na0gzbkJ1cmhUdUdiX05yLVQ0Yk1jU2tVRVhZcjZ3NHNWajg?oc=5",
-        "published": "2026-10-16T19:11:23+00:00",
-        "source": "Sports Illustrated"
       }
     ],
-    "reason": "DK Metcalf Injury: Questionable due to illness - RotoWire"
+    "reason": "The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday - Pittsburgh Post-Gazette"
   },
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 52.3,
+    "hours_to_lock": 49.5,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
-    "score": 1,
-    "model_modifier": 0.25,
-    "confidence": 66,
+    "score": 2,
+    "model_modifier": 0.5,
+    "confidence": 73,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
@@ -335,6 +334,12 @@
         "source": "Yahoo Sports"
       },
       {
+        "title": "CB Joey Porter Jr. limited Wednesday; WR CeeDee Lamb, LT Tyler Guyton full participants - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aOHpxeXpLWWwzdFRPaDQ2amhSWGJWLXA0NzJYTGRfakdVVVBxZmNCNmx3RjVYQTRPZHdsUVpfLUlUV2kzRmVFSHJBVGNQbUdkZXUtX2d4Y1Qtc2ZwU2ZIQWowMlI4YjdyeG1kbHU2aXpwWkxab3FoYk9DQndncms?oc=5",
+        "published": "2026-10-14T21:21:27+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
         "title": "Fantasy Football biggest injury scares entering Week 6: CeeDee Lamb, Lamar Jackson, TreVeyon Henderson & more - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjd6SWYxMFk4YXJPOTBlcXpyYVc3a0phaTJTc2RqQXB0UFlhRVgyb0JyMmFsYW1NV2VER2JZMk9Odlp0UWRVX0lnaGY1blA3Z2tnS2VWaGNGTmFIbms4Q00tRzhqeUQtUVlkTUhZMmpuRWlibnQwYkJmZHFiWENzZ2xhc3Q5VDlLS3hpOTd5ZFo?oc=5",
         "published": "2026-10-13T15:19:43+00:00",
@@ -346,9 +351,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -362,25 +367,32 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Falcons’ Drake London Injury Update Suddenly Raises Week 6 Concern - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnZwSFZvZFA4MzI4OUhWZkx4YVJ0LXp6cTJNNHJ6NjVYc3Q1ekVFblZfZ1JYY0VLYXBaYV9RekZSck9kMVQzaXUwT3FTdExLVngxb0ZOaXN1VU9aU2l6VXhSLWMwOTRnNUxIQlR6SF90Q25yUkhWd0h2LTQxNWw3QWNScGJLUm1GZDlhMFVIaC1IQUtlRmU1REhLZFhRSkJVeWtmYjdydi12N202d19Daw?oc=5",
+        "published": "2026-10-16T18:09:59+00:00",
+        "source": "Heavy.com"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 44.9,
+    "hours_to_lock": 42.2,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -394,9 +406,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 212.9,
+    "hours_to_lock": 210.2,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -417,9 +429,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-16T20:04:07.058414+00:00",
+    "generated_at": "2026-10-16T22:48:21.966297+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.8,
+    "hours_to_lock": -22.6,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
