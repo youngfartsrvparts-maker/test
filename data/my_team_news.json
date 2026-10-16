@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 68.4,
+    "hours_to_lock": 65.1,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.5,
+    "hours_to_lock": 58.2,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,27 +50,21 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 86,
+    "confidence": 79,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
-        "title": "Fantasy Football Injury Impact: Is Dylan Sampson THE Week 6 Waiver Wire Gem with Latest Quinshon Judkins Update? - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT1NTY2hERUFRWUZMU0FWbVZuMzlNX3BHc2dBV0lqR1E4bU1Nb1VNemJSWUkwOUI0OXFsUFlpUEpvS0Y5RjF2ZWVwTllpUlc2RFRqd0dtV1RwNl84RGdma1RpYW16NTdfWUNjbzB6UU5NN21CUTB2cEEzNjUxaWdmaExmYWdwTTR6T3lmaUNEcGthYVZKM2N2Y1FZdDhCaU5NOGRHWUZ3UjBzbHNtbXMyWEFxbURybnhkUWkwZXJkVHY3VTRyR2U3LUpLYUVybXVnY3VmOVFfY3RaNUdqaGln?oc=5",
-        "published": "2026-10-15T20:03:32+00:00",
-        "source": "Sports Illustrated"
-      },
-      {
         "title": "Quinshon Judkins, Denzel Boston both dealing with injuries ahead of Browns-Ravens game - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHZ2WmxwZlZwX29JeGZhWGxUSEExeXFaUXF5RjRBeklwckN1VFpPLWN3Ml9lZll1ajBVQjZBd1p6S3l4S0pHQ1lVU2JpOUdHVzlneC1JT25tTmNPUWItU2dqazNWT29UNmNlNmdOYlkxWFZxZ0pMcVVqU2YyaGY0MDFMWndzQ0owWXJRWQ?oc=5",
-        "published": "2026-10-15T01:13:07+00:00",
+        "published": "2026-10-15T01:13:00+00:00",
         "source": "Yahoo Sports"
       },
       {
@@ -85,9 +79,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -101,9 +95,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -113,16 +107,22 @@
     "practice": null,
     "headlines": [
       {
+        "title": "Denzel Boston (foot) limited in practice - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1huZVJlMU5OUWZIMTE4VFN2Vm4xbjNRR1I4aDRGX0JFUGdkRDU1MTFsOGRNblJRZV9YZ1JSMGtUUGxoYjh5TFUyN1NvMlp6UXB4eFpQU2k4dGZBTlc2WGNrUnJCTk1nUmowaTF2Z1BHenNNVmhBVnAtZzB6N2g3anRjTG5DdzdoeFRFT2FVbWNRV3RYRVFaNDZ3OGpYY0kzYlI2bHVlRQ?oc=5",
+        "published": "2026-10-15T23:53:13+00:00",
+        "source": "NBC Sports"
+      },
+      {
+        "title": "Denzel Boston remains a limited participant - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSl94SV9meWFNb1hUbmtyM2Vfdl9RQXJINk91NlpseTIwdk40ZHZKMHByb1JjZTdfV1E0ekM5YndXZkhHQXRNOW9aRFFqWXJWUlAtdFZZY1dvcEZzcHdJRmVLZUNqbC1GQllnRWFoUVVTRHB1V0NybkxoNUdYc3dEZVJXR0dXUl9NWjVtOFdhbndnQ3h4?oc=5",
+        "published": "2026-10-15T22:38:07+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
         "title": "Denzel Boston remains a limited participant - AOL.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXFXS1Uwd1pFeFBGX05ER0JwUnNXSHFORGlBWW56ek1NSHg2dnp6S0hzZzdoRlA1bG5wQWlHYWdJUkI5MDBfWlhFSHNpOHVwLVBVdUt3X1ZBdlU5eFQ3OWRUNkdhdWZYU19aY3NmSnQwQ0RTcWdNS1JlTXlnOWttNWZJdnlPSkxwdExzOE9B?oc=5",
         "published": "2026-10-15T22:38:07+00:00",
         "source": "AOL.com"
-      },
-      {
-        "title": "Denzel Boston remains a limited participant - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORVAzTmdkaHV3eWRhTHNXRFN1ZDNVdFl1ZTJpajVkSVc4QmdPcWZUWnJfd1Z5OHZ1bElVTk9RNHhWc2NyVUdac20wUlMwU2psSlpnVjYzeWNzeXRtdmdEWkxMTHphNUdWeWlyek1WRGJKdHMyQW8ybVAyc2VoRVJ6SkNCbm42V1RhbVpWUTNMcWd5RlFWSFRZNmp0MkJwR3NlMkotbXpkaWFnVE5xTGpWUG5mU2pPRnJjd092V1pqbk4xV2ozb0g2Z28yMFZhVTRyV3RGLWNrWXgzdWNvcmwzcw?oc=5",
-        "published": "2026-10-15T22:38:00+00:00",
-        "source": "USA Today"
       },
       {
         "title": "Denzel Boston limited at Cleveland Browns practice with injury - Huskies Wire",
@@ -133,7 +133,7 @@
       {
         "title": "Quinshon Judkins, Denzel Boston both dealing with injuries ahead of Browns-Ravens game - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHZ2WmxwZlZwX29JeGZhWGxUSEExeXFaUXF5RjRBeklwckN1VFpPLWN3Ml9lZll1ajBVQjZBd1p6S3l4S0pHQ1lVU2JpOUdHVzlneC1JT25tTmNPUWItU2dqazNWT29UNmNlNmdOYlkxWFZxZ0pMcVVqU2YyaGY0MDFMWndzQ0owWXJRWQ?oc=5",
-        "published": "2026-10-15T01:13:07+00:00",
+        "published": "2026-10-15T01:13:00+00:00",
         "source": "Yahoo Sports"
       },
       {
@@ -141,12 +141,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFd6RGVzT3lpTDJ5dHNMSjRud0VfMDhJT0p0U1J1VDJIR0xwc3hTRVA3UkFqUWVVS1VJTldzWV9KaGpIZXpjYU44WGhaemRTNUdza1gyVDRydnlvMEhKRmdDNVJ6LWw4c210UENiUW5RN0x4bmRMQVE1N05Wa1NYenVqclBpZw?oc=5",
         "published": "2026-10-14T23:14:15+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Denzel Boston (foot) limited in practice Wednesday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVjd1al9Gd05sM2pFTkpNeEw3aFlQOGhjUkZ0ZzA2cERwWHJBRDBLNmxPSm1fOGk0UWxpajZSbTBuZ3hqS2pPTks5bzZUMHNPUEV6MkI3bllLRndJTjdMRERmUU5McFBOZmJ5R1V4NndyZ29KUG1RTDFsMnpNX1ZGbUNBeVBKanN3dHVIdC10SGkzcHdSQzdDWtIBngFBVV95cUxOV211RTFXTDctWW5XZXR5TGxBcWd4Uk1xSFRiampINUFGUEVVaHN2NUpNUU1PandkeGdTS0dJTGkxS1Z4QVY0VmlBY012M2Z6ai1rTTJDdFZOeGpYQ3hqT04zS3VYM3IwWHRNbG4wclNobkVpUktqMDZ2ZlYtV1Bnd3Q1Snh1Vkx0RTRUVG5TU3RaWXlUQkZxWGpHanB3QQ?oc=5",
-        "published": "2026-10-14T21:44:33+00:00",
-        "source": "FantasyPros"
       }
     ],
     "reason": "Limited practice for Denzel Boston - Yahoo Sports"
@@ -154,9 +148,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -3.0,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -170,9 +164,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -181,6 +175,18 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Alvin Kamara remains limited - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkpMVjVfSHhUS0l4bE1tajdMTFNGYW1GT0xGMzlNVjBjd0hQbE1xRlNybDVhdHI0ZHNDZFJVZmVpalVZcmVCWFVYdE5tbXduVVJpMUFhN0hEZlljbDlGVnZUS19ab3lDcDZaRlNjNlcxZ09sWVRWblllT0FMQkVDb1puWQ?oc=5",
+        "published": "2026-10-16T02:34:00+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Alvin Kamara (back) remains limited on Thursday - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmhiWTBNVGtyY1BFNWV0YUlPNXdhamk5amx1RXdRSkFUcjNSN3ZWajh1VTJkQ3B6MmxBRnRtZlhCM1lnRjRmRENSclhvMXhpS3Z2eFFHTkpEQTJWSlJUR3ZuWEdZanFJQ21oOTlGRDN5Q2pjVTJoZTBNZnFNMkVCM1NubzQ3RFFCdjJSLS1QeVlfNjBVT09scmhFQUxyNU5xY2V0RUp4NlNNOW9PR3FsNw?oc=5",
+        "published": "2026-10-15T21:50:13+00:00",
+        "source": "NBC Sports"
+      },
       {
         "title": "Alvin Kamara Injury: Another limited session - RotoWire",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVVmU2w3MEJXZ01TMDhkazg2cnlTY194eko5bDhKa2lSQ2RQN3BSOFRkQkF1M0ZqdDJVY2RwWVpheWxkRFJrTE1GcmFQU3MyNFBZaExkdmd5ZmpGNFNlLXJVakJObXBJV2xNdkwyRWtQVEY3MW9ENEhjVGlYNzlWb2IyVXdsX1A2Uk1JOHgtUmkwc0ZlbDZ0TEZB?oc=5",
@@ -194,12 +200,6 @@
         "source": "Heavy.com"
       },
       {
-        "title": "Alvin Kamara (back) remains limited on Thursday - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmhiWTBNVGtyY1BFNWV0YUlPNXdhamk5amx1RXdRSkFUcjNSN3ZWajh1VTJkQ3B6MmxBRnRtZlhCM1lnRjRmRENSclhvMXhpS3Z2eFFHTkpEQTJWSlJUR3ZuWEdZanFJQ21oOTlGRDN5Q2pjVTJoZTBNZnFNMkVCM1NubzQ3RFFCdjJSLS1QeVlfNjBVT09scmhFQUxyNU5xY2V0RUp4NlNNOW9PR3FsNw?oc=5",
-        "published": "2026-10-15T20:27:48+00:00",
-        "source": "NBC Sports"
-      },
-      {
         "title": "Alvin Kamara logs limited practice - AOL.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTElOX0tTNTRpOXRmeW9oQVc3c3JzRXBkM2Uxa2lvM2dmYUZkQlNYMzV4RXZFU0czRjlhbXRfQ0RYNDFJWGh0UUVBUUtBNlB1c0ZzVG9TdXhGZWhyVGFFaGtYY2RpTG1tQmNZanoyYmZzTkFPNDBFcnNOcUlyQ1ppeURDOWo?oc=5",
         "published": "2026-10-15T02:18:00+00:00",
@@ -210,12 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHZiSkE3cjBpbUxocTVpRG1odlczSWRod2QxY3AzNjFIYjV6cDNDcXBOLWNSNDhRX3M0ZWNYeTBhS3NMQ202Ri0tT1Vja3I0S3hCWEpMLWs3ZEpnNU45eGlvdm9vNTctUkpPLXk4VllhMjMyM2xMU3RETHhvajVaQmpmd2NFSlhzSkZndlBoYnJjNFpWeFFkS0ZNT0p5M3R0MVRYS1hzUnR6S09HclliZVJINA?oc=5",
         "published": "2026-10-14T22:33:20+00:00",
         "source": "Heavy.com"
-      },
-      {
-        "title": "Alvin Kamara (back) limited at practice Wednesday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjF3VmxoNTFVblBkbWh1NlJSTzJYLWluYnQ3eUV1WlZDNFdrY2lWYnd0X3E3Q3BMZ1hjbkFuVTVBWWFpdVFBa3ZRSi1CWHlveXZad0xnc1YtZWJvRlNwUXREdEhXTklUdGpBMHB0eVpibUV5MHpsUjhrcGN3TnRoc2ZtZ19Zci1qVkVLcTRWRlR2V2F0Y0tj0gGcAUFVX3lxTE13bFNScmtZYjZ2VVlLS05DUEgzbmJyeTdtZXplc09zckhBLWg4UjZWZVJMdHNVU25saTFYQ2VTWGdCOWZxWFJYVjZZeVIxLTZQNElURkd4ZDdwd0NfcG5ENFZKNTYydG9oVHRjUG1oT3N0SGoyN25VeDdyZEVKem10R091MVNSaEx3ZnQ0T0I5SWtiRFJpTGZBN2tuZw?oc=5",
-        "published": "2026-10-14T21:48:54+00:00",
-        "source": "FantasyPros"
       }
     ],
     "reason": "Alvin Kamara logs limited practice - AOL.com"
@@ -223,9 +217,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 96.3,
+    "hours_to_lock": 93.0,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -239,9 +233,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -255,9 +249,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 72.4,
+    "hours_to_lock": 69.1,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -267,10 +261,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFZrWWp3NmtLNDdKUFBhQlhiZk50RW1NUDZDV3J0cVZZaGVGMldETmdSYW5kRlZpc2pkcGczSHEtbW9ScnZUd3RycVZjeXBzaFBBNXpQZFVpN3UyZEFmOGg2dFZrQk9PYlpfdXc4WVQ2VUthVlpSQkpkblQwWm1ZS0tTQTBxVDJwdFE?oc=5",
+        "title": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Blogging The Boys",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEZVQkRqTkpSZThlOXA1SndMbXBrSFZQejlGZU45MXpncHRROHBZcTNqSk5abFBxdVhDYjVIMXowckEzZjBzSHdQT3lhVGRqWGtFVXM0Z3BUNzltQUZDSGJTMFRqX1VKQkZ1UGJRRzVLRzc1aHZTSUowMEg1VjJZU0JiQWJwRGtFcDhOMFdNRzQycTdMa0FGYjBkOVJJYzM1WHVqSGdfcm5XSDZENXJaQw?oc=5",
         "published": "2026-10-15T21:19:50+00:00",
-        "source": "Yahoo Sports"
+        "source": "Blogging The Boys"
       },
       {
         "title": "CeeDee Lamb injury update makes Week 6 Cowboys-Packers matchup more interesting - Yahoo Sports",
@@ -285,14 +279,14 @@
         "source": "Yahoo Sports"
       }
     ],
-    "reason": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Yahoo Sports"
+    "reason": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Blogging The Boys"
   },
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -306,9 +300,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -322,9 +316,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 65.0,
+    "hours_to_lock": 61.7,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -338,9 +332,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 233.0,
+    "hours_to_lock": 229.7,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -361,17 +355,29 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-15T23:58:20.312842+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-10-16T03:16:44.097856+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -3.0,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
-    "score": -6,
-    "model_modifier": -1.5,
+    "score": -4,
+    "model_modifier": -1.0,
     "confidence": 87,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Seahawks at Broncos In-Game Injury Updates: Elijah Arroyo Doubtful To Return To Thursday's Game - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzE5Z1prRnFUalczUlp1VG1lcDBTd0RCTk5SRXl4dmdwR1hpUW92QjZZQlFuWjEwQXVaMHBrS2QwaHJtdGV4YzFhWllDdlFkX1p5LTRDaE1QSUh0cGM3Ym43QXJQMTRtTUV2NWZiakJmUTk4aGhiRVUzN21hNGN1S2RyRDFmT1BRQTVQbw?oc=5",
+        "published": "2026-10-16T01:31:05+00:00",
+        "source": "Seattle Seahawks"
+      },
+      {
+        "title": "Seattle Seahawks Announce 7-Player Roster Decision Before Broncos Game - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1B1XzVCSWtOdzBvMzAtR3VnaWZVR193NnJNcmcwLU5zQzZrRE16azhaOV9NbkpobkRjQ2poeHFjT2k4LUlsM3MzX1czU3BiZFZyUVRlZDZhVWdhUlVuOWhtY3FtY2VuS2hHNThQVTk5b2UwTzlPVEJjZjliM1RxMnRqZ2duWndoVUctbC1kenBadw?oc=5",
+        "published": "2026-10-15T23:04:33+00:00",
+        "source": "Heavy.com"
+      },
       {
         "title": "Seahawks at Broncos Week 6 Inactives - Seattle Seahawks",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80MUU5VHBqUjdpVkZwWEdQbzY4N1psYnNVWmZrVmpUeVRxMjhCNFFSRGlOUVBISzNFajZUTVhOak4tWDR3amF2a29iREJJdi1PSTlyWnhWTWFPR3ZreXZ3aWZPei1rM05MMU1EOWhSdzRpM3JO?oc=5",
@@ -395,20 +401,8 @@
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PMVNqRV9tYzNPalh1VGFvMnRxdVpSdVk5a1VQU1hDQTBfVHlGX20ybndmUlZZV3EzZy1halJDNHQxY0U3ZWQ3eGV6TEt5Z0lvZURkSFdGSXpwMjZ1bktsTWJZbjVUVmxwd1BMUUFlaXpBOERNbHRv?oc=5",
         "published": "2026-10-15T05:16:25+00:00",
         "source": "Sports Illustrated"
-      },
-      {
-        "title": "Seattle Seahawks at Denver Broncos - Where to Watch, Stream Info, TV Channel, and Live Updates (October 15, 2026) - Fubo",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUxtaTNmeVZCczlKU2pRMXI5a2NQT2pKelVTVjRGd2Q2cThZdEpDeFFCd1VlOTl1b2VFVkJVSmJON1RkT0VGOTZ5Mll5ZFdUUTY1UDNObE1GbGNITHZnVzluMjNFQ0hRZjhBMTVmVkNxRnFxUmdLN1FuUG9ycGV2X0JhWmVDal9jc3F1QmpzcUd3LWgyb0hFQTBmVURvNGFMN09FQmo0UHNqZGdIOVBPUHRwVmY1d1pkOEZHT3R4M21HNlkzbTdEUzlBRlg0WlNZ?oc=5",
-        "published": "2026-10-15T04:55:24+00:00",
-        "source": "Fubo"
-      },
-      {
-        "title": "Jaxon Smith-Njigba Good To Go, Drake Thomas Ruled Out For Seahawks' Week 6 Game at Denver - Seattle Seahawks",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUg2am9ESUV6dWxxdGxDNmRvdlRFanFycHp3emRCUWtpM1FtRXJHNlV5Qm9ZY1h3UDZzVXI3d1FnYU1udHF2dm1IeG12R1p2NXJjSTJzUUxabk1IdjRSb2RXcTM5VVhxb3Vjd2xLS3JSVWQ3QnBZR0QzN3Q2ejhBbk1ncG5aNXZDWW5LeW1NV3RERjk1aFJvQUplYlE3NmFZZGFZbW1BT2pBM2dVOVE2ZHdDZlBsYk1U?oc=5",
-        "published": "2026-10-14T22:48:48+00:00",
-        "source": "Seattle Seahawks"
       }
     ],
-    "reason": "Seahawks at Broncos Week 6 Inactives - Seattle Seahawks"
+    "reason": "Seahawks at Broncos In-Game Injury Updates: Elijah Arroyo Doubtful To Return To Thursday's Game - Seattle Seahawks"
   }
 ]
