@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 28.0,
+    "hours_to_lock": 25.8,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 21.1,
+    "hours_to_lock": 18.8,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -50,9 +50,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -62,10 +62,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Quinshon Judkins, Jacory Croskey-Merritt, TreVeyon Henderson and more RB injury updates for Week 6 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZW9XZHhOMDFPcUQ4N2R6cDlFT1FRZnBUZGZUYlo3blBGRWhtbHduZnlaa3dlQWs1dmdiTHhvUmotVkw5WHU2SUJhWTI4d2lDM1ZEVUZnU1UzMnZ6MVlQdzJtTFBVMV8xci1Mamtta0NTbmQ0Vnl0UUZhcXdDRlplZ3I3NVI2eUNTQWhxNXl5Y1RhUQ?oc=5",
-        "published": "2026-10-17T13:00:00+00:00",
-        "source": "Yahoo Sports"
+        "title": "Quinshon Judkins, Jacory Croskey-Merritt, TreVeyon Henderson and more RB injury updates for Week 6 - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlBIeVRmcG53VWZvZldxcDlhcG82bGJkNHFrS0lpVi0wNEdscEJmWElmSmh4emk0R2hqaDkyVHlPN2VFLTVCcXYxMTFYUUM1X3QydktMbFgyNjVjemJBdkZrMXhLTzR6MFRPZ1pFdmdzWldtbTFiZzlEd0VUaHlHaHlhcU5NbnVDX2M4MjEzZ0UzdEE3T3dTYWR4Y0xvRC1OV3hGXzYwZUNsSGgybG8zMw?oc=5",
+        "published": "2026-10-17T16:10:49+00:00",
+        "source": "The Big Lead"
       },
       {
         "title": "Week 6 Fantasy Football Final Injury Report: AJ Brown, Quinshon Judkins, And Updates On All The Top Stars - Sports Illustrated",
@@ -103,9 +103,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -126,9 +126,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -179,9 +179,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -40.1,
+    "hours_to_lock": -42.4,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -195,9 +195,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -4,
     "model_modifier": -1.0,
@@ -248,9 +248,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 55.9,
+    "hours_to_lock": 53.6,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -264,9 +264,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -4,
     "model_modifier": -1.0,
@@ -275,6 +275,30 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report - TribLIVE.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmpsVmo2RTZhcHlXd0E4RDhsa1Y4aVdyUVlXSXBLOVkyQmNwekQyN05acEczc0d4cThodl9NUzduQWIwY1RTV0hjSmVVTS1MRWQ3eWVITmROZzFjQXNOWWZpN25GNGdrbUtaZ1lEWlNxTk1jM0tqRGRQSkZ5M21wUmJuSEJIUVhvVnVVREJtZTNuZXdRQkF4Q2pwRGdYWWN2ZFhhUVh4eG5UT0N5dVRNZHVmZ2tkb29E?oc=5",
+        "published": "2026-10-17T17:16:48+00:00",
+        "source": "TribLIVE.com"
+      },
+      {
+        "title": "DK Metcalf (illness) off injury report Sunday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWlfRllLMVdDLTRReEVnZVMxdkFiVHF0VTdMZUhEN1l6T2dwVUtlcHd4ck5WZEVOYTRSZjc1RjBUZ09lRTNaVG5NZ2dqV1loeFhTekY4QUpiY1pLa2d2bXlGb2FQb2V5bFZwMTZRSjFzbW5ESHROSFgtX0tVWnkzM25ya2tBeDltVUpSRnI3cnVJbGpvS2fSAZsBQVVfeXFMTmJtZWFzckhKQkpINlFQWGU1Q3NaVlViR3ZycWpGUHk1OHdJQ1hPZmFsRl9UOWRKVGNOczVOamg1ODQ3SEZ4RDNQQ3JfbUEtZjZjQTJhWXQxLWxBdkRMYk90a0RiSWlkalVKclF6QmFEaGhTZ09pSXJQZXVZcllnRUdjQzNKcWVBMmNqNW9BMnRIdmlOUjVVZ1hXcUk?oc=5",
+        "published": "2026-10-17T16:40:25+00:00",
+        "source": "FantasyPros"
+      },
+      {
+        "title": "Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnNKcElRS0NocndqeS1maDJsVWNfN3dBUVk4WEItZnA5a1hhblFsREVpb2JfSDB2MVV0YXF4MkxDanMtb0dzTnlHSjQ2YmFfSFVudTZIdUxXVVUtSnF0bnhiaW1NX0UweGoybXpkdzFoNURWTXFXT2lkekY5UmNoR2xuOWg1LTRGekktQzNMenltOU1ZMHBUMjRUOVJjWm5hVTdkZDdsTjhubzAyVXNnaC1pRG42eURSS2RneG85SUIxVVhMMzRKeHRJSE44YzY2S0NLOTVoeXhXaVk?oc=5",
+        "published": "2026-10-17T16:33:18+00:00",
+        "source": "NBC Sports"
+      },
+      {
+        "title": "Steelers add Pat Freiermuth to the injury report, remove DK Metcalf - Steel Curtain Network",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSkNlLVN3dm0wRWJHRXppXy1WeHBvR2dieGFOWU5fV2VrcFNTYmRZTm9KNHRsTnJlNnRYc2VWT3pRem1odmJTaW5TdGJWQ1hFS21hOEh0SHpyT1ZKeUlVOUhTNWItTlFCbVdKazI4alpaNll4bmxMc1VZQ2JZbGRrR1kzZVlYSFg3bGpHZ3RZMEJaRGxSY0M1TXBWSkc2aWE2N0p6YzJB?oc=5",
+        "published": "2026-10-17T16:29:40+00:00",
+        "source": "Steel Curtain Network"
+      },
       {
         "title": "DK Metcalf (illness) questionable, sits out Friday - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWxnZFlocXRJVWlaVWhzYlhmcDhBVWI0UTB4V2NMNXBzR0V6cUdqM3hfNjU4SFg1NHhwNFUyM25udU1iZC0wc3VxOUt3Zjl0UUFpRC11TEJiTnZaeVJkSDhWMnd6dmsxX3hIUldPdFJtUE5iYW0yVER4cG9IYVFHdlZiaEpXX2p1MmhITGJfQW5JbGswR3M0dUxVRE1qMzJVTjA4VlpoZXk2aV9rTHpUM0hfQQ?oc=5",
@@ -286,40 +310,16 @@
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUkUtYjdjaWFnRXlVOEpBM0huWVBTQmRub3lMNWxNanBWZEZnQmhXYWJSWi1ieFBfOFQ3U3lGZlJtd2xLaG55UlpFWkw3Yk1qb2pBWWg0ZWxQZWtmSGk1YXFQZHItdXBGQ3NmTC1KNjdBZm42UER2bzJLRVQxeThLMW1LMkFGMGN4NFBOSG1qSGFlZVkxd2hWSkZvTmRFeHNIN3g0OWNiaEE4bTdrNjBEUWdmWTZSVWdtM3NYV3cwdWh2WHVaanoxZU5FNlNPa0JUelFGQi1UNGF4WkgwT1J5bmtQdVF2SGhJUzdudWM0NlVFeWZaR0NKZzZCLUJrY0VPaEhJNA?oc=5",
         "published": "2026-10-17T01:55:00+00:00",
         "source": "Steelers Wire"
-      },
-      {
-        "title": "Steelers WR DK Metcalf hit with surprise injury designation for Week 6 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmJ4TFhGUjR4aFRfQ0d0VGswLUI0NzBBdTA4eEtPX2M5ZjFjZk5vc3pUd0xIZlhQcGYteEdhTW5EeS11dGpBdl8zaXFPMVRSRU9xR2w4S0F5am1nUHJxaWJJYWNXclAxVVpOMWZQbWVKckxZQWkzb251VUFIbFRjaw?oc=5",
-        "published": "2026-10-17T01:36:02+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday - Pittsburgh Post-Gazette",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVRkVGZYOFdBbTVFTXh6TExSSjZNcDlPMFBHQVRRV3VGSUY4R1BXSFVMMzlIWmE0cUVOWkl1OTV5eFhKbFZ1aUxFWlJacGozRnVKSW1SS2NVVHd1ZnppWjRrM09fRjBXWC1BUVNiZGg5WUdDNEk3cFlUSWppTGN0QWZPZU85TVpMaHVsdDVtaFcxX1hLZE9YVXB6ZUpVSGJyUzc2MFVLYw?oc=5",
-        "published": "2026-10-16T20:00:00+00:00",
-        "source": "Pittsburgh Post-Gazette"
-      },
-      {
-        "title": "DK Metcalf (illness) now questionable to play Sunday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaW5UWnNQYWsxMlA0Q255NkFkS0xMUlEzODJ1X3VEY2lPU2lvWVRtbkM2bUxjMnV5T1o0M20xWnU1aTBLWEJ2ek1VZjNWcFcyZ2YzSnJEU3BBNEhicDBYeGV1UVZaT2tIeDZnZ3J2aHZRSVcwWGNUOEg1azhOWlQ2cXc5c3JhdDBjWG9BRmFBU1R1WjJ6QmJlazFXVU53NHfSAaQBQVVfeXFMTlBKa3FuNUtad1N2SlVtUG83dm5zRE5mc3Q5OGdzZzVzdkw1cEdONVRhbko4VG5VZFpFLWZKQ0pSMTQxU01CNkJ3Q0JmTnd4QUFsZGpKNHVVMUl4TjktR1huSkg3SktId1ViazBsZVloZW9ONzVOM1kzQW5vYjBxY2tPM01YTzVJc2hRa1VwTzhoRk1Fbmtkb2xsX25yRFI2UmdBdDQ?oc=5",
-        "published": "2026-10-16T19:51:46+00:00",
-        "source": "FantasyPros"
-      },
-      {
-        "title": "Steelers may be without DK Metcalf vs. Buccaneers - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUtsNkVmeWVmczdidWs0NW1CRDFRQzRlNjB0NkV5b1BCdjdBUFF2YWpjNjdndUd2VWYzTWRhRmZDazNqUEJBUHVFSU5aelRTR0k1bUh3Rzl6bEwwS1dodEdFM2ZIZ3UtaGhRY3Zqczh5U1I1Mmd0bHNISEh2MVVuSGUwUVo3cFE?oc=5",
-        "published": "2026-10-16T19:48:03+00:00",
-        "source": "Yahoo Sports"
       }
     ],
-    "reason": "DK Metcalf (illness) questionable, sits out Friday - NBC Sports"
+    "reason": "Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report - TribLIVE.com"
   },
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 32.0,
+    "hours_to_lock": 29.7,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
@@ -352,9 +352,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -368,9 +368,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -391,9 +391,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.6,
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 22.3,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -407,9 +407,9 @@
   {
     "player_id": "9226",
     "name": "De'Von Achane",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 192.6,
+    "hours_to_lock": 190.3,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -423,9 +423,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-17T16:22:42.897836+00:00",
+    "generated_at": "2026-10-17T18:39:24.688893+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -40.1,
+    "hours_to_lock": -42.4,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -434,6 +434,12 @@
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Seattle Seahawks 2026 Stats, News, and DVOA - FTN (For the Numbers)",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMWQ1ZFRUczBWbEJrS3V2UXBfRHFjT2xac2hHTnBxeWExZkNEeTFfTHdOVWRYcWg1ajN1N0FnWmxmTnFYUS1MU0pfMlY3LWpmWmVreWZB?oc=5",
+        "published": "2026-10-16T00:15:00+00:00",
+        "source": "FTN (For the Numbers)"
+      },
       {
         "title": "Seattle Seahawks Announce 7-Player Roster Decision Before Broncos Game - Heavy.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1B1XzVCSWtOdzBvMzAtR3VnaWZVR193NnJNcmcwLU5zQzZrRE16azhaOV9NbkpobkRjQ2poeHFjT2k4LUlsM3MzX1czU3BiZFZyUVRlZDZhVWdhUlVuOWhtY3FtY2VuS2hHNThQVTk5b2UwTzlPVEJjZjliM1RxMnRqZ2duWndoVUctbC1kenBadw?oc=5",
@@ -463,12 +469,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUxtaTNmeVZCczlKU2pRMXI5a2NQT2pKelVTVjRGd2Q2cThZdEpDeFFCd1VlOTl1b2VFVkJVSmJON1RkT0VGOTZ5Mll5ZFdUUTY1UDNObE1GbGNITHZnVzluMjNFQ0hRZjhBMTVmVkNxRnFxUmdLN1FuUG9ycGV2X0JhWmVDal9jc3F1QmpzcUd3LWgyb0hFQTBmVURvNGFMN09FQmo0UHNqZGdIOVBPUHRwVmY1d1pkOEZHT3R4M21HNlkzbTdEUzlBRlg0WlNZ?oc=5",
         "published": "2026-10-15T04:55:24+00:00",
         "source": "Fubo"
-      },
-      {
-        "title": "Week 6 Injury Report: Seahawks at Broncos - Seattle Seahawks",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYa1NFTWpmYjBLc2xkZ0Q2WmtPSWhLOXVEbXdnSFNXLVFXZkt6UXppZWNrQ1VnWDMzT3I0bVNEUUlTS1hMUmdiWTVSUGMyUThfaG9QN0NVQ1FOWXZmc2RUVHZxZDNFLVk1cy1JRnBUYk9PRlFPRnlIZHB3?oc=5",
-        "published": "2026-10-14T21:11:52+00:00",
-        "source": "Seattle Seahawks"
       }
     ],
     "reason": "Seahawks at Broncos Week 6 Inactives - Seattle Seahawks"
