@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T21:28:42.822776+00:00",
+  "generated_at": "2026-10-18T23:30:41.893969+00:00",
   "league_id": "1388315713940262912",
-  "count": 4,
+  "count": 2,
   "players": [
     {
       "player_id": "5967",
@@ -37,72 +37,6 @@
       }
     },
     {
-      "player_id": "8121",
-      "name": "Romeo Doubs",
-      "pos": "WR",
-      "team": "NE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 10.19,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 26336,
-      "drops_24h": 123616,
-      "next_game": {
-        "week": 6,
-        "date": "2026-10-18",
-        "time": "13:00",
-        "home": "NE",
-        "away": "NYJ",
-        "spread": 7.5,
-        "total": 43.5,
-        "opponent": "NYJ",
-        "home_game": true,
-        "implied_team_points": 18.0
-      }
-    },
-    {
-      "player_id": "9486",
-      "name": "Dontayvion Wicks",
-      "pos": "WR",
-      "team": "PHI",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 6.92,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 100419,
-      "next_game": {
-        "week": 6,
-        "date": "2026-10-18",
-        "time": "13:00",
-        "home": "PHI",
-        "away": "CAR",
-        "spread": -3.0,
-        "total": 39.5,
-        "opponent": "CAR",
-        "home_game": true,
-        "implied_team_points": 21.2
-      }
-    },
-    {
       "player_id": "11610",
       "name": "Malik Washington",
       "pos": "WR",
@@ -121,18 +55,18 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 129416,
+      "drops_24h": 126104,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
         "time": "13:00",
         "home": "NYJ",
         "away": "MIA",
-        "spread": null,
-        "total": null,
+        "spread": 4.5,
+        "total": 38.5,
         "opponent": "NYJ",
         "home_game": false,
-        "implied_team_points": null
+        "implied_team_points": 21.5
       }
     }
   ],

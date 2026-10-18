@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T21:28:39.185636+00:00",
+  "generated_at": "2026-10-18T23:30:37.691621+00:00",
   "season": "2025",
-  "missing_count": 732,
+  "missing_count": 731,
   "players": [
     {
       "player_id": "11533",
@@ -4666,15 +4666,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "8123",
-      "name": "Hassan Haskins",
-      "pos": "RB",
-      "team": "NE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "12705",
       "name": "Graham Mertz",
       "pos": "QB",
@@ -6594,16 +6585,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1648
+      "gsis": 1632
     },
     "2024": {
-      "gsis": 1626
+      "gsis": 1613
     },
     "2025": {
-      "gsis": 1538
+      "gsis": 1529
     },
     "2026": {
-      "gsis": 495
+      "gsis": 492
     }
   }
 }
