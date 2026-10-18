@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
     "urgency": "URGENT",
-    "hours_to_lock": 3.5,
+    "hours_to_lock": 1.3,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -16,11 +16,11 @@
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
-    "player_id": "11834",
-    "name": "Devaughn Vele",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "player_id": "11439",
+    "name": "Jaleel McLaughlin",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -30,10 +30,33 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Saints Week 6 start-sit: Alvin Kamara, Kendre Miller, Devaughn Vele, Juwan Johnson - The Big Lead",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYk9reUJTREtoNUQzUkZhMExDTkc2RUhlaWlteHdRVU5jSk5aaUNmNGNTTG1uM2FwMVJONnUwX3h2NWpJOTZNa3IyMGM4VzlWQVBqUTNJcXBJclh2WFpzTmltUlFQSGlpM2p0U2pMdHhZTGxkMzkwZ3RUdmJPcTQ4eXJyS0x6SFdxVXJTSlpwNW5Ba0NoRkZfQkxzM19Ycjc0NGkzTTFHc1M0Zw?oc=5",
-        "published": "2026-10-18T14:01:14+00:00",
-        "source": "The Big Lead"
+        "title": "Fantasy Football Injury Impact: How To Manage Quinshon Judkins, Dylan Sampson, And Jaleel McLaughlin In Week 6 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWlMYnRYOTNwMzI3X3ROWDc5WVBma2NaanV2RmxjejlYYzBQMEZFaUZQeWpJb2JQaFdjeWFuWExBN2VzZ0NOQWc2MXA1SXpPdVZGYUJUMWJmM2xiSlhCNnhQX2ZIMUtFUlpnYXRteVlIUHE1eDkzV3paVi1UNUxWZVZzSXEzZDhyYVpJa3NIQQ?oc=5",
+        "published": "2026-10-16T16:49:31+00:00",
+        "source": "Yahoo Sports"
+      }
+    ],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
+    "player_id": "11834",
+    "name": "Devaughn Vele",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
+    "kickoff_utc": "2026-10-18T17:00:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 52,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [
+      {
+        "title": "Saints Week 6 start-sit: Alvin Kamara, Kendre Miller, Devaughn Vele, Juwan Johnson - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NWkxRcE5ERkt0STNkUjlPc0xnY0h4MXVxZzF6T2hyVkJzTmZLVWxVMmIxekVRWlM2VHNFeEx5eDNuN1h1MUdJdVVPenBCUF9manBUTGVRX3owRm5yeUEzUnlHSzhFeTlQZ3REVmZ3MUROOWRtdUpjZTQxU1M?oc=5",
+        "published": "2026-10-18T10:47:44+00:00",
+        "source": "Yahoo Sports"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -41,9 +64,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -3.4,
+    "hours_to_lock": -5.6,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -57,85 +80,78 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
-    "score": -6,
-    "model_modifier": -1.5,
+    "score": -1,
+    "model_modifier": -0.25,
     "confidence": 95,
-    "label": "Negative availability signal",
+    "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
-        "title": "Quinshon Judkins, Mason Graham inactive; Carson Schwesinger active for game vs. Ravens - Medina Gazette",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGFTdmp6eUZvd2I2b3NYYTNsOFpNcFpHNF92Qi1LM3ZKY1lnSk94RER3RnRQMURYNzNEai1zenNaaVRieG8wUnAzQ3ZIaDZwcXpGR2pxNnZFY3hMTElDX1RETHZvY2kwRnpReVdDa1JLV0VZSWZkX3MzMEVwWEFMRGp4SS0wWDdMRlBxMHIyQVc0MTFvOTlQX0Q3TkI4RGY0cFdwMG12Q0dsQ2ZFWENjWXUwVXRyNkRrYm1hTnZLVko?oc=5",
-        "published": "2026-10-18T16:21:57+00:00",
-        "source": "Medina Gazette"
+        "title": "Browns | Quinshon Judkins out vs. Ravens, McLaughlin and Estime only RBs available - Fantasy Guru",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUxJTXktYXRpVFl2MzhIbzc1MEkwaGVFdUdtb3hocDZMenkxa2dCMjlmV3JfVW9VMGdwUVpORU42amNoc2R6dnRWSnlyLXpZUlNicV9VY05OQjR0OWRjVkZ2bFZWWEVtTVBfUk9WMXF1RV9zbUNLdGFOVUFmUERRZ3lTUmdUd2hKRzdXa2ZuT2dUWUY2NnY4UUhtTEJWZ3NNblN4Y2t3RUcwOVF6?oc=5",
+        "published": "2026-10-18T16:11:03+00:00",
+        "source": "Fantasy Guru"
       },
       {
-        "title": "Browns running back Quinshon Judkins inactive for matchup against Baltimore - Sportsnet.ca",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2d6NFdJZXQxWUlSa01GYmRPZTRDX1ZXZGNrUDRSTzJZSUdCbzlyNEwxVS1Ldm9pWGs4akJ4Yk0wSFpDdGpORnUzQmNHbS1xTFE3LWczRnRmUkJwUFNGeEVKV2JJWG16SEFjWFJIbmhwOFM3Tjk5MTdtTUhqeWpPeTBXZ05IejhjOGNheGRkNHRzYjgyaTVpbkdyOVBacmxnV2tQM2QxTlR5VFI5MWMwdHRRQQ?oc=5",
-        "published": "2026-10-18T16:07:00+00:00",
-        "source": "Sportsnet.ca"
+        "title": "Browns Get Tough Injury News On Quinshon Judkins Ahead Of Ravens Game - Browns Nation",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjl1WGRRTVAxd3JRVkh4azJDRGxhb19jU0NoUDlOQ0plZXBHUW44NS1hM19hUTZjeDRVRTZBalVSZFk1OUlEQWNwcXVkNGpDaWQ0TW1hUU9WWjRHZHVvVlhxeVU1d19tNWJGQlYzNDNaRGNjM3FEc00tNkxpcEdTRUNfdUE2Z2VNcDMzczdBSXlCaEJoNXdIYkVORVU2X21Y?oc=5",
+        "published": "2026-10-18T15:37:36+00:00",
+        "source": "Browns Nation"
       },
       {
-        "title": "Browns running back Quinshon Judkins inactive for matchup against Baltimore - Bozeman Daily Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd1JxeG91ZXRqWS0wQmw1RU5JVEtTTE9mUFhlQkd3alozUXBWNkI5NjkzNEtDWGsyalg2aVJVV0NaOE1MUldabVcxSllRUGNkMVNzX3VMLVgwZ0VFRHNjckYyQThsdFRjMjdTNzVQWVdzZXlETzhuN3FCRUlpQWVHTTlwVkd1cDRpWlN5QUQtM0paa1RvaE5hX1I2YWJoM2h1RWlYYkxLTy1ObnpOaEpvekFnTnUwVzhFajNKd2VIb090b0c2V3JpOHFHbGtFOE5IZ0lmeGpqZWxEbHhSU0RXY0FNUVNUQzk5WUlHYlV5anFhQm5STmt2TWxpbjV3RlFQNUJkemJn?oc=5",
-        "published": "2026-10-18T16:00:16+00:00",
-        "source": "Bozeman Daily Chronicle"
+        "title": "Is Quinshon Judkins playing today? Browns Week 6 injury report with RB banged up - FanSided",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlNYbXc1S1Z4Q1ZscUdUNmhxUHdNMDI3SHFTUy1IYTE5TVVETzdnS05Ca0hHREFqVURKUUxsRUxEMnJnamdDd1RWX1VrY1BKaHloYnFISEZnOHpibkZkenF3djVZM3VjTy1ZUk5aNlY5RHFtaDZoT2xDR0daQkxaN0FYWklsejV2QTVfUm5nZ3o0b183VHVIVUVpYk1KeWtIejVpWkUwYw?oc=5",
+        "published": "2026-10-18T14:24:37+00:00",
+        "source": "FanSided"
       },
       {
-        "title": "Browns get bad news on RB Quinshon Judkins for Week 6 vs. Ravens - Sporting News",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSHVOUGphdnhmbnBvZ3l1eXRKbjg4T3FGXzhMZ2VqWGczY1ROUTh3TVdWSVZ4cmxGckszczY4Q2JULVV1SFFYY2VnMm5VNFRSRmd3RjVpbU9hUEJOYy1mVjNwZG1xRlRZa2dhM3AzX2JDcF9TMDM4Qm81T1pxQm9PVElRLWVKeXh1ZUJUMXN6dUlQUG15cmN0cDlzdjRxTWRkQ3lFeEtPMzJDSktpSmtWQlNMaVo3UkF4d3lkRnQzSzhFc1VXOVJvcnNKcnBISVdQTW5pUWVR?oc=5",
-        "published": "2026-10-18T15:38:51+00:00",
-        "source": "Sporting News"
+        "title": "Will Quinshon Judkins play today? Browns injury report - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeDNHMDhxM1E4ZGl5UkhVcHlnX1FuRTlHdjJEaFlDcXpLRnpQcHdvSzNLZ3FDMUJTVE9oQTl0TWlNU3pvLVA5SFgwWUFDTVh2OExHZDNUandzNV9iQ1RIQWdPVlhiMGVEMlRTX1dhQ1pTR253eExObGNqVXFFU09scHNsdDNqSFhHelhz?oc=5",
+        "published": "2026-10-18T12:34:38+00:00",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "Quinshon Judkins, Mason Graham inactive; Carson Schwesinger active for game vs. Ravens - BrownsZone with Scott Petrak -",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFdyLUhoN096TGxGZkxwUGYwRGU5TldxREVFUm13dWI4WWhyVGNVWWJMWTNJcWt1QndkVXBkV2s3dFpldGxYbGxSdWxHVGdqMkJ1SDZJeU5iUVplUDB6YjluWHRtSEpkVnBJXzBMdkJsYWFtbmVxQ3NSTk9VVU5jdWhDMHdZNnZzNTJ3b2FEdzFuUElSZ2lHQ0JFbWVJbm15XzA5bEZOOUxSa1VPMXpjTDlnS2ZYaWw0XzNpVkd5dw?oc=5",
-        "published": "2026-10-18T15:32:30+00:00",
-        "source": "BrownsZone with Scott Petrak -"
+        "title": "Quinshon Judkins, Jacory Croskey-Merritt, TreVeyon Henderson and more RB injury updates for Week 6 - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlBIeVRmcG53VWZvZldxcDlhcG82bGJkNHFrS0lpVi0wNEdscEJmWElmSmh4emk0R2hqaDkyVHlPN2VFLTVCcXYxMTFYUUM1X3QydktMbFgyNjVjemJBdkZrMXhLTzR6MFRPZ1pFdmdzWldtbTFiZzlEd0VUaHlHaHlhcU5NbnVDX2M4MjEzZ0UzdEE3T3dTYWR4Y0xvRC1OV3hGXzYwZUNsSGgybG8zMw?oc=5",
+        "published": "2026-10-17T16:10:49+00:00",
+        "source": "The Big Lead"
       },
       {
-        "title": "No Mason Graham or Quinshon Judkins for Browns against Ravens - Massillon Independent",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMnBld2N2R1hyc0xvcXE4UWhJajZTcjlNSmk0VmxSZ2t3VzZlZXBZTTFHVTN4VVlZTmVmb3JGdjV4YWJBRHBfbGdMU0NHSG96NE9uT1lidHduWUZtWkNtYWs1SHQxSWtORHVPU2N3MzZYbXlUY3N0bGlxR0RhNVhfS21kYXNYUlZZLUdxUU56cWVTNm1BOEl6N2UtNjROQ0NLTjc0SVduWXp1emdTOHJ4RVdsaEFxbFFtZG5NcWh5ZGtZVFA0MEY1NXhPT2s?oc=5",
-        "published": "2026-10-18T15:29:00+00:00",
-        "source": "Massillon Independent"
+        "title": "Week 6 Fantasy Football Final Injury Report: AJ Brown, Quinshon Judkins, And Updates On All The Top Stars - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVWdIQlFrcndFRmZJdVhESzA0V05uUU9SUzJlTFFUVW4zRVlXZENDRDFTcU82cmV4cXFMb0preU0tZ3hSRUtNMXlPRHlEbzdIVzlzSWNkeFVnRFd1NmlnclJRdVVzZkpzQ2htWDZJWFkxdV9hT2k3VzJ5T1hCUkVwZUdSaHZJcTJqT2lvcEhQNHpwVjcwQU5raFpTMUF6UXZmbUU5QWZ0N2NrRWw1dThLV0k1MkZaRlQxN2hNUnhpaEQ2MGxUV3VQZWZma0NHNzRXTlpGWFFuLUNFenc?oc=5",
+        "published": "2026-10-17T09:00:00+00:00",
+        "source": "Sports Illustrated"
       }
     ],
-    "reason": "Quinshon Judkins, Mason Graham inactive; Carson Schwesinger active for game vs. Ravens - Medina Gazette"
+    "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Tyler Shough Week 6 Outlook - Saints at Giants - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlJUZi1rbmVkN0owdDVhbkdvNm5oZE9DcHIwNmtKa3JYVmRrd0xzVGJQMW53SUU1UmxHS0RxUlRfUUc5eF9PWnRrTGFEN2pCalNOZUlhWXRnMnpMZFYtY3VSUzh5czFOTkZqTWZaVExXakF4S3NrcmhPeXpVcW5PRDZubUhrNGYy0gGOAUFVX3lxTE5sSnByRDctSTkxUFcxdU44OG5idGd2ZzVJcUJoUVVWUE9MdlVZSF9kSkVDLWppaVA3cy11QkpXOE52cEl6bW1waXFhcnNVNFZKYTBoYmxTamo5RXlWTUhWN0hCWWhlZEo0S19ZeTUzY0w0ZW5qUVRuRjZXY3AxbEtyTU5BWmxobHgySktmMlE?oc=5",
-        "published": "2026-10-15T17:35:00+00:00",
-        "source": "FantasyPros"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -186,9 +202,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -64.6,
+    "hours_to_lock": -66.8,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -202,9 +218,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -213,6 +229,18 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "What Happened to Alvin Kamara? Injury to Saints RB Follows Travis Etienne IR Stint - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFJpRFhaQ2xfaTRkV2pOQ280TUtlb1kybzlVbVVIdnNtLTJZbElLUEt4UFcwNFpEWVN3eUxFVzU4WHpQSWJ6bU1yekFfempQMjlIRzAzdjNmTFRXbklPaE1RVldjTnpuWlRJcE5TelpDUjg5RWtobGRmOVQ4aHBJeVU1ZEQ5Rjg1emFqRThROG0ySV9SU1BEbm02QkVrcGFQWDEwcERTRFZPaHFYMmVrblczM0ZwOHM?oc=5",
+        "published": "2026-10-18T18:02:29+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Are Alvin Kamara, Chris Olave playing today for Saints vs NY Giants in 2026 NFL Week 6? - Bolavip US",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2FIWUdCN2pRcmMzRDlfMFpBc1N5YlUtQ3VzTGlIdDRiLTg5eDZNeW1FZGdkTVd2QVdrdVFpeDF0M3lEZ2RsOTRHQ0NLMHg1cTUzektBMGtxc3ZzYzB5b2ZzdGhIaGpnOC1hMGg1NkFHbDMwanpnakJmRmxQRmFFWk9oUmd2QU5NUk1pMWhwN1hPZnltUktnMlhzZDBYQ2Y3S2NNZjJFd0lNS0VtNnBPR2djeXN0V2PSAbcBQVVfeXFMTU9hSFlHQjdqUXJjM0Q5XzBaQXNTeWJVLUN1c0xpSHQ0Yi04OXg2TXltRWRnZE1XdkFXa3VRaXgxdDN5RGdkbDk0R0NDSzB4NXE1M3pLQTBrcXN2c2MweW9mc3RoSGhqZzgtYTBoNTZBR2wzMGp6Z2pCZkZsUEZhRVpPaFJndkFOTVJNaTFocDdYT2Z5bVJLZzJYc2QwWENmN0tjTWYyRXdJTUtFbTZwT0dnY3lzdFdj?oc=5",
+        "published": "2026-10-18T15:45:00+00:00",
+        "source": "Bolavip US"
+      },
       {
         "title": "Alvin Kamara (back) officially active for Week 6 - FantasyPros",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlcxVnZ2STBjX3k3TW9PWHlLWEJ5dnVHRjFlb0V4eGNROW02Rk5CMjlaTUczS2hDT3ZBakMzNGRhMlRfRkQ0aUxWakNXelBKeDBqN01wOV9uTXMtYUhTaGoyN2ZLYWZsV05KVXNkOTFvbUs4eFh1UzVUTTh5cUhtT3B3NkVvcDBrSDBlb2Q3Unp2U2Vq0gGaAUFVX3lxTE5DeXNraUZuUVBuMXl3Y1pkcWU2Snc4V3Q2c2pyWVF1M3duSVBBcVRGWUZMTHd4OHBUS1Vlbk1mSjBiRk1BYlJJeEdBQnZLTURvSlVha3BsZ2F3RlRZdnVLeWphRE8tSkYtamxhN0NxamxaOVJhRnJCZ3Ftbm5ObEo3T0NicGhPQmhLUmFBOXpoMjgwNE9xcWh6M3c?oc=5",
@@ -226,38 +254,26 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "Saints Week 6 start-sit: Alvin Kamara, Kendre Miller, Devaughn Vele, Juwan Johnson - The Big Lead",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYk9reUJTREtoNUQzUkZhMExDTkc2RUhlaWlteHdRVU5jSk5aaUNmNGNTTG1uM2FwMVJONnUwX3h2NWpJOTZNa3IyMGM4VzlWQVBqUTNJcXBJclh2WFpzTmltUlFQSGlpM2p0U2pMdHhZTGxkMzkwZ3RUdmJPcTQ4eXJyS0x6SFdxVXJTSlpwNW5Ba0NoRkZfQkxzM19Ycjc0NGkzTTFHc1M0Zw?oc=5",
-        "published": "2026-10-18T14:01:14+00:00",
-        "source": "The Big Lead"
+        "title": "Alvin Kamara expected to play in Week 6 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONk1rYkdSaTdxcGxTbE1FLTh2UDhnNi0xd2xZdzM3ajdyVllrVFBaNV8xYnBtTnN0cjZYNERqUHh0MDlHcWtHT1RZaGg2dnVaSU5oNWdWVDlLN2hUZGtWVFBaalVWeEwzaHBxaHJ6YmpDc1BQdU1qTHlNWUtxOWVlTjYtMHEwcUk?oc=5",
+        "published": "2026-10-18T13:44:06+00:00",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "Alvin Kamara’s Injury Playing Status Revealed for Saints RB Depth Chart With Kendre Miller - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWI4X29abEhwZE9qcTlJQnpVQnBmQ1RzbWtCRUdEU1NLbzVFcXRvbHYxMGliUFE4X3ZLWmpBazY0S3JwRzluZ3dCUWZHOTkxcC1ScmJ5Rm1TcVhDN2ZTWU9qS3E0dVpSWWt0QnI1bURVQmlIWjJMZWUyTUg0NW0zRTd6MWduVm1PLVAyQ0RsQkZ6TGRmd0k2YzJPeFdiejB1Ny11MXN2QzNwdGNvanUzcTVuU1NpVWQ2alhUd0pscnpsNEVReTJR?oc=5",
-        "published": "2026-10-18T11:33:39+00:00",
-        "source": "Heavy.com"
-      },
-      {
-        "title": "New Orleans Saints Make Alvin Kamara Announcement Before Giants Game - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWk9IUWc2bV9ZNDUyZjd3VjNwUVc2REcxc3RiM1BhdnMyOGZKTERkSm1HNjZxNWZqU19taDJBUndDR3lZMXNWT2hoVXI0a3A5QnNxaTVXeGNwc0FhZVBwU0JYRzlsd2FPdnJCYXRHTnM1WGFocEQxVDBIZHhhUnNyUzdyRWtZdDV6OXc?oc=5",
-        "published": "2026-10-16T20:02:51+00:00",
-        "source": "Heavy.com"
-      },
-      {
-        "title": "Final Saints vs. Giants Injury Report: Alvin Kamara, Chris Olave Questionable - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnVveE9HZU9YWHBKNkI4bUM2RHNjRVNBcU5GX3BVbVdNUDA0R2s0UGFkUEc1Mm8xZl96NTNuek8tSVRfQmJETTVwc1UxM25FVEd5ckprOHMzeVZFcUlMVGNtM1ZsR1kxR0xscmY4ZlBJX0x5X0dGOUlTZHVqY21rX2w2b3o?oc=5",
-        "published": "2026-10-16T19:34:23+00:00",
+        "title": "Latest Chris Olave and Alvin Kamara injury updates put Saints offense in a great spot heading into key Giants game - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjRCRnZyekhReGlzZG1keF9oSFlHY0ZMNlF5T1h5VUlMRWR2ZGh0V25vdjU2RnU5enpYRkwwZWVUdTdNcHZlcFgtcGlrTnNuSlFCVVRMTkdFX1NRMDVELWhfS0hncW03aHctaE9EQ2E4eS00VkhvOF9RaDBjMW5IWmRsWXBYS1U?oc=5",
+        "published": "2026-10-18T12:11:07+00:00",
         "source": "Yahoo Sports"
       }
     ],
-    "reason": "Alvin Kamara (back) officially active for Week 6 - FantasyPros"
+    "reason": "What Happened to Alvin Kamara? Injury to Saints RB Follows Travis Etienne IR Stint - Heavy.com"
   },
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 31.4,
+    "hours_to_lock": 29.2,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -271,9 +287,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -324,29 +340,17 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 7.4,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 5.2,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
-    "confidence": 80,
+    "confidence": 66,
     "label": "Positive/clear signal",
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "Is CeeDee Lamb Playing Today? Update on Cowboys WR Injury - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU08xanhDX3J3MGJzNFlxLXM3YVJwMkRSLVVyMlBobXZXSkJvOEZvUktDYTI2TEFQaEkzbHRONm5KaUk5VTcwMTV6Qms4MURNaXFla2NsZlhxX0F4eXRaUGlnSmxnOS02eURwNnVicEs3VURzMTdrNHBlbGhXeWtIclE3Zlh2SXZCcnpQZ2FZRTI5YzJCb1RnX0JoMkV3dXFGbVJ3?oc=5",
-        "published": "2026-10-18T12:45:00+00:00",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "CeeDee Lamb practices in full Thursday - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQejF3YTNaWmtTWnJ2elptM3RVZUVGUk1lbE03UUFsOUNBbVIwbGJEalc4ejAyTU1MbXVsM0ZmYVBsMWowMFZGaEpST0lEbnltVnlUbXdaVmJxWWFIeXhVV2RWTElQX0ROQURoTFpJYkgyTkMzaVdqSkhacnVoVUt1Qm9PUVp0S1FNaUs5bw?oc=5",
-        "published": "2026-10-15T21:50:46+00:00",
-        "source": "Yahoo Sports"
-      },
       {
         "title": "Cowboys injuries: CeeDee Lamb has a full practice, DeMarvion Overshown limited - Blogging The Boys",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEZVQkRqTkpSZThlOXA1SndMbXBrSFZQejlGZU45MXpncHRROHBZcTNqSk5abFBxdVhDYjVIMXowckEzZjBzSHdQT3lhVGRqWGtFVXM0Z3BUNzltQUZDSGJTMFRqX1VKQkZ1UGJRRzVLRzc1aHZTSUowMEg1VjJZU0JiQWJwRGtFcDhOMFdNRzQycTdMa0FGYjBkOVJJYzM1WHVqSGdfcm5XSDZENXJaQw?oc=5",
@@ -371,9 +375,25 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
+    "kickoff_utc": "2026-10-18T17:00:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
+    "player_id": "8112",
+    "name": "Drake London",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -383,39 +403,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Chicago Bears Reveal Kyle Monangai Injury News Amid D’Andre Swift Concern - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEpMaVJncG5CRXl5eGktaDZneG5STmpVUHVZdHZTWHR5WlJ2LU9Yak8zNUlXUzFpZ1RwU3NFbmF0V1RxUzhRN29UR2lzeDJhRnM1RjlSRmdkb1ZDTGpEczVzQ3dhYU9qUzh0NWQwMkJtSllvTElUTUhzeEUzSEVSRWtwRTVJdWRkU0RZ?oc=5",
-        "published": "2026-10-16T23:48:01+00:00",
-        "source": "Yahoo Sports"
-      }
-    ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
-    "player_id": "8112",
-    "name": "Drake London",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
-    "kickoff_utc": "2026-10-18T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 59,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [
-      {
-        "title": "Falcons’ Drake London Injury Update Suddenly Raises Week 6 Concern - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3ltSF9SQThBOU1adEpLdWYzM1c5YjJ5UXBQdkpwTkxGS3FXa25Oa3pOcXpRWXpvMXByQjNoX3JoX1dORlJRNmc4cEhQYVFsd194V2xfSUhmclVaWXFXWWdsUUN2S1pTSFNTemZObFhLZldsOVV2TmltalV3VjlOMGliM196eHJmdFlUR2lB?oc=5",
-        "published": "2026-10-16T21:09:59+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Drake London on track to play despite injury - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEFyN3ZHS3JUbkRFNzFVSGFQRGZ3RWVLcXExWHZHLUswanAtVDlRVlJkS3V1TWNFMEFvTDAyaFZMN2R1NEV0UzlsMmdTeVl2aW1iTllWV1F1Wm1Ic0wzUHdWU3RSMGs4b0l6UGZ3NmtkakdRYWdoZTV2NlZFaHJ6VWRaUXJ0bDA?oc=5",
-        "published": "2026-10-16T18:10:33+00:00",
-        "source": "Yahoo Sports"
+        "title": "Falcons’ Drake London Injury Update Suddenly Raises Week 6 Concern - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnZwSFZvZFA4MzI4OUhWZkx4YVJ0LXp6cTJNNHJ6NjVYc3Q1ekVFblZfZ1JYY0VLYXBaYV9RekZSck9kMVQzaXUwT3FTdExLVngxb0ZOaXN1VU9aU2l6VXhSLWMwOTRnNUxIQlR6SF90Q25yUkhWd0h2LTQxNWw3QWNScGJLUm1GZDlhMFVIaC1IQUtlRmU1REhLZFhRSkJVeWtmYjdydi12N202d19Daw?oc=5",
+        "published": "2026-10-16T18:09:59+00:00",
+        "source": "Heavy.com"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -423,9 +414,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.1,
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -2.1,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -439,24 +430,48 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-18T16:53:35.625212+00:00",
+    "generated_at": "2026-10-18T19:05:23.562750+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -64.6,
+    "hours_to_lock": -66.8,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 52,
-    "label": "Some availability risk",
+    "score": -3,
+    "model_modifier": -0.75,
+    "confidence": 80,
+    "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
       {
-        "title": "The Seattle Seahawks Have Released Their First Depth Chart Sheriff Country (ProOIjKNG4) - Unisba Media",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tNzZFakNFMjk0U0RHR3FYSEpJVVBxelFxbURlTFgyN0RuWkhQdmFTVFRWSFdOSXdNUmVrNEhrVF9wTWhIVjFzZm10WXhCZGRvLXNoLTlrc1EtU2NSRXg3cFlKNWVYeG9iemlF?oc=5",
-        "published": "2026-10-15T02:03:02+00:00",
-        "source": "Unisba Media"
+        "title": "Kansas City Chiefs vs Seattle Seahawks Preview & Start Time — October 25, 2026 | SI - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTcGFGWTNOMWlRNTQzZWVEOEdUNXJuQmt0bWcxMU5RSUVMZGV4SG84Um8zY1I3cTJ4RjJFNTYwWXdlZzBWcC1yM2l1NldMUDVEOHpPZTMzdmIyV1VqdmZ2cmR5cmZOeFB5WFVtUUdpQ0tkZTY0c1E?oc=5",
+        "published": "2026-10-18T08:21:18+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Seattle Seahawks 2026 Stats, News, and DVOA - FTN (For the Numbers)",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMWQ1ZFRUczBWbEJrS3V2UXBfRHFjT2xac2hHTnBxeWExZkNEeTFfTHdOVWRYcWg1ajN1N0FnWmxmTnFYUS1MU0pfMlY3LWpmWmVreWZB?oc=5",
+        "published": "2026-10-16T00:15:00+00:00",
+        "source": "FTN (For the Numbers)"
+      },
+      {
+        "title": "Seattle Seahawks Announce 7-Player Roster Decision Before Broncos Game - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ1B1XzVCSWtOdzBvMzAtR3VnaWZVR193NnJNcmcwLU5zQzZrRE16azhaOV9NbkpobkRjQ2poeHFjT2k4LUlsM3MzX1czU3BiZFZyUVRlZDZhVWdhUlVuOWhtY3FtY2VuS2hHNThQVTk5b2UwTzlPVEJjZjliM1RxMnRqZ2duWndoVUctbC1kenBadw?oc=5",
+        "published": "2026-10-15T23:04:33+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Seahawks at Broncos Week 6 Inactives - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80MUU5VHBqUjdpVkZwWEdQbzY4N1psYnNVWmZrVmpUeVRxMjhCNFFSRGlOUVBISzNFajZUTVhOak4tWDR3amF2a29iREJJdi1PSTlyWnhWTWFPR3ZreXZ3aWZPei1rM05MMU1EOWhSdzRpM3JO?oc=5",
+        "published": "2026-10-15T22:50:29+00:00",
+        "source": "Seattle Seahawks"
+      },
+      {
+        "title": "Seahawks Elevate Two From Practice Squad For Week 6 Game at Denver - Seattle Seahawks",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTNzUTlabEFScHgxX3E3RGJSWW9ZaTN4N2NlVkRvVXFWMTUteVliZXZlQUw3RzVUTGpOWTdiYU0tVS1XcTE4Y21PTGJ5bHRfS1Y5cGNkNWxhZ0VFZXlERmFxRmxJenVCQUVReEFUWm5aSndMSkVVWHRUTU94cjVNYXVMZ192X0N3Wi1mUEFQcFhvVVdQd0ZreWZHN1Y?oc=5",
+        "published": "2026-10-15T20:21:01+00:00",
+        "source": "Seattle Seahawks"
       }
     ],
-    "reason": "The Seattle Seahawks Have Released Their First Depth Chart Sheriff Country (ProOIjKNG4) - Unisba Media"
+    "reason": "Seahawks at Broncos Week 6 Inactives - Seattle Seahawks"
   }
 ]

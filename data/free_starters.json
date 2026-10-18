@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:53:37.589617+00:00",
+  "generated_at": "2026-10-18T19:05:25.870668+00:00",
   "league_id": "1388315713940262912",
   "count": 4,
   "players": [
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 23640,
-      "drops_24h": 126040,
+      "adds_24h": 27632,
+      "drops_24h": 125752,
       "next_game": {
         "week": 6,
         "date": "2026-10-18",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 99555,
+      "drops_24h": 99339,
       "next_game": {
         "week": 6,
         "date": "2026-10-18",
@@ -121,18 +121,18 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 111872,
+      "drops_24h": 116912,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
         "time": "13:00",
         "home": "NYJ",
         "away": "MIA",
-        "spread": 4.5,
-        "total": 38.5,
+        "spread": null,
+        "total": null,
         "opponent": "NYJ",
         "home_game": false,
-        "implied_team_points": 21.5
+        "implied_team_points": null
       }
     }
   ],
