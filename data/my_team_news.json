@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -17.8,
+    "hours_to_lock": -23.5,
     "kickoff_utc": "2026-10-18T20:25:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -55,9 +55,9 @@
   {
     "player_id": "11439",
     "name": "Jaleel McLaughlin",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -78,9 +78,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -101,9 +101,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -24.7,
+    "hours_to_lock": -30.4,
     "kickoff_utc": "2026-10-18T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -117,9 +117,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -128,6 +128,12 @@
     "injury": "Out",
     "practice": null,
     "headlines": [
+      {
+        "title": "Quinshon Judkins (ankle) won’t play vs. Ravens - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnB1UWJ0VGtwVFgzRHZ2R1E1aHhqdWgzbmpvcmNhRmNiaU10ZHd1VkRhcmZmNE10S0tRM2VzYmUzMHNtRWlYSURvTnZhaW8wLVFlS3hXcG9HWFBzQmlJUVpBd2c5WWNZU25zVTdHUk5xbFVpclRJbG9ieURJNWhmTDZWUll1RHlTdGlucHF4dTRxY01mbHoycGtna1BJdXJySk1QckVhcW9xb3Fh?oc=5",
+        "published": "2026-10-18T21:49:05+00:00",
+        "source": "NBC Sports"
+      },
       {
         "title": "Browns | Quinshon Judkins out vs. Ravens, McLaughlin and Estime only RBs available - Fantasy Guru",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUxJTXktYXRpVFl2MzhIbzc1MEkwaGVFdUdtb3hocDZMenkxa2dCMjlmV3JfVW9VMGdwUVpORU42amNoc2R6dnRWSnlyLXpZUlNicV9VY05OQjR0OWRjVkZ2bFZWWEVtTVBfUk9WMXF1RV9zbUNLdGFOVUFmUERRZ3lTUmdUd2hKRzdXa2ZuT2dUWUY2NnY4UUhtTEJWZ3NNblN4Y2t3RUcwOVF6?oc=5",
@@ -157,12 +163,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlBIeVRmcG53VWZvZldxcDlhcG82bGJkNHFrS0lpVi0wNEdscEJmWElmSmh4emk0R2hqaDkyVHlPN2VFLTVCcXYxMTFYUUM1X3QydktMbFgyNjVjemJBdkZrMXhLTzR6MFRPZ1pFdmdzWldtbTFiZzlEd0VUaHlHaHlhcU5NbnVDX2M4MjEzZ0UzdEE3T3dTYWR4Y0xvRC1OV3hGXzYwZUNsSGgybG8zMw?oc=5",
         "published": "2026-10-17T16:10:49+00:00",
         "source": "The Big Lead"
-      },
-      {
-        "title": "Week 6 Fantasy Football Final Injury Report: AJ Brown, Quinshon Judkins, And Updates On All The Top Stars - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVWdIQlFrcndFRmZJdVhESzA0V05uUU9SUzJlTFFUVW4zRVlXZENDRDFTcU82cmV4cXFMb0preU0tZ3hSRUtNMXlPRHlEbzdIVzlzSWNkeFVnRFd1NmlnclJRdVVzZkpzQ2htWDZJWFkxdV9hT2k3VzJ5T1hCUkVwZUdSaHZJcTJqT2lvcEhQNHpwVjcwQU5raFpTMUF6UXZmbUU5QWZ0N2NrRWw1dThLV0k1MkZaRlQxN2hNUnhpaEQ2MGxUV3VQZWZma0NHNzRXTlpGWFFuLUNFenc?oc=5",
-        "published": "2026-10-17T09:00:00+00:00",
-        "source": "Sports Illustrated"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -170,9 +170,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -186,13 +186,13 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 73,
+    "confidence": 66,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -210,16 +210,10 @@
         "source": "FantasyPros"
       },
       {
-        "title": "Denzel Boston remains a limited participant - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSl94SV9meWFNb1hUbmtyM2Vfdl9RQXJINk91NlpseTIwdk40ZHZKMHByb1JjZTdfV1E0ekM5YndXZkhHQXRNOW9aRFFqWXJWUlAtdFZZY1dvcEZzcHdJRmVLZUNqbC1GQllnRWFoUVVTRHB1V0NybkxoNUdYc3dEZVJXR0dXUl9NWjVtOFdhbndnQ3h4?oc=5",
-        "published": "2026-10-15T22:38:07+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Denzel Boston limited at Cleveland Browns practice with injury - Huskies Wire",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMlowM1MyR3A2UE9yZS1wc0E0TmpSR0pRQU9NdXQ2SEVzRFZTWDFRWlJPRWg3NXVQdkZPb1hkMHUzNk9MNThWLXlxNWhtTkZscEtoT0plVmVMOURheU5QRG8xZmRVMlVqV1RvcEFvbFBfWWJDSzlrSWdmVG4zQWRqUDB2SFhCdEV2LWZRaWZsSXVtSmctM0RUeDdITGIyLWJnX3UxS0FKdWdFT3l3Tl9ZeXdzTUc5Q2t2OHdKX2JuMVlxLWJQQVJINkI5VFFMejRTX2tacFFoMGV6bnN6bTdQZDZwMGo?oc=5",
-        "published": "2026-10-15T18:30:00+00:00",
-        "source": "Huskies Wire"
+        "title": "Denzel Boston remains a limited participant - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORVAzTmdkaHV3eWRhTHNXRFN1ZDNVdFl1ZTJpajVkSVc4QmdPcWZUWnJfd1Z5OHZ1bElVTk9RNHhWc2NyVUdac20wUlMwU2psSlpnVjYzeWNzeXRtdmdEWkxMTHphNUdWeWlyek1WRGJKdHMyQW8ybVAyc2VoRVJ6SkNCbm42V1RhbVpWUTNMcWd5RlFWSFRZNmp0MkJwR3NlMkotbXpkaWFnVE5xTGpWUG5mU2pPRnJjd092V1pqbk4xV2ozb0g2Z28yMFZhVTRyV3RGLWNrWXgzdWNvcmwzcw?oc=5",
+        "published": "2026-10-15T22:38:00+00:00",
+        "source": "USA Today"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -227,9 +221,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -85.9,
+    "hours_to_lock": -91.6,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +237,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -296,9 +290,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 10.1,
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 4.4,
     "kickoff_utc": "2026-10-20T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -312,9 +306,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -365,9 +359,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -13.8,
+    "hours_to_lock": -19.6,
     "kickoff_utc": "2026-10-19T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -388,9 +382,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -404,9 +398,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -427,9 +421,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -21.2,
+    "hours_to_lock": -26.9,
     "kickoff_utc": "2026-10-18T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -443,9 +437,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-19T14:10:14.628756+00:00",
+    "generated_at": "2026-10-19T19:53:20.696469+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -85.9,
+    "hours_to_lock": -91.6,
     "kickoff_utc": "2026-10-16T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -455,16 +449,16 @@
     "practice": null,
     "headlines": [
       {
+        "title": "Seattle Seahawks 2026 NFL Regular Season Players Stats - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hSndOSExpNk9EalBfMktCTWw3dFNXcTNDd0xhUWtBcVVWRDVNenZ6Rm44V1ZPTTY0MklYNmJ5UnR0VmhXOHNvWHN0ZkItY2VDR29JZmlkd29qVjl0c29JQ0Y0UzNuMFRIcDNtSg?oc=5",
+        "published": "2026-10-19T14:59:20+00:00",
+        "source": "ESPN"
+      },
+      {
         "title": "Sam Darnold Fantasy Football News, Rankings, Projections | Seattle Seahawks - FantasyPros",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SVF9QbUNPREllX1ZlZEJRZmNxZGJ4d3ZucGotdFRrOTBSSWlmWFJac0tweVNPRWpqUjdxVWpoS1d0SjJxbmVOdUZ6cmZyREZpVTJXWGViLTlxQkFROHkxeXJQdzVWZw?oc=5",
         "published": "2026-10-17T07:00:00+00:00",
         "source": "FantasyPros"
-      },
-      {
-        "title": "Return Timelines for Jadarian Price, Anthony Bradford & Other Injury Updates From Mike Macdonald - Seattle Seahawks",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTR2emRtcm1paGxFNkZwQ2dfWUE5a1NUekpPZ2pJdnNWelFNQkJCOHQ1R21US2trM1pSZXJVWDM4QXI0aWFnRmxRY0tWbGF5REhhZTdZd2tHQldXS2VneW91M2FGWGdLa0NrZ3piQ2F1MTV5emcxRHk4bU5kZ09yMGQ4bzVnS0wzb0NMem5rYXJvZ2ZKR3NUM2hUSDlwMFRYcUI4MjJWRDRpbnN1WXVRLWl0NE4zYmZvdXNGRGJnbktZQQ?oc=5",
-        "published": "2026-10-16T18:36:06+00:00",
-        "source": "Seattle Seahawks"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
