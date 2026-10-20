@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T23:12:41.443661+00:00",
+  "generated_at": "2026-10-20T01:49:11.886241+00:00",
   "season": "2025",
-  "missing_count": 731,
+  "missing_count": 733,
   "players": [
     {
       "player_id": "11533",
@@ -5287,6 +5287,24 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "11421",
+      "name": "Ryan Miller",
+      "pos": "WR",
+      "team": "NE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "7050",
+      "name": "Josiah Deguara",
+      "pos": "TE",
+      "team": "SEA",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2020",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13346",
       "name": "Denzel Boston",
       "pos": "WR",
@@ -6585,16 +6603,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1632
+      "gsis": 1627
     },
     "2024": {
-      "gsis": 1613
+      "gsis": 1607
     },
     "2025": {
       "gsis": 1529
     },
     "2026": {
-      "gsis": 508
+      "gsis": 507
     }
   }
 }
