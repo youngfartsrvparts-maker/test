@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 282.6,
+    "hours_to_lock": 280.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -55,9 +55,9 @@
   {
     "player_id": "11439",
     "name": "Jaleel McLaughlin",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.6,
+    "hours_to_lock": 111.2,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -71,9 +71,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 110.1,
+    "hours_to_lock": 107.7,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -94,9 +94,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 282.6,
+    "hours_to_lock": 280.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -110,9 +110,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.6,
+    "hours_to_lock": 111.2,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -163,9 +163,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 110.1,
+    "hours_to_lock": 107.7,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -179,9 +179,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.6,
+    "hours_to_lock": 111.2,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -195,9 +195,9 @@
   {
     "player_id": "2747",
     "name": "Jason Myers",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 120.9,
+    "hours_to_lock": 118.5,
     "kickoff_utc": "2026-10-26T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -211,9 +211,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 110.1,
+    "hours_to_lock": 107.7,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -264,32 +264,25 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.6,
+    "hours_to_lock": 111.2,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "49ers announce update on George Kittle’s game status vs. Seahawks - 49ers Webzone",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3BQd3pmS2c4M1RQUDFXZGg0V0pPZG5NZUJTcExWMGVJdEFGeE5tTzd3ZXVSc3FBQ1lGY29yTXNIVlgtUnRYaGdTSXJpWnFMb1IzeEswOEhXYXRoOV8xN2JLaTlsTnlNelN3LXFMQ0U5NVlJenM5cGdQNGhLSDJRbEo3UmZDUlpnNVJnQjRR?oc=5",
-        "published": "2026-10-20T12:44:09+00:00",
-        "source": "49ers Webzone"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 110.1,
+    "hours_to_lock": 107.7,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -340,9 +333,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 144.8,
+    "hours_to_lock": 142.5,
     "kickoff_utc": "2026-10-27T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -363,9 +356,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.8,
+    "hours_to_lock": 46.5,
     "kickoff_utc": "2026-10-23T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -386,9 +379,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.6,
+    "hours_to_lock": 111.2,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -402,9 +395,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.6,
+    "hours_to_lock": 111.2,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -418,9 +411,9 @@
   {
     "player_id": "SEA",
     "name": "Seattle Seahawks",
-    "generated_at": "2026-10-20T23:25:41.366206+00:00",
+    "generated_at": "2026-10-21T01:47:05.330437+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 120.9,
+    "hours_to_lock": 118.5,
     "kickoff_utc": "2026-10-26T00:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -436,6 +429,12 @@
         "source": "Heavy.com"
       },
       {
+        "title": "Seattle Seahawks 2026 NFL Regular Season Players Stats - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMzFwV21vazFZTVpuNlhDam00Y0dZbm13WjVQUDkwYzNsTW4zY0FKY2pNbl95ZHVheVF6WHhKdklkbVVjT1pKSHFmZ0gtTTFFMGZhTkV5djF1ZUJWaHdOdHNRb2p5NXlpX19LOHRWMVV4N3JHZUM5cHJ2SEVjUkdEcWxzWms4TFQxd2FPb0NfeWFoUQ?oc=5",
+        "published": "2026-10-20T13:59:42+00:00",
+        "source": "ESPN"
+      },
+      {
         "title": "Seattle Seahawks Terminate Contract of Former 1,000-Yard RB - Yardbarker",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHRYZ3JQMjAzNWgtUThXVzJjWXhVTndXRHJ0bnJ0NF9UWWpoakFsTzZ6U1BjblJtcUlwNnJ6S0UtaWVNdUdjay16Y3lucTJNYTJ0dm1aR0Z1RGZxQVowUU1zOVVVQlhNVWhqVDFyeU8yZmpBVUhlWWtvbHd1RkxTcEk1Q2VwMkVvNHBxMG5iRTFWSDUxVndob0VqSTBDMzJfQmVyWkczcENaME9iM1Njb1JkLTVFWFE?oc=5",
         "published": "2026-10-20T03:33:25+00:00",
@@ -446,12 +445,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNck56MGZMNm9LM0NlQ3lfYWNvMUtzXzd5REVKeTQxRUQ0WTR4MnhCQ3k5cHl0MzcxWnpwS1h0b2pkTm9saGdaV041eEU1MzhTSmI5STVtZUVwdmhfX2FxQ0puUG82cWRGblNRa0xMUGpYUnFyNkZGWDZLWk1GdzVqcFVuRl93ekVWRHh4UnZaN01VTDdKTFM5WWhrQ3o1SGw5akp3N2Rhdmk5MkNUOEpZTQ?oc=5",
         "published": "2026-10-19T23:49:03+00:00",
         "source": "Seattle Seahawks"
-      },
-      {
-        "title": "Seattle Seahawks 2026 NFL Regular Season Players Stats - ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUXQ5cU9CT1E0YzBfZUlhTDJOdXRISG1kREQtYld5V0tlbmZqUHhZem1sSC00MHZTRDA2SHB0NjRXdDlyaW1HNlJySEpuT0NzVVljX1VhTFhiTjZlZ1J5Q0RieFFPN0NoQ2VCQw?oc=5",
-        "published": "2026-10-19T13:41:27+00:00",
-        "source": "ESPN"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
