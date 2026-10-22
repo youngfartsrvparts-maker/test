@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T23:48:28.424198+00:00",
+  "generated_at": "2026-10-22T02:30:32.521333+00:00",
   "season": "2025",
-  "missing_count": 734,
+  "missing_count": 724,
   "players": [
     {
       "player_id": "11533",
@@ -158,7 +158,7 @@
     },
     {
       "player_id": "7553",
-      "name": "Kyle Pitts",
+      "name": "Kyle Pitts Sr.",
       "pos": "TE",
       "team": "ATL",
       "sleeper_gsis_id": null,
@@ -221,7 +221,7 @@
     },
     {
       "player_id": "8116",
-      "name": "Pierre Strong",
+      "name": "Pierre Strong Jr.",
       "pos": "RB",
       "team": "GB",
       "sleeper_gsis_id": null,
@@ -301,15 +301,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13898",
-      "name": "Corey Rucker",
-      "pos": "WR",
-      "team": "LV",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "12925",
       "name": "Jamaal Pritchett",
       "pos": "WR",
@@ -329,7 +320,7 @@
     },
     {
       "player_id": "8138",
-      "name": "James Cook",
+      "name": "James Cook III",
       "pos": "RB",
       "team": "BUF",
       "sleeper_gsis_id": null,
@@ -356,7 +347,7 @@
     },
     {
       "player_id": "13418",
-      "name": "Robert Henry",
+      "name": "Robert Henry Jr.",
       "pos": "RB",
       "team": "SEA",
       "sleeper_gsis_id": null,
@@ -365,7 +356,7 @@
     },
     {
       "player_id": "12542",
-      "name": "Efton Chism",
+      "name": "Efton Chism III",
       "pos": "WR",
       "team": "NE",
       "sleeper_gsis_id": null,
@@ -824,7 +815,7 @@
     },
     {
       "player_id": "12475",
-      "name": "Ricky White",
+      "name": "Ricky White III",
       "pos": "WR",
       "team": "SEA",
       "sleeper_gsis_id": null,
@@ -833,7 +824,7 @@
     },
     {
       "player_id": "8154",
-      "name": "Brian Robinson",
+      "name": "Brian Robinson Jr.",
       "pos": "RB",
       "team": "ATL",
       "sleeper_gsis_id": null,
@@ -923,7 +914,7 @@
     },
     {
       "player_id": "8147",
-      "name": "John Metchie",
+      "name": "John Metchie III",
       "pos": "WR",
       "team": "CAR",
       "sleeper_gsis_id": null,
@@ -941,7 +932,7 @@
     },
     {
       "player_id": "11592",
-      "name": "Erick All",
+      "name": "Erick All Jr.",
       "pos": "TE",
       "team": "CIN",
       "sleeper_gsis_id": null,
@@ -1211,7 +1202,7 @@
     },
     {
       "player_id": "8125",
-      "name": "Calvin Austin",
+      "name": "Calvin Austin III",
       "pos": "WR",
       "team": "NYG",
       "sleeper_gsis_id": null,
@@ -1391,7 +1382,7 @@
     },
     {
       "player_id": "12519",
-      "name": "Luther Burden",
+      "name": "Luther Burden III",
       "pos": "WR",
       "team": "CHI",
       "sleeper_gsis_id": null,
@@ -1409,7 +1400,7 @@
     },
     {
       "player_id": "13199",
-      "name": "Montorie Foster",
+      "name": "Montorie Foster Jr.",
       "pos": "WR",
       "team": "SEA",
       "sleeper_gsis_id": null,
@@ -1525,15 +1516,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13816",
-      "name": "Mark Gronowski",
-      "pos": "QB",
-      "team": "HOU",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "13264",
       "name": "Dohnte Meyers",
       "pos": "WR",
@@ -1643,7 +1625,7 @@
     },
     {
       "player_id": "14020",
-      "name": "Dean Patterson",
+      "name": "Dean Patterson IV",
       "pos": "WR",
       "team": "TB",
       "sleeper_gsis_id": null,
@@ -1760,7 +1742,7 @@
     },
     {
       "player_id": "12884",
-      "name": "Quincy Skinner",
+      "name": "Quincy Skinner Jr.",
       "pos": "WR",
       "team": "GB",
       "sleeper_gsis_id": null,
@@ -2147,7 +2129,7 @@
     },
     {
       "player_id": "12523",
-      "name": "Jimmy Horn",
+      "name": "Jimmy Horn Jr.",
       "pos": "WR",
       "team": "CLE",
       "sleeper_gsis_id": null,
@@ -2192,7 +2174,7 @@
     },
     {
       "player_id": "8223",
-      "name": "Velus Jones",
+      "name": "Velus Jones Jr.",
       "pos": "WR",
       "team": "SEA",
       "sleeper_gsis_id": null,
@@ -2278,15 +2260,6 @@
       "team": "SEA",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "12909",
-      "name": "Eli Pancol",
-      "pos": "WR",
-      "team": "IND",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -2542,15 +2515,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "12036",
-      "name": "Ian Wheeler",
-      "pos": "RB",
-      "team": "PHI",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "5119",
       "name": "Jason Sanders",
       "pos": "K",
@@ -2597,7 +2561,7 @@
     },
     {
       "player_id": "13353",
-      "name": "Chris Brazzell",
+      "name": "Chris Brazzell II",
       "pos": "WR",
       "team": "CAR",
       "sleeper_gsis_id": null,
@@ -2723,7 +2687,7 @@
     },
     {
       "player_id": "13670",
-      "name": "Harrison Wallace",
+      "name": "Harrison Wallace III",
       "pos": "WR",
       "team": "ARI",
       "sleeper_gsis_id": null,
@@ -2867,7 +2831,7 @@
     },
     {
       "player_id": "10219",
-      "name": "Chris Rodriguez",
+      "name": "Chris Rodriguez Jr.",
       "pos": "RB",
       "team": "JAX",
       "sleeper_gsis_id": null,
@@ -2885,7 +2849,7 @@
     },
     {
       "player_id": "12460",
-      "name": "Antwane Wells",
+      "name": "Antwane Wells Jr.",
       "pos": "WR",
       "team": "ATL",
       "sleeper_gsis_id": null,
@@ -2912,7 +2876,7 @@
     },
     {
       "player_id": "12495",
-      "name": "Ollie Gordon",
+      "name": "Ollie Gordon II",
       "pos": "RB",
       "team": "MIA",
       "sleeper_gsis_id": null,
@@ -2948,7 +2912,7 @@
     },
     {
       "player_id": "11655",
-      "name": "Tyrone Tracy",
+      "name": "Tyrone Tracy Jr.",
       "pos": "RB",
       "team": "NYG",
       "sleeper_gsis_id": null,
@@ -2993,7 +2957,7 @@
     },
     {
       "player_id": "9494",
-      "name": "Marvin Mims",
+      "name": "Marvin Mims Jr.",
       "pos": "WR",
       "team": "DEN",
       "sleeper_gsis_id": null,
@@ -3002,7 +2966,7 @@
     },
     {
       "player_id": "11559",
-      "name": "Michael Penix",
+      "name": "Michael Penix Jr.",
       "pos": "QB",
       "team": "ATL",
       "sleeper_gsis_id": null,
@@ -3190,15 +3154,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "12457",
-      "name": "Jaydon Blue",
-      "pos": "RB",
-      "team": "PHI",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "12548",
       "name": "Lenny Krieg",
       "pos": "K",
@@ -3272,7 +3227,7 @@
     },
     {
       "player_id": "12715",
-      "name": "Thomas Fidone",
+      "name": "Thomas Fidone II",
       "pos": "TE",
       "team": "NYG",
       "sleeper_gsis_id": null,
@@ -3281,7 +3236,7 @@
     },
     {
       "player_id": "10857",
-      "name": "Stetson Bennett",
+      "name": "Stetson Bennett IV",
       "pos": "QB",
       "team": "LAR",
       "sleeper_gsis_id": null,
@@ -3290,7 +3245,7 @@
     },
     {
       "player_id": "9229",
-      "name": "Anthony Richardson",
+      "name": "Anthony Richardson Sr.",
       "pos": "QB",
       "team": "IND",
       "sleeper_gsis_id": null,
@@ -3425,7 +3380,7 @@
     },
     {
       "player_id": "13313",
-      "name": "Emmanuel Henderson",
+      "name": "Emmanuel Henderson Jr.",
       "pos": "WR",
       "team": "SEA",
       "sleeper_gsis_id": null,
@@ -3515,7 +3470,7 @@
     },
     {
       "player_id": "11628",
-      "name": "Marvin Harrison",
+      "name": "Marvin Harrison Jr.",
       "pos": "WR",
       "team": "HOU",
       "sleeper_gsis_id": null,
@@ -3713,7 +3668,7 @@
     },
     {
       "player_id": "12541",
-      "name": "Dont'e Thornton",
+      "name": "Dont'e Thornton Jr.",
       "pos": "WR",
       "team": "LV",
       "sleeper_gsis_id": null,
@@ -3784,15 +3739,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13124",
-      "name": "Jeremiah Webb",
-      "pos": "WR",
-      "team": "NE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "11257",
       "name": "Shedrick Jackson",
       "pos": "WR",
@@ -3839,7 +3785,7 @@
     },
     {
       "player_id": "8151",
-      "name": "Kenneth Walker",
+      "name": "Kenneth Walker III",
       "pos": "RB",
       "team": "KC",
       "sleeper_gsis_id": null,
@@ -3857,7 +3803,7 @@
     },
     {
       "player_id": "2078",
-      "name": "Odell Beckham",
+      "name": "Odell Beckham Jr.",
       "pos": "WR",
       "team": "MIN",
       "sleeper_gsis_id": "00-0031235",
@@ -3947,7 +3893,7 @@
     },
     {
       "player_id": "12939",
-      "name": "Anthony Tyus",
+      "name": "Anthony Tyus III",
       "pos": "RB",
       "team": "CAR",
       "sleeper_gsis_id": null,
@@ -4091,7 +4037,7 @@
     },
     {
       "player_id": "13276",
-      "name": "Omar Cooper",
+      "name": "Omar Cooper Jr.",
       "pos": "WR",
       "team": "NYJ",
       "sleeper_gsis_id": null,
@@ -4172,7 +4118,7 @@
     },
     {
       "player_id": "7543",
-      "name": "Travis Etienne",
+      "name": "Travis Etienne Jr.",
       "pos": "RB",
       "team": "NO",
       "sleeper_gsis_id": null,
@@ -4217,7 +4163,7 @@
     },
     {
       "player_id": "13343",
-      "name": "Vinny Anthony",
+      "name": "Vinny Anthony II",
       "pos": "WR",
       "team": "ATL",
       "sleeper_gsis_id": null,
@@ -4334,7 +4280,7 @@
     },
     {
       "player_id": "11631",
-      "name": "Brian Thomas",
+      "name": "Brian Thomas Jr.",
       "pos": "WR",
       "team": "JAX",
       "sleeper_gsis_id": null,
@@ -4361,7 +4307,7 @@
     },
     {
       "player_id": "11186",
-      "name": "Carlos Washington",
+      "name": "Carlos Washington Jr.",
       "pos": "RB",
       "team": "MIA",
       "sleeper_gsis_id": null,
@@ -4523,7 +4469,7 @@
     },
     {
       "player_id": "13316",
-      "name": "Eric Rivers",
+      "name": "Eric Rivers Jr.",
       "pos": "WR",
       "team": "TB",
       "sleeper_gsis_id": null,
@@ -4721,7 +4667,7 @@
     },
     {
       "player_id": "12860",
-      "name": "Theo Wease",
+      "name": "Theo Wease Jr.",
       "pos": "WR",
       "team": "LAC",
       "sleeper_gsis_id": null,
@@ -4828,15 +4774,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "11582",
-      "name": "Carson Steele",
-      "pos": "RB",
-      "team": "PHI",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "11637",
       "name": "Keon Coleman",
       "pos": "WR",
@@ -4847,7 +4784,7 @@
     },
     {
       "player_id": "11573",
-      "name": "Frank Gore",
+      "name": "Frank Gore Jr.",
       "pos": "RB",
       "team": "BUF",
       "sleeper_gsis_id": null,
@@ -5162,7 +5099,7 @@
     },
     {
       "player_id": "13305",
-      "name": "Mike Washington",
+      "name": "Mike Washington Jr.",
       "pos": "RB",
       "team": "LV",
       "sleeper_gsis_id": null,
@@ -5261,7 +5198,7 @@
     },
     {
       "player_id": "12544",
-      "name": "LeQuint Allen",
+      "name": "LeQuint Allen Jr.",
       "pos": "RB",
       "team": "JAX",
       "sleeper_gsis_id": null,
@@ -5288,7 +5225,7 @@
     },
     {
       "player_id": "12506",
-      "name": "Harold Fannin",
+      "name": "Harold Fannin Jr.",
       "pos": "TE",
       "team": "CLE",
       "sleeper_gsis_id": null,
@@ -5536,15 +5473,6 @@
       "team": "NO",
       "sleeper_gsis_id": null,
       "rookie_year": null,
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "8200",
-      "name": "Kevin Austin",
-      "pos": "WR",
-      "team": "NO",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6035,7 +5963,7 @@
     },
     {
       "player_id": "13317",
-      "name": "Ted Hurst",
+      "name": "Ted Hurst III",
       "pos": "WR",
       "team": "TB",
       "sleeper_gsis_id": null,
@@ -6152,7 +6080,7 @@
     },
     {
       "player_id": "13338",
-      "name": "Kevin Coleman",
+      "name": "Kevin Coleman Jr.",
       "pos": "WR",
       "team": "MIA",
       "sleeper_gsis_id": null,
@@ -6278,7 +6206,7 @@
     },
     {
       "player_id": "13298",
-      "name": "KC Concepcion",
+      "name": "KC Concepcion Jr.",
       "pos": "WR",
       "team": "CLE",
       "sleeper_gsis_id": null,
@@ -6314,7 +6242,7 @@
     },
     {
       "player_id": "6819",
-      "name": "Michael Pittman",
+      "name": "Michael Pittman Jr.",
       "pos": "WR",
       "team": "PIT",
       "sleeper_gsis_id": null,
@@ -6439,15 +6367,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "13949",
-      "name": "Damon Bankston",
-      "pos": "RB",
-      "team": "GB",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "5638",
       "name": "Shaq Roland",
       "pos": "WR",
@@ -6502,15 +6421,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "11820",
-      "name": "Devin Culp",
-      "pos": "TE",
-      "team": "CLE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "7588",
       "name": "Javonte Williams",
       "pos": "RB",
@@ -6548,7 +6458,7 @@
     },
     {
       "player_id": "2334",
-      "name": "Phillip Dorsett",
+      "name": "Phillip Dorsett II",
       "pos": "WR",
       "team": "LV",
       "sleeper_gsis_id": "00-0032208",
