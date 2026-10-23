@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:34:05.379780+00:00",
+  "generated_at": "2026-10-23T21:40:18.056168+00:00",
   "league_id": "1388315713940262912",
   "count": 4,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": 16.16,
       "targets_pg": 2.41,
       "carries_pg": 14.24,
-      "adds_24h": 20110,
+      "adds_24h": 18400,
       "drops_24h": 0,
       "next_game": {
         "week": 7,
@@ -29,11 +29,11 @@
         "time": "13:00",
         "home": "TEN",
         "away": "CLE",
-        "spread": -1.5,
+        "spread": -2.5,
         "total": 37.5,
         "opponent": "CLE",
         "home_game": true,
-        "implied_team_points": 19.5
+        "implied_team_points": 20.0
       }
     },
     {
@@ -55,18 +55,18 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 121335,
+      "drops_24h": 118060,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
         "time": "13:00",
         "home": "TEN",
         "away": "CLE",
-        "spread": -1.5,
+        "spread": -2.5,
         "total": 37.5,
         "opponent": "TEN",
         "home_game": false,
-        "implied_team_points": 18.0
+        "implied_team_points": 17.5
       }
     },
     {
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 50715,
-      "drops_24h": 241488,
+      "adds_24h": 99180,
+      "drops_24h": 216864,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
         "time": "20:20",
         "home": "SEA",
         "away": "KC",
-        "spread": 3.0,
+        "spread": 2.5,
         "total": 42.5,
         "opponent": "KC",
         "home_game": true,
-        "implied_team_points": 19.8
+        "implied_team_points": 20.0
       }
     },
     {
@@ -121,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 337653,
+      "drops_24h": 313560,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
