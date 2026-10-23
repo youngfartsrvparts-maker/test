@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T00:09:28.998108+00:00",
+  "generated_at": "2026-10-23T09:35:12.449536+00:00",
   "season": "2025",
-  "missing_count": 724,
+  "missing_count": 723,
   "players": [
     {
       "player_id": "11533",
@@ -1558,15 +1558,6 @@
       "team": "GB",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "12897",
-      "name": "Nate Carter",
-      "pos": "RB",
-      "team": "KC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3149,6 +3140,15 @@
       "name": "Bhayshul Tuten",
       "pos": "RB",
       "team": "JAX",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12457",
+      "name": "Jaydon Blue",
+      "pos": "RB",
+      "team": "PHI",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
@@ -5584,15 +5584,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "9490",
-      "name": "Tyler Scott",
-      "pos": "WR",
-      "team": "LV",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "4349",
       "name": "Taquan Mizzell",
       "pos": "RB",
@@ -6531,7 +6522,7 @@
       "gsis": 1563
     },
     "2026": {
-      "gsis": 519
+      "gsis": 523
     }
   }
 }
