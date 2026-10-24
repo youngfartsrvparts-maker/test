@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:51:01.524855+00:00",
+  "generated_at": "2026-10-24T08:30:32.503659+00:00",
   "season": "2025",
   "missing_count": 723,
   "players": [
@@ -163,15 +163,6 @@
       "team": "ATL",
       "sleeper_gsis_id": null,
       "rookie_year": "2021",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "11304",
-      "name": "E.J. Jenkins",
-      "pos": "TE",
-      "team": "PHI",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -1558,6 +1549,15 @@
       "team": "GB",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "12897",
+      "name": "Nate Carter",
+      "pos": "RB",
+      "team": "KC",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {

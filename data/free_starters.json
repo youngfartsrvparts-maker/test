@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T03:51:04.739913+00:00",
+  "generated_at": "2026-10-24T08:30:36.112407+00:00",
   "league_id": "1388315713940262912",
-  "count": 4,
+  "count": 5,
   "players": [
     {
       "player_id": "5967",
@@ -21,7 +21,7 @@
       "ceiling_2025": 16.16,
       "targets_pg": 2.41,
       "carries_pg": 14.24,
-      "adds_24h": 10525,
+      "adds_24h": 9820,
       "drops_24h": 0,
       "next_game": {
         "week": 7,
@@ -37,10 +37,10 @@
       }
     },
     {
-      "player_id": "11439",
-      "name": "Jaleel McLaughlin",
+      "player_id": "9757",
+      "name": "Kendre Miller",
       "pos": "RB",
-      "team": "CLE",
+      "team": "NO",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -49,24 +49,24 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 6.12,
+      "ppg_2025": 5.27,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 74160,
+      "adds_24h": 15050,
+      "drops_24h": 0,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
-        "time": "13:00",
-        "home": "TEN",
-        "away": "CLE",
-        "spread": -2.5,
-        "total": 36.5,
-        "opponent": "TEN",
-        "home_game": false,
-        "implied_team_points": 17.0
+        "time": "09:30",
+        "home": "NO",
+        "away": "PIT",
+        "spread": -3.0,
+        "total": 44.5,
+        "opponent": "PIT",
+        "home_game": true,
+        "implied_team_points": 23.8
       }
     },
     {
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 155133,
-      "drops_24h": 99684,
+      "adds_24h": 172872,
+      "drops_24h": 88434,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -103,10 +103,10 @@
       }
     },
     {
-      "player_id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "team": "GB",
+      "player_id": "1479",
+      "name": "Keenan Allen",
+      "pos": "WR",
+      "team": "IND",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -115,24 +115,57 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 2.8,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 162756,
+      "ppg_2025": 10.75,
+      "floor_2025": 6.7,
+      "ceiling_2025": 19.62,
+      "targets_pg": 7.18,
+      "carries_pg": 0.0,
+      "adds_24h": 48104,
+      "drops_24h": 12964,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
-        "time": "16:25",
-        "home": "DET",
-        "away": "GB",
-        "spread": 3.0,
-        "total": 53.5,
-        "opponent": "DET",
+        "time": "13:00",
+        "home": "MIN",
+        "away": "IND",
+        "spread": 6.5,
+        "total": 41.5,
+        "opponent": "MIN",
         "home_game": false,
-        "implied_team_points": 28.2
+        "implied_team_points": 24.0
+      }
+    },
+    {
+      "player_id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 3.99,
+      "floor_2025": 1.5,
+      "ceiling_2025": 5.56,
+      "targets_pg": 2.77,
+      "carries_pg": 0.0,
+      "adds_24h": 89144,
+      "drops_24h": 13680,
+      "next_game": {
+        "week": 7,
+        "date": "2026-10-25",
+        "time": "13:00",
+        "home": "ATL",
+        "away": "SF",
+        "spread": -2.5,
+        "total": 49.5,
+        "opponent": "ATL",
+        "home_game": false,
+        "implied_team_points": 23.5
       }
     }
   ],
