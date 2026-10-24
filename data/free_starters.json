@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:40:18.056168+00:00",
+  "generated_at": "2026-10-23T23:59:53.027382+00:00",
   "league_id": "1388315713940262912",
   "count": 4,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": 16.16,
       "targets_pg": 2.41,
       "carries_pg": 14.24,
-      "adds_24h": 18400,
+      "adds_24h": 15120,
       "drops_24h": 0,
       "next_game": {
         "week": 7,
@@ -30,10 +30,10 @@
         "home": "TEN",
         "away": "CLE",
         "spread": -2.5,
-        "total": 37.5,
+        "total": 36.5,
         "opponent": "CLE",
         "home_game": true,
-        "implied_team_points": 20.0
+        "implied_team_points": 19.5
       }
     },
     {
@@ -55,7 +55,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 118060,
+      "drops_24h": 91335,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -63,10 +63,10 @@
         "home": "TEN",
         "away": "CLE",
         "spread": -2.5,
-        "total": 37.5,
+        "total": 36.5,
         "opponent": "TEN",
         "home_game": false,
-        "implied_team_points": 17.5
+        "implied_team_points": 17.0
       }
     },
     {
@@ -87,19 +87,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 99180,
-      "drops_24h": 216864,
+      "adds_24h": 129285,
+      "drops_24h": 151704,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
         "time": "20:20",
         "home": "SEA",
         "away": "KC",
-        "spread": 2.5,
+        "spread": 3.0,
         "total": 42.5,
         "opponent": "KC",
         "home_game": true,
-        "implied_team_points": 20.0
+        "implied_team_points": 19.8
       }
     },
     {
@@ -121,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 313560,
+      "drops_24h": 231003,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
