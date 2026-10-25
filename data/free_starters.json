@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-10-25T11:53:06.181624+00:00",
+  "generated_at": "2026-10-25T15:16:26.575106+00:00",
   "league_id": "1388315713940262912",
   "count": 6,
   "players": [
-    {
-      "player_id": "11435",
-      "name": "Emanuel Wilson",
-      "pos": "RB",
-      "team": "SEA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": "Fresh negative availability/role signal",
-      "role_confidence": 58,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 5.11,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 176202,
-      "drops_24h": 48276,
-      "next_game": {
-        "week": 7,
-        "date": "2026-10-25",
-        "time": "20:20",
-        "home": "SEA",
-        "away": "KC",
-        "spread": 3.0,
-        "total": 42.5,
-        "opponent": "KC",
-        "home_game": true,
-        "implied_team_points": 19.8
-      }
-    },
     {
       "player_id": "5967",
       "name": "Tony Pollard",
@@ -62,11 +29,11 @@
         "time": "13:00",
         "home": "TEN",
         "away": "CLE",
-        "spread": -1.5,
+        "spread": -2.5,
         "total": 36.5,
         "opponent": "CLE",
         "home_game": true,
-        "implied_team_points": 19.0
+        "implied_team_points": 19.5
       }
     },
     {
@@ -87,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 13334,
-      "drops_24h": 17130,
+      "adds_24h": 16444,
+      "drops_24h": 22284,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -100,6 +67,39 @@
         "opponent": "PIT",
         "home_game": true,
         "implied_team_points": 23.2
+      }
+    },
+    {
+      "player_id": "11435",
+      "name": "Emanuel Wilson",
+      "pos": "RB",
+      "team": "SEA",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 5.11,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 215424,
+      "drops_24h": 65556,
+      "next_game": {
+        "week": 7,
+        "date": "2026-10-25",
+        "time": "20:20",
+        "home": "SEA",
+        "away": "KC",
+        "spread": 3.0,
+        "total": 42.5,
+        "opponent": "KC",
+        "home_game": true,
+        "implied_team_points": 19.8
       }
     },
     {
@@ -120,19 +120,19 @@
       "ceiling_2025": 19.62,
       "targets_pg": 7.18,
       "carries_pg": 0.0,
-      "adds_24h": 43124,
-      "drops_24h": 16792,
+      "adds_24h": 54116,
+      "drops_24h": 21472,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
         "time": "13:00",
         "home": "MIN",
         "away": "IND",
-        "spread": 6.5,
+        "spread": 7.0,
         "total": 41.5,
         "opponent": "MIN",
         "home_game": false,
-        "implied_team_points": 24.0
+        "implied_team_points": 24.2
       }
     },
     {
@@ -162,10 +162,10 @@
         "home": "ATL",
         "away": "SF",
         "spread": -2.5,
-        "total": 50.5,
+        "total": 49.5,
         "opponent": "ATL",
         "home_game": false,
-        "implied_team_points": 24.0
+        "implied_team_points": 23.5
       }
     },
     {
@@ -186,8 +186,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 90988,
-      "drops_24h": 15328,
+      "adds_24h": 123948,
+      "drops_24h": 0,
       "next_game": {
         "week": 7,
         "date": "2026-10-26",
