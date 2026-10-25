@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T06:25:53.564442+00:00",
+  "generated_at": "2026-10-25T11:53:06.181624+00:00",
   "league_id": "1388315713940262912",
-  "count": 5,
+  "count": 6,
   "players": [
     {
       "player_id": "11435",
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 176058,
-      "drops_24h": 44154,
+      "adds_24h": 176202,
+      "drops_24h": 48276,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -62,11 +62,11 @@
         "time": "13:00",
         "home": "TEN",
         "away": "CLE",
-        "spread": -2.5,
+        "spread": -1.5,
         "total": 36.5,
         "opponent": "CLE",
         "home_game": true,
-        "implied_team_points": 19.5
+        "implied_team_points": 19.0
       }
     },
     {
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 12334,
-      "drops_24h": 15670,
+      "adds_24h": 13334,
+      "drops_24h": 17130,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -120,8 +120,8 @@
       "ceiling_2025": 19.62,
       "targets_pg": 7.18,
       "carries_pg": 0.0,
-      "adds_24h": 41208,
-      "drops_24h": 15640,
+      "adds_24h": 43124,
+      "drops_24h": 16792,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -136,8 +136,8 @@
       }
     },
     {
-      "player_id": "2197",
-      "name": "Brandin Cooks",
+      "player_id": "4950",
+      "name": "Christian Kirk",
       "pos": "WR",
       "team": "SF",
       "depth": 1,
@@ -148,13 +148,13 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 3.99,
-      "floor_2025": 1.5,
-      "ceiling_2025": 5.56,
-      "targets_pg": 2.77,
+      "ppg_2025": 5.26,
+      "floor_2025": 1.6,
+      "ceiling_2025": 10.4,
+      "targets_pg": 4.73,
       "carries_pg": 0.0,
-      "adds_24h": 69236,
-      "drops_24h": 20784,
+      "adds_24h": 0,
+      "drops_24h": 0,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -165,6 +165,39 @@
         "total": 50.5,
         "opponent": "ATL",
         "home_game": false,
+        "implied_team_points": 24.0
+      }
+    },
+    {
+      "player_id": "13294",
+      "name": "Makai Lemon",
+      "pos": "WR",
+      "team": "PHI",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 90988,
+      "drops_24h": 15328,
+      "next_game": {
+        "week": 7,
+        "date": "2026-10-26",
+        "time": "20:15",
+        "home": "PHI",
+        "away": "DAL",
+        "spread": -4.5,
+        "total": 43.5,
+        "opponent": "DAL",
+        "home_game": true,
         "implied_team_points": 24.0
       }
     }
