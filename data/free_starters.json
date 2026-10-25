@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-10-25T01:25:31.821313+00:00",
+  "generated_at": "2026-10-25T06:25:53.564442+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
+    {
+      "player_id": "11435",
+      "name": "Emanuel Wilson",
+      "pos": "RB",
+      "team": "SEA",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": "Fresh negative availability/role signal",
+      "role_confidence": 58,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 5.11,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 176058,
+      "drops_24h": 44154,
+      "next_game": {
+        "week": 7,
+        "date": "2026-10-25",
+        "time": "20:20",
+        "home": "SEA",
+        "away": "KC",
+        "spread": 3.0,
+        "total": 42.5,
+        "opponent": "KC",
+        "home_game": true,
+        "implied_team_points": 19.8
+      }
+    },
     {
       "player_id": "5967",
       "name": "Tony Pollard",
@@ -54,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 11252,
-      "drops_24h": 13714,
+      "adds_24h": 12334,
+      "drops_24h": 15670,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -67,39 +100,6 @@
         "opponent": "PIT",
         "home_game": true,
         "implied_team_points": 23.2
-      }
-    },
-    {
-      "player_id": "11435",
-      "name": "Emanuel Wilson",
-      "pos": "RB",
-      "team": "SEA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 5.11,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 184554,
-      "drops_24h": 38970,
-      "next_game": {
-        "week": 7,
-        "date": "2026-10-25",
-        "time": "20:20",
-        "home": "SEA",
-        "away": "KC",
-        "spread": 3.0,
-        "total": 42.5,
-        "opponent": "KC",
-        "home_game": true,
-        "implied_team_points": 19.8
       }
     },
     {
@@ -120,8 +120,8 @@
       "ceiling_2025": 19.62,
       "targets_pg": 7.18,
       "carries_pg": 0.0,
-      "adds_24h": 39240,
-      "drops_24h": 13888,
+      "adds_24h": 41208,
+      "drops_24h": 15640,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -153,8 +153,8 @@
       "ceiling_2025": 5.56,
       "targets_pg": 2.77,
       "carries_pg": 0.0,
-      "adds_24h": 77576,
-      "drops_24h": 17144,
+      "adds_24h": 69236,
+      "drops_24h": 20784,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
