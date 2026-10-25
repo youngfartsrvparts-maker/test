@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 186.5,
+    "hours_to_lock": 184.6,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -18,9 +18,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 186.5,
+    "hours_to_lock": 184.6,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,9 +34,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 15.6,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -50,6 +50,12 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUh6d09yUnVRQl9XdEYyNWVESy1Zbk1MT2tXb19odVlWYXZndG5qMENlYVpaUW8xN1VsNDFnczJpb0k5MVlLR2RFYkNZSUN6SUNfTjJzaFdBeXc3blJfemx5cm5Za1dwT21mU1d1VnFabFh6Vmc3b1FncDNERFdreHdR?oc=5",
         "published": "2026-10-23T22:15:50+00:00",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "Quinshon Judkins Injury Update: Is Browns RB Playing in Week 7 vs. Titans? - PrizePicks",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1Z4NHE4Q095Z1BVekk0OHMtU1RubmFvUWpzYzFTaHJVMkQ0RTlZN0RDMTlFbEpyZFExTXQxb0VRVGdQTGVnaG5DdC11RE1pQ2YxVXlHSm9USER5Rk4yUEU5a1B2WURvc2liN0Q2R0RTUklHVkxBamNkWHVZQTZqU3RmM3hhcktZU1owN3c5blgxeFROSjNCN28yVlNVeTJhMnNoLTVlQndTWjE1ZlhadG0yOGdHQQ?oc=5",
+        "published": "2026-10-23T20:54:27+00:00",
+        "source": "PrizePicks"
       },
       {
         "title": "Fantasy Football Injury Impact: Quinshon Judkins Set To Return, While Dylan Sampson Remains Questionable - Sports Illustrated",
@@ -74,12 +80,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkNVczdyWDNKcUxaRzd3U1B0cFhEVzdrdzRNeG9fSF9taTlqZE5WZlNNLUxhbXBIN1ZTSHM1cWRQckVTam5wV29QNUF4ZmdTcy12YjFFOV9GZUV2LW9Ucm95dy1RcEJzY2xqSWhPTHl6T3E0T2R4aTRXcWE4Y3JCR29hdUtLQXZBeG5yNE9zQ0RtRUdw?oc=5",
         "published": "2026-10-22T21:39:37+00:00",
         "source": "Fantasy Footballers Podcast"
-      },
-      {
-        "title": "Quinshon Judkins Limited Again in Thursday's Practice - NFL News | Fantasy Football - RotoBaller",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWkN3X19iYW9FZmNQeGpkYUI0N0twRV95NVp5d0JwSk5LX3RmdnhLVUtTTVQyWk1XckZSby1qT2lJdjhHVW9HT0pXTU5wakR0WHgxM3QtS3ZtWFpwdjViUkVmcXhqdnlQbFBwcVN2Y3FHbWRCU3l5QW1mX0hCZWVrbTdwRjBiUmVaVTlscDNpbGoyRGhVOTh2WWRqNmZhOWFR?oc=5",
-        "published": "2026-10-22T21:18:11+00:00",
-        "source": "RotoBaller"
       }
     ],
     "reason": "Fantasy Football Injury Impact: Quinshon Judkins Set To Return, While Dylan Sampson Remains Questionable - Sports Illustrated"
@@ -87,9 +87,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.0,
+    "hours_to_lock": 12.1,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -103,9 +103,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 15.6,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,9 +156,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.0,
+    "hours_to_lock": 12.1,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -209,9 +209,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 15.6,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -225,9 +225,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.0,
+    "hours_to_lock": 12.1,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -241,9 +241,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 15.6,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -257,9 +257,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 48.8,
+    "hours_to_lock": 46.8,
     "kickoff_utc": "2026-10-27T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -273,9 +273,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -47.2,
+    "hours_to_lock": -49.2,
     "kickoff_utc": "2026-10-23T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -296,9 +296,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 15.6,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -312,9 +312,9 @@
   {
     "player_id": "9501",
     "name": "DeMario Douglas",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -47.2,
+    "hours_to_lock": -49.2,
     "kickoff_utc": "2026-10-23T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -328,9 +328,9 @@
   {
     "player_id": "96",
     "name": "Aaron Rodgers",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 14.0,
+    "hours_to_lock": 12.1,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -344,9 +344,9 @@
   {
     "player_id": "NYJ",
     "name": "New York Jets",
-    "generated_at": "2026-10-24T23:28:40.081721+00:00",
+    "generated_at": "2026-10-25T01:25:29.759709+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 17.5,
+    "hours_to_lock": 15.6,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
