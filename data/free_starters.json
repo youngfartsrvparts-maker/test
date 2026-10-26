@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:53:36.011619+00:00",
+  "generated_at": "2026-10-26T18:56:45.324734+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
@@ -22,7 +22,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 28788,
+      "drops_24h": 20192,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 179037,
-      "drops_24h": 77499,
+      "adds_24h": 78606,
+      "drops_24h": 36621,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -87,8 +87,8 @@
       "ceiling_2025": 19.62,
       "targets_pg": 7.18,
       "carries_pg": 0.0,
-      "adds_24h": 30728,
-      "drops_24h": 28272,
+      "adds_24h": 0,
+      "drops_24h": 21360,
       "next_game": {
         "week": 7,
         "date": "2026-10-25",
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 119592,
-      "drops_24h": 0,
+      "adds_24h": 58592,
+      "drops_24h": 12324,
       "next_game": {
         "week": 7,
         "date": "2026-10-26",
@@ -162,10 +162,10 @@
         "home": "PHI",
         "away": "DAL",
         "spread": -4.5,
-        "total": 43.5,
+        "total": 44.5,
         "opponent": "DAL",
         "home_game": true,
-        "implied_team_points": 24.0
+        "implied_team_points": 24.5
       }
     }
   ],

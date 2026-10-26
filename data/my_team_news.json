@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 149.1,
+    "hours_to_lock": 143.1,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -18,9 +18,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 149.1,
+    "hours_to_lock": 143.1,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,25 +34,62 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.9,
+    "hours_to_lock": -25.9,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 87,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "headlines": [
+      {
+        "title": "Final Injury Report for Browns-Titans: Will Quinshon Judkins, Calvin Ridley Play? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUp2STNwN0cxUEY1MGQxekowRERIRGpiWWhkSENtSzBWdXRlZXo4QndBaXJGS1NESUpvYjljcVNIc3BYXzZiTjI5T1NaLXFPb1QtakpmN01SRDd0bHU2ckd5R3kxNHY0dXdHNHd3a2lHNDNCaGRyZkR6OTYzVmZGN1J0NGxxNThGTkE?oc=5",
+        "published": "2026-10-25T14:00:00+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Should you start Quinshon Judkins in fantasy football in Week 7? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGM5VjVuVXJTd2dobjlGRXBpaUl3aklsNHVndmVpNDJSRGhrVDJ1WFp2c1YwcF9fTDNiT25qT3dqeFl0YmQ5Q3ZvSlRLLTZJZ0JzVDlEalNoYWEzbS1fWUdYZXNKUWhtX3pWS3BSNFp0VzUtV2lnT0xvVzJKSUpBd21EeXdCSmhneUhVRS1yenRqdw?oc=5",
+        "published": "2026-10-24T16:25:19+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Quinshon Judkins not on Week 7 injury report - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUh6d09yUnVRQl9XdEYyNWVESy1Zbk1MT2tXb19odVlWYXZndG5qMENlYVpaUW8xN1VsNDFnczJpb0k5MVlLR2RFYkNZSUN6SUNfTjJzaFdBeXc3blJfemx5cm5Za1dwT21mU1d1VnFabFh6Vmc3b1FncDNERFdreHdR?oc=5",
+        "published": "2026-10-23T22:15:50+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Fantasy Football Injury Impact: Quinshon Judkins Set To Return, While Dylan Sampson Remains Questionable - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeEFyc0Rldkw4ZlpGanEwTE5qYjhMNTRFemVVVHZOWGI1c3NrbUVTcFU2eXVWMjJfdFltVG00NFpUUGgxSG1YYXl4UUVVQS12eU5fN2VrbmR6ODQwZGplU1FLaUI5bXY5bnpwbFlycW90TjdSRnNlNldtckU5YVVHVVVabjlMTzBVQkVwMTd4endud2RmTXliMms2M21RcUVycjBkeUF3OWhUUEtndEtiT3FkQ1VaVmFkNWRDcnFCSnhOWVRqMkZKYy1lZmtsblI1dVRzTGxnT3JGa2s?oc=5",
+        "published": "2026-10-23T19:25:56+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Browns DT Mason Graham, RB Quinshon Judkins to play Sunday against Titans - News 5 Cleveland WEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmJKUTBxUzJWLXU1WEN2WDJSaDVNM2ZDUF9lbVNJU1h5UWl3djAxQjFXTm84MERCNnNLWkJFV3dNdU9Idnd2SURhbHVhZklXWHZGb1FoaVk5MUM2aHVpNkdKcHV0ell0dkRpbm9nUWRLR1V4QXZzTHlGaDViYzdqLTZJaDdUUmVSMTNfam9lTnRQMTRKQ1pybmY5U3RwZWQwUVV3OVdrTFYxMUlwRlhvd3VsQy1TWDR4?oc=5",
+        "published": "2026-10-23T17:56:18+00:00",
+        "source": "News 5 Cleveland WEWS"
+      },
+      {
+        "title": "Quinshon Judkins limited at practice again - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd1VBXzJGYS1HVXZnQm9JOGNLNDlfcjVocGJac3poaG9EZHdDYkc3czhmaDZoa0xnVmZpZnBvMlVSUEhqNldrZnRXa1FvNGNzRms4RkM3ei1RX19PNVF6VUhXNXg2TXplWmozYnlaWXJ4bXhJaUt0b0NaeGJZUlZra2hyZUd6c0xXa0lDVlhyTmJWUQ?oc=5",
+        "published": "2026-10-23T00:21:00+00:00",
+        "source": "Yahoo Sports"
+      }
+    ],
+    "reason": "Fantasy Football Injury Impact: Quinshon Judkins Set To Return, While Dylan Sampson Remains Questionable - Sports Illustrated"
   },
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.4,
+    "hours_to_lock": -29.4,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -66,41 +103,103 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.9,
+    "hours_to_lock": -25.9,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 73,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Denzel Boston on track to play in Week 7 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkZfNU05aExmb051TGQtNERCcDVGeW9LQmRJZExYeFRyaU0zd3ZuRmMyZVhyTnFuRDNMQ0JBYndCUGk1VEpvc2pMSFVWNmxkU0drS0E3TFN4WWRfaEJMM3VTQU41cUY2QjloNUE3MlVsRlprVmJXZ00xemxsSmVKYUtWbWM?oc=5",
+        "published": "2026-10-23T21:54:36+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Denzel Boston off Week 7 injury report - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWx3Ym5DYUhvWmpJM09OcDVGRERGeDZBLUwwc2EzRHB6MG5MOEQ0VU5kb1lHMzcyeE1OZEN5SzdrMGRMV04zU3dkdTYySXlHT3A3ZUJUQTdpOXllY1ZJVmI4QUNXem5RNVRsWTVCeXJQejlLLTFPYkVhY1Q0VGNsTHE4STkyTldBd2NxTnJDWjYtenJBaF9JYzh6Vi1wUnNMc19ZV2RlZw?oc=5",
+        "published": "2026-10-23T17:44:00+00:00",
+        "source": "NBC Sports"
+      },
+      {
+        "title": "Denzel Boston listed as limited again - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTd3N3Nzam9sRzJFX0dIZUZ2OXBVeTlnQTYxUFJQTnJ4TVNMV0pMVk9wQ05rM1I5UU5rWnpDY0RZVjRBNVk1Zk5IaTdJaWVicUV6XzJlSFdMclVKbWtiMEdtc1FJN1Mxd2k1dmN5c3hyTVcydWN6OEpfQktaOXZYa1ZXZjhkQWt5b3pR?oc=5",
+        "published": "2026-10-23T00:05:00+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Denzel Boston Limited again Thursday - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkJxNWhwT0h5ZURtQlJiczFyZm9IbGZocnp3Y3RsaEF2eVkzUnQzMnpwVVlfZDU2RzdQTDBUQ2ExMXk3eUlPTVhvWDVKeU9qemFYeGFobkswc2M5YnhIZC05dkMyREhqM3VFVGo0VWVuaFpGVmFwZlJGR0pZaWgzV01HLUF2bUJDRWU2bHU0cjE?oc=5",
+        "published": "2026-10-22T21:40:36+00:00",
+        "source": "Fantasy Footballers Podcast"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.4,
+    "hours_to_lock": -29.4,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 87,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Final Injury Report for Steelers-Saints: Will T.J. Watt, Alvin Kamara Play? - Athlon Sports",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSElRNWJTYlV3dmxYMzlfRllDSE12bVN4by1FcHAzdTNpMHVCT1N1eVptQ25kZk9YSlRBUzNwTHJyNmdPeTV4QzhQY1MyYUd1cHhWLTFmcmV0bFhNYlJlQ0RPYzkwT0NENmliMU1aWm5lOFJiLVNtS3dyamFITzFqUE1LNXFtOF8zMW03eGNzN3YtaENIV1ZKX2s5LXdkNWxBd2YxdUdUSzZjcWNQMnc?oc=5",
+        "published": "2026-10-25T10:30:00+00:00",
+        "source": "Athlon Sports"
+      },
+      {
+        "title": "Alvin Kamara not on injury report for Week 7 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnR0eHU5ZlhaNlB6WDJ4SnVxMVczdWxPU093MEhqSHVDeUN0bUNXR2VVS3l2YTZ1bHQtdU50NWxiTE1KdjhsY1lVeGQzZmpoV3N4bWN6SjNJMGRoTkZNbjZnd0dza2lGTUFMYl9vWDJoNDZWOTNnbERCMmZ0aDdsSS11Tkd6Zw?oc=5",
+        "published": "2026-10-23T18:21:14+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Saints Hit With Concerning Alvin Kamara Injury Update Before Historic Paris Game - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzI1X09vcTZXMHd3NFBxVW82ZWhXWkJQNWdBTUx4UTY2cmQxc0FDNm1aSjg2M2NvOHRxbHBkR01hX2E5eHBuRUhSVDRjMXB3YlUzQ3dmWWFhQ1FWVjBfZ2JEeEh1U0dLYkZudUY4aG9fbG9sMm9nTnhQQ21VREFsNWtCQktEMWQ4d0Zxal96MVY2LS1tbkJMQldJVzQtTDRH?oc=5",
+        "published": "2026-10-23T12:53:11+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Alvin Kamara remains limited in practice, Spencer Rattler added to report - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXNjanhxS0phRzFPcW9RUUJXSXU5TFJuUmtjVkxHOWtmN2l4Qk9NQUxHNUQ1UzVkOWFLY1BKUlIzcGNRdGxuVmFMcU5RbElYWi1OZEZrdkZ4bkFhZTM2eG1CS0hyVFczS2l0QUxCNHB2MFlhLUZRTUlnSEt6QmdvMk5Ia0c2QlpyYU94bVNyS1l1UGpLSEZrNV9nMktuczQ0cGUtZW4xZk40akdmM3MzS0gxeEFuemZVaGZRVlNETVZraFVYNG5DLXNSRGFReUE?oc=5",
+        "published": "2026-10-22T20:24:07+00:00",
+        "source": "NBC Sports"
+      },
+      {
+        "title": "Alvin Kamara (back) limited participant Thursday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbE1lZDVYSjl5eDhtNDJMcWNxTE1ETndBVVU4YndFZEpYVnlmbVlGLUtYbkYtR05VV3NYRklsbkxyb2dtWV90VzEwMnpDMklQR0J1Y3A3VllVZ042SDBiUGhWem54OS1qYlpOWWJxMGlrWkhIUXNRSGRPZWh5NllMVDJFUzhubFNOdFZiQmFWZGtha2ZNSW5nYmZ30gGfAUFVX3lxTE5WU1NzUXVDTjhzOThsQTdUcVdyYXIyaTFJLTBlSHhnWGV5RjNrS1FyNGtsb1YyMFlXODR3VHU5SlBOS2RPZ2JlcmxLam5UVnNMTXZMSjNoU1hUZWRVSFJSdVNrT2hOdFNzNkM0a2hQa1ZmcHF3Q2pUejBNaGZMXzdUNlFVaGxvak5UX1RXc3dFYlJhNmZtU0Z0TjhLc25zOA?oc=5",
+        "published": "2026-10-22T19:43:16+00:00",
+        "source": "FantasyPros"
+      },
+      {
+        "title": "Alvin Kamara Injury: Limited again Thursday - RotoWire",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTROUFZoYm1FQmktRnJNWjZTdzJxN3JqbDUxa0R2UHZ2VHd4QlVwMmMydmg2LV90VF9xV0VIUWdaSFg5Q21NUFJJTVU0V21VUFBkamppMVFmeW1icnJwRllWOWx1a3BhQWdnSVYxNlJBSl9nQ2JDbFpIMWl0N2s5TUp1ZFBqREFqQklWMjlkdkZueExsc2VYMw?oc=5",
+        "published": "2026-10-22T19:38:45+00:00",
+        "source": "RotoWire"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.9,
+    "hours_to_lock": -25.9,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -114,9 +213,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.4,
+    "hours_to_lock": -29.4,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -130,9 +229,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.9,
+    "hours_to_lock": -25.9,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -146,9 +245,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 11.4,
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 5.3,
     "kickoff_utc": "2026-10-27T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -162,9 +261,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -84.6,
+    "hours_to_lock": -90.7,
     "kickoff_utc": "2026-10-23T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -178,9 +277,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.9,
+    "hours_to_lock": -25.9,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -194,9 +293,9 @@
   {
     "player_id": "9501",
     "name": "DeMario Douglas",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -84.6,
+    "hours_to_lock": -90.7,
     "kickoff_utc": "2026-10-23T00:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -210,9 +309,9 @@
   {
     "player_id": "96",
     "name": "Aaron Rodgers",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -23.4,
+    "hours_to_lock": -29.4,
     "kickoff_utc": "2026-10-25T13:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -226,9 +325,9 @@
   {
     "player_id": "NYJ",
     "name": "New York Jets",
-    "generated_at": "2026-10-26T12:53:15.097028+00:00",
+    "generated_at": "2026-10-26T18:56:43.495171+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -19.9,
+    "hours_to_lock": -25.9,
     "kickoff_utc": "2026-10-25T17:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
