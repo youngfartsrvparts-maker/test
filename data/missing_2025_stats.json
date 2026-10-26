@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T06:07:33.678079+00:00",
+  "generated_at": "2026-10-26T12:53:05.967548+00:00",
   "season": "2025",
-  "missing_count": 723,
+  "missing_count": 722,
   "players": [
     {
       "player_id": "11533",
@@ -1387,15 +1387,6 @@
       "team": "PHI",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "13199",
-      "name": "Montorie Foster Jr.",
-      "pos": "WR",
-      "team": "SEA",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
