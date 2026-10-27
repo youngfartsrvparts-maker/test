@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -18,9 +18,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -34,13 +34,13 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 87,
+    "confidence": 80,
     "label": "Some availability risk",
     "injury": null,
     "practice": null,
@@ -74,12 +74,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeEFyc0Rldkw4ZlpGanEwTE5qYjhMNTRFemVVVHZOWGI1c3NrbUVTcFU2eXVWMjJfdFltVG00NFpUUGgxSG1YYXl4UUVVQS12eU5fN2VrbmR6ODQwZGplU1FLaUI5bXY5bnpwbFlycW90TjdSRnNlNldtckU5YVVHVVVabjlMTzBVQkVwMTd4endud2RmTXliMms2M21RcUVycjBkeUF3OWhUUEtndEtiT3FkQ1VaVmFkNWRDcnFCSnhOWVRqMkZKYy1lZmtsblI1dVRzTGxnT3JGa2s?oc=5",
         "published": "2026-10-23T19:25:56+00:00",
         "source": "Sports Illustrated"
-      },
-      {
-        "title": "Browns DT Mason Graham, RB Quinshon Judkins to play Sunday against Titans - News 5 Cleveland WEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmJKUTBxUzJWLXU1WEN2WDJSaDVNM2ZDUF9lbVNJU1h5UWl3djAxQjFXTm84MERCNnNLWkJFV3dNdU9Idnd2SURhbHVhZklXWHZGb1FoaVk5MUM2aHVpNkdKcHV0ell0dkRpbm9nUWRLR1V4QXZzTHlGaDViYzdqLTZJaDdUUmVSMTNfam9lTnRQMTRKQ1pybmY5U3RwZWQwUVV3OVdrTFYxMUlwRlhvd3VsQy1TWDR4?oc=5",
-        "published": "2026-10-23T17:56:18+00:00",
-        "source": "News 5 Cleveland WEWS"
       }
     ],
     "reason": "Fantasy Football Injury Impact: Quinshon Judkins Set To Return, While Dylan Sampson Remains Questionable - Sports Illustrated"
@@ -87,9 +81,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 292.8,
+    "hours_to_lock": 287.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -103,13 +97,13 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 59,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -119,12 +113,6 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkZfNU05aExmb051TGQtNERCcDVGeW9LQmRJZExYeFRyaU0zd3ZuRmMyZVhyTnFuRDNMQ0JBYndCUGk1VEpvc2pMSFVWNmxkU0drS0E3TFN4WWRfaEJMM3VTQU41cUY2QjloNUE3MlVsRlprVmJXZ00xemxsSmVKYUtWbWM?oc=5",
         "published": "2026-10-23T21:54:36+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Denzel Boston off Week 7 injury report - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWx3Ym5DYUhvWmpJM09OcDVGRERGeDZBLUwwc2EzRHB6MG5MOEQ0VU5kb1lHMzcyeE1OZEN5SzdrMGRMV04zU3dkdTYySXlHT3A3ZUJUQTdpOXllY1ZJVmI4QUNXem5RNVRsWTVCeXJQejlLLTFPYkVhY1Q0VGNsTHE4STkyTldBd2NxTnJDWjYtenJBaF9JYzh6Vi1wUnNMc19ZV2RlZw?oc=5",
-        "published": "2026-10-23T17:44:00+00:00",
-        "source": "NBC Sports"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -132,13 +120,13 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 292.8,
+    "hours_to_lock": 287.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 59,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -148,12 +136,6 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSElRNWJTYlV3dmxYMzlfRllDSE12bVN4by1FcHAzdTNpMHVCT1N1eVptQ25kZk9YSlRBUzNwTHJyNmdPeTV4QzhQY1MyYUd1cHhWLTFmcmV0bFhNYlJlQ0RPYzkwT0NENmliMU1aWm5lOFJiLVNtS3dyamFITzFqUE1LNXFtOF8zMW03eGNzN3YtaENIV1ZKX2s5LXdkNWxBd2YxdUdUSzZjcWNQMnc?oc=5",
         "published": "2026-10-25T10:30:00+00:00",
         "source": "Athlon Sports"
-      },
-      {
-        "title": "Alvin Kamara not on injury report for Week 7 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnR0eHU5ZlhaNlB6WDJ4SnVxMVczdWxPU093MEhqSHVDeUN0bUNXR2VVS3l2YTZ1bHQtdU50NWxiTE1KdjhsY1lVeGQzZmpoV3N4bWN6SjNJMGRoTkZNbjZnd0dza2lGTUFMYl9vWDJoNDZWOTNnbERCMmZ0aDdsSS11Tkd6Zw?oc=5",
-        "published": "2026-10-23T18:21:14+00:00",
-        "source": "Yahoo Sports"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -161,9 +143,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 295.9,
+    "hours_to_lock": 290.4,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -177,9 +159,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -193,9 +175,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -209,9 +191,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -225,9 +207,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 156.1,
+    "hours_to_lock": 150.6,
     "kickoff_utc": "2026-11-03T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -241,9 +223,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -257,9 +239,9 @@
   {
     "player_id": "9501",
     "name": "DeMario Douglas",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 128.2,
+    "hours_to_lock": 122.7,
     "kickoff_utc": "2026-11-01T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -273,9 +255,9 @@
   {
     "player_id": "96",
     "name": "Aaron Rodgers",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -289,9 +271,9 @@
   {
     "player_id": "NYJ",
     "name": "New York Jets",
-    "generated_at": "2026-10-27T13:10:10.829468+00:00",
+    "generated_at": "2026-10-27T18:40:21.224301+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.8,
+    "hours_to_lock": 119.3,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
