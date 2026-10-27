@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T07:02:59.762183+00:00",
+  "generated_at": "2026-10-27T13:10:12.892049+00:00",
   "league_id": "1388315713940262912",
-  "count": 5,
+  "count": 3,
   "players": [
     {
       "player_id": "9757",
@@ -22,7 +22,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 29860,
+      "drops_24h": 51424,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -34,72 +34,6 @@
         "opponent": "CLE",
         "home_game": true,
         "implied_team_points": null
-      }
-    },
-    {
-      "player_id": "11435",
-      "name": "Emanuel Wilson",
-      "pos": "RB",
-      "team": "SEA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 5.11,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 72675,
-      "drops_24h": 18468,
-      "next_game": {
-        "week": 8,
-        "date": "2026-11-02",
-        "time": "20:15",
-        "home": "SEA",
-        "away": "CHI",
-        "spread": 3.0,
-        "total": 46.5,
-        "opponent": "CHI",
-        "home_game": true,
-        "implied_team_points": 21.8
-      }
-    },
-    {
-      "player_id": "1479",
-      "name": "Keenan Allen",
-      "pos": "WR",
-      "team": "IND",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 10.75,
-      "floor_2025": 6.7,
-      "ceiling_2025": 19.62,
-      "targets_pg": 7.18,
-      "carries_pg": 0.0,
-      "adds_24h": 0,
-      "drops_24h": 24496,
-      "next_game": {
-        "week": 8,
-        "date": "2026-11-01",
-        "time": "13:00",
-        "home": "JAX",
-        "away": "IND",
-        "spread": 7.5,
-        "total": 46.5,
-        "opponent": "JAX",
-        "home_game": false,
-        "implied_team_points": 27.0
       }
     },
     {
@@ -153,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 68408,
-      "drops_24h": 11048,
+      "adds_24h": 91100,
+      "drops_24h": 0,
       "next_game": {
         "week": 8,
         "date": "2026-11-01",

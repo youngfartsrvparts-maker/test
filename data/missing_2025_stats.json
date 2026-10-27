@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T07:02:56.865761+00:00",
+  "generated_at": "2026-10-27T13:10:09.756937+00:00",
   "season": "2025",
-  "missing_count": 722,
+  "missing_count": 723,
   "players": [
     {
       "player_id": "11533",
@@ -163,6 +163,15 @@
       "team": "ATL",
       "sleeper_gsis_id": null,
       "rookie_year": "2021",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11304",
+      "name": "E.J. Jenkins",
+      "pos": "TE",
+      "team": "ATL",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3805,7 +3814,7 @@
       "player_id": "12062",
       "name": "Cam Grandy",
       "pos": "TE",
-      "team": "MIN",
+      "team": "CIN",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
