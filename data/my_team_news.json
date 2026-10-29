@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -13,6 +13,12 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Dalton Kincaid Week 8 Outlook - Ravens at Bills - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUJQSmhaZlV0M25fUlJfdjZzdHBwQzBoYTFObHRULTg4T3NaUGt6RlN3TmRfSEpEcm5RNW5VeEFmSVVxZWN3eG1kbzBkQk1HRWtMZHlRN2RmSWtXcWROVFB2dndQbDVZR3lSaE92UEoyNUVFVmRHLWZWXzBPR3MyenRVMnFwQm9FVjdn0gGQAUFVX3lxTE5QUHl1RTIyMElXTWZXd3FOMkFiRk9NYlo2NzB6a3lQR04zZGkwV0JQd0Z5Q1NiNGFNUDQ4dkpyWkI2ZjJNdzRNNm9mRDI4UmlmRFFIVWRIV1BWTUExMFU2UkdjdGlId245QTFhb2EyNlJRM2tGeTdsOTducVAtQXNhUlZCVjNFeE1KekRaak5oXw?oc=5",
+        "published": "2026-10-29T17:35:00+00:00",
+        "source": "FantasyPros"
+      },
       {
         "title": "Bills' Injury Report (Ravens Week): Dalton Kincaid, DJ Moore Limited Wednesday - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYk1WdWdaRXNKQ0tRbWxON3FPeUxHRmttaFlVX0Y1NXBnU0lSQnowd296aVdxUUlmOHdId2wxMllZZTZzQjBYQ0pVazBYS3JxajBoa0EzSlhTVDdBb0tZZXRBN0ItUG90YmFmSjVqZENuM3pqVXdZelJ6MmNabHV6YU5zMUhBM0p2eFduSDdLVkpzSFRrZHpZVFU3V2l5RTY4Qzh2OFhtS01VRGJVN3c?oc=5",
@@ -42,12 +48,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1Q4Ul9RRzA1N1hHNTdwalJsSkY3aHFxQzZ6cVVndUdYYVVXUTB6YkwtNGlqNjJmTUpmUldyYlN3dDNremZpSTI4c2FLNW8tNmxOTTRZeXFuT1N0dkpRYkdLWTE3bHpWOU5heE80ZmFWTDBiOHlyVGJnWkZlTFhyczhGSENYUlJLekI3SVJhZkdYZw?oc=5",
         "published": "2026-10-28T22:10:21+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Dalton Kincaid Injury: Limited to begin Week 8 - RotoWire",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGdqWDVRU3RIRTRwVnd3TjdDVldoMF9NTnUzdWNzbXE1ZnNnSVBJbjVjSFVTcGtsLXZDRUxlaXZGOGZDT1FVQ0w2c1F2MDJHRlVkbzVEU20zcWN2UFpXYUdfV0tZQ0k2SDJhQmJLUDRxa0wtNWktQzdSOUlqX3pKalY1SUwtREdNeFZtSjA1V0hxTDNlcXFXQmZFblM?oc=5",
-        "published": "2026-10-28T21:43:44+00:00",
-        "source": "RotoWire"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -55,9 +55,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -71,9 +71,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -87,9 +87,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 241.9,
+    "hours_to_lock": 236.9,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -103,9 +103,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -119,9 +119,9 @@
   {
     "player_id": "1479",
     "name": "Keenan Allen",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -135,9 +135,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 241.9,
+    "hours_to_lock": 236.9,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -151,9 +151,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 245.0,
+    "hours_to_lock": 240.0,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -167,9 +167,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -183,9 +183,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -199,9 +199,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -215,9 +215,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 105.2,
+    "hours_to_lock": 100.2,
     "kickoff_utc": "2026-11-03T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -231,32 +231,25 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Drake London injury update: Latest news on Falcons WR’s status in Week 7 game - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaW01QUItYjhSa0RiMDk3N2puaWFEcDRsUVhSM25kdl85bFhhZ0NzR3RwWnFUT1N4VU9PbDVrTXJ6VVpKTU94WEFHRlRuT2Vpd25ZYVNKZUd5QkFDU0JpcERYalJHWUk1dGgxdXByZDBUdVBJYi1YUmNVc2U0amVKNHRNQWp6U2c?oc=5",
-        "published": "2026-10-25T19:00:46+00:00",
-        "source": "Yahoo Sports"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "96",
     "name": "Aaron Rodgers",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -270,9 +263,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-10-29T16:04:46.433921+00:00",
+    "generated_at": "2026-10-29T21:05:13.355417+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 73.9,
+    "hours_to_lock": 68.9,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
