@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:51:15.758207+00:00",
+  "generated_at": "2026-10-29T09:07:06.878192+00:00",
   "league_id": "1388315713940262912",
   "count": 2,
   "players": [
@@ -22,7 +22,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 116824,
+      "drops_24h": 84566,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
