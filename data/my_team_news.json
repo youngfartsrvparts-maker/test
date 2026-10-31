@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -32,10 +32,10 @@
         "source": "Sports Illustrated"
       },
       {
-        "title": "Questionable tag for Dalton Kincaid - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU0U2dGtWMm1HazVCeFFqNnAxbVNjYUpfdkQ3eDB5S3g5TjRTaG4tLUxQV0JyWEU3emlYc204QjlRQUpEZWpFeDF1RVhWem0tdDJ1ZTVMbl80YWxyZnhNNFc4YVY4TDlOdm53UDB2YjVIWko1dlpuVE5DU082T29lLUt0TDRGdw?oc=5",
+        "title": "Questionable tag for Dalton Kincaid - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2g3NlBlOEhROHJxd2M3QUtwQk4zZzRXeDVtZTN0Tk42ZnV2YXA4T1BzbmJvMHExX0REbVpHSmx0Q0dZOFZlSGxIMFJrNFlJM2dVc2k0UDNDU1U5WTZBaUF5S0NyVzQxcml6WnUzVEtna2tZalhDaGVQQzY1YV9hUw?oc=5",
         "published": "2026-10-30T19:23:05+00:00",
-        "source": "Yahoo"
+        "source": "AOL.com"
       },
       {
         "title": "Dalton Kincaid, DJ Moore Questionable as Bills Prepare for a Healthy Lamar Jackson - Yahoo Sports",
@@ -44,10 +44,10 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "DJ Moore, Dalton Kincaid, Spencer Brown among Bills questionable for Week 8 - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLW82cjVDd25fZThDN25MMjdUVVdmYVhvTUZmYm9CRl9CVzBTd3hKQnkxbmhtSWhVS1I3TTcwSW1ab0lsUGFXeXcwTHM5OHlaZGxOeE1LOGJyQmVGQlZEakdDYzFKbzEzZEREVzRINUR6N00zUy1RT0VjTU94ZTJGaU94VkRwaGM4TV9xMXVFQ2RsNDZQcjJVYXJocXVONHBfTTZaTVNMOU1pWHhDdjhiaENLdGJVSmt3WFhpOTd6cnE2cmVJdVg5UkxSU2tHQjN3?oc=5",
-        "published": "2026-10-30T18:15:41+00:00",
-        "source": "NBC Sports"
+        "title": "DJ Moore, Dalton Kincaid, Spencer Brown among Bills questionable for Week 8 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1NFNWZKanBLam1wc2RfUW9XOGlmcFFGVnlUbzV3dUxCMnpWWTVjTTk4S2lWTWsxSE1xU0tFcVIxVnoyT3Y1M2NYamxrcjR2S3pDM2RrWTRlY0JlVk9oMk9JWFpiYVlzWEJtZzQyNTAwQXBRbG0xdFVJUnhqWm8ySlJnSV83YmM?oc=5",
+        "published": "2026-10-30T18:14:56+00:00",
+        "source": "Yahoo Sports"
       }
     ],
     "reason": "Brady: Dalton Kincaid questionable for Week 8 - NBC Sports"
@@ -55,9 +55,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -71,9 +71,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -87,9 +87,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 208.2,
+    "hours_to_lock": 202.2,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -103,9 +103,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -119,9 +119,9 @@
   {
     "player_id": "1479",
     "name": "Keenan Allen",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -135,9 +135,9 @@
   {
     "player_id": "4035",
     "name": "Alvin Kamara",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 208.2,
+    "hours_to_lock": 202.2,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -151,9 +151,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 211.2,
+    "hours_to_lock": 205.3,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -167,9 +167,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -183,9 +183,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -199,9 +199,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -215,9 +215,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 71.4,
+    "hours_to_lock": 65.5,
     "kickoff_utc": "2026-11-03T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -231,9 +231,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -247,9 +247,9 @@
   {
     "player_id": "96",
     "name": "Aaron Rodgers",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -263,9 +263,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-10-31T01:50:14.663060+00:00",
+    "generated_at": "2026-10-31T07:45:13.464446+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.2,
+    "hours_to_lock": 34.2,
     "kickoff_utc": "2026-11-01T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
