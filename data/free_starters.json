@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T00:32:41.805801+00:00",
+  "generated_at": "2026-11-01T06:49:53.053489+00:00",
   "league_id": "1388315713940262912",
   "count": 6,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 16593,
+      "adds_24h": 16623,
       "drops_24h": 0,
       "next_game": {
         "week": 8,
@@ -55,7 +55,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 14278,
+      "drops_24h": 15118,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -87,19 +87,19 @@
       "ceiling_2025": 15.96,
       "targets_pg": 5.67,
       "carries_pg": 0.0,
-      "adds_24h": 82158,
-      "drops_24h": 8490,
+      "adds_24h": 79674,
+      "drops_24h": 8970,
       "next_game": {
         "week": 8,
         "date": "2026-11-01",
         "time": "13:00",
         "home": "TB",
         "away": "ATL",
-        "spread": 2.5,
+        "spread": 1.5,
         "total": 43.5,
         "opponent": "ATL",
         "home_game": true,
-        "implied_team_points": 20.5
+        "implied_team_points": 21.0
       }
     },
     {
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 26272,
-      "drops_24h": 22440,
+      "adds_24h": 25000,
+      "drops_24h": 23480,
       "next_game": {
         "week": 8,
         "date": "2026-11-01",
@@ -186,7 +186,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 127916,
+      "adds_24h": 117648,
       "drops_24h": 0,
       "next_game": {
         "week": 8,
