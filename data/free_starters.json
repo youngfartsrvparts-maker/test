@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:55:24.490264+00:00",
+  "generated_at": "2026-11-01T18:41:08.705228+00:00",
   "league_id": "1388315713940262912",
   "count": 6,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 18801,
+      "adds_24h": 29361,
       "drops_24h": 0,
       "next_game": {
         "week": 8,
@@ -29,11 +29,11 @@
         "time": "20:20",
         "home": "WAS",
         "away": "PHI",
-        "spread": 6.5,
+        "spread": 6.0,
         "total": 40.5,
         "opponent": "PHI",
         "home_game": true,
-        "implied_team_points": 17.0
+        "implied_team_points": 17.2
       }
     },
     {
@@ -55,18 +55,18 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 16890,
+      "drops_24h": 26076,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
         "time": "13:00",
         "home": "NO",
         "away": "CLE",
-        "spread": 2.5,
-        "total": 43.5,
+        "spread": null,
+        "total": null,
         "opponent": "CLE",
         "home_game": true,
-        "implied_team_points": 20.5
+        "implied_team_points": null
       }
     },
     {
@@ -87,8 +87,8 @@
       "ceiling_2025": 15.96,
       "targets_pg": 5.67,
       "carries_pg": 0.0,
-      "adds_24h": 87756,
-      "drops_24h": 10104,
+      "adds_24h": 120216,
+      "drops_24h": 0,
       "next_game": {
         "week": 8,
         "date": "2026-11-01",
@@ -96,10 +96,10 @@
         "home": "TB",
         "away": "ATL",
         "spread": 2.5,
-        "total": 43.5,
+        "total": 42.5,
         "opponent": "ATL",
         "home_game": true,
-        "implied_team_points": 20.5
+        "implied_team_points": 20.0
       }
     },
     {
@@ -128,11 +128,11 @@
         "time": "16:05",
         "home": "SF",
         "away": "LV",
-        "spread": 10.0,
-        "total": 48.5,
+        "spread": null,
+        "total": null,
         "opponent": "LV",
         "home_game": true,
-        "implied_team_points": 19.2
+        "implied_team_points": null
       }
     },
     {
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 26904,
-      "drops_24h": 25960,
+      "adds_24h": 36072,
+      "drops_24h": 40832,
       "next_game": {
         "week": 8,
         "date": "2026-11-01",
@@ -162,10 +162,10 @@
         "home": "MIA",
         "away": "NE",
         "spread": -7.0,
-        "total": 43.5,
+        "total": 41.5,
         "opponent": "NE",
         "home_game": true,
-        "implied_team_points": 25.2
+        "implied_team_points": 24.2
       }
     },
     {
@@ -186,7 +186,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 125792,
+      "adds_24h": 157972,
       "drops_24h": 0,
       "next_game": {
         "week": 8,
@@ -194,11 +194,11 @@
         "time": "20:20",
         "home": "WAS",
         "away": "PHI",
-        "spread": 6.5,
+        "spread": 6.0,
         "total": 40.5,
         "opponent": "WAS",
         "home_game": false,
-        "implied_team_points": 23.5
+        "implied_team_points": 23.2
       }
     }
   ],
