@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:56:26.988113+00:00",
+  "generated_at": "2026-11-03T15:42:49.605767+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
@@ -22,7 +22,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 13402,
+      "drops_24h": 24518,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -55,7 +55,7 @@
       "targets_pg": 5.67,
       "carries_pg": 0.0,
       "adds_24h": 0,
-      "drops_24h": 55026,
+      "drops_24h": 95160,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -120,7 +120,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 59112,
+      "adds_24h": 142136,
       "drops_24h": 0,
       "next_game": {
         "week": 9,
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 10080,
-      "drops_24h": 16084,
+      "adds_24h": 10464,
+      "drops_24h": 33572,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -162,10 +162,10 @@
         "home": "PHI",
         "away": "NYG",
         "spread": -3.5,
-        "total": 40.5,
+        "total": 39.5,
         "opponent": "NYG",
         "home_game": true,
-        "implied_team_points": 22.0
+        "implied_team_points": 21.5
       }
     }
   ],
