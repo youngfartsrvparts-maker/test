@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T15:42:49.605767+00:00",
+  "generated_at": "2026-11-03T21:16:14.753669+00:00",
   "league_id": "1388315713940262912",
-  "count": 5,
+  "count": 6,
   "players": [
     {
       "player_id": "9757",
@@ -21,19 +21,52 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 24518,
+      "adds_24h": 24804,
+      "drops_24h": 30132,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
         "time": "13:00",
         "home": "NO",
         "away": "CLE",
-        "spread": 2.5,
-        "total": 43.5,
+        "spread": 1.5,
+        "total": 42.5,
         "opponent": "CLE",
         "home_game": true,
         "implied_team_points": 20.5
+      }
+    },
+    {
+      "player_id": "8126",
+      "name": "Wan'Dale Robinson",
+      "pos": "WR",
+      "team": "TEN",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 10.21,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 10,
+        "date": "2026-11-15",
+        "time": "13:00",
+        "home": "TEN",
+        "away": "JAX",
+        "spread": -9.5,
+        "total": 44.5,
+        "opponent": "JAX",
+        "home_game": true,
+        "implied_team_points": 27.0
       }
     },
     {
@@ -55,7 +88,7 @@
       "targets_pg": 5.67,
       "carries_pg": 0.0,
       "adds_24h": 0,
-      "drops_24h": 95160,
+      "drops_24h": 142548,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -120,7 +153,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 142136,
+      "adds_24h": 231456,
       "drops_24h": 0,
       "next_game": {
         "week": 9,
@@ -153,8 +186,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 10464,
-      "drops_24h": 33572,
+      "adds_24h": 0,
+      "drops_24h": 56836,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
