@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T18:37:32.647906+00:00",
+  "generated_at": "2026-11-03T01:15:03.649157+00:00",
   "season": "2025",
-  "missing_count": 725,
+  "missing_count": 728,
   "players": [
     {
       "player_id": "11533",
@@ -614,6 +614,15 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "11931",
+      "name": "Austin Reed",
+      "pos": "QB",
+      "team": "BAL",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "13421",
@@ -3082,6 +3091,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "13923",
+      "name": "Joshua Pitsenberger",
+      "pos": "RB",
+      "team": "HOU",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
       "player_id": "9509",
       "name": "Bijan Robinson",
       "pos": "RB",
@@ -4006,6 +4024,15 @@
       "team": "HOU",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "10223",
+      "name": "Eric Gray",
+      "pos": "RB",
+      "team": "NYG",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -5494,6 +5521,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12412",
+      "name": "Terrell Jennings",
+      "pos": "RB",
+      "team": "NE",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "12711",
       "name": "Tyler Loop",
       "pos": "K",
@@ -6043,15 +6079,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "9505",
-      "name": "Deuce Vaughn",
-      "pos": "RB",
-      "team": "HOU",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "13491",
       "name": "Kaden Wetjen",
       "pos": "WR",
@@ -6531,16 +6558,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1691
+      "gsis": 1705
     },
     "2024": {
-      "gsis": 1672
+      "gsis": 1683
     },
     "2025": {
-      "gsis": 1566
+      "gsis": 1574
     },
     "2026": {
-      "gsis": 664
+      "gsis": 667
     }
   }
 }
