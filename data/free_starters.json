@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-03T21:16:14.753669+00:00",
+  "generated_at": "2026-11-04T01:31:42.556520+00:00",
   "league_id": "1388315713940262912",
-  "count": 6,
+  "count": 3,
   "players": [
     {
-      "player_id": "9757",
-      "name": "Kendre Miller",
+      "player_id": "5892",
+      "name": "David Montgomery",
       "pos": "RB",
-      "team": "NO",
+      "team": "HOU",
       "depth": 1,
-      "injury": null,
+      "injury": "Out",
       "status": "Active",
       "role": null,
       "role_confidence": null,
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 5.27,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 24804,
-      "drops_24h": 30132,
+      "ppg_2025": 9.82,
+      "floor_2025": 6.0,
+      "ceiling_2025": 15.87,
+      "targets_pg": 1.71,
+      "carries_pg": 9.29,
+      "adds_24h": 70104,
+      "drops_24h": 0,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
-        "time": "13:00",
-        "home": "NO",
-        "away": "CLE",
-        "spread": 1.5,
-        "total": 42.5,
-        "opponent": "CLE",
-        "home_game": true,
-        "implied_team_points": 20.5
+        "time": "16:05",
+        "home": "LAC",
+        "away": "HOU",
+        "spread": -4.5,
+        "total": 40.5,
+        "opponent": "LAC",
+        "home_game": false,
+        "implied_team_points": 18.0
       }
     },
     {
@@ -63,76 +63,10 @@
         "home": "TEN",
         "away": "JAX",
         "spread": -9.5,
-        "total": 44.5,
+        "total": 45.5,
         "opponent": "JAX",
         "home_game": true,
-        "implied_team_points": 27.0
-      }
-    },
-    {
-      "player_id": "4037",
-      "name": "Chris Godwin Jr.",
-      "pos": "WR",
-      "team": "TB",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 9.22,
-      "floor_2025": 5.6,
-      "ceiling_2025": 15.96,
-      "targets_pg": 5.67,
-      "carries_pg": 0.0,
-      "adds_24h": 0,
-      "drops_24h": 142548,
-      "next_game": {
-        "week": 9,
-        "date": "2026-11-08",
-        "time": "20:20",
-        "home": "CHI",
-        "away": "TB",
-        "spread": 6.0,
-        "total": 46.5,
-        "opponent": "CHI",
-        "home_game": false,
-        "implied_team_points": 26.2
-      }
-    },
-    {
-      "player_id": "4950",
-      "name": "Christian Kirk",
-      "pos": "WR",
-      "team": "SF",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 5.26,
-      "floor_2025": 1.6,
-      "ceiling_2025": 10.4,
-      "targets_pg": 4.73,
-      "carries_pg": 0.0,
-      "adds_24h": 0,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 9,
-        "date": "2026-11-08",
-        "time": "16:05",
-        "home": "SF",
-        "away": "LV",
-        "spread": 10.0,
-        "total": 51.5,
-        "opponent": "LV",
-        "home_game": true,
-        "implied_team_points": 20.8
+        "implied_team_points": 27.5
       }
     },
     {
@@ -153,7 +87,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 231456,
+      "adds_24h": 281872,
       "drops_24h": 0,
       "next_game": {
         "week": 9,
@@ -166,39 +100,6 @@
         "opponent": "DET",
         "home_game": true,
         "implied_team_points": 28.8
-      }
-    },
-    {
-      "player_id": "13294",
-      "name": "Makai Lemon",
-      "pos": "WR",
-      "team": "PHI",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 56836,
-      "next_game": {
-        "week": 9,
-        "date": "2026-11-08",
-        "time": "13:00",
-        "home": "PHI",
-        "away": "NYG",
-        "spread": -3.5,
-        "total": 39.5,
-        "opponent": "NYG",
-        "home_game": true,
-        "implied_team_points": 21.5
       }
     }
   ],

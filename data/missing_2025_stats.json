@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T21:16:11.458692+00:00",
+  "generated_at": "2026-11-04T01:31:39.495200+00:00",
   "season": "2025",
-  "missing_count": 728,
+  "missing_count": 731,
   "players": [
     {
       "player_id": "11533",
@@ -250,7 +250,7 @@
       "player_id": "11579",
       "name": "Audric Estime",
       "pos": "RB",
-      "team": "CLE",
+      "team": "NO",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -349,7 +349,7 @@
       "player_id": "13418",
       "name": "Robert Henry Jr.",
       "pos": "RB",
-      "team": "SEA",
+      "team": "WAS",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
@@ -2644,7 +2644,7 @@
       "player_id": "11648",
       "name": "Kedon Slovis",
       "pos": "QB",
-      "team": "GB",
+      "team": "BAL",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -2861,6 +2861,15 @@
       "name": "Antwane Wells Jr.",
       "pos": "WR",
       "team": "ATL",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "13042",
+      "name": "Xavier Guillory",
+      "pos": "WR",
+      "team": "CLE",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
@@ -4738,6 +4747,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12688",
+      "name": "Cam Miller",
+      "pos": "QB",
+      "team": "GB",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "4922",
       "name": "Garrett Scantling",
       "pos": "WR",
@@ -5987,6 +6005,15 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "12851",
+      "name": "Rivaldo Fairweather",
+      "pos": "TE",
+      "team": "ARI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "11911",
