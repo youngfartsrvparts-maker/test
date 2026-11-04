@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 137.3,
+    "hours_to_lock": 129.2,
     "kickoff_utc": "2026-11-10T01:15:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -53,11 +53,27 @@
     "reason": "DJ Moore, Dalton Kincaid Active for Bills vs. Ravens in Week 8 - Sportscape Magazine"
   },
   {
+    "player_id": "11834",
+    "name": "Devaughn Vele",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 98.0,
+    "kickoff_utc": "2026-11-08T18:00:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 41.3,
+    "hours_to_lock": 33.2,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -67,10 +83,28 @@
     "practice": null,
     "headlines": [
       {
+        "title": "Jaguars RB Depth Chart Matters With Bhayshul Tuten Injury, Chris Rodriguez Impact - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSThVTkxFY0hqajJQTnlhSzNPR2Z1a2ZNbnBfZWltZThYNEN4NWVHNG1namo1U0p4bnZzZDFZeUZXak4tRXMtc2hkTjVJUVBfMEktOWltdDJhWEdUcEQyLUFQWnhzMEVEVC0wc3BZWHRKTi1xWXpkVlBjZFYzZ2dMemlTNEQxT0V2Z2tqbnR1YTF3Ym5lM2V4bXdMSlRUY1VNb3pxRDdFdw?oc=5",
+        "published": "2026-11-04T13:24:37+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Jaguars' Bhayshul Tuten misses second Week 9 practice - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkZyOXJfTE14MFBKMnFVRlpWMzdFTUgzTnRvTlhXNUtVbWdBQllmWWNULUxpRTdqNXpUZlRXdHhpeWNRcjc5MEVfMjdMRjB5UXR0QnlpT01lN182dEt3OVIzdlRWUzJRREVNaUltT1J6bmFTZVBPR0wwU2ROdjNEMEVfcXNvVzQ?oc=5",
+        "published": "2026-11-04T01:55:00+00:00",
+        "source": "AOL.com"
+      },
+      {
         "title": "Jaguars' Bhayshul Tuten misses second Week 9 practice - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEdIZHFRWkI3T3ZkcXVZRUFDUUVCU3JNZFM4Y2s4V0FUcVVRS2pDMjlrNjdnOWY1N0NUTEQxdHhGMV9wYUM5YkV2RjRqeGxvRF9qM0xSdXNQc0IxS19JbUJ4MmRsSzhzWF9TaExnSkF1Z1V6N0ZKRGZlNTZQOElYNm1CX001UFNPOGcyVm1R?oc=5",
         "published": "2026-11-04T01:55:00+00:00",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "Jaguars’ Bhayshul Tuten Injury Update Raises Concern Before TNF - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDdsUUN5SG5WSFRfNDdYRDBRaEZpTG8wM3ZkQkwwN2QzbGwxcWp5YTE5VkZfRTRvQldxaEkwUXZjQk1US0xCanpKWlRhUTR0eDVkOGRWaVdZcHBoQ0l0RGFKdzdYWU1EUHVpSnVHNzNfdzNKa3BFeXJxZ1pKTHMxc1RtRVZXUkljSUVXUkg2OUo0X081bVpmUVVsWUVtcUJQZTlUNjdzRUhEQQ?oc=5",
+        "published": "2026-11-04T00:10:00+00:00",
+        "source": "Heavy.com"
       },
       {
         "title": "Jaguars-Ravens Injury Report: Bhayshul Tuten's Injury Could Mean Larger Role For 1 Veteran - Sports Illustrated",
@@ -79,28 +113,10 @@
         "source": "Sports Illustrated"
       },
       {
-        "title": "Jaguars RB Bhayshul Tuten not spotted at practice - WTAQ",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVdIQUF3aWxscGJaZXczZWNzeE9fWUloOWRxR2JMU1lubkdRM21YNzF3OGFrSm1MOXhhejJXdEtNZEJjVWNTeVB3NzFzTnI2SGVxalI5LTZXeGJBU0lSZDdJNmw5UFJBdGNUU2hrcW1aRGRMMmlDNDRfcDdtZTFUU0pORV8?oc=5",
-        "published": "2026-11-03T22:46:03+00:00",
-        "source": "WTAQ"
-      },
-      {
-        "title": "Jaguars injury report: Bhayshul Tuten (rib) DNP ahead of Ravens game - The Florida Times-Union",
+        "title": "Jaguars injury report: Bhayshul Tuten (rib) DNP ahead of Ravens game - FL Times-Union",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOamhSdzQwLUdNYlpPYUNKQjhoVlRybnRtVldVV3FDRXFySFJWMDRxemxYY0YyR0dzdVZTVTd1cGZHbVdScjhUdE55OGNlUHVWNlprczNucmN2dDYwQkd0aVRrUFpIbTZGWk9ibXZHdkJJQmx0XzJMWmdJUTBncnJ2NDFmaTE1cWVRUGxTVE9JdXQyWWt0TUE5YV9XQm5vNjcwN1hnWUs0M0NlNExMZlFqTklGdWhxVnJ6LXZwUllxYkEta1U2VjFndVlGbWxZQzRHN1NMaEZKcVMwRnNiTGFvZVdNZ2JVa1k?oc=5",
         "published": "2026-11-03T22:09:31+00:00",
-        "source": "The Florida Times-Union"
-      },
-      {
-        "title": "Bhayshul Tuten (foot) officially misses practice Tuesday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb1dMV3FtRE5NY1o0WFYzRmNQNkhQY1ZtTkp6ckxvcUFyaDQtdnpBSVNVSVI5NTN4VGw5OGEzLVBFUEtZd0pNMkhUeFltUmFqWXJrTjF3OHQzWE5BTnBXOEh6Qk1mcG5RLWtST1RmamxEZGFoLWlLZzh0REVvMEdPalhkeWo1cDZYV05yeU1IVzJ6NHlIUGt0Zk5tNXljMWFwNWRlQdIBqgFBVV95cUxNMzZ5ZG1Zd3htYkt1Nlg2RGlEaFZESExGNFhGTUluTWJidEVZQjhMMm5rTXFaTGM3SXZVR1Fwc2tRX1duVUE5VWZvdkJBUEd6eHRpcElCN21DanlENTBIbzFVajY0a2ZiaVF6RUluaHhpX3pQekJOVHhoYWx2M0JXTzlYUHZmbEpJMGk3UGxubnY1b3NlSFU3SnhPTmUwdWswS3hZTDZwd2lzZw?oc=5",
-        "published": "2026-11-03T21:51:50+00:00",
-        "source": "FantasyPros"
-      },
-      {
-        "title": "Fantasy Football Injury Update: Bhayshul Tuten Misses Practice Ahead of Thursday Night Football - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHA1SXpfVmZ4RXZISGRJTlBjNklNLUM3VUNpSjJUT3d1LW1Xb3BOM0lhby0xSDdLQVJmSHE0S2w4MGtjMzlWV2Y0OElESGNGLUhwdHRrMk5DUUdndHYxYVN0dDdpWHRQRlR6eGtDM1VETEFVbThBLWloWE9idkU0MGt5WEZleXcyV0FNb1VSYUtmbGxqYnpXcHhyeFlDOTZLV0FhU083djZ3RHpoVWREM1ZseHQ2R1lUdnpvY0tlZzhmc0dqTW5iRzhOYw?oc=5",
-        "published": "2026-11-03T19:50:11+00:00",
-        "source": "Sports Illustrated"
+        "source": "FL Times-Union"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -108,9 +124,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 106.0,
+    "hours_to_lock": 98.0,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -124,10 +140,26 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 106.0,
+    "hours_to_lock": 98.0,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
+    "player_id": "13305",
+    "name": "Mike Washington Jr.",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 101.1,
+    "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -140,9 +172,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 106.0,
+    "hours_to_lock": 98.0,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,25 +188,9 @@
   {
     "player_id": "1479",
     "name": "Keenan Allen",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 106.0,
-    "kickoff_utc": "2026-11-08T18:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
-    "player_id": "4035",
-    "name": "Alvin Kamara",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 106.0,
+    "hours_to_lock": 98.0,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -188,9 +204,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 109.1,
+    "hours_to_lock": 101.1,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -204,9 +220,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 281.3,
+    "hours_to_lock": 273.3,
     "kickoff_utc": "2026-11-16T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -220,9 +236,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.3,
+    "hours_to_lock": 105.3,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -236,9 +252,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 106.0,
+    "hours_to_lock": 98.0,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -252,9 +268,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 113.3,
+    "hours_to_lock": 105.3,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -268,9 +284,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 102.5,
+    "hours_to_lock": 94.5,
     "kickoff_utc": "2026-11-08T14:30:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -289,35 +305,47 @@
     "reason": "Sleeper injury/practice status is the main signal."
   },
   {
-    "player_id": "96",
-    "name": "Aaron Rodgers",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "player_id": "8142",
+    "name": "Alec Pierce",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 281.3,
-    "kickoff_utc": "2026-11-16T01:20:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
+    "hours_to_lock": 98.0,
+    "kickoff_utc": "2026-11-08T18:00:00+00:00",
+    "score": -5,
+    "model_modifier": -1.25,
+    "confidence": 65,
+    "label": "Negative availability signal",
+    "injury": "IR",
     "practice": null,
     "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-04T07:59:28.092728+00:00",
+    "generated_at": "2026-11-04T16:00:35.927294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 41.3,
+    "hours_to_lock": 33.2,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
-    "confidence": 52,
+    "confidence": 66,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Jacksonville Jaguars Get Injury News On DaVon Hamilton - Big Cat Country",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGM5Vy0xeFRCQUpvMGwtbEUyM1NtcE9UZmFBNUcxTDkyV0VvcE4yUF9UVVNTZklkaDAzMlZPMVByTWNtZjVXSjJpbkhaNnpXY1hXY25ITkNMWXUyWm1ZSTRQTHpnc1dnNUx3VFdnNjVoNjd1cS1jeFFGYkwxSGJGWVhiX2FVRXZpYTZNYkRn?oc=5",
+        "published": "2026-11-02T16:45:00+00:00",
+        "source": "Big Cat Country"
+      },
+      {
+        "title": "Jacksonville Jaguars 2026 Stats, News, and DVOA - FTN (For the Numbers)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxREpEMzhpd2lITVM4elB1VzRRTm1TdDluSnJmcjl4TENiVEdLSWpqVWJUS2dyRFBydTdxREFYRUVMTFR6TWZZSVBINktveVVDNEVWUi1lRExOc3M?oc=5",
+        "published": "2026-11-02T08:00:00+00:00",
+        "source": "FTN (For the Numbers)"
+      },
       {
         "title": "Colts announce 7 inactive players for Week 8 game at Jacksonville Jaguars - Colts.com",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0p3aDU4aHloVDBmQU5EbGZyTkQ2cjhXXy1oODRCbjRNcnM3SnJUNGpTQm9RTjJDdHNHYUE0YXpsX2RQWWNxVzc2dnRBc3dZWDVpMENoc1N2SDJkYjBmMGM3TFE1YjlpaHMwTkpLUnFpbEl6VUc4RzNTS0pHaHM5aXFUTzJKNWtPNE1iMVNDNTljdFN1bTBkdVp5cVN2UFRlNGc?oc=5",

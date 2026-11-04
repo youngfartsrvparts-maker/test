@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:59:29.805831+00:00",
+  "generated_at": "2026-11-04T16:00:38.117098+00:00",
   "league_id": "1388315713940262912",
   "count": 3,
   "players": [
@@ -21,7 +21,7 @@
       "ceiling_2025": 15.87,
       "targets_pg": 1.71,
       "carries_pg": 9.29,
-      "adds_24h": 82998,
+      "adds_24h": 95934,
       "drops_24h": 0,
       "next_game": {
         "week": 9,
@@ -34,6 +34,39 @@
         "opponent": "LAC",
         "home_game": false,
         "implied_team_points": 18.0
+      }
+    },
+    {
+      "player_id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 9.15,
+      "floor_2025": 6.2,
+      "ceiling_2025": 14.5,
+      "targets_pg": 3.55,
+      "carries_pg": 11.91,
+      "adds_24h": 195872,
+      "drops_24h": 65368,
+      "next_game": {
+        "week": 9,
+        "date": "2026-11-08",
+        "time": "13:00",
+        "home": "NO",
+        "away": "CLE",
+        "spread": 3.0,
+        "total": 42.5,
+        "opponent": "CLE",
+        "home_game": true,
+        "implied_team_points": 19.8
       }
     },
     {
@@ -67,39 +100,6 @@
         "opponent": "JAX",
         "home_game": true,
         "implied_team_points": 27.5
-      }
-    },
-    {
-      "player_id": "11610",
-      "name": "Malik Washington",
-      "pos": "WR",
-      "team": "MIA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 4.73,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 329496,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 9,
-        "date": "2026-11-08",
-        "time": "13:00",
-        "home": "MIA",
-        "away": "DET",
-        "spread": -7.0,
-        "total": 50.5,
-        "opponent": "DET",
-        "home_game": true,
-        "implied_team_points": 28.8
       }
     }
   ],
