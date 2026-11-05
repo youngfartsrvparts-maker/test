@@ -2,62 +2,32 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 112.5,
+    "hours_to_lock": 104.4,
     "kickoff_utc": "2026-11-10T01:15:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
-    "confidence": 87,
-    "label": "Some availability risk",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 52,
+    "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
       {
-        "title": "DJ Moore, Dalton Kincaid Active for Bills vs. Ravens in Week 8 - Sportscape Magazine",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODRaYkZRd0pJQUk5Q0xZbW40cXpvUlN2MzJ5U3RsbnMyUGZnZGFvblRSeHUyMWdQM0FWTFZYTElGcFFRUG9aRDN1UU5YZ2x2QU5EM2hZS3FBYjNXTXJJczVQSDRHWTlYb1lPQWFKU05uOUtrSXFZR09mWUZJMHMzWk13QXRyQXpiRDl5dG4zbFVXOFJtdURNY0Y2UGhQczRYQWpNLXI2QQ?oc=5",
-        "published": "2026-11-01T19:55:06+00:00",
-        "source": "Sportscape Magazine"
-      },
-      {
-        "title": "Buffalo Bills Week 8 Inactives: DJ Moore, Dalton Kincaid Will be in Action - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUZIMlRkTmROWUVOMElXQ0pHaW1hcnVuOENHSkQtempaYlM2VTE0UG9OVUtINnd1UEpDTDA1QThoNWxVRFNHMXFRRGlvNmY0ZDdKb1RSdS0wRnBkTUVLUU0yOVczWlI5UzJqcVZpZlZYc2xtWEhXS29semxvcjM3V3poaC1oU1R6TnFlUnVKUnNOM25LRWpTYjFXN2VxdU51SmtQLVpIV2ctZw?oc=5",
-        "published": "2026-11-01T16:39:36+00:00",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "DJ Moore and Dalton Kincaid active vs. Ravens - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWIzZ2s2ZGhZcEpxTXJzbzkzdEtmZl9kWUVZbWlKWjhYT1hmaVB4ODdLWXo2SnZHLXcyRFF3VWVZSjlpb1lUak9SRjg2WGt4c1o4VnR5YktYeko2RDZuRFpOaV94UUVzM2Y4NW9nLUxycklIVHFJWEhiVldfaGxJZmVVMk9tODV1YXkxX1NrdmdXcXVsRmRLS0N2NGdlOGc2N3NOdUtIYVp3R241Q3dv?oc=5",
-        "published": "2026-11-01T16:37:00+00:00",
-        "source": "NBC Sports"
-      },
-      {
-        "title": "Is Dalton Kincaid playing today? Latest on Bills tight end for Week 8 - Democrat and Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWTdScjhicHBnRUVrbUZIS2d6MS11cGp6TllSVmRUWXB2Tlc1VlBRdHRYQUY3NmtuMmlZYll0SWtGNndBVTRjSDljQXpJUkJiTUFfVXNoSmpXTFZEdHFQQ3liWllfMmZRaHJ3c1poZC1SVUx1dGZJNnY4TkpndTB1YkNEYWx2VURyNjZNUThZQmFVOFB1SHFyOWlUV1RheWJKY2kzQWpOWkdnZUZOZkFFZXZjaEJBVG9wdkxDU2JnQ2NkN01oempkcGZkQUV3bC12cXpxSlZncEtqZzNr?oc=5",
-        "published": "2026-11-01T16:29:00+00:00",
-        "source": "Democrat and Chronicle"
-      },
-      {
-        "title": "Are DJ Moore, Dalton Kincaid playing today for Bills vs Ravens in 2026 NFL Week 8? - Bolavip US",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcy15LVpjbEI1NkFDYU50LXpYcnUxdUpJbFVkNGhYYkJmb2d3Vm00dEM1dmxGQU5lNEJBSVFNaFV6UDJjWENOMXBsaFZYN3VNVGctVWl2dzNFQTM4SGZWQm51R3ZBbF9BTGpmM0poTFYyOHBoZ3dUMVpNZ25uVVJlbmd6RTBMaWo2TWFCeTZxWnowQkRGeUplMXdoQl9aejQ3dmxuVTFVNlN1YkXSAbABQVVfeXFMTnJGejNtM2twbmx2Skk5Z0hsUkZkN19OcFBFWmM4VmpfTWJWU3BaTk1ianJfOVlXUHNmaHQ3NG5ydHExVGp3Tk1maUFrWkp4Z2xhR0JoS1hjZndHakh1WDJUYklCMG1STG9hdV9mdXVGZS1ReU9STndFODZRb0lIWHJsbkR2aEdpTC1Ta28wZUtVSWdKTkkwek1OVkpiU2NDUi1VcVI0ZVhGVGRkY0NTcVg?oc=5",
-        "published": "2026-11-01T15:08:06+00:00",
-        "source": "Bolavip US"
-      },
-      {
-        "title": "Buffalo Bills Seemingly Get Good News on Dalton Kincaid Ahead of Ravens Game - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEdnaEQ2V043S0NXc0ZWM0piQkNWNGZQdkR0SWEyMTF6MVVrYzI3eWlUUlhFSFNGVzduanlNUmxlUlNvRXNhSTc5NC1IcEJCMEk3cHlaUTVqUWVHdTlGRlE0WFdrX2lJbXFuSXlkNXRxREo0dHpPMTVLbzI3SS1IZQ?oc=5",
-        "published": "2026-11-01T15:04:31+00:00",
-        "source": "Heavy.com"
+        "title": "Buffalo Bills Seemingly Get Good News on Dalton Kincaid Ahead of Ravens Game - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQU83WFNURG0wbk1jVm1ocmZmeWZOM0ZucnBfQ0dPNEJRdzRiZE1YUmtpbUctRWVwdUFWSHVUb0d6bXBfZ2hJT1c0QVRqNEdRVUNvMDBTVW03WTU3RFc1MjVTMVEtMkxCa2J3Nl9xeDcwc05IOWl4TjZfQWJDZFRlRTItY3pZQ0JpaWc?oc=5",
+        "published": "2026-11-01T18:04:31+00:00",
+        "source": "Yahoo Sports"
       }
     ],
-    "reason": "DJ Moore, Dalton Kincaid Active for Bills vs. Ravens in Week 8 - Sportscape Magazine"
+    "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 81.3,
+    "hours_to_lock": 73.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -71,62 +41,62 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 16.5,
+    "hours_to_lock": 8.4,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
-    "score": -3,
-    "model_modifier": -0.75,
+    "score": -1,
+    "model_modifier": -0.25,
     "confidence": 95,
-    "label": "Negative availability signal",
+    "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
-        "title": "Jaguars’ Bhayshul Tuten a game-time decision for TNF vs. Ravens after not practicing - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVNVS2Z5a2hSZlhhVXMxZ2Z3VDQ0MzRYczdtZmRrZ0ZTczNhTF8wNDFIbE5KVVFOc201SGtSSWVHdV9kY25DRnprYndCbGpXWkVnX1RDanFTelVuQi12UnRIVC1iVkRNd1pNM3dRNjI1c0tIMG0yV1d5ZVFxejhkd2NleGZCejRP?oc=5",
-        "published": "2026-11-05T01:21:00+00:00",
+        "title": "Jaguars Injury Update: Insider Reveals Bhayshul Tuten’s Status - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHc4YkFrT3VNZ0ZOcHdUdzdFeU1ES2dYY3JjbHRXMGxWX3NaUlZVUjNOZndzYW9xNm9FdkRtMUM4WVRYWmFoanZLNmF4N0NLRDJpVlp1djZtd2RncGRNLUlSVC1GNTdsUHhpQzNfeUhoMGo3YWJCeUJCM25lbW12MnJ4MTJzQQ?oc=5",
+        "published": "2026-11-05T14:08:01+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Is Bhayshul Tuten Playing Tonight? Jaguars RB Is a Game-Time Decision vs. the Ravens - Athlon Sports",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXoxeTFKTlhjRFRIck5HUGgwMmRQMlEyUEhvdnhQa0tDVWZlWGY3bmRya2VzQjlkN0RxblBMamlwRVBtWTN0bS1xbUFrd080V0gxYzVfRnFMZ1NpMlVGQm5fTnRTMEU4ZVN4UU9OMnJNT0dWem9BZ1dmTzR5a25YTjcwQ2xONTBaSXMyZlgzMUF5U2tGTndaNjlFbmxGTENpX01UU0VrZFY?oc=5",
+        "published": "2026-11-05T14:08:00+00:00",
+        "source": "Athlon Sports"
+      },
+      {
+        "title": "Will Bhayshul Tuten play tonight? Injury update, fantasy advice for Jaguars RB in Week 9 - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT29rTzAwdk1IcjNRNDdTUXJwdVdrSW5QX0pOS0poR0swampEZmNqNmg3cnV3Q016dWo0TkZlc01xQURINjZPNmdhakdpVlpHazlnYjNWbjk5WGRGZlpfdk9STUg5LVB6cVR4em1TQ0Y0QWZKUmZKZGFGb1A0aURPQ0ltOGQ0V2kwcENMakZVVXFPSGlydFNHeWlXMmtmc3ho?oc=5",
+        "published": "2026-11-05T13:01:50+00:00",
+        "source": "The Big Lead"
+      },
+      {
+        "title": "Is Bhayshul Tuten playing today? Latest on Jaguars RB status ahead 'TNF' - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblE1MTd6Ym5nRmVRVEpuWDdOWUJ5aHB3ZURjR194THJYcndlMHlUWE5hM3JrVjlMVnFudWl0NkJoakZrUW1Ra0pqX1RRejljYlQ3cE9Lck9RUm9oT2hmdFFJdGhSc29qS01KOUhnS25WSFFfX29tWVZVRjI4aUNDYjktZjNPM0FoS3N0M2pIb1JvdXFiSXl2eVhvejRtRExBbmtNdHFLMThUS3NvT3gwTEtpcWtPZW9HeUROWnFRd2tCZw?oc=5",
+        "published": "2026-11-05T12:03:00+00:00",
+        "source": "USA Today"
+      },
+      {
+        "title": "Is Bhayshul Tuten Playing Tonight? Latest Injury News for Jaguars RB - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa0NfcUV3TUpVZVdrcFhsaWQ3TW52eFVfS0tDQzlqSUsyT1czbTJzQW4yOUNYR1VrZ1dYSnJRS281ampNZXdvcm1sOHFSenkxdW4tZGZ5UC1NeHZvV3A4ZnJNallEOUp4S2dUZHdQSXFJVFgzcDlPSVc0d2UzVlNUcHVPMzlaZWdITWN4YTFFdUxDNDdPQk0ybkVtSkUxOXRtVGJINm83TkdzQ2Q5SlNNN2otWV8?oc=5",
+        "published": "2026-11-05T12:00:46+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Bhayshul Tuten Injury Update: Jaguars RB’s Week 9 Status Revealed - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUVyNVdXVE1jWWFlN0g1azNvLVpTRTRiczhYNXJITXlhREFxRHA0Z2h3NkFMRHVBN3JUSVBfaWYtT0ZUMnhmdGs5U3ppalYyLW5HVHRfVmh3NVBVWFJwZUpOajU5ZTc0V0tESDR4dEI1ZVVpdHRpcjVFMmtEUzdCUFpXVVFiQTNF?oc=5",
+        "published": "2026-11-05T11:58:51+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "NFL Injury Report, Week 9: Latest news, updates on Bhayshul Tuten, Breece Hall, more players for fantasy football - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazNiZnJCd09xRUJlb1VzdzVMeXl4aG1CT0lDSUtfOXFsa0UyWWFiSExQWE9OVXFqdVl5RlpYY21jRWdhM2h6NFBvaWNXUXhwWTYwRHBmTC1OeElaTXdaeGp2NGxuMTRBMXNvZVlsSmkyYk45bUpnbExONXNibFN6Wk1UNGozSHR6a2hoVG1lcy1oaDJON2VEcUFPbXRYMS1Nc2FOVHZmZkJKdGhESjdwYmRveXU3RUxBXzI3TjZjRENDQmdXUGN1MU02NTk4TWJoTWRLeHVzQlprMmQxMC1NOFd1UTI0bE8zNGYtNVpUVXdSN1dvS2Nr?oc=5",
-        "published": "2026-11-04T22:41:34+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Jaguars’ Bhayshul Tuten Injury Update Leaves Playing in Doubt Before TNF - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFVZMWstNnF5U0lOM1I4VGsyczF2OEMtYXduc0IwTmJmdnhmSlE3Tng4WkRRenY3cDluQTUzcEs0LUxpV1M4WHpxZ01ZV2N2RE44Y3NLQ3dkcGx1Q3c1NFJ0eHNBdU1jUmliYlJDd01fWWpRdEFvM3Y3cDkzNlYyOHFxZ0lMSHp0VTJEMHFR?oc=5",
-        "published": "2026-11-04T22:18:45+00:00",
-        "source": "Yahoo Sports"
-      },
-      {
-        "title": "Jaguars-Ravens Injury Report: Why Recent History Doesn't Bode Well for Bhayshul Tuten - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUk0NWtXNkU4WHBIRV83MkZoX1lyLUdmVTVvM21qMzVlT1F6TUE0dUM3NjZBamNTWHBrVWc5UmxCdUtrb2dKdVJFOWxaMk8tTVBsVEhTVUhnYUxBVEZXTlhjb1VyNmR5ZV96SHNaaWpSNURBZzdxM2I0Uy16TG9qeEtRRC1YV0VEVjFRcFM0aFdISThuX2hWeUZBRVhoR0RheUl6VTk1RlBseW5CWHpNaFdtbWVaMHlUR2tkRzRBcXUzc0k?oc=5",
-        "published": "2026-11-04T22:13:39+00:00",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "Bhayshul Tuten Questionable for Thursday after no practice - Fantasy Footballers Podcast",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1lWd3VPZDJOSHd4ZjFjUHBUSW12b2pyLWRpc3IzM3hGOFA4Q05oaVJUNDc5T196aV9FRGZEN3U0YUtHcWdjUmdtckx6YldFdHRWT21sYUhKOXM5TlAzZG9td1JFS1BMbXFYQlEyLWVMbnduYUdHeGYzOW1DYXBwMjg1MnZXdDAtLTk4OTlTTXJDWHFNbTJuQi1OTUlOVkxZNnlVTzF1aWM0cXlnblE?oc=5",
-        "published": "2026-11-04T20:56:35+00:00",
-        "source": "Fantasy Footballers Podcast"
-      },
-      {
-        "title": "Bhayshul Tuten (ankle/foot) officially questionable for Thursday - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXlYSzFlZl92VG5NVDFWaE9rWWNlMTBWOTg0c2F2NXJEVVNyM0o0bXRENFVtbFFNY2luUFhBSEJwSFJxZS1LcklTWmNSbDZwS01WZkJnZFB4Ykk1T1RrVzNiTUF4MTZHT3UweXFwRzJGUlhGd3h3RlpuZDg5ajJheHdlZjUxSXBETVQ5U0xmOGVNMXZ3WlMyalBuakFZdDJFb2Q5SGNYb1DSAa4BQVVfeXFMTlZZQUdoZ2dUdk5nS2Foclcwb2JKbkRORURSWmhXdUQtM3JQNDFCYndVUXkyQ1RVQlRpTHRONVdaXy1mQ21tNUlLaTNKY2xwLXBpOVlnb216aGstNnlTQnFjZWZ4RkxpUjFuTGUzTGpDQUhKTm1GQzhUek5KRmFvbGR0RC1kcVY0cGxKVGpzZll0NnJjcnlWSFlpZGpNeWdBX0hIc29GQzVreXpNTmdB?oc=5",
-        "published": "2026-11-04T20:48:55+00:00",
-        "source": "FantasyPros"
       }
     ],
-    "reason": "Jaguars’ Bhayshul Tuten a game-time decision for TNF vs. Ravens after not practicing - Yahoo Sports"
+    "reason": "Is Bhayshul Tuten Playing Tonight? Jaguars RB Is a Game-Time Decision vs. the Ravens - Athlon Sports"
   },
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 81.3,
+    "hours_to_lock": 73.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +110,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 81.3,
+    "hours_to_lock": 73.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,9 +126,9 @@
   {
     "player_id": "13305",
     "name": "Mike Washington Jr.",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 84.3,
+    "hours_to_lock": 76.2,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -172,9 +142,9 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 81.3,
+    "hours_to_lock": 73.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -188,6 +158,12 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUdKNXRPTGNCbXE1cVlMT0JEbThLc1J5WXdVVDdCT185NWhvOW43SEZiQWhiWEJpbjN5TVdXYVoya05GcGRUeW1BZ0w3N01VQTI1dVI3dGZHUlhfenNEYmR3MlU0Q1dpc1hPaW84MG5HTTI5Y210MUdSZWlVLW1aOTNPbjR3MDVfbHd4UXd6SU5saXBIUnpEZEtERVVJcXM?oc=5",
         "published": "2026-11-05T04:32:09+00:00",
         "source": "RotoBaller"
+      },
+      {
+        "title": "Denzel Boston (calf) limited in Wednesday practice - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSXRzUGlleW04LXNzYnN0ejRoWm5naTVGUmRpSkxxZ3BmdnJOU1BpX1VUczRiOTB6Y0RjRzNsZ3VKSUFKWHQ1LVNUMGQyNGZSUUdUQ2FpaGRmX2NFYjNHcDRRWnZoRUxmSnM0QUNPTEFBY2psT0FVc0MxVGdNNG9ocGtMTWtsOTRqVlZTTUVkRDRNUy1pYzJEcDlQbERVa3pBY1BBMTJidGFiTUZYZDd5U3Njcjk?oc=5",
+        "published": "2026-11-05T02:38:57+00:00",
+        "source": "NBC Sports"
       },
       {
         "title": "Denzel Boston (calf) limited at practice Wednesday - FantasyPros",
@@ -212,12 +188,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDlsVXJhOUs5dGZSOFdVYTV4STBtbk9lMjc5eXJiNXpfcTd0a0pxbGJybVlNclFvSTgxWklaMFloS3lMbUpkbTBRMGRObTktamhvQ3oyWmJSb1l0QmxrQ2FxM3BzUUpWUXlzeGFzZjBFLUxuQnlJaWZKbi1JcU9FODN6bDc2QQ?oc=5",
         "published": "2026-11-05T00:26:00+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Denzel Boston (calf) limited in Wednesday practice - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSXRzUGlleW04LXNzYnN0ejRoWm5naTVGUmRpSkxxZ3BmdnJOU1BpX1VUczRiOTB6Y0RjRzNsZ3VKSUFKWHQ1LVNUMGQyNGZSUUdUQ2FpaGRmX2NFYjNHcDRRWnZoRUxmSnM0QUNPTEFBY2psT0FVc0MxVGdNNG9ocGtMTWtsOTRqVlZTTUVkRDRNUy1pYzJEcDlQbERVa3pBY1BBMTJidGFiTUZYZDd5U3Njcjk?oc=5",
-        "published": "2026-11-04T22:18:45+00:00",
-        "source": "NBC Sports"
       }
     ],
     "reason": "Limited practice for Denzel Boston - Yahoo Sports"
@@ -225,9 +195,9 @@
   {
     "player_id": "1479",
     "name": "Keenan Allen",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 81.3,
+    "hours_to_lock": 73.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -241,9 +211,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 84.3,
+    "hours_to_lock": 76.2,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -257,9 +227,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 256.6,
+    "hours_to_lock": 248.5,
     "kickoff_utc": "2026-11-16T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -273,9 +243,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.6,
+    "hours_to_lock": 80.5,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -289,9 +259,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 81.3,
+    "hours_to_lock": 73.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -305,9 +275,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.6,
+    "hours_to_lock": 80.5,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -321,9 +291,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 77.8,
+    "hours_to_lock": 69.6,
     "kickoff_utc": "2026-11-08T14:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -344,9 +314,9 @@
   {
     "player_id": "8142",
     "name": "Alec Pierce",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 81.3,
+    "hours_to_lock": 73.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -360,9 +330,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-05T08:44:27.186912+00:00",
+    "generated_at": "2026-11-05T16:52:08.100076+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 16.5,
+    "hours_to_lock": 8.4,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
