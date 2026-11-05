@@ -1,48 +1,15 @@
 {
-  "generated_at": "2026-11-04T21:50:58.242693+00:00",
+  "generated_at": "2026-11-05T01:53:48.398350+00:00",
   "league_id": "1388315713940262912",
-  "count": 3,
+  "count": 2,
   "players": [
-    {
-      "player_id": "5892",
-      "name": "David Montgomery",
-      "pos": "RB",
-      "team": "HOU",
-      "depth": 1,
-      "injury": "Out",
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 9.82,
-      "floor_2025": 6.0,
-      "ceiling_2025": 15.87,
-      "targets_pg": 1.71,
-      "carries_pg": 9.29,
-      "adds_24h": 88140,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 9,
-        "date": "2026-11-08",
-        "time": "16:05",
-        "home": "LAC",
-        "away": "HOU",
-        "spread": -4.5,
-        "total": 40.5,
-        "opponent": "LAC",
-        "home_game": false,
-        "implied_team_points": 18.0
-      }
-    },
     {
       "player_id": "4035",
       "name": "Alvin Kamara",
       "pos": "RB",
       "team": "NO",
       "depth": 1,
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -54,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 188160,
-      "drops_24h": 55928,
+      "adds_24h": 171256,
+      "drops_24h": 55144,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
