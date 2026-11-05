@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 119.4,
+    "hours_to_lock": 112.5,
     "kickoff_utc": "2026-11-10T01:15:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -55,9 +55,9 @@
   {
     "player_id": "11834",
     "name": "Devaughn Vele",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.1,
+    "hours_to_lock": 81.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -71,9 +71,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 16.5,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -89,6 +89,12 @@
         "source": "Yahoo Sports"
       },
       {
+        "title": "NFL Injury Report, Week 9: Latest news, updates on Bhayshul Tuten, Breece Hall, more players for fantasy football - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazNiZnJCd09xRUJlb1VzdzVMeXl4aG1CT0lDSUtfOXFsa0UyWWFiSExQWE9OVXFqdVl5RlpYY21jRWdhM2h6NFBvaWNXUXhwWTYwRHBmTC1OeElaTXdaeGp2NGxuMTRBMXNvZVlsSmkyYk45bUpnbExONXNibFN6Wk1UNGozSHR6a2hoVG1lcy1oaDJON2VEcUFPbXRYMS1Nc2FOVHZmZkJKdGhESjdwYmRveXU3RUxBXzI3TjZjRENDQmdXUGN1MU02NTk4TWJoTWRLeHVzQlprMmQxMC1NOFd1UTI0bE8zNGYtNVpUVXdSN1dvS2Nr?oc=5",
+        "published": "2026-11-04T22:41:34+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
         "title": "Jaguars’ Bhayshul Tuten Injury Update Leaves Playing in Doubt Before TNF - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFVZMWstNnF5U0lOM1I4VGsyczF2OEMtYXduc0IwTmJmdnhmSlE3Tng4WkRRenY3cDluQTUzcEs0LUxpV1M4WHpxZ01ZV2N2RE44Y3NLQ3dkcGx1Q3c1NFJ0eHNBdU1jUmliYlJDd01fWWpRdEFvM3Y3cDkzNlYyOHFxZ0lMSHp0VTJEMHFR?oc=5",
         "published": "2026-11-04T22:18:45+00:00",
@@ -101,22 +107,16 @@
         "source": "Sports Illustrated"
       },
       {
+        "title": "Bhayshul Tuten Questionable for Thursday after no practice - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1lWd3VPZDJOSHd4ZjFjUHBUSW12b2pyLWRpc3IzM3hGOFA4Q05oaVJUNDc5T196aV9FRGZEN3U0YUtHcWdjUmdtckx6YldFdHRWT21sYUhKOXM5TlAzZG9td1JFS1BMbXFYQlEyLWVMbnduYUdHeGYzOW1DYXBwMjg1MnZXdDAtLTk4OTlTTXJDWHFNbTJuQi1OTUlOVkxZNnlVTzF1aWM0cXlnblE?oc=5",
+        "published": "2026-11-04T20:56:35+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
         "title": "Bhayshul Tuten (ankle/foot) officially questionable for Thursday - FantasyPros",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXlYSzFlZl92VG5NVDFWaE9rWWNlMTBWOTg0c2F2NXJEVVNyM0o0bXRENFVtbFFNY2luUFhBSEJwSFJxZS1LcklTWmNSbDZwS01WZkJnZFB4Ykk1T1RrVzNiTUF4MTZHT3UweXFwRzJGUlhGd3h3RlpuZDg5ajJheHdlZjUxSXBETVQ5U0xmOGVNMXZ3WlMyalBuakFZdDJFb2Q5SGNYb1DSAa4BQVVfeXFMTlZZQUdoZ2dUdk5nS2Foclcwb2JKbkRORURSWmhXdUQtM3JQNDFCYndVUXkyQ1RVQlRpTHRONVdaXy1mQ21tNUlLaTNKY2xwLXBpOVlnb216aGstNnlTQnFjZWZ4RkxpUjFuTGUzTGpDQUhKTm1GQzhUek5KRmFvbGR0RC1kcVY0cGxKVGpzZll0NnJjcnlWSFlpZGpNeWdBX0hIc29GQzVreXpNTmdB?oc=5",
         "published": "2026-11-04T20:48:55+00:00",
         "source": "FantasyPros"
-      },
-      {
-        "title": "Jaguars’ Bhayshul Tuten Injury Update Leaves Playing in Doubt Before TNF - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUZzZzh4ZHU5OXdEZFljbG0wMldHWFlZMlBrNHhzcE10U1JpWVU0cG8xZXd3VFUtMm9wMVdwWEdILWlmQTdObGlralB2Yld2OFlMZjJPb2taWmVsV0Z6UDJJZzcwb3RqZ2M3QkNwZDJYWHp3Vzdlbm1TcDg3V2hSckNTWjlBSEpKZHViNFpodUJVZFlMVVFfNWx3SWhPM0pI?oc=5",
-        "published": "2026-11-04T20:48:06+00:00",
-        "source": "Heavy.com"
-      },
-      {
-        "title": "Bhayshul Tuten questionable for Week 9 - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWdHT1BXU1ZnZnBXc2Q0QnhndzhIZHhja25MZk5waENWRllBMU1icm1xRmxxWmpaWjBkQS05UjBvUDBFcVN0cGhxaF93TlVoVk1IeExRS3hJc1VnVGFoX2dFa19ZY1VPWndadHFZNXZtaUxHMXZLV2VZWHhQREtYT3pwWXk?oc=5",
-        "published": "2026-11-04T20:28:51+00:00",
-        "source": "AOL.com"
       }
     ],
     "reason": "Jaguars’ Bhayshul Tuten a game-time decision for TNF vs. Ravens after not practicing - Yahoo Sports"
@@ -124,9 +124,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.1,
+    "hours_to_lock": 81.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +140,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.1,
+    "hours_to_lock": 81.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,9 +156,9 @@
   {
     "player_id": "13305",
     "name": "Mike Washington Jr.",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 91.2,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -172,17 +172,29 @@
   {
     "player_id": "13346",
     "name": "Denzel Boston",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.1,
+    "hours_to_lock": 81.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 93,
+    "confidence": 95,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Denzel Boston Limited with Calf Injury on Wednesday - NFL News | Fantasy Football - RotoBaller",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUdKNXRPTGNCbXE1cVlMT0JEbThLc1J5WXdVVDdCT185NWhvOW43SEZiQWhiWEJpbjN5TVdXYVoya05GcGRUeW1BZ0w3N01VQTI1dVI3dGZHUlhfenNEYmR3MlU0Q1dpc1hPaW84MG5HTTI5Y210MUdSZWlVLW1aOTNPbjR3MDVfbHd4UXd6SU5saXBIUnpEZEtERVVJcXM?oc=5",
+        "published": "2026-11-05T04:32:09+00:00",
+        "source": "RotoBaller"
+      },
+      {
+        "title": "Denzel Boston (calf) limited at practice Wednesday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2lXMnBSUXFCa20xdUFIdXdpYklCWGhHMExpenFnLXYtcEpfOVZUY2M5NVVuRmZnN0ZQeTd4YkNBT2pmOWd0a2dRUEk4cDRkM0l0eVQ2NExJM19lZ2Q0VUhqTllwM3BlV3hJeVZmWV9kMk5zejh5NERPVWJ2ZkgxaV9SbHF5d01rMDJ3clBiNElqRVZnaTRwMNIBngFBVV95cUxQYzc1eXlMR3FpZTVwWFM5cmZReXpydlVlR3ItbFJFWTdYaWpET1RuYzFjTnVZZVBkTGVOc0puWVpZUVdwbkswdENleE9PSlVpS0ctOWFPMC14NXBWZnpOVWRaRE9YREozTnplZk5JWW5fSkZJSzR2bklxNDZqYVcwMHhBZzFlaEgycW9YdlFHb2t3aVZON1FpSGdfZ0Jodw?oc=5",
+        "published": "2026-11-05T02:08:00+00:00",
+        "source": "FantasyPros"
+      },
       {
         "title": "Browns | Denzel Boston came up limping, added to injury report with calf injury - Fantasy Guru",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT19tdUN3U0NNNVROUHBPazZBZjBMOFpqOEY1RkFCbmh4d0hiRUsyZURpaHBzOXNOTUdTQ0kta3JheVFCTlN2clBaRzFoVTVMQjZWSHRVakJIWjdGajhQT18tWjZwWllmcWhyQ0RhbFVaYXBqYWg1eWJEZFZ4T1FGVU9SOFJjN0hVSTNtYk1SdlY1TGlYTXo5dXZpQi1HSHJfemhDQVV3MA?oc=5",
@@ -190,16 +202,16 @@
         "source": "Fantasy Guru"
       },
       {
+        "title": "Denzel Boston Limited by calf injury Wednesday - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0p4MlAxeWk5emE3SWQ3ZHk2VnRXeFdaTVprWlFpWE0wU21SRTV3Ni1WemdFcy1CRmpudU5oblFzclcxUGlXZVFhdkdhSE1LNEduTVBkYmlicnVkQ3N3VFQ2T2E4UjZZWmpDMjlHR04xOWpQT0lvUHhabjNUZmlONHZnZUhJLWxtTWhTVnlFNDNaVGN2S3ZmTzV3ZW9EQQ?oc=5",
+        "published": "2026-11-05T01:01:05+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
         "title": "Limited practice for Denzel Boston - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDlsVXJhOUs5dGZSOFdVYTV4STBtbk9lMjc5eXJiNXpfcTd0a0pxbGJybVlNclFvSTgxWklaMFloS3lMbUpkbTBRMGRObTktamhvQ3oyWmJSb1l0QmxrQ2FxM3BzUUpWUXlzeGFzZjBFLUxuQnlJaWZKbi1JcU9FODN6bDc2QQ?oc=5",
         "published": "2026-11-05T00:26:00+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Denzel Boston Limited by calf injury Wednesday - Fantasy Footballers Podcast",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc0p4MlAxeWk5emE3SWQ3ZHk2VnRXeFdaTVprWlFpWE0wU21SRTV3Ni1WemdFcy1CRmpudU5oblFzclcxUGlXZVFhdkdhSE1LNEduTVBkYmlicnVkQ3N3VFQ2T2E4UjZZWmpDMjlHR04xOWpQT0lvUHhabjNUZmlONHZnZUhJLWxtTWhTVnlFNDNaVGN2S3ZmTzV3ZW9EQQ?oc=5",
-        "published": "2026-11-04T22:34:39+00:00",
-        "source": "Fantasy Footballers Podcast"
       },
       {
         "title": "Denzel Boston (calf) limited in Wednesday practice - NBC Sports",
@@ -213,9 +225,9 @@
   {
     "player_id": "1479",
     "name": "Keenan Allen",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.1,
+    "hours_to_lock": 81.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -229,9 +241,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 91.2,
+    "hours_to_lock": 84.3,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -245,9 +257,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 263.4,
+    "hours_to_lock": 256.6,
     "kickoff_utc": "2026-11-16T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -261,9 +273,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 95.4,
+    "hours_to_lock": 88.6,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -277,9 +289,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.1,
+    "hours_to_lock": 81.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -293,9 +305,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 95.4,
+    "hours_to_lock": 88.6,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -309,9 +321,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 84.6,
+    "hours_to_lock": 77.8,
     "kickoff_utc": "2026-11-08T14:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -332,9 +344,9 @@
   {
     "player_id": "8142",
     "name": "Alec Pierce",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.1,
+    "hours_to_lock": 81.3,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -348,17 +360,24 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-05T01:53:46.237697+00:00",
+    "generated_at": "2026-11-05T08:44:27.186912+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 23.4,
+    "hours_to_lock": 16.5,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 52,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "headlines": [
+      {
+        "title": "Wednesday Quick Hits: Tuten a \"Game-Time Decision\" Ahead of Week 9 vs. Ravens - Jacksonville Jaguars",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3hKZlYwQ0d1UTk2RVAtLUpwbklGTkFMTEZOVE5NZTNNaWZ0OTdlMXYwWGZ5MmVhZTdzdy0yWUc0Y3ZYdUNvZXR1ejBET2dWUEJfQ20xX0dYRHJwRHpkZXU4dnJLUXZ4ZkxMQWpkekkxbkdVWThFek1ZbWsydV96cW0tNnZOblkxS3poUTFBaWR3ZnNYS2d6YndYcmlaRnVsMEVnRQ?oc=5",
+        "published": "2026-11-04T22:13:37+00:00",
+        "source": "Jacksonville Jaguars"
+      }
+    ],
+    "reason": "Wednesday Quick Hits: Tuten a \"Game-Time Decision\" Ahead of Week 9 vs. Ravens - Jacksonville Jaguars"
   }
 ]
