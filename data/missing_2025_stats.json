@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T22:27:22.216044+00:00",
+  "generated_at": "2026-11-06T02:41:48.816996+00:00",
   "season": "2025",
-  "missing_count": 732,
+  "missing_count": 733,
   "players": [
     {
       "player_id": "11533",
@@ -341,6 +341,15 @@
       "name": "Jahan Dotson",
       "pos": "WR",
       "team": "ATL",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "8194",
+      "name": "Jashaun Corbin",
+      "pos": "RB",
+      "team": "DAL",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
@@ -3964,15 +3973,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "14058",
-      "name": "Malick Meiga",
-      "pos": "WR",
-      "team": "SEA",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "12538",
       "name": "Brady Cook",
       "pos": "QB",
@@ -5509,6 +5509,15 @@
       "team": "CAR",
       "sleeper_gsis_id": null,
       "rookie_year": "2021",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11748",
+      "name": "Bub Means",
+      "pos": "WR",
+      "team": "KC",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
     },
     {

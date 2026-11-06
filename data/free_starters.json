@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T22:27:25.369813+00:00",
+  "generated_at": "2026-11-06T02:41:52.015719+00:00",
   "league_id": "1388315713940262912",
-  "count": 2,
+  "count": 3,
   "players": [
     {
       "player_id": "4035",
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 59016,
-      "drops_24h": 33928,
+      "adds_24h": 58688,
+      "drops_24h": 33296,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -62,11 +62,44 @@
         "time": "13:00",
         "home": "TEN",
         "away": "JAX",
-        "spread": -9.5,
-        "total": 44.5,
+        "spread": null,
+        "total": null,
         "opponent": "JAX",
         "home_game": true,
-        "implied_team_points": 27.0
+        "implied_team_points": null
+      }
+    },
+    {
+      "player_id": "9501",
+      "name": "DeMario Douglas",
+      "pos": "WR",
+      "team": "NE",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 8.78,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 9,
+        "date": "2026-11-08",
+        "time": "16:25",
+        "home": "NE",
+        "away": "GB",
+        "spread": 3.0,
+        "total": 44.5,
+        "opponent": "GB",
+        "home_game": true,
+        "implied_team_points": 20.8
       }
     }
   ],
