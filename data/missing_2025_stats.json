@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T01:53:13.601030+00:00",
+  "generated_at": "2026-11-07T08:00:21.911063+00:00",
   "season": "2025",
-  "missing_count": 733,
+  "missing_count": 731,
   "players": [
     {
       "player_id": "11533",
@@ -1844,15 +1844,6 @@
       "name": "Tucker Kraft",
       "pos": "TE",
       "team": "GB",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "10215",
-      "name": "Jake Haener",
-      "pos": "QB",
-      "team": "NYG",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
@@ -6052,15 +6043,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13580",
-      "name": "Carsen Ryan",
-      "pos": "TE",
-      "team": "CLE",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "9753",
       "name": "Zach Charbonnet",
       "pos": "RB",
@@ -6494,7 +6476,7 @@
     },
     {
       "player_id": "13743",
-      "name": "Joseph Manjack",
+      "name": "Joseph Manjack IV",
       "pos": "WR",
       "team": "NYJ",
       "sleeper_gsis_id": null,

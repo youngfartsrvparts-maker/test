@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T01:53:16.525877+00:00",
+  "generated_at": "2026-11-07T08:00:25.164531+00:00",
   "league_id": "1388315713940262912",
-  "count": 5,
+  "count": 6,
   "players": [
     {
       "player_id": "4035",
@@ -9,7 +9,7 @@
       "pos": "RB",
       "team": "NO",
       "depth": 1,
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 37904,
-      "drops_24h": 20528,
+      "adds_24h": 34600,
+      "drops_24h": 17704,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -120,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 20376,
-      "drops_24h": 17730,
+      "adds_24h": 17088,
+      "drops_24h": 15732,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -136,12 +136,45 @@
       }
     },
     {
+      "player_id": "2197",
+      "name": "Brandin Cooks",
+      "pos": "WR",
+      "team": "SF",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 3.99,
+      "floor_2025": 1.5,
+      "ceiling_2025": 5.56,
+      "targets_pg": 2.77,
+      "carries_pg": 0.0,
+      "adds_24h": 0,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 9,
+        "date": "2026-11-08",
+        "time": "16:05",
+        "home": "SF",
+        "away": "LV",
+        "spread": 10.0,
+        "total": 51.5,
+        "opponent": "LV",
+        "home_game": true,
+        "implied_team_points": 20.8
+      }
+    },
+    {
       "player_id": "13346",
       "name": "Denzel Boston",
       "pos": "WR",
       "team": "CLE",
       "depth": 1,
-      "injury": "Questionable",
+      "injury": null,
       "status": "Active",
       "role": null,
       "role_confidence": null,
