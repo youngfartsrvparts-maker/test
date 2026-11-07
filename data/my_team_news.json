@@ -2,28 +2,40 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 75.2,
+    "hours_to_lock": 71.4,
     "kickoff_utc": "2026-11-10T01:15:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 93,
+    "confidence": 95,
     "label": "Some availability risk",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
-        "title": "Dalton Kincaid a limited participant - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlFoNGxONzNDdk5PTzFRZUxaajZxdEFaRUhmUzlJa01zaWoyWU9vbXljZnJPUjUwa3pCLXV6MUU0ZjBkVUxBd0l0TG81TDNIc1U0YjQ3YXo2Q214QlRSNXROVThuQVVwcDZiYUMwa2ppNnpMS000dTRlcm4xZWlpWDhuV2Q?oc=5",
-        "published": "2026-11-05T23:04:42+00:00",
-        "source": "AOL.com"
+        "title": "Bills injury report: Dalton Kincaid upgraded, but offensive line questions remain - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzM4enV2V1dZc3BScm1zTGdyQWZFNG1GMjFUUl84VGhpellfVU16d2o5a2V6eFRuY0pKZkNybXlESXBmNVJaRFJvLWFRb1JoRWRHV1lESTNkT0pmcm5maTlJWDkyMEJQUFV6YWZjSWE0V1lTTVU4QjFhZTA4TkppWERrUHVvY2hsZnRV?oc=5",
+        "published": "2026-11-07T00:50:00+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Dalton Kincaid upgraded to full practice Friday - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYklfZ1JDRkdkQnlXeHVHTlRzYVBEaFB4aVBWT2ZKSGZmNkRybDcxVFhHc0tDUFd6VDVyMkYzVVdRZUhhbHVEQzZ0OFhMMmFmb1RFeXNabVVqOVYxMEFqX1NjR2sxMUVFdzB3eHFleXdHbGJfVU5oSFd2ZHcwdnZyZXpqd2k2UmNBRWxSelQ1SQ?oc=5",
+        "published": "2026-11-06T22:36:41+00:00",
+        "source": "Yahoo Sports"
       },
       {
         "title": "Dalton Kincaid Limited at practice Thursday - Fantasy Footballers Podcast",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalViQ2lFSER3WEFiSGcyd0J3dXdFVkN5OEE1YzFaSjFDWURncDRRdE83UXdfMTF5MWphSlFlMGF6NTBpalh4dW5rUXlCNVNLdU1jQzFST0pjOVVWOEFLbkVLdEc1WDNNbDdqekM1RGlqWU1DSmxMVnNETkdiMkl2WktvZkg3Vnc0RzhfQXNtRUVOUWhBTW5wX0F3?oc=5",
-        "published": "2026-11-05T23:01:26+00:00",
+        "published": "2026-11-06T06:53:05+00:00",
         "source": "Fantasy Footballers Podcast"
+      },
+      {
+        "title": "Dalton Kincaid a limited participant - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlFoNGxONzNDdk5PTzFRZUxaajZxdEFaRUhmUzlJa01zaWoyWU9vbXljZnJPUjUwa3pCLXV6MUU0ZjBkVUxBd0l0TG81TDNIc1U0YjQ3YXo2Q214QlRSNXROVThuQVVwcDZiYUMwa2ppNnpMS000dTRlcm4xZWlpWDhuV2Q?oc=5",
+        "published": "2026-11-05T23:04:42+00:00",
+        "source": "AOL.com"
       },
       {
         "title": "Bills' Dalton Kincaid: Limited at practice Thursday - CBS Sports",
@@ -38,19 +50,19 @@
         "source": "RotoWire"
       }
     ],
-    "reason": "Sleeper injury/practice status is the main signal."
+    "reason": "Dalton Kincaid upgraded to full practice Friday - Yahoo Sports"
   },
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -20.8,
+    "hours_to_lock": -24.6,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
-    "score": -1,
-    "model_modifier": -0.25,
+    "score": 0,
+    "model_modifier": 0.0,
     "confidence": 87,
-    "label": "Some availability risk",
+    "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
@@ -65,12 +77,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTNoT1plSmRaeXVORFlFcWk2b2hFZkFUR2pHc3pNVlQtMlcydm1ENTQ1RkxKVV83VGlBcW9nMjI4bVNYWml0dGpWLWN0Zlhpb0dUN203djU2NmFpSW41QllyQUo4YzZhdmV3ZUdYQUpZaWVSSjJ0cDRLcjd3ZzBDOWpHemR4Zkw0cFVHZw?oc=5",
         "published": "2026-11-06T02:44:00+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Rap: Bhayshul Tuten (ankle/foot) will play on TNF - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFBZV0NzSDFraU94b2xwQUZXbU01ZTNfS1hJWUtXUHBKRUliNVVPdkpZemdnNFJEeFdsbzY5MGl0bUJ6Vk0tQWFTTmpVbW1jeGJ5YmlMYXZUSXJ1TENGd1hzUkJaMGJDanFhWjVRaHdWUXJBeGtGaC1CYWxlaXNRX1U3Znk0dDVFeUFQQWE1b3I3aVUyajVXVHI4dTlVU01mN3JHUDFtNGtIV05JanFrazVn?oc=5",
-        "published": "2026-11-06T02:41:07+00:00",
-        "source": "NBC Sports"
       },
       {
         "title": "Jaguars Get Major Bhayshul Tuten Injury Update Before Week 9 - Yahoo Sports",
@@ -89,6 +95,12 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MUVdDSS0wblV5YXRuQmV3WjFwVmFYTTZ3RldaSUlZWUdFNHN4dTNMRFZSb2JZQ3E1b2dsS3NuX2dyOHlUOFR5aVBmNFdrZmVDRmFJaUs4bVdBQmNJcFVxYkNOaXpPNlh4M180LV9lcUdReHA3NzRnRE0wampLUEk?oc=5",
         "published": "2026-11-06T00:01:00+00:00",
         "source": "Heavy.com"
+      },
+      {
+        "title": "Thursday Night Football: DE Travon Walker, RB Bhayshul Tuten active for Jaguars vs. Ravens - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUjR0d2dCVzZWUV90Ym54UzNPYS1QVGhhSjg2bFRQdVVSaXR2SG1kU2N4LVhXYndvMXVFclp2VkFyV19Ndm5TWnpqTVJsRzZLUWpKYmR1Z0VfYWZRNzlHME15RGZacGg2X19kVTlNZWl4WVJncTJpN1lJM3UtMnV0cWZHZ3JhdTd4WjdMY2hmcG4wMGtpYVh1b2Z0SHk0S1B1amprYVJkcU9YdkpUaE9YemdQWDJwQmRsQTFNWG5TcWlVTGtIQXZ2dXN4S0pLaXNNM0l0TzY3MzQ2UUpRUGZMUUhhWQ?oc=5",
+        "published": "2026-11-05T23:59:42+00:00",
+        "source": "NBC Sports"
       }
     ],
     "reason": "Zay Flowers is a fantasy ‘leap of faith’ on Thursday night; Bhayshul Tuten is questionable - The New York Times"
@@ -96,9 +108,9 @@
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 43.9,
+    "hours_to_lock": 40.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -112,9 +124,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 43.9,
+    "hours_to_lock": 40.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -135,9 +147,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 43.9,
+    "hours_to_lock": 40.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -151,9 +163,9 @@
   {
     "player_id": "13305",
     "name": "Mike Washington Jr.",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 47.0,
+    "hours_to_lock": 43.2,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -167,9 +179,9 @@
   {
     "player_id": "1479",
     "name": "Keenan Allen",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 43.9,
+    "hours_to_lock": 40.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -183,9 +195,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 47.0,
+    "hours_to_lock": 43.2,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -199,9 +211,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 219.2,
+    "hours_to_lock": 215.4,
     "kickoff_utc": "2026-11-16T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -215,9 +227,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 51.2,
+    "hours_to_lock": 47.4,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -231,9 +243,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 43.9,
+    "hours_to_lock": 40.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -247,9 +259,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 51.2,
+    "hours_to_lock": 47.4,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -263,9 +275,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 43.9,
+    "hours_to_lock": 40.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -279,9 +291,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 40.4,
+    "hours_to_lock": 36.6,
     "kickoff_utc": "2026-11-08T14:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -295,9 +307,9 @@
   {
     "player_id": "8161",
     "name": "Malik Willis",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 43.9,
+    "hours_to_lock": 40.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -311,9 +323,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-06T22:05:25.179206+00:00",
+    "generated_at": "2026-11-07T01:53:14.501336+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -20.8,
+    "hours_to_lock": -24.6,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
