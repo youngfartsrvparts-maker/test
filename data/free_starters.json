@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:51:11.358567+00:00",
+  "generated_at": "2026-11-08T08:19:29.390482+00:00",
   "league_id": "1388315713940262912",
   "count": 6,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 86056,
-      "drops_24h": 10496,
+      "adds_24h": 114264,
+      "drops_24h": 10080,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -34,6 +34,39 @@
         "opponent": "CLE",
         "home_game": true,
         "implied_team_points": 19.8
+      }
+    },
+    {
+      "player_id": "3286",
+      "name": "Demarcus Robinson",
+      "pos": "WR",
+      "team": "SF",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": "Fresh negative availability/role signal",
+      "role_confidence": 58,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 4.16,
+      "floor_2025": 1.93,
+      "ceiling_2025": 6.75,
+      "targets_pg": 2.5,
+      "carries_pg": 0.07,
+      "adds_24h": 338784,
+      "drops_24h": 19344,
+      "next_game": {
+        "week": 9,
+        "date": "2026-11-08",
+        "time": "16:05",
+        "home": "SF",
+        "away": "LV",
+        "spread": 9.5,
+        "total": 51.5,
+        "opponent": "LV",
+        "home_game": true,
+        "implied_team_points": 21.0
       }
     },
     {
@@ -120,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 11070,
-      "drops_24h": 12036,
+      "adds_24h": 11424,
+      "drops_24h": 13662,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -133,39 +166,6 @@
         "opponent": "SF",
         "home_game": false,
         "implied_team_points": 30.5
-      }
-    },
-    {
-      "player_id": "2197",
-      "name": "Brandin Cooks",
-      "pos": "WR",
-      "team": "SF",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 3.99,
-      "floor_2025": 1.5,
-      "ceiling_2025": 5.56,
-      "targets_pg": 2.77,
-      "carries_pg": 0.0,
-      "adds_24h": 5276,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 9,
-        "date": "2026-11-08",
-        "time": "16:05",
-        "home": "SF",
-        "away": "LV",
-        "spread": 9.5,
-        "total": 51.5,
-        "opponent": "LV",
-        "home_game": true,
-        "implied_team_points": 21.0
       }
     },
     {
