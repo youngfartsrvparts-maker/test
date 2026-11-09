@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 14.6,
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 4.2,
     "kickoff_utc": "2026-11-10T01:15:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -13,6 +13,18 @@
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Monday Night Football Injury Status for Bills' DJ Moore, Dalton Kincaid, Keon Coleman - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWNQdTU2d0xYb1pLTU5ZU3NWblpSX1ZGNmw3alpKSGpyTFMtaHY2elRBNm5wU012NnM3U2tHeHptOGhFQkNZN2p6MzRZcE9yenllVW5Ra3FOcXNBS3kyQ2RmajAwTmZzM0w3NC1MN3ZJRklkdHl4UHVVTkVia1NFUEpIX0prUmctUGZtcDlnN0syeUVpaGwxMm9PdVYxSnVDR3QzRVVRZVFieWRqaE52OU8tdVdUaDE4SmQxZDdn?oc=5",
+        "published": "2026-11-09T14:40:15+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Is Dalton Kincaid Playing Tonight? (Injury Update, Betting Impact for Bills vs. Vikings in NFL Week 9) - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2NtejE0YzZLM1FkTVVRdVdudFdrWFJiSFNOaldUT3hmUkRtQkJaMXpmRUhNQlF3S1RHTHMyZ3M2Y0ZMaGYxb1JERTNjLUUyai1IUUtCWkVXSFJsUmtwcjZ1M0xYN2Fzc0l5bktOc05WRjhlMEswTkRKbzNqOTRGT0NXUzJHZ0FPTDctdWZhUmxPSmRrQ3ZqdkY2cE1sblhZOWp6M3pKQVEtdTg0cWFR?oc=5",
+        "published": "2026-11-09T10:40:00+00:00",
+        "source": "Sports Illustrated"
+      },
       {
         "title": "Dalton Kincaid, Hunter Henry and more TE injury updates for Week 9 - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0d6WHNBV2JDS1doaHJfcjZ0YmJzaXZoQXFWRTFhUlhKQ3FuVnNVRzlBUlRqYm4xS1ZQcjEweWxhSDBDUWFJa3FfMlBVemNES29aVVFXTVh1bkJhZG9GTlhraFdpWXI2eU90RzkxcWZETWxPMVdmT2hFTXFGd0loYUJpZGoxSGE5?oc=5",
@@ -36,18 +48,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYklfZ1JDRkdkQnlXeHVHTlRzYVBEaFB4aVBWT2ZKSGZmNkRybDcxVFhHc0tDUFd6VDVyMkYzVVdRZUhhbHVEQzZ0OFhMMmFmb1RFeXNabVVqOVYxMEFqX1NjR2sxMUVFdzB3eHFleXdHbGJfVU5oSFd2ZHcwdnZyZXpqd2k2UmNBRWxSelQ1SQ?oc=5",
         "published": "2026-11-06T22:36:41+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Dalton Kincaid Limited at practice Thursday - Fantasy Footballers Podcast",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalViQ2lFSER3WEFiSGcyd0J3dXdFVkN5OEE1YzFaSjFDWURncDRRdE83UXdfMTF5MWphSlFlMGF6NTBpalh4dW5rUXlCNVNLdU1jQzFST0pjOVVWOEFLbkVLdEc1WDNNbDdqekM1RGlqWU1DSmxMVnNETkdiMkl2WktvZkg3Vnc0RzhfQXNtRUVOUWhBTW5wX0F3?oc=5",
-        "published": "2026-11-06T06:53:05+00:00",
-        "source": "Fantasy Footballers Podcast"
-      },
-      {
-        "title": "Dalton Kincaid a limited participant - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlFoNGxONzNDdk5PTzFRZUxaajZxdEFaRUhmUzlJa01zaWoyWU9vbXljZnJPUjUwa3pCLXV6MUU0ZjBkVUxBd0l0TG81TDNIc1U0YjQ3YXo2Q214QlRSNXROVThuQVVwcDZiYUMwa2ppNnpMS000dTRlcm4xZWlpWDhuV2Q?oc=5",
-        "published": "2026-11-05T23:04:42+00:00",
-        "source": "AOL.com"
       }
     ],
     "reason": "Dalton Kincaid upgraded to full practice Friday - Yahoo Sports"
@@ -55,9 +55,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -81.4,
+    "hours_to_lock": -91.8,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -79,38 +79,38 @@
         "source": "Heavy.com"
       },
       {
-        "title": "Jaguars RB Bhayshul Tuten not spotted at practice - Field Level Media",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWU11LWwxVVRwQW9yRFd6RHNQd29DaG0zbEVxQVVuUWgyX0xCcTBuUURvbmZxeWh0YWdYeURlNFZGMmE3ajdvd3h6eHl6dnpYQkJxckJzYVVzQ3pXTGRXN2RIZ2pUcE9BQXJoR0NRU1pjdHR2eHJwa3UweXhuR3NkeWhsX0p6OTllSlJF?oc=5",
-        "published": "2026-11-07T04:46:56+00:00",
-        "source": "Field Level Media"
+        "title": "Bhayshul Tuten (ankle) active for Thursday Night Football - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWhkVElvNnBPRXE5ZGlvUUloMHc3Qlh5eGZ3LWJ4VUVUUEVCSE5MT1ZqS2REUmJJVFJxVmE4aVcyY0FFQkl1RGxxMncwRDJHNjh4QkMxTWYzTGZZeGs3MFFfNzB4bXNaS2M1QzRCUjgzZ3I5Y211eHp0M2xsUWFON0RUX0t0cVloZ3I1N0xENjFaUmpMM2xPOXRwNlF4blVF0gGmAUFVX3lxTE9yeG1GTm5Kb2NSQVJwQ0lERnBxNDVfQXFoYXdhX0VWUGVidk5FcHoycV9lOEVWRC0yclM0a1NPTzd1NFFXZTVlWTBuUU5EcWxZTEFqMUdXNnp5NTR6dExFeC1KZlpsV29kVFYyeFBTSFphS1lWSnVXeWcwSFpIbFlKV2VhQUlBbWo0WDJKaWg5bDZDWFZuYkotRVl2XzB1U21vbzU2Y1E?oc=5",
+        "published": "2026-11-05T23:55:20+00:00",
+        "source": "FantasyPros"
       },
       {
-        "title": "Jaguars Get Major Bhayshul Tuten Injury Update Before Week 9 - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlQ1TnVVWlQwYkh1bkFDM2haUnJqTU1UbWRocGI5akRiWmpBNHh2RTBVQXBaSTZMNlBjaHJNVkp3WXVtTTRVbGtvNnoyc1ZVaFpwMXVhZ2RPMG5DbkVjekxiLUV0bHAxaExnZm14SlhxU29Hd24xX0ExSlpJNkVGQ05Bak84UVVsdmpYWA?oc=5",
-        "published": "2026-11-06T00:59:00+00:00",
+        "title": "Jaguars' Bhayshul Tuten, Travon Walker will face Ravens on TNF - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHI5LUlkZmRBMkV0Q0dQc0hZY2FvWHI5WUhYbjNyemJ2eTZ1Qlp1c0hTaHNRVXBEWkxWcERMcThUdlZ0aUUwRjBfbU5IcGpWT2dDV1NpQjdQWHBjZ3VXTVYyNUhnSUxhSGkxUFYzM3l4MU5zWWZubEljYjlDMy1pYW5SVFZseFJaMkVMdHNZZGZZSUFfMXVUclV6SWNjX0E?oc=5",
+        "published": "2026-11-05T23:54:00+00:00",
+        "source": "ESPN"
+      },
+      {
+        "title": "Jaguars' Bhayshul Tuten Will Play vs. Ravens, Which Leaves One Big Question - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzFCRkhsd1BBaXdxMUZRQUxFc2VzMFh5eFNDdlAyendnMzdKZkY0NEVUMS1DUzZ4aV82R2lVNkFyOWtwcTd4cGxxdFhWbUlDaUVNM3NUYWJSdkFOVUpLbTFwRVFVblVBMHpLelhJYWlJbmlreWdiYzBGVHZES2VlYWlETXJqc3hwNERJZkkwOThydWduSXhTbThzY1JMS0hFQWRFdDQ2MlJrTXd0RUo5V2NxSQ?oc=5",
+        "published": "2026-11-05T23:49:39+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Bhayshul Tuten injury update: RB’s status revealed 90 minutes before TNF kickoff - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9lVEE1d0RDLU5hWVY5NDloTnE1Q1dLRk43YWFTbmdvQ0NSNHpaajVIaGEwby0xeDdGandjWUh5Zk43VlAwNGpDLVRCWThLTTVCcDFNNEctaUQzcFJvcmNkTW5yc3RyOGp3ekdVckIzVks4X1NyXzFyMjFFSkczQTJHT3lESTg?oc=5",
+        "published": "2026-11-05T23:41:12+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Jaguars Reveal Plans for Bhayshul Tuten Usage in Week 9 - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MUVdDSS0wblV5YXRuQmV3WjFwVmFYTTZ3RldaSUlZWUdFNHN4dTNMRFZSb2JZQ3E1b2dsS3NuX2dyOHlUOFR5aVBmNFdrZmVDRmFJaUs4bVdBQmNJcFVxYkNOaXpPNlh4M180LV9lcUdReHA3NzRnRE0wampLUEk?oc=5",
-        "published": "2026-11-06T00:01:00+00:00",
-        "source": "Heavy.com"
-      },
-      {
-        "title": "Thursday Night Football: DE Travon Walker, RB Bhayshul Tuten active for Jaguars vs. Ravens - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUjR0d2dCVzZWUV90Ym54UzNPYS1QVGhhSjg2bFRQdVVSaXR2SG1kU2N4LVhXYndvMXVFclp2VkFyV19Ndm5TWnpqTVJsRzZLUWpKYmR1Z0VfYWZRNzlHME15RGZacGg2X19kVTlNZWl4WVJncTJpN1lJM3UtMnV0cWZHZ3JhdTd4WjdMY2hmcG4wMGtpYVh1b2Z0SHk0S1B1amprYVJkcU9YdkpUaE9YemdQWDJwQmRsQTFNWG5TcWlVTGtIQXZ2dXN4S0pLaXNNM0l0TzY3MzQ2UUpRUGZMUUhhWQ?oc=5",
-        "published": "2026-11-05T23:59:42+00:00",
-        "source": "NBC Sports"
       }
     ],
-    "reason": "Thursday Night Football: DE Travon Walker, RB Bhayshul Tuten active for Jaguars vs. Ravens - NBC Sports"
+    "reason": "Bhayshul Tuten (ankle) active for Thursday Night Football - FantasyPros"
   },
   {
     "player_id": "12512",
     "name": "Quinshon Judkins",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.6,
+    "hours_to_lock": -27.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -124,9 +124,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.6,
+    "hours_to_lock": -27.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +140,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.6,
+    "hours_to_lock": -27.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,9 +156,9 @@
   {
     "player_id": "13305",
     "name": "Mike Washington Jr.",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -13.5,
+    "hours_to_lock": -24.0,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -172,9 +172,9 @@
   {
     "player_id": "1479",
     "name": "Keenan Allen",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.6,
+    "hours_to_lock": -27.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -188,9 +188,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -13.5,
+    "hours_to_lock": -24.0,
     "kickoff_utc": "2026-11-08T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -204,9 +204,9 @@
   {
     "player_id": "5846",
     "name": "DK Metcalf",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 158.7,
+    "hours_to_lock": 148.3,
     "kickoff_utc": "2026-11-16T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -220,9 +220,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -19.7,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -236,9 +236,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.6,
+    "hours_to_lock": -27.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -252,9 +252,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.3,
+    "hours_to_lock": -19.7,
     "kickoff_utc": "2026-11-09T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -268,9 +268,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.6,
+    "hours_to_lock": -27.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -284,9 +284,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -20.1,
+    "hours_to_lock": -30.6,
     "kickoff_utc": "2026-11-08T14:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -300,9 +300,9 @@
   {
     "player_id": "8161",
     "name": "Malik Willis",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -16.6,
+    "hours_to_lock": -27.1,
     "kickoff_utc": "2026-11-08T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -316,9 +316,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-09T10:37:59.357741+00:00",
+    "generated_at": "2026-11-09T21:03:54.243890+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -81.4,
+    "hours_to_lock": -91.8,
     "kickoff_utc": "2026-11-06T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -328,10 +328,10 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Jacksonville Jaguars Running Backs: Who To Know If Bhayshul Tuten Is Out - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmIwNEpNem5kUXYxcXA2NlBFQm81Ty02UEllWG9RbzF5elUzMjVXYkhLSFRtdXI4WWl4THdDM3NLbm1lVC0xcHU5Y1hLNzh3WFZkTExwZVJOSzJUZDd0RXQya3B2NEVfVnM2Q3NQS2VVdVctOWZyWEUtZkJFTFNZUl9rSTVPcmVHbG4tdTVQS01pNU9GQXhkLVJMNXFELXNFTE45QWJVTXU4WF8tQzFZZmdrWQ?oc=5",
-        "published": "2026-11-05T21:04:40+00:00",
-        "source": "Heavy.com"
+        "title": "Who Replaces Jessie Bates III after Atlanta Falcons Trade with Jacksonville Jaguars? - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWUY2ejg3NHo4ZHFNbWtWal9TTGhtMHVNNVpXWXYyZmtsUFdLdHBNUGpuLVQwTHo2a2xJRHNiUVd6aDVSalByU0N2eFprR3hwNkEtTDlkMGxwRjFiRVZaRjdWVk1mZTNCUlpCVTlBZTkwQjJfWVAwVWEwQ3FfUmZVQU9DS3FTOUJKZEdKeFhjNXJCSU9rSjN5TWxjdTFFelREM1MwZXBhYWdOQ0VQQ2Z0em80UGF0VW1TcHBB?oc=5",
+        "published": "2026-11-09T15:20:22+00:00",
+        "source": "Sports Illustrated"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
