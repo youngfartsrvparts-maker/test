@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T02:49:03.262008+00:00",
+  "generated_at": "2026-11-09T10:37:58.407925+00:00",
   "season": "2025",
-  "missing_count": 730,
+  "missing_count": 728,
   "players": [
     {
       "player_id": "11533",
@@ -1981,15 +1981,6 @@
       "team": "GB",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "12079",
-      "name": "Treyton Welch",
-      "pos": "TE",
-      "team": "NO",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -4603,15 +4594,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "9757",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "team": "NO",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "7670",
       "name": "Joshua Palmer",
       "pos": "WR",
@@ -6585,7 +6567,7 @@
       "gsis": 1557
     },
     "2026": {
-      "gsis": 725
+      "gsis": 732
     }
   }
 }

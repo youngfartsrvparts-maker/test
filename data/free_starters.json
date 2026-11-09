@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T02:49:06.238350+00:00",
+  "generated_at": "2026-11-09T10:38:01.382818+00:00",
   "league_id": "1388315713940262912",
   "count": 6,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 156496,
-      "drops_24h": 34248,
+      "adds_24h": 126504,
+      "drops_24h": 40536,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -63,10 +63,10 @@
         "home": "TEN",
         "away": "JAX",
         "spread": -9.5,
-        "total": 46.5,
+        "total": 47.5,
         "opponent": "JAX",
         "home_game": true,
-        "implied_team_points": 28.0
+        "implied_team_points": 28.5
       }
     },
     {
@@ -120,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 20430,
-      "drops_24h": 28578,
+      "adds_24h": 18414,
+      "drops_24h": 28134,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
@@ -153,8 +153,8 @@
       "ceiling_2025": 6.75,
       "targets_pg": 2.5,
       "carries_pg": 0.07,
-      "adds_24h": 482010,
-      "drops_24h": 52290,
+      "adds_24h": 386526,
+      "drops_24h": 60408,
       "next_game": {
         "week": 9,
         "date": "2026-11-08",
