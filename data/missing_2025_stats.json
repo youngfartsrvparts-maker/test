@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:31:03.035130+00:00",
+  "generated_at": "2026-11-10T11:45:04.391945+00:00",
   "season": "2025",
   "missing_count": 728,
   "players": [
@@ -2673,8 +2673,8 @@
       "pos": "RB",
       "team": "TB",
       "sleeper_gsis_id": null,
-      "rookie_year": null,
-      "reason": "no nflverse 2025 weekly match"
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
       "player_id": "12787",
@@ -6567,7 +6567,7 @@
       "gsis": 1557
     },
     "2026": {
-      "gsis": 732
+      "gsis": 741
     }
   }
 }
