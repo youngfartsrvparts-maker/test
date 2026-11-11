@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:49:52.223254+00:00",
+  "generated_at": "2026-11-11T03:47:44.687805+00:00",
   "league_id": "1388315713940262912",
   "count": 10,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 30872,
-      "drops_24h": 168984,
+      "adds_24h": 28344,
+      "drops_24h": 208904,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -54,7 +54,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 288234,
+      "adds_24h": 379638,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -87,7 +87,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 20895,
+      "adds_24h": 26090,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 20946,
-      "drops_24h": 82416,
+      "adds_24h": 23040,
+      "drops_24h": 101412,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -186,19 +186,19 @@
       "ceiling_2025": 6.75,
       "targets_pg": 2.5,
       "carries_pg": 0.07,
-      "adds_24h": 179856,
-      "drops_24h": 160374,
+      "adds_24h": 228276,
+      "drops_24h": 191310,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
         "time": "16:25",
         "home": "DAL",
         "away": "SF",
-        "spread": -3.5,
+        "spread": -4.5,
         "total": 55.5,
         "opponent": "DAL",
         "home_game": false,
-        "implied_team_points": 26.0
+        "implied_team_points": 25.5
       }
     },
     {
@@ -219,8 +219,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 21976,
-      "drops_24h": 434048,
+      "adds_24h": 25136,
+      "drops_24h": 490672,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -252,7 +252,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 1760985,
+      "adds_24h": 2079675,
       "drops_24h": 0,
       "next_game": null
     },
@@ -307,7 +307,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 0,
+      "adds_24h": 24232,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
