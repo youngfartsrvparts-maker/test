@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:47:44.687805+00:00",
+  "generated_at": "2026-11-11T11:34:57.793211+00:00",
   "league_id": "1388315713940262912",
   "count": 10,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 28344,
-      "drops_24h": 208904,
+      "adds_24h": 0,
+      "drops_24h": 276976,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -54,7 +54,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 379638,
+      "adds_24h": 472221,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -67,6 +67,72 @@
         "opponent": "MIN",
         "home_game": true,
         "implied_team_points": 19.0
+      }
+    },
+    {
+      "player_id": "12512",
+      "name": "Quinshon Judkins",
+      "pos": "RB",
+      "team": "CLE",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 10,
+        "date": "2026-11-15",
+        "time": "13:00",
+        "home": "CLE",
+        "away": "HOU",
+        "spread": -4.5,
+        "total": 39.5,
+        "opponent": "HOU",
+        "home_game": true,
+        "implied_team_points": 22.0
+      }
+    },
+    {
+      "player_id": "5846",
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "team": "PIT",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 12.48,
+      "floor_2025": 8.1,
+      "ceiling_2025": 20.88,
+      "targets_pg": 6.6,
+      "carries_pg": 0.13,
+      "adds_24h": 33512,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 10,
+        "date": "2026-11-15",
+        "time": "20:20",
+        "home": "CIN",
+        "away": "PIT",
+        "spread": 3.5,
+        "total": 49.5,
+        "opponent": "CIN",
+        "home_game": false,
+        "implied_team_points": 26.5
       }
     },
     {
@@ -87,7 +153,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 26090,
+      "adds_24h": 29917,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -100,39 +166,6 @@
         "opponent": "JAX",
         "home_game": true,
         "implied_team_points": 28.5
-      }
-    },
-    {
-      "player_id": "9501",
-      "name": "DeMario Douglas",
-      "pos": "WR",
-      "team": "NE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 8.78,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 10,
-        "date": "2026-11-15",
-        "time": "09:30",
-        "home": "DET",
-        "away": "NE",
-        "spread": 2.5,
-        "total": 51.5,
-        "opponent": "DET",
-        "home_game": false,
-        "implied_team_points": 27.0
       }
     },
     {
@@ -153,8 +186,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 23040,
-      "drops_24h": 101412,
+      "adds_24h": 0,
+      "drops_24h": 123792,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -186,19 +219,19 @@
       "ceiling_2025": 6.75,
       "targets_pg": 2.5,
       "carries_pg": 0.07,
-      "adds_24h": 228276,
-      "drops_24h": 191310,
+      "adds_24h": 267708,
+      "drops_24h": 233850,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
         "time": "16:25",
         "home": "DAL",
         "away": "SF",
-        "spread": -4.5,
+        "spread": -3.5,
         "total": 55.5,
         "opponent": "DAL",
         "home_game": false,
-        "implied_team_points": 25.5
+        "implied_team_points": 26.0
       }
     },
     {
@@ -219,8 +252,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 25136,
-      "drops_24h": 490672,
+      "adds_24h": 32880,
+      "drops_24h": 556528,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -233,28 +266,6 @@
         "home_game": true,
         "implied_team_points": 29.5
       }
-    },
-    {
-      "player_id": "12718",
-      "name": "Konata Mumpfield",
-      "pos": "WR",
-      "team": "LAR",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 2079675,
-      "drops_24h": 0,
-      "next_game": null
     },
     {
       "player_id": "13297",
@@ -290,10 +301,10 @@
       }
     },
     {
-      "player_id": "13346",
-      "name": "Denzel Boston",
+      "player_id": "3155",
+      "name": "Laquon Treadwell",
       "pos": "WR",
-      "team": "CLE",
+      "team": "IND",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -302,24 +313,24 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 24232,
+      "ppg_2025": 0.0,
+      "floor_2025": 0.0,
+      "ceiling_2025": 0.0,
+      "targets_pg": 0.0,
+      "carries_pg": 0.0,
+      "adds_24h": 114575,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
         "time": "13:00",
-        "home": "CLE",
-        "away": "HOU",
-        "spread": -4.5,
-        "total": 39.5,
-        "opponent": "HOU",
+        "home": "IND",
+        "away": "MIA",
+        "spread": 3.5,
+        "total": 38.5,
+        "opponent": "MIA",
         "home_game": true,
-        "implied_team_points": 22.0
+        "implied_team_points": 17.5
       }
     }
   ],
