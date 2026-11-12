@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T16:56:26.957731+00:00",
+  "generated_at": "2026-11-12T22:31:35.424727+00:00",
   "league_id": "1388315713940262912",
-  "count": 7,
+  "count": 6,
   "players": [
     {
       "player_id": "11581",
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 29106,
-      "drops_24h": 90333,
+      "adds_24h": 29862,
+      "drops_24h": 93276,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -87,7 +87,7 @@
       "ceiling_2025": 20.88,
       "targets_pg": 6.6,
       "carries_pg": 0.13,
-      "adds_24h": 17060,
+      "adds_24h": 16116,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -100,39 +100,6 @@
         "opponent": "CIN",
         "home_game": false,
         "implied_team_points": 26.5
-      }
-    },
-    {
-      "player_id": "10213",
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "team": "LV",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 7.01,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 24480,
-      "drops_24h": 53022,
-      "next_game": {
-        "week": 10,
-        "date": "2026-11-15",
-        "time": "16:05",
-        "home": "LV",
-        "away": "SEA",
-        "spread": -6.5,
-        "total": 40.5,
-        "opponent": "SEA",
-        "home_game": true,
-        "implied_team_points": 23.5
       }
     },
     {
@@ -153,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 49888,
-      "drops_24h": 57320,
+      "adds_24h": 47064,
+      "drops_24h": 51800,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -219,7 +186,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 62325,
+      "adds_24h": 44685,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
