@@ -1,44 +1,11 @@
 {
-  "generated_at": "2026-11-12T08:16:52.597399+00:00",
+  "generated_at": "2026-11-12T16:56:26.957731+00:00",
   "league_id": "1388315713940262912",
-  "count": 10,
+  "count": 7,
   "players": [
     {
-      "player_id": "4035",
-      "name": "Alvin Kamara",
-      "pos": "RB",
-      "team": "NO",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 9.15,
-      "floor_2025": 6.2,
-      "ceiling_2025": 14.5,
-      "targets_pg": 3.55,
-      "carries_pg": 11.91,
-      "adds_24h": 0,
-      "drops_24h": 232608,
-      "next_game": {
-        "week": 10,
-        "date": "2026-11-15",
-        "time": "13:00",
-        "home": "NO",
-        "away": "CAR",
-        "spread": 2.5,
-        "total": 48.5,
-        "opponent": "CAR",
-        "home_game": true,
-        "implied_team_points": 23.0
-      }
-    },
-    {
-      "player_id": "8116",
-      "name": "Pierre Strong Jr.",
+      "player_id": "11581",
+      "name": "MarShawn Lloyd",
       "pos": "RB",
       "team": "GB",
       "depth": 1,
@@ -49,13 +16,13 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": null,
+      "ppg_2025": 2.8,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 229014,
-      "drops_24h": 52956,
+      "adds_24h": 29106,
+      "drops_24h": 90333,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -96,10 +63,10 @@
         "home": "CLE",
         "away": "HOU",
         "spread": -4.5,
-        "total": 41.5,
+        "total": 40.5,
         "opponent": "HOU",
         "home_game": true,
-        "implied_team_points": 23.0
+        "implied_team_points": 22.5
       }
     },
     {
@@ -120,7 +87,7 @@
       "ceiling_2025": 20.88,
       "targets_pg": 6.6,
       "carries_pg": 0.13,
-      "adds_24h": 24548,
+      "adds_24h": 17060,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -133,39 +100,6 @@
         "opponent": "CIN",
         "home_game": false,
         "implied_team_points": 26.5
-      }
-    },
-    {
-      "player_id": "8126",
-      "name": "Wan'Dale Robinson",
-      "pos": "WR",
-      "team": "TEN",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 10.21,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 10,
-        "date": "2026-11-15",
-        "time": "13:00",
-        "home": "TEN",
-        "away": "JAX",
-        "spread": -10.5,
-        "total": 46.5,
-        "opponent": "JAX",
-        "home_game": true,
-        "implied_team_points": 28.5
       }
     },
     {
@@ -186,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 30750,
-      "drops_24h": 84762,
+      "adds_24h": 24480,
+      "drops_24h": 53022,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -202,10 +136,10 @@
       }
     },
     {
-      "player_id": "3286",
-      "name": "Demarcus Robinson",
+      "player_id": "13296",
+      "name": "Caleb Douglas",
       "pos": "WR",
-      "team": "SF",
+      "team": "MIA",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -214,57 +148,24 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 4.16,
-      "floor_2025": 1.93,
-      "ceiling_2025": 6.75,
-      "targets_pg": 2.5,
-      "carries_pg": 0.07,
-      "adds_24h": 228876,
-      "drops_24h": 123462,
-      "next_game": {
-        "week": 10,
-        "date": "2026-11-15",
-        "time": "16:25",
-        "home": "DAL",
-        "away": "SF",
-        "spread": -3.5,
-        "total": 55.5,
-        "opponent": "DAL",
-        "home_game": false,
-        "implied_team_points": 26.0
-      }
-    },
-    {
-      "player_id": "11625",
-      "name": "Adonai Mitchell",
-      "pos": "WR",
-      "team": "NYJ",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 3.16,
+      "ppg_2025": null,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 46832,
-      "drops_24h": 286152,
+      "adds_24h": 49888,
+      "drops_24h": 57320,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
         "time": "13:00",
-        "home": "NYJ",
-        "away": "BUF",
-        "spread": -8.5,
-        "total": 50.5,
-        "opponent": "BUF",
-        "home_game": true,
-        "implied_team_points": 29.5
+        "home": "IND",
+        "away": "MIA",
+        "spread": 3.5,
+        "total": 38.5,
+        "opponent": "IND",
+        "home_game": false,
+        "implied_team_points": 21.0
       }
     },
     {
@@ -318,7 +219,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 126010,
+      "adds_24h": 62325,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
