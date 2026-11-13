@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T10:20:45.355638+00:00",
+  "generated_at": "2026-11-13T17:56:07.015390+00:00",
   "season": "2025",
-  "missing_count": 728,
+  "missing_count": 729,
   "players": [
     {
       "player_id": "11533",
@@ -496,15 +496,6 @@
       "team": "LAC",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "6045",
-      "name": "Gary Jennings",
-      "pos": "WR",
-      "team": "LAC",
-      "sleeper_gsis_id": "00-0035589",
-      "rookie_year": "2019",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -5602,6 +5593,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "9490",
+      "name": "Tyler Scott",
+      "pos": "WR",
+      "team": "LAR",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "4349",
       "name": "Taquan Mizzell",
       "pos": "RB",
@@ -5626,6 +5626,15 @@
       "team": "PIT",
       "sleeper_gsis_id": null,
       "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11320",
+      "name": "Nikko Remigio",
+      "pos": "WR",
+      "team": "HOU",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6485,7 +6494,7 @@
     },
     {
       "player_id": "2334",
-      "name": "Phillip Dorsett II",
+      "name": "Phillip Dorsett",
       "pos": "WR",
       "team": "ARI",
       "sleeper_gsis_id": "00-0032208",
@@ -6558,16 +6567,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1655
+      "gsis": 1642
     },
     "2024": {
-      "gsis": 1635
+      "gsis": 1633
     },
     "2025": {
-      "gsis": 1525
+      "gsis": 1509
     },
     "2026": {
-      "gsis": 735
+      "gsis": 731
     }
   }
 }
