@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-11-14T16:39:31.925644+00:00",
+  "generated_at": "2026-11-14T20:55:26.429932+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
+    {
+      "player_id": "4035",
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 9.15,
+      "floor_2025": 6.2,
+      "ceiling_2025": 14.5,
+      "targets_pg": 3.55,
+      "carries_pg": 11.91,
+      "adds_24h": 16320,
+      "drops_24h": 54536,
+      "next_game": {
+        "week": 10,
+        "date": "2026-11-15",
+        "time": "13:00",
+        "home": "NO",
+        "away": "CAR",
+        "spread": 2.5,
+        "total": 48.5,
+        "opponent": "CAR",
+        "home_game": true,
+        "implied_team_points": 23.0
+      }
+    },
     {
       "player_id": "11581",
       "name": "MarShawn Lloyd",
@@ -21,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 7218,
-      "drops_24h": 34029,
+      "adds_24h": 9099,
+      "drops_24h": 43416,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -37,72 +70,6 @@
       }
     },
     {
-      "player_id": "12512",
-      "name": "Quinshon Judkins",
-      "pos": "RB",
-      "team": "CLE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 10,
-        "date": "2026-11-15",
-        "time": "13:00",
-        "home": "CLE",
-        "away": "HOU",
-        "spread": -4.5,
-        "total": 40.5,
-        "opponent": "HOU",
-        "home_game": true,
-        "implied_team_points": 22.5
-      }
-    },
-    {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 47528,
-      "drops_24h": 28704,
-      "next_game": {
-        "week": 10,
-        "date": "2026-11-15",
-        "time": "13:00",
-        "home": "IND",
-        "away": "MIA",
-        "spread": 3.5,
-        "total": 38.5,
-        "opponent": "IND",
-        "home_game": false,
-        "implied_team_points": 21.0
-      }
-    },
-    {
       "player_id": "13297",
       "name": "Reggie Virgil",
       "pos": "WR",
@@ -110,8 +77,8 @@
       "depth": 1,
       "injury": null,
       "status": "Active",
-      "role": null,
-      "role_confidence": null,
+      "role": "Fresh positive role signal",
+      "role_confidence": 58,
       "why_flagged": [
         "Sleeper depth order 1"
       ],
@@ -136,6 +103,39 @@
       }
     },
     {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 48984,
+      "drops_24h": 33904,
+      "next_game": {
+        "week": 10,
+        "date": "2026-11-15",
+        "time": "13:00",
+        "home": "IND",
+        "away": "MIA",
+        "spread": 4.5,
+        "total": 37.5,
+        "opponent": "IND",
+        "home_game": false,
+        "implied_team_points": 21.0
+      }
+    },
+    {
       "player_id": "3155",
       "name": "Laquon Treadwell",
       "pos": "WR",
@@ -153,7 +153,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 13280,
+      "adds_24h": 14100,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -161,11 +161,11 @@
         "time": "13:00",
         "home": "IND",
         "away": "MIA",
-        "spread": 3.5,
-        "total": 38.5,
+        "spread": 4.5,
+        "total": 37.5,
         "opponent": "MIA",
         "home_game": true,
-        "implied_team_points": 17.5
+        "implied_team_points": 16.5
       }
     }
   ],
