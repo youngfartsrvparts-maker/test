@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -32,6 +32,12 @@
         "source": "RotoWire"
       },
       {
+        "title": "Dalton Kincaid Week 10 Outlook - Bills at Jets - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUlNZFlieERRTkZwWFd1ZTcwRmtuUXg5M005T0FJWXdpa1dybGZ2QjE3RER1Y19YSDVucTk2ZndFZHVBOXdIZGFMVzhNUXVIOElmY0tsbjBUT1FkakM2UmREd0xTRzhudi1DaU5mOXBlQWowTnBMM3IxZk5tQXVNNjE2ajZRd3BGOUZaQdIBkgFBVV95cUxNTlJtSFRnUkRGYzg1ZnhwUk1jMnBlOUZsaENRZF85YmFPOWNBblpVSUNNX1lZTXZETExhODNlR2hmVE5PMlN5YVY3MXd0VlI2MDBoYWZHRGRGd0JmbVRsR1hCSUs0VXJJUkRxNTRfU2lrdFFSaTFiNkNWZmlvb1RWZEpvcGEzUS1sZXFuTnBFUkZtZw?oc=5",
+        "published": "2026-11-12T18:35:00+00:00",
+        "source": "FantasyPros"
+      },
+      {
         "title": "Dalton Kincaid (ankle) limited to begin Week 10 - NBC Sports",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWNSWllwUWF6X0d3VFlNRldZbFlybmdWNDFnU21kVExXUEdfUG9ESWtScnBROFU2WGI5UE9NaGlrQmNKNzI2YV9ibW5Xdms4RlhFMU0xVml3LW9KWDcxUDhIX1gtZlFNbEIxYWxDTkFvTHZBRmZWU2FEaWZvNHZULW9EdXpLTGZ0X2gyVi1aMjdCSDUxcHhaVGUwLXhFSHZvdDVPcnFwT1dpcHRET1RKOA?oc=5",
         "published": "2026-11-11T23:17:00+00:00",
@@ -42,12 +48,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYWxweFBFWVNCMVRwT3duTHFrdnU0NTlzZzBlU1Q2ZUJWS01LVWFSd19SbFJQVUU1TTIyMzRiZzItR2RQTE10TGFjVV9vYmQ0eTNzd3ZPUjA5dU9OR0t0MGJTSUJHRmJkN0VTSy1uLWQzaXlHeWt4N2NydUlaVDNLQm9fRHFpYU1CRXJac2dSZVl5UQ?oc=5",
         "published": "2026-11-11T22:13:36+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Dalton Kincaid Limited in Wednesday's practice - Fantasy Footballers Podcast",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRFlKdkdqbmRGWXNSZGszdWEzTVRzckxLN2tQOHpCV0hWOXNfaElSLWVoMkZiWk95VFJkQVZYb1daaGZnMHJsaXVFTFRyT3RieTN1SHNhbVZjQkR5OEtXV3g1N3NtbFYyN1FGblYtdGx6UTdRWjV1QkpISzJNQVM2YVdhdENkWFUwYWE4SFIwejhud1R1b1ZRTHlXSmk?oc=5",
-        "published": "2026-11-11T22:10:36+00:00",
-        "source": "Fantasy Footballers Podcast"
       }
     ],
     "reason": "Another limited practice for Dalton Kincaid - AOL.com"
@@ -55,9 +55,9 @@
   {
     "player_id": "11579",
     "name": "Audric Estime",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -71,9 +71,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -82,12 +82,6 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
-      {
-        "title": "Robert Hainsey is questionable for Jaguars vs. Titans, Bhayshul Tuten good to go - Black and Teal",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUJBamk4RjdkWnk1aXUxdDlRdldYd1ZIVHZXU085ZmpRb3l2WHdqWGdETEpxMjZFMkxyeHZDallicTJVcEFFZU8wX2Y5dkh3U1hwT2E1M3FxcFo0eVV3bTV1bDB1WV84cFR3VkJqUFRsc1FXMnNSWkZVRGhublUySWMzbS1qa1g0TkNMNUVRTHlzcFdhZThLMGgxNi1GTjRIeEptZ0lZSS1rTjd1VEYxRlpPYw?oc=5",
-        "published": "2026-11-13T22:12:44+00:00",
-        "source": "Black and Teal"
-      },
       {
         "title": "Bhayshul Tuten not on injury report for Week 10 - AOL.com",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGZGZDNQZU93Y24tbW5FT2N6S3lkTW5SUTFHMDZqa2ZlWEJWb012dFRlSkQ2eUZzbUJ4M0s3ZWIzejdKMnpfWDktc09XaU5kNDJUMjBqZW1OdV9DQXBFeGc2MnE2cGMzcEtjdDN2YTZhNjdsWG9KWkFKbFhBbkJLbUF3?oc=5",
@@ -117,16 +111,22 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc21ERXdLTnFTTXR1VDVVYXROLTQ4VHRFYnVrbHBJREhESllNU1B1YmNobXNMLXF6b2dmZlA3YkpZR3liN1FzMG42UXh0YjJEanR4WmV6WXhmUWJsNm9fVHREOVNyTkNaX0FuMGpYSGZYRlRPMW1VNzRCeVpYXy1PUkUwa1MxSDlCZzFJS0M0OXBmaGx4eTdDddIBngFBVV95cUxQNXBEMG5oY1hPNkIwUzdmMThocnVUZEFlc0t0Q1A0ZnAyTThPdkNITjFRNDdpQ1pfUngxSkFhR0hYaktoOTU3NjNPUnVsVU5VXzZZcUpYRTlrem1fMTgzT2NvWng4eURhVEJsb0M0MDFUSlhjWEl1NU9uYkp1YUx1VVlLZkM2SnFOU0paNzFOZTBKcnRjc1o0V0ROZ2hQZw?oc=5",
         "published": "2026-11-13T15:54:07+00:00",
         "source": "FantasyPros"
+      },
+      {
+        "title": "7 key fantasy football injury updates for Week 10: A.J. Brown, Garrett Wilson, Bhayshul Tuten & more - The Big Lead",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLXZWVkIxY1dfcndCN3lrdVVfclZBcHhjVldIUnE5QU5IekhPZHZGTERackhEQ1N6bHJmZjNyd3luTzJ2MkhfbFlJSUo1OUc5RG9iN01ib3FhNWxaMWhVeDBhbzhOTDZNV05wcEQ3Umg5dXA1MjliakVWZjE3UEw2elZTR1hSYUVlcjA3eWNfeWNVQ0FEQ2ZWRWdYdy10T05CbzRHbmpFX0xsWmNMMDR5LVFMSlpSZkNQY3VhNzVmaw?oc=5",
+        "published": "2026-11-13T13:40:08+00:00",
+        "source": "The Big Lead"
       }
     ],
-    "reason": "Robert Hainsey is questionable for Jaguars vs. Titans, Bhayshul Tuten good to go - Black and Teal"
+    "reason": "Sleeper injury/practice status is the main signal."
   },
   {
     "player_id": "12491",
     "name": "Corey Kiner",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 35.3,
+    "hours_to_lock": 28.2,
     "kickoff_utc": "2026-11-15T14:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -147,9 +147,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -163,7 +163,7 @@
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -179,9 +179,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 210.3,
+    "hours_to_lock": 203.1,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -195,9 +195,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 42.3,
+    "hours_to_lock": 35.1,
     "kickoff_utc": "2026-11-15T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -211,9 +211,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 206.8,
+    "hours_to_lock": 199.7,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -227,9 +227,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 42.3,
+    "hours_to_lock": 35.1,
     "kickoff_utc": "2026-11-15T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -243,9 +243,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 206.8,
+    "hours_to_lock": 199.7,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -259,9 +259,9 @@
   {
     "player_id": "7042",
     "name": "Tyler Bass",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -275,9 +275,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -304,9 +304,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -320,9 +320,9 @@
   {
     "player_id": "8126",
     "name": "Wan'Dale Robinson",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -336,13 +336,13 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-14T03:09:58.353434+00:00",
+    "generated_at": "2026-11-14T10:16:04.752449+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 38.8,
+    "hours_to_lock": 31.7,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 59,
+    "confidence": 66,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -352,6 +352,12 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmZneEdiUFpEeEJnakZsZkw4eTJGVmpNREpjT3pESmFWSW5GV3NpZE1vWU5MdXdMY3RTTjg4MEhXLVo1U1ZuTzRsMTBEUkxweTQtalFwbGJwcDVSNERPa0pSaEctTGhhOXpwRi1QQVJSU0N2dzRKZExmdjB1LTJmaHdDSFlJMm51cG8tY0pmcHZqVWFtT1VxTS01M2FUSzllUmgtMVhzdnBUemxF?oc=5",
         "published": "2026-11-12T21:54:02+00:00",
         "source": "bet365"
+      },
+      {
+        "title": "Carnell Tate injury update, Titans WR status for Jacksonville Jaguars in NFL Week 10 - The Tennessean",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbGNvbC1pQ2hfYzFBSW1ucUlvN3FGcW5idHBfY0FIZ1NwTUJicDhFTlI3UzRzYmdPNUZtSmpoMDUzeW5rTVRSamo2SEYwa2lHbDFkYlJhZkxzTWVUV1pZcVBvdmNIaEpxelpVY194ZGdwMHc0Y0FfaUV4ZDNQU3dWaVVCTGZhVjZEVTg5UzZUbzRKV0x5TXFwRGNaUXZaSEt6bGtUdk1NMl9Pd01kcDlSZkRnREYtYkJwMVJIam04U1NfTEJYQVAyeURIZkxieHRPQjZ0RW1B?oc=5",
+        "published": "2026-11-11T21:29:36+00:00",
+        "source": "The Tennessean"
       },
       {
         "title": "Carnell Tate injury update, Titans WR status for Jacksonville Jaguars in NFL Week 10 - Yahoo Sports",
