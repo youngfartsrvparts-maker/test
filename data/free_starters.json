@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T19:57:33.607331+00:00",
+  "generated_at": "2026-11-15T23:44:09.137556+00:00",
   "league_id": "1388315713940262912",
-  "count": 6,
+  "count": 7,
   "players": [
     {
       "player_id": "4035",
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 22224,
-      "drops_24h": 101736,
+      "adds_24h": 34488,
+      "drops_24h": 88096,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 23409,
-      "drops_24h": 66996,
+      "adds_24h": 23067,
+      "drops_24h": 58464,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 64284,
-      "drops_24h": 143814,
+      "adds_24h": 45192,
+      "drops_24h": 172296,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -100,6 +100,39 @@
         "opponent": "DET",
         "home_game": false,
         "implied_team_points": 26.5
+      }
+    },
+    {
+      "player_id": "8126",
+      "name": "Wan'Dale Robinson",
+      "pos": "WR",
+      "team": "TEN",
+      "depth": 1,
+      "injury": "Questionable",
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 10.21,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 10,
+        "date": "2026-11-15",
+        "time": "13:00",
+        "home": "TEN",
+        "away": "JAX",
+        "spread": -10.5,
+        "total": 45.5,
+        "opponent": "JAX",
+        "home_game": true,
+        "implied_team_points": 28.0
       }
     },
     {
@@ -120,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 123520,
-      "drops_24h": 38000,
+      "adds_24h": 126064,
+      "drops_24h": 39760,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -161,11 +194,11 @@
         "time": "16:05",
         "home": "ARI",
         "away": "LA",
-        "spread": -9.5,
+        "spread": -10.0,
         "total": 38.5,
         "opponent": "LA",
         "home_game": true,
-        "implied_team_points": 24.0
+        "implied_team_points": 24.2
       }
     },
     {
@@ -186,7 +219,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 23540,
+      "adds_24h": 22830,
       "drops_24h": 0,
       "next_game": {
         "week": 10,

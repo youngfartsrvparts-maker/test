@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T19:57:31.059488+00:00",
+  "generated_at": "2026-11-15T23:44:06.390806+00:00",
   "season": "2025",
-  "missing_count": 729,
+  "missing_count": 727,
   "players": [
     {
       "player_id": "11533",
@@ -1504,15 +1504,6 @@
       "team": "TB",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "7607",
-      "name": "Michael Carter",
-      "pos": "RB",
-      "team": "TEN",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2021",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3845,15 +3836,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "12829",
-      "name": "Coleman Owen",
-      "pos": "WR",
-      "team": "GB",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "12773",
@@ -6223,15 +6205,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "13861",
-      "name": "Daniel Sobkowicz",
-      "pos": "WR",
-      "team": "HOU",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "13663",
       "name": "Wesley Grimes",
       "pos": "WR",
@@ -6355,6 +6328,15 @@
       "team": "DET",
       "sleeper_gsis_id": null,
       "rookie_year": null,
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "13200",
+      "name": "Max Hurleman",
+      "pos": "WR",
+      "team": "PIT",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6576,7 +6558,7 @@
       "gsis": 1509
     },
     "2026": {
-      "gsis": 731
+      "gsis": 768
     }
   }
 }
