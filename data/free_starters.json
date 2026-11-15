@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:10:45.038322+00:00",
+  "generated_at": "2026-11-15T14:43:34.276565+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 17728,
-      "drops_24h": 69104,
+      "adds_24h": 21816,
+      "drops_24h": 86272,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -54,19 +54,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 10584,
-      "drops_24h": 49806,
+      "adds_24h": 13248,
+      "drops_24h": 61236,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
         "time": "13:00",
         "home": "GB",
         "away": "MIN",
-        "spread": 2.5,
+        "spread": 3.0,
         "total": 42.5,
         "opponent": "MIN",
         "home_game": true,
-        "implied_team_points": 20.0
+        "implied_team_points": 19.8
       }
     },
     {
@@ -87,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 58184,
-      "drops_24h": 31448,
+      "adds_24h": 82184,
+      "drops_24h": 36336,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -153,7 +153,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 15585,
+      "adds_24h": 19260,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
