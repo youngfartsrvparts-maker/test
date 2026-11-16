@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.2,
+    "hours_to_lock": -17.1,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -55,9 +55,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.2,
+    "hours_to_lock": -17.1,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -108,9 +108,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 162.2,
+    "hours_to_lock": 154.3,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -124,9 +124,9 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 158.8,
+    "hours_to_lock": 150.9,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -140,9 +140,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.2,
+    "hours_to_lock": -17.1,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,7 +156,7 @@
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -172,9 +172,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 162.2,
+    "hours_to_lock": 154.3,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -188,9 +188,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.8,
+    "hours_to_lock": -13.7,
     "kickoff_utc": "2026-11-15T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -204,9 +204,9 @@
   {
     "player_id": "5045",
     "name": "Courtland Sutton",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 162.2,
+    "hours_to_lock": 154.3,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -220,9 +220,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 158.8,
+    "hours_to_lock": 150.9,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -236,9 +236,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.8,
+    "hours_to_lock": -13.7,
     "kickoff_utc": "2026-11-15T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -252,9 +252,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 158.8,
+    "hours_to_lock": 150.9,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -268,9 +268,9 @@
   {
     "player_id": "7042",
     "name": "Tyler Bass",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.2,
+    "hours_to_lock": -17.1,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -284,17 +284,23 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.2,
+    "hours_to_lock": -17.1,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
-    "score": -3,
-    "model_modifier": -0.75,
-    "confidence": 80,
+    "score": -6,
+    "model_modifier": -1.5,
+    "confidence": 87,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "New Orleans Saints vs. Carolina Panthers Game Day Inactives: Travis Etienne Jr. is active - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelpVQ1g3a09fZWZhejNCOEFodVRWRzhCdFZsY0FGdTJvRnRVbExCRUtaOVFucTJjeXI4bXZwZVpiRFVFdnJIVVFsZWt2aURrUktjSVFYZUdlNVJpV3BDV1hUU3pya1F4cWV1WkpSYk1uVE1YSkR0VHlKc0tDVDNWdjF5aDZ3SWdTUnZXbQ?oc=5",
+        "published": "2026-11-15T16:49:11+00:00",
+        "source": "Yahoo Sports"
+      },
       {
         "title": "Is Travis Etienne Jr. playing today? Saints injury update for Week 10 - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDh1cEJrWDg3bzd1X0lzWkhHSUJLaXRyVEZ6ME0yOFF2ZUhEY2dkS25wSGtzbE43S2Zzd0luaFg0QzR5SVNsMlo5ZzVWVUtzcHRlanhPeWpqZURFS1JYY0hvcl9NREFYXzR5bGliajMzSGpQTUt5Q0dxX2w1OHFuck9NeXN0RGs?oc=5",
@@ -302,16 +308,16 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "Final Saints vs. Panthers Injury Report: Travis Etienne Jr. is questionable - Canal Street Chronicles",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM2toZzdSOXJKUnR6ZzdqRmE3QzBrVU95cVlFMllUcm1MTGxBMm9wQndPdGdnRTlNVE5faW1PRExHc09fRmUwNHQ5VGdQVU4xU0RVdnE3eHUtVVRvVDB0cW5NYjA3cUJrRDBMaHpwM2dreERnU2lhMFQ0S2ZtQnhhYU4zakxCdThYSlFuMVJWZzg4VDdVa1F5SVB6VTB0WUd0Y3lrNUFhWk82R21CNkhla0NDajhfdFNzbHEwUWFTYWgzcjhvdWxHQy1vYy1GZ3pEaVRHZmowemZkZTMyRk1SVmNaN1FlTWh0eElGRQ?oc=5",
-        "published": "2026-11-14T15:20:25+00:00",
-        "source": "Canal Street Chronicles"
-      },
-      {
         "title": "Final Saints vs. Panthers Injury Report: Travis Etienne Jr. is questionable - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzI3N1R0djVOMlB1dzBpMUJmZ1IxbGpsa190QzNEMUxNTWcxQzlKSXpIMnNFclRaMHp0MmttYmJxaUpCdmZ1ZzBhaVIwczh6NjdJeGxuVXJGaDloajJVM281bGlkUXV0ZlhQSEdLT3Q3LU5fYkpQUDJuWGl3Q2toVGo2NFR4Qm8?oc=5",
         "published": "2026-11-14T15:20:25+00:00",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "Final Saints vs. Panthers Injury Report: Travis Etienne Jr. is questionable - Canal Street Chronicles",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM2toZzdSOXJKUnR6ZzdqRmE3QzBrVU95cVlFMllUcm1MTGxBMm9wQndPdGdnRTlNVE5faW1PRExHc09fRmUwNHQ5VGdQVU4xU0RVdnE3eHUtVVRvVDB0cW5NYjA3cUJrRDBMaHpwM2dreERnU2lhMFQ0S2ZtQnhhYU4zakxCdThYSlFuMVJWZzg4VDdVa1F5SVB6VTB0WUd0Y3lrNUFhWk82R21CNkhla0NDajhfdFNzbHEwUWFTYWgzcjhvdWxHQy1vYy1GZ3pEaVRHZmowemZkZTMyRk1SVmNaN1FlTWh0eElGRQ?oc=5",
+        "published": "2026-11-14T15:20:25+00:00",
+        "source": "Canal Street Chronicles"
       },
       {
         "title": "Travis Etienne Jr. (hamstring) listed questionable Sunday - FantasyPros",
@@ -326,14 +332,14 @@
         "source": "FantasyPros"
       }
     ],
-    "reason": "Final Saints vs. Panthers Injury Report: Travis Etienne Jr. is questionable - Canal Street Chronicles"
+    "reason": "New Orleans Saints vs. Carolina Panthers Game Day Inactives: Travis Etienne Jr. is active - Yahoo Sports"
   },
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.2,
+    "hours_to_lock": -17.1,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -347,9 +353,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-16T03:10:17.672422+00:00",
+    "generated_at": "2026-11-16T11:04:35.345278+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -9.2,
+    "hours_to_lock": -17.1,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
@@ -371,16 +377,16 @@
         "source": "The Tennessean"
       },
       {
-        "title": "Jacksonville Jaguars vs. Titans Week 10 inactives: Tuten good to go - The Florida Times-Union",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUERCWWgzeUtJNHZVakF5dzBtLTk4TXR6NVhTclQ0YXZINEpVdjFFRnM5SnA1TUJhcXN6Z1Y0eS1KTFVWVlhwQmh1bFJETHlhWXJMR1ZQSUtVTnR0VmR3MHJERnNNa3RMRmZMc3l6WWtBLVdkMGdidnhSLUVMMDNNSUlrTVJjeHhMNlRTeERJQ1hoeE9VSFgwV0VHc2ZseG42dmJrN0dJcEU5RDVsVkF2THFCeDQxVmRmSUpITUFHR01lc0YyWGFUMi1qVmlmMVBiS3kwWmFxaExDS1k?oc=5",
-        "published": "2026-11-15T16:33:01+00:00",
-        "source": "The Florida Times-Union"
-      },
-      {
         "title": "Jacksonville Jaguars vs. Titans Week 10 inactives: Tuten good to go - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2RuVmkwR3NrUTB0RmxtLWlFNnpZREJtZjlaNzdZWEd1SHhvYkJZcDdXU0UwZ2tYWjlTWE56OS1YeG9vUXVXQ3RBVWVOQ0pnSG9GUmtjZkFnTVNkWElxamFrT1NIWm5PZGZUeVI4OE94VUNCN1FqUi05azRBT3B3VHE2eHAzUGJYekRoeA?oc=5",
         "published": "2026-11-15T16:31:30+00:00",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "Jacksonville Jaguars vs. Titans Week 10 inactives: Tuten good to go - Bradenton Herald",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tTWdBOU1zOENncHh5cUFkV0llaF9WY1RZaGJwX3h2ZTBwb2U1NkhSUTRiTEl4Skh5NFFUUExfa2E3UE5HTVAwTzFlbFdGY0lhOW9HY2ppVk9NMkVlWjVJaXRXLTA?oc=5",
+        "published": "2026-11-15T16:31:00+00:00",
+        "source": "Bradenton Herald"
       },
       {
         "title": "Jacksonville Jaguars at Tennessee Titans - Where to Watch, Stream Info, TV Channel, and Live Updates (November 15, 2026) - Fubo",
