@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.7,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -2,
     "model_modifier": -0.5,
@@ -55,9 +55,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.7,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -66,12 +66,6 @@
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "Final Injury Report for Jaguars-Titans: Will Bhayshul Tuten, Carnell Tate Play? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzloVjV2ay13cHhsenJxSFE1bDVBM2M1VVNkbWNBR3ZCV2h3WHRteTVseTBHY1ZtakM3R3BRSGpwc0FQTnYwMWJDRXBPMTFKVjZxNFVOb2lGR1EwbXFxaVR6dzVvTkYzNnJ4YjVjbWhqaDBFcFBCZXB4bGF3b2xUdGpmd0xiV1UwS0ZB?oc=5",
-        "published": "2026-11-15T15:00:00+00:00",
-        "source": "Yahoo Sports"
-      },
       {
         "title": "Is Jaguars RB Bhayshul Tuten playing today vs. Titans? - Jaguars Wire",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblVpcXBEWUpBWUUwMTl1aEMxMVdyTDBpTEV0aGVpTkpjSUxfYnlUdC1VQXpJdS1xWjlZTnNLUnZJTEVnWEtHdTdfemYzR0VnRUh0NGRkbDBfeUdNQVd3UlBoTE1hOEl0Tzh6cTZLRTZFTFdITko3ZTFVS3lWMEIwdDZaNFlPWlRvR3lMUF8xWF9uOGVqdzV3bFRnT0VUM2pXeEtYNnBuZkNYYXVwVUpkS0NTU0xKdGxlYlAwMU5qTXV3eUpfZV94YQ?oc=5",
@@ -85,16 +79,22 @@
         "source": "Miami Herald"
       },
       {
-        "title": "Grading Every Jaguars Starter Halfway Through the Season: From Bhayshul Tuten to Ventrell Miller - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnZBUkp6M2pyd3pLdFNtcnpqNVdZZy16VmdmRV83UlpUREdpejk4UHZoTUlSRm1tMS1pRzB2MnkxUmdLYllmUXhWX3oxU25yN2RIM1UySHhSVk9HUFJuaDVjX0lLdXkxRjdXWV9yc2R1c3I4U25UQ2dTVlpFQzRXVm1xNThreC16a2Fpdk1lOA?oc=5",
-        "published": "2026-11-14T21:11:32+00:00",
-        "source": "Yahoo Sports"
+        "title": "Grading Every Jaguars Starter Halfway Through the Season: From Bhayshul Tuten to Ventrell Miller - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjRsN2xjOXlFUXNCaXNMR2JQX3dWNHRNUHYza2JsT0lhVEw2U2xUeXMxMTlZbFc4bklLNDFzT1hYNFVGQWhvakQybm55Q0FTdWRRUklIT1lDTExyMk00b2RoU016NHQweDN0Y0JfczQ4a0hHSW9XRFNSS1V6MjlUczlQbVEwZTVaQXNFZUtKbEdOcC1BSkE2VkZoUUNoajVnVkNFTkZMUkkwRWp5N3dpMi14ZnZKdWQ3aGtQX29EV3pjTG1FOUpHNmJRS25helVQVWc?oc=5",
+        "published": "2026-11-14T21:11:31+00:00",
+        "source": "Sports Illustrated"
       },
       {
         "title": "Jaguars’ Bhayshul Tuten News Overshadows Injury Uncertainty - Heavy.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTQ4cnRtQmprcHRFLThDLTduQWJlRmlLbmkzZ0o3d1l6ZWNQNUFpUG1BelUzVVNTT09nV2YtN3JJRUZwY1BfRjVQc2JrdDFyWWhCX2pwdGIxYVliSlpzN3h6bWVsU3ZjdC10Wm1wLWJ5eVBmSGpLMmtQaTNLYWVKTTdIRmJiNV9FcXY1bm5JZXpEMkl4RlEwLWhtZVBIN0E3SXhCN21RZUozYkdSd2c?oc=5",
         "published": "2026-11-14T14:00:17+00:00",
         "source": "Heavy.com"
+      },
+      {
+        "title": "Bhayshul Tuten Off the Injury Report, Will Play on Sunday - NFL News | Fantasy Football - RotoBaller",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDZMeVRTMjBrX2FNRTBQNDhpT182ZEk2ajVubUU0ZGNGaUtlMUVTT19ueXlEcXZEak1MOHhnYUdXSmkxWDRJX2pJSzRwM2dRXy1NMzBKS1FUWmJVMFRhYXBhN1lQbGtvY1VzdEZvUE5ra3A0RnBqcWZ6Z0VJVEJ1NURzcWh6MExRWFBkX196VTFxREJWQ0NHQ1VwOGxiUjdqVmdRUHY4bTBXVXUwSEw1d280d0RvaGM?oc=5",
+        "published": "2026-11-13T23:31:00+00:00",
+        "source": "RotoBaller"
       },
       {
         "title": "Robert Hainsey is questionable for Jaguars vs. Titans, Bhayshul Tuten good to go - Black and Teal",
@@ -108,9 +108,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 165.7,
+    "hours_to_lock": 162.2,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -124,9 +124,9 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 162.3,
+    "hours_to_lock": 158.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -140,9 +140,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.7,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,7 +156,7 @@
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -172,9 +172,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 165.7,
+    "hours_to_lock": 162.2,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -188,9 +188,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -2.3,
+    "hours_to_lock": -5.8,
     "kickoff_utc": "2026-11-15T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -204,9 +204,9 @@
   {
     "player_id": "5045",
     "name": "Courtland Sutton",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 165.7,
+    "hours_to_lock": 162.2,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -220,9 +220,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 162.3,
+    "hours_to_lock": 158.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -236,9 +236,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -2.3,
+    "hours_to_lock": -5.8,
     "kickoff_utc": "2026-11-15T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -252,9 +252,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 162.3,
+    "hours_to_lock": 158.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -268,9 +268,9 @@
   {
     "player_id": "7042",
     "name": "Tyler Bass",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.7,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -284,23 +284,17 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.7,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
-    "score": -6,
-    "model_modifier": -1.5,
-    "confidence": 87,
+    "score": -3,
+    "model_modifier": -0.75,
+    "confidence": 80,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "New Orleans Saints vs. Carolina Panthers Game Day Inactives: Travis Etienne Jr. is active - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelpVQ1g3a09fZWZhejNCOEFodVRWRzhCdFZsY0FGdTJvRnRVbExCRUtaOVFucTJjeXI4bXZwZVpiRFVFdnJIVVFsZWt2aURrUktjSVFYZUdlNVJpV3BDV1hUU3pya1F4cWV1WkpSYk1uVE1YSkR0VHlKc0tDVDNWdjF5aDZ3SWdTUnZXbQ?oc=5",
-        "published": "2026-11-15T16:49:11+00:00",
-        "source": "Yahoo Sports"
-      },
       {
         "title": "Is Travis Etienne Jr. playing today? Saints injury update for Week 10 - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDh1cEJrWDg3bzd1X0lzWkhHSUJLaXRyVEZ6ME0yOFF2ZUhEY2dkS25wSGtzbE43S2Zzd0luaFg0QzR5SVNsMlo5ZzVWVUtzcHRlanhPeWpqZURFS1JYY0hvcl9NREFYXzR5bGliajMzSGpQTUt5Q0dxX2w1OHFuck9NeXN0RGs?oc=5",
@@ -332,14 +326,14 @@
         "source": "FantasyPros"
       }
     ],
-    "reason": "New Orleans Saints vs. Carolina Panthers Game Day Inactives: Travis Etienne Jr. is active - Yahoo Sports"
+    "reason": "Final Saints vs. Panthers Injury Report: Travis Etienne Jr. is questionable - Canal Street Chronicles"
   },
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.7,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -353,9 +347,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-15T23:44:07.383003+00:00",
+    "generated_at": "2026-11-16T03:10:17.672422+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -5.7,
+    "hours_to_lock": -9.2,
     "kickoff_utc": "2026-11-15T18:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
