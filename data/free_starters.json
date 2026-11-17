@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T20:58:59.156697+00:00",
+  "generated_at": "2026-11-17T03:27:02.606283+00:00",
   "league_id": "1388315713940262912",
-  "count": 7,
+  "count": 8,
   "players": [
     {
       "player_id": "4035",
@@ -21,7 +21,7 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 54536,
+      "adds_24h": 42392,
       "drops_24h": 0,
       "next_game": {
         "week": 10,
@@ -55,7 +55,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 14634,
+      "drops_24h": 12609,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 162228,
+      "drops_24h": 153018,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -136,6 +136,39 @@
       }
     },
     {
+      "player_id": "9754",
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "team": "LAC",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 9.9,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 192283,
+      "drops_24h": 21609,
+      "next_game": {
+        "week": 10,
+        "date": "2026-11-16",
+        "time": "20:15",
+        "home": "BAL",
+        "away": "LAC",
+        "spread": 4.5,
+        "total": 39.5,
+        "opponent": "BAL",
+        "home_game": false,
+        "implied_team_points": 22.0
+      }
+    },
+    {
       "player_id": "13296",
       "name": "Caleb Douglas",
       "pos": "WR",
@@ -153,8 +186,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 64088,
-      "drops_24h": 11160,
+      "adds_24h": 61600,
+      "drops_24h": 0,
       "next_game": {
         "week": 10,
         "date": "2026-11-15",
@@ -219,7 +252,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 10600,
+      "adds_24h": 10410,
       "drops_24h": 0,
       "next_game": {
         "week": 10,

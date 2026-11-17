@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T20:58:55.796381+00:00",
+  "generated_at": "2026-11-17T03:26:59.545994+00:00",
   "season": "2025",
-  "missing_count": 727,
+  "missing_count": 730,
   "players": [
     {
       "player_id": "11533",
@@ -413,6 +413,15 @@
       "name": "Jayden Reed",
       "pos": "WR",
       "team": "GB",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11311",
+      "name": "Jason Brownlee",
+      "pos": "WR",
+      "team": "TEN",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
@@ -2615,7 +2624,7 @@
     },
     {
       "player_id": "13356",
-      "name": "Trebor Pena",
+      "name": "Trebor Peña",
       "pos": "WR",
       "team": "JAX",
       "sleeper_gsis_id": null,
@@ -4426,7 +4435,7 @@
       "player_id": "11306",
       "name": "Xavier Gipson",
       "pos": "WR",
-      "team": "PHI",
+      "team": "NYG",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
@@ -5332,6 +5341,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "8235",
+      "name": "Samori Toure",
+      "pos": "WR",
+      "team": "IND",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13122",
       "name": "Carter Runyon",
       "pos": "TE",
@@ -5401,6 +5419,15 @@
       "team": "LAR",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "6850",
+      "name": "Harrison Bryant",
+      "pos": "TE",
+      "team": "IND",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2020",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6549,16 +6576,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1642
+      "gsis": 1651
     },
     "2024": {
-      "gsis": 1633
+      "gsis": 1645
     },
     "2025": {
-      "gsis": 1509
+      "gsis": 1526
     },
     "2026": {
-      "gsis": 792
+      "gsis": 796
     }
   }
 }
