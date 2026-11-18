@@ -2,9 +2,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -25,13 +25,13 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 87,
+    "confidence": 73,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -47,18 +47,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzloVjV2ay13cHhsenJxSFE1bDVBM2M1VVNkbWNBR3ZCV2h3WHRteTVseTBHY1ZtakM3R3BRSGpwc0FQTnYwMWJDRXBPMTFKVjZxNFVOb2lGR1EwbXFxaVR6dzVvTkYzNnJ4YjVjbWhqaDBFcFBCZXB4bGF3b2xUdGpmd0xiV1UwS0ZB?oc=5",
         "published": "2026-11-15T15:00:00+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Is Jaguars RB Bhayshul Tuten playing today vs. Titans? - Miami Herald",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VGt3UEMzaVB6cUNwUUFfUUx0RW5jWmdxX2pZSG5zdEd0UVpybGlVODBBamVSSkxILVhMMFM2ZmlpVGJtSkUzNFROMnBDbHBIOVRBLVBtYzhMQVNUNUdDNUhZUE55NVk?oc=5",
-        "published": "2026-11-15T12:04:00+00:00",
-        "source": "Miami Herald"
-      },
-      {
-        "title": "Grading Every Jaguars Starter Halfway Through the Season: From Bhayshul Tuten to Ventrell Miller - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjRsN2xjOXlFUXNCaXNMR2JQX3dWNHRNUHYza2JsT0lhVEw2U2xUeXMxMTlZbFc4bklLNDFzT1hYNFVGQWhvakQybm55Q0FTdWRRUklIT1lDTExyMk00b2RoU016NHQweDN0Y0JfczQ4a0hHSW9XRFNSS1V6MjlUczlQbVEwZTVaQXNFZUtKbEdOcC1BSkE2VkZoUUNoajVnVkNFTkZMUkkwRWp5N3dpMi14ZnZKdWQ3aGtQX29EV3pjTG1FOUpHNmJRS25helVQVWc?oc=5",
-        "published": "2026-11-14T21:11:31+00:00",
-        "source": "Sports Illustrated"
       },
       {
         "title": "Jaguars’ Bhayshul Tuten News Overshadows Injury Uncertainty - Yahoo Sports",
@@ -78,9 +66,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 120.5,
+    "hours_to_lock": 114.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -94,9 +82,9 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -129,9 +117,9 @@
   {
     "player_id": "12545",
     "name": "Tyler Shough",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -145,7 +133,7 @@
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -161,9 +149,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 120.5,
+    "hours_to_lock": 114.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -177,9 +165,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 124.4,
+    "hours_to_lock": 118.6,
     "kickoff_utc": "2026-11-23T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -193,9 +181,9 @@
   {
     "player_id": "5045",
     "name": "Courtland Sutton",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 120.5,
+    "hours_to_lock": 114.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -209,9 +197,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -225,9 +213,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -241,9 +229,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -257,9 +245,9 @@
   {
     "player_id": "7042",
     "name": "Tyler Bass",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -273,9 +261,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -314,9 +302,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 285.1,
+    "hours_to_lock": 279.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -330,9 +318,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-17T20:56:54.235684+00:00",
+    "generated_at": "2026-11-18T02:41:50.032667+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 117.1,
+    "hours_to_lock": 111.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
@@ -341,6 +329,12 @@
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Responding To Change: “It’s Not Easy To Do What He’s Doing…” - Jacksonville Jaguars",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGpvRGtKaDZIUm1ySHNCeDhBcl9FNWJNTUp0UVMzV3pRS29jeWU0UzNuZmppY09uZWl0U2lmV201b0xTbjBWZFlNWGZjdnZ6cmdYV3d0akdfQVprMlh4OHpsUm1WLVJtNkpCY1VVS0VmeWZlMXZkZDVUVWloazRoLU1hSVlzOGk3bHI3azZn?oc=5",
+        "published": "2026-11-17T18:55:35+00:00",
+        "source": "Jacksonville Jaguars"
+      },
       {
         "title": "In and Out, 2026 Week 10: Davis, Bates Inactive for Jaguars vs. Titans - Jacksonville Jaguars",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUkwaDBmUWtkRTlHc3JhMUdSaVM1X2xFa2NFSGxKTHdyWUY0akVfamF5S2o1QnMyREFlVWRKaVB2aVh5aWJyVGFhSHJSX2IzXzAxYmtxNDNQbUlmLW85TDhWZFM3UWNCRW1qMlRiX0ZPU1F4SDNIWENsckZRYVFVQXdaaWRyQ1hsUS11UjZJYVJRZmxsRmtlR1Btaw?oc=5",
@@ -370,12 +364,6 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tTWdBOU1zOENncHh5cUFkV0llaF9WY1RZaGJwX3h2ZTBwb2U1NkhSUTRiTEl4Skh5NFFUUExfa2E3UE5HTVAwTzFlbFdGY0lhOW9HY2ppVk9NMkVlWjVJaXRXLTA?oc=5",
         "published": "2026-11-15T16:31:00+00:00",
         "source": "Bradenton Herald"
-      },
-      {
-        "title": "Jacksonville Jaguars at Tennessee Titans - Where to Watch, Stream Info, TV Channel, and Live Updates (November 15, 2026) - Fubo",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1ZFUWhxNHR3eE1pczZYcTJYU0E2aWxnZ1lfazRTQWpKcTl2SG9taGpzUHhMT1ktVEdjNk9BTnVna2p5am4yX2puNmN6MWctb3BaVC13eVBWbW9nX2JQNWM2c0JoTFJrTkFubUQ5TmhCN2g3eWt3VjBsaFVEWXI2Y2k3RmotZDBhdlRJNDFrNDBReUlxYS1RbHZackNnbUctaC1Lb2tTM05YTnFZTVRaQTc5b2VsQUptTkFac0xySEZiLVI2YktPdmtFTUJVcklhNVMyMFVTWFNEdw?oc=5",
-        "published": "2026-11-15T08:39:36+00:00",
-        "source": "Fubo"
       }
     ],
     "reason": "In and Out, 2026 Week 10: Davis, Bates Inactive for Jaguars vs. Titans - Jacksonville Jaguars"

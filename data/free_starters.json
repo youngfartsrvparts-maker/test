@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:56:56.341376+00:00",
+  "generated_at": "2026-11-18T02:41:51.950287+00:00",
   "league_id": "1388315713940262912",
   "count": 8,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": 14.5,
       "targets_pg": 3.55,
       "carries_pg": 11.91,
-      "adds_24h": 85672,
-      "drops_24h": 35800,
+      "adds_24h": 101912,
+      "drops_24h": 50720,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -30,10 +30,10 @@
         "home": "CHI",
         "away": "NO",
         "spread": 11.5,
-        "total": 48.5,
+        "total": 49.5,
         "opponent": "CHI",
         "home_game": false,
-        "implied_team_points": 30.0
+        "implied_team_points": 30.5
       }
     },
     {
@@ -55,7 +55,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 56934,
+      "drops_24h": 79425,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 567198,
+      "drops_24h": 740040,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -110,8 +110,8 @@
       "depth": 1,
       "injury": "Questionable",
       "status": "Active",
-      "role": null,
-      "role_confidence": null,
+      "role": "Fresh negative availability/role signal",
+      "role_confidence": 58,
       "why_flagged": [
         "Sleeper depth order 1"
       ],
@@ -121,7 +121,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 0,
+      "drops_24h": 50731,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 84371,
-      "drops_24h": 116242,
+      "adds_24h": 20643,
+      "drops_24h": 144823,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -186,7 +186,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 178400,
+      "adds_24h": 241840,
       "drops_24h": 0,
       "next_game": {
         "week": 11,
@@ -252,7 +252,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 37920,
+      "adds_24h": 55235,
       "drops_24h": 0,
       "next_game": {
         "week": 11,
