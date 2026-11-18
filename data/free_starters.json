@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T02:41:51.950287+00:00",
+  "generated_at": "2026-11-18T10:44:29.910355+00:00",
   "league_id": "1388315713940262912",
-  "count": 8,
+  "count": 7,
   "players": [
     {
-      "player_id": "4035",
-      "name": "Alvin Kamara",
+      "player_id": "5892",
+      "name": "David Montgomery",
       "pos": "RB",
-      "team": "NO",
+      "team": "HOU",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -16,24 +16,57 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 9.15,
-      "floor_2025": 6.2,
-      "ceiling_2025": 14.5,
-      "targets_pg": 3.55,
-      "carries_pg": 11.91,
-      "adds_24h": 101912,
-      "drops_24h": 50720,
+      "ppg_2025": 9.82,
+      "floor_2025": 6.0,
+      "ceiling_2025": 15.87,
+      "targets_pg": 1.71,
+      "carries_pg": 9.29,
+      "adds_24h": 297996,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 11,
+        "date": "2026-11-19",
+        "time": "20:15",
+        "home": "HOU",
+        "away": "IND",
+        "spread": 12.5,
+        "total": 44.5,
+        "opponent": "IND",
+        "home_game": true,
+        "implied_team_points": 16.0
+      }
+    },
+    {
+      "player_id": "8132",
+      "name": "Tyler Allgeier",
+      "pos": "RB",
+      "team": "ARI",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 6.77,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 147395,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
         "time": "13:00",
-        "home": "CHI",
-        "away": "NO",
-        "spread": 11.5,
-        "total": 49.5,
-        "opponent": "CHI",
+        "home": "KC",
+        "away": "ARI",
+        "spread": 16.5,
+        "total": 41.5,
+        "opponent": "KC",
         "home_game": false,
-        "implied_team_points": 30.5
+        "implied_team_points": 29.0
       }
     },
     {
@@ -55,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 79425,
+      "drops_24h": 99162,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
@@ -70,140 +103,8 @@
       }
     },
     {
-      "player_id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "team": "NE",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 740040,
-      "next_game": {
-        "week": 12,
-        "date": "2026-11-29",
-        "time": "16:05",
-        "home": "LAC",
-        "away": "NE",
-        "spread": 3.5,
-        "total": 40.5,
-        "opponent": "LAC",
-        "home_game": false,
-        "implied_team_points": 22.0
-      }
-    },
-    {
-      "player_id": "8126",
-      "name": "Wan'Dale Robinson",
-      "pos": "WR",
-      "team": "TEN",
-      "depth": 1,
-      "injury": "Questionable",
-      "status": "Active",
-      "role": "Fresh negative availability/role signal",
-      "role_confidence": 58,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 10.21,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 50731,
-      "next_game": {
-        "week": 11,
-        "date": "2026-11-22",
-        "time": "13:00",
-        "home": "DAL",
-        "away": "TEN",
-        "spread": 8.5,
-        "total": 54.5,
-        "opponent": "DAL",
-        "home_game": false,
-        "implied_team_points": 31.5
-      }
-    },
-    {
-      "player_id": "9754",
-      "name": "Quentin Johnston",
-      "pos": "WR",
-      "team": "LAC",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 9.9,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 20643,
-      "drops_24h": 144823,
-      "next_game": {
-        "week": 11,
-        "date": "2026-11-22",
-        "time": "16:05",
-        "home": "LAC",
-        "away": "NYJ",
-        "spread": 3.5,
-        "total": 41.5,
-        "opponent": "NYJ",
-        "home_game": true,
-        "implied_team_points": 19.0
-      }
-    },
-    {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 241840,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 11,
-        "date": "2026-11-22",
-        "time": "13:00",
-        "home": "BUF",
-        "away": "MIA",
-        "spread": 16.5,
-        "total": 45.5,
-        "opponent": "BUF",
-        "home_game": false,
-        "implied_team_points": 31.0
-      }
-    },
-    {
-      "player_id": "13297",
-      "name": "Reggie Virgil",
+      "player_id": "7812",
+      "name": "Simi Fehoko",
       "pos": "WR",
       "team": "ARI",
       "depth": 1,
@@ -214,7 +115,7 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": null,
+      "ppg_2025": 3.66,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
@@ -235,6 +136,72 @@
       }
     },
     {
+      "player_id": "13296",
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "team": "MIA",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 288392,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 11,
+        "date": "2026-11-22",
+        "time": "13:00",
+        "home": "BUF",
+        "away": "MIA",
+        "spread": 16.5,
+        "total": 45.5,
+        "opponent": "BUF",
+        "home_game": false,
+        "implied_team_points": 31.0
+      }
+    },
+    {
+      "player_id": "13346",
+      "name": "Denzel Boston",
+      "pos": "WR",
+      "team": "CLE",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 12,
+        "date": "2026-11-29",
+        "time": "20:20",
+        "home": "CLE",
+        "away": "LV",
+        "spread": 3.5,
+        "total": 41.5,
+        "opponent": "LV",
+        "home_game": true,
+        "implied_team_points": 19.0
+      }
+    },
+    {
       "player_id": "3155",
       "name": "Laquon Treadwell",
       "pos": "WR",
@@ -252,7 +219,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 55235,
+      "adds_24h": 68485,
       "drops_24h": 0,
       "next_game": {
         "week": 11,

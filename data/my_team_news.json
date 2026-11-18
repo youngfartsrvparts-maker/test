@@ -1,18 +1,40 @@
 [
   {
+    "player_id": "10218",
+    "name": "Xavier Hutchinson",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 38.5,
+    "kickoff_utc": "2026-11-20T01:15:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
-    "confidence": 52,
+    "confidence": 59,
     "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Final Injury Report for Bills-Jets: Will Garrett Wilson, Dalton Kincaid Play? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdXRCWVNPTGM4MGpMNU8zSlZiY3V1anJyZGdDb0hGQ3Zsdmo0NXVabUZ4cVI4ZWo4NWNXQkVZaDFXc2E5WF9YZ2tPaDJta29sdURVRXk4Tmx4SXhjWHNOdWNKUzZmSngzSVl5Zjh4Z3hlLU5jX211WlVHWE9GemJnbmk1VVJuQQ?oc=5",
+        "published": "2026-11-15T15:00:00+00:00",
+        "source": "Yahoo Sports"
+      },
       {
         "title": "Bills' Final Week 10 Injury Report: Spencer Brown Doubtful, Dalton Kincaid Cleared - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWdLSUlKNzUwcEN0a2gzSHlFVzEzazZpY1ZfQ3pBbldhVWRIWnNtNWVYMVN6dXBNRGpqdzkwMmNMSnlBbjhXR2EzZlZWME9DR1k4ZE5scEZuYzRmdW9ldWc5ekFWZ0dMU09VY09GYWtKNXgta0VFQm1DYWV5dVV0blBkZjRxeVVhcHNNMWVuZ1FYSlp4T3k2QllGWllpem9PQ2NXNklPYlFIeGdBWXdVa0RaYVRiMGZaVW1vWk53?oc=5",
@@ -25,13 +47,13 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 73,
+    "confidence": 87,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -43,22 +65,34 @@
         "source": "Sports Illustrated"
       },
       {
+        "title": "Final Injury Report for Jaguars-Titans: Will Bhayshul Tuten, Carnell Tate Play? - Athlon Sports",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd25kYWt2VG5YUTZDNTBwN3VDZWxJb0FOMzdpdUZtaWNoRjJrQ0tFajVLTFJfT2hCZVpsYWxhdnczemF4Yjl3MEdfMU1NcVRQZGVMUG8tRHVxT1NkZ1J4MXk5QlN2ZnBINGctLUpPSkxrM0Y4WDA1b3ZUdU5DSkVESEtENUxmNGhmVk9RYmFFb2RWMnhYTTBHVlRZNEFzTGtiR0dGX3dXNWVtdlVUbE8zejhzdUE?oc=5",
+        "published": "2026-11-15T15:00:00+00:00",
+        "source": "Athlon Sports"
+      },
+      {
         "title": "Final Injury Report for Jaguars-Titans: Will Bhayshul Tuten, Carnell Tate Play? - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzloVjV2ay13cHhsenJxSFE1bDVBM2M1VVNkbWNBR3ZCV2h3WHRteTVseTBHY1ZtakM3R3BRSGpwc0FQTnYwMWJDRXBPMTFKVjZxNFVOb2lGR1EwbXFxaVR6dzVvTkYzNnJ4YjVjbWhqaDBFcFBCZXB4bGF3b2xUdGpmd0xiV1UwS0ZB?oc=5",
         "published": "2026-11-15T15:00:00+00:00",
         "source": "Yahoo Sports"
       },
       {
+        "title": "Is Jaguars RB Bhayshul Tuten playing today vs. Titans? - Jaguars Wire",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblVpcXBEWUpBWUUwMTl1aEMxMVdyTDBpTEV0aGVpTkpjSUxfYnlUdC1VQXpJdS1xWjlZTnNLUnZJTEVnWEtHdTdfemYzR0VnRUh0NGRkbDBfeUdNQVd3UlBoTE1hOEl0Tzh6cTZLRTZFTFdITko3ZTFVS3lWMEIwdDZaNFlPWlRvR3lMUF8xWF9uOGVqdzV3bFRnT0VUM2pXeEtYNnBuZkNYYXVwVUpkS0NTU0xKdGxlYlAwMU5qTXV3eUpfZV94YQ?oc=5",
+        "published": "2026-11-15T12:04:00+00:00",
+        "source": "Jaguars Wire"
+      },
+      {
+        "title": "Is Bhayshul Tuten Playing Today? (Injury Update, Betting Impact for Jaguars vs. Titans in NFL Week 10) - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3VfWEMzTFBLUnNuY3VHT1VYaXRVSnB6RW9lNE43eC1MWUtyTTF6UlB6eVQ4bTAxODRiS2RYMVZoR1BfNHVKUV9ETDJseE1aT0hScDBVVW92TldSUDJvWUlqSWVYY1BQUnN1OFBnQURNLWRXTjF4TlJwZU9hN0JyVGVwbjdUUGxmVTB0eDYwNXdfRktYUEtrU3ZHaEpaSUk2Zm93NzhxMk13Q1VoYWRkVmpB?oc=5",
+        "published": "2026-11-15T11:25:00+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
         "title": "Jaguars’ Bhayshul Tuten News Overshadows Injury Uncertainty - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajZXWm1ZR0pnT0JFcFotNDJCNDlYWUlRVU1UMVJCeGczUDdET0FMUTVrYnl6VXJvOXRQX1VLYkQ2WVBjbExLQ3JNNXdyYzVFVGE1QUZ5TFpYa0Z0S2loS0EzeWlrd1VMd1pCZEgtRXByRnpJdFdNVmM3SEZsc0NaTDZFYkxHeDFDTXpUZVVxZV92QQ?oc=5",
         "published": "2026-11-14T17:00:17+00:00",
         "source": "Yahoo Sports"
-      },
-      {
-        "title": "Jaguars’ Bhayshul Tuten News Overshadows Injury Uncertainty - Heavy.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTQ4cnRtQmprcHRFLThDLTduQWJlRmlLbmkzZ0o3d1l6ZWNQNUFpUG1BelUzVVNTT09nV2YtN3JJRUZwY1BfRjVQc2JrdDFyWWhCX2pwdGIxYVliSlpzN3h6bWVsU3ZjdC10Wm1wLWJ5eVBmSGpLMmtQaTNLYWVKTTdIRmJiNV9FcXY1bm5JZXpEMkl4RlEwLWhtZVBIN0E3SXhCN21RZUozYkdSd2c?oc=5",
-        "published": "2026-11-14T14:00:17+00:00",
-        "source": "Heavy.com"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
@@ -66,9 +100,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 114.7,
+    "hours_to_lock": 106.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -82,15 +116,15 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": -5,
-    "model_modifier": -1.25,
-    "confidence": 86,
-    "label": "Negative availability signal",
-    "injury": "Out",
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 93,
+    "label": "Some availability risk",
+    "injury": "Questionable",
     "practice": null,
     "headlines": [
       {
@@ -98,6 +132,12 @@
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaGEyT0VwbEtCckNSVXhnR05Zd0hfUGZzQk10eFA2Wk1aUEFyTzAtZ1lKVUF4dGlJUXVzWDFCZUc5anF6SFBvV1J6TjFKOU13MGNELXNvYmZNcUdqM1Z0Mi1LZGQ0SHB0Y25lYVJpYW41d0laZDRSa3pPVTVEMmZXcg?oc=5",
         "published": "2026-11-16T22:00:03+00:00",
         "source": "Sports Illustrated"
+      },
+      {
+        "title": "Kyle Monangai and Luther Burden III Spotted at Bears Practice Today - Bleacher Nation",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BSEZyc3NVcDRMOVA3MVBTbjM2TkE2cVEzbUNYU2JLM21jYXA4NVdqcWZVZ1Jqb1ExeUVIMW5NN2ZtMnFNSVQySVliTUlFeGdzQlo1UmxDSzZyYnlGcVNjN2FfNk5OdXhueExSVFRaak1venRjaGFZWFFVeHZUUQ?oc=5",
+        "published": "2026-11-16T20:16:54+00:00",
+        "source": "Bleacher Nation"
       },
       {
         "title": "Bears report: CB Kyler Gordon out for Monday practice; WR Luther Burden, RB Kyle Monangai active - Chicago Sun-Times",
@@ -115,25 +155,9 @@
     "reason": "Bears report: CB Kyler Gordon out for Monday practice; WR Luther Burden, RB Kyle Monangai active - Chicago Sun-Times"
   },
   {
-    "player_id": "12545",
-    "name": "Tyler Shough",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
-    "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -149,9 +173,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 114.7,
+    "hours_to_lock": 106.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -165,9 +189,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 118.6,
+    "hours_to_lock": 110.6,
     "kickoff_utc": "2026-11-23T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -181,9 +205,9 @@
   {
     "player_id": "5045",
     "name": "Courtland Sutton",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 114.7,
+    "hours_to_lock": 106.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -197,9 +221,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -213,9 +237,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -229,25 +253,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
-    "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 45,
-    "label": "No material negative news found",
-    "injury": null,
-    "practice": null,
-    "headlines": [],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
-  },
-  {
-    "player_id": "7042",
-    "name": "Tyler Bass",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -261,9 +269,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -302,9 +310,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 279.3,
+    "hours_to_lock": 271.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -316,25 +324,35 @@
     "reason": "Sleeper injury/practice status is the main signal."
   },
   {
+    "player_id": "9758",
+    "name": "C.J. Stroud",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 38.5,
+    "kickoff_utc": "2026-11-20T01:15:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-18T02:41:50.032667+00:00",
+    "generated_at": "2026-11-18T10:44:28.049942+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 111.3,
+    "hours_to_lock": 103.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -6,
     "model_modifier": -1.5,
-    "confidence": 87,
+    "confidence": 80,
     "label": "Negative availability signal",
     "injury": null,
     "practice": null,
     "headlines": [
-      {
-        "title": "Responding To Change: “It’s Not Easy To Do What He’s Doing…” - Jacksonville Jaguars",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGpvRGtKaDZIUm1ySHNCeDhBcl9FNWJNTUp0UVMzV3pRS29jeWU0UzNuZmppY09uZWl0U2lmV201b0xTbjBWZFlNWGZjdnZ6cmdYV3d0akdfQVprMlh4OHpsUm1WLVJtNkpCY1VVS0VmeWZlMXZkZDVUVWloazRoLU1hSVlzOGk3bHI3azZn?oc=5",
-        "published": "2026-11-17T18:55:35+00:00",
-        "source": "Jacksonville Jaguars"
-      },
       {
         "title": "In and Out, 2026 Week 10: Davis, Bates Inactive for Jaguars vs. Titans - Jacksonville Jaguars",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUkwaDBmUWtkRTlHc3JhMUdSaVM1X2xFa2NFSGxKTHdyWUY0akVfamF5S2o1QnMyREFlVWRKaVB2aVh5aWJyVGFhSHJSX2IzXzAxYmtxNDNQbUlmLW85TDhWZFM3UWNCRW1qMlRiX0ZPU1F4SDNIWENsckZRYVFVQXdaaWRyQ1hsUS11UjZJYVJRZmxsRmtlR1Btaw?oc=5",
