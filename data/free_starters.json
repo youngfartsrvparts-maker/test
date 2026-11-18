@@ -1,41 +1,8 @@
 {
-  "generated_at": "2026-11-18T10:44:29.910355+00:00",
+  "generated_at": "2026-11-18T19:05:44.426910+00:00",
   "league_id": "1388315713940262912",
-  "count": 7,
+  "count": 5,
   "players": [
-    {
-      "player_id": "5892",
-      "name": "David Montgomery",
-      "pos": "RB",
-      "team": "HOU",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": 9.82,
-      "floor_2025": 6.0,
-      "ceiling_2025": 15.87,
-      "targets_pg": 1.71,
-      "carries_pg": 9.29,
-      "adds_24h": 297996,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 11,
-        "date": "2026-11-19",
-        "time": "20:15",
-        "home": "HOU",
-        "away": "IND",
-        "spread": 12.5,
-        "total": 44.5,
-        "opponent": "IND",
-        "home_game": true,
-        "implied_team_points": 16.0
-      }
-    },
     {
       "player_id": "8132",
       "name": "Tyler Allgeier",
@@ -55,18 +22,18 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 147395,
+      "drops_24h": 141845,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
         "time": "13:00",
         "home": "KC",
         "away": "ARI",
-        "spread": 16.5,
-        "total": 41.5,
+        "spread": 15.5,
+        "total": 40.5,
         "opponent": "KC",
         "home_game": false,
-        "implied_team_points": 29.0
+        "implied_team_points": 28.0
       }
     },
     {
@@ -88,7 +55,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 99162,
+      "drops_24h": 106281,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
@@ -96,10 +63,10 @@
         "home": "LA",
         "away": "GB",
         "spread": 3.5,
-        "total": 46.5,
+        "total": 45.5,
         "opponent": "LA",
         "home_game": false,
-        "implied_team_points": 25.0
+        "implied_team_points": 24.5
       }
     },
     {
@@ -128,44 +95,11 @@
         "time": "13:00",
         "home": "KC",
         "away": "ARI",
-        "spread": 16.5,
-        "total": 41.5,
+        "spread": 15.5,
+        "total": 40.5,
         "opponent": "KC",
         "home_game": false,
-        "implied_team_points": 29.0
-      }
-    },
-    {
-      "player_id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "team": "MIA",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 288392,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 11,
-        "date": "2026-11-22",
-        "time": "13:00",
-        "home": "BUF",
-        "away": "MIA",
-        "spread": 16.5,
-        "total": 45.5,
-        "opponent": "BUF",
-        "home_game": false,
-        "implied_team_points": 31.0
+        "implied_team_points": 28.0
       }
     },
     {
@@ -194,11 +128,11 @@
         "time": "20:20",
         "home": "CLE",
         "away": "LV",
-        "spread": 3.5,
-        "total": 41.5,
+        "spread": 4.5,
+        "total": 40.5,
         "opponent": "LV",
         "home_game": true,
-        "implied_team_points": 19.0
+        "implied_team_points": 18.0
       }
     },
     {
@@ -219,7 +153,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 68485,
+      "adds_24h": 63410,
       "drops_24h": 0,
       "next_game": {
         "week": 11,
