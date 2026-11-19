@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T08:44:34.624315+00:00",
+  "generated_at": "2026-11-19T17:40:47.688531+00:00",
   "season": "2025",
-  "missing_count": 739,
+  "missing_count": 735,
   "players": [
     {
       "player_id": "11533",
@@ -397,6 +397,15 @@
       "team": "MIA",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "10228",
+      "name": "Charlie Jones",
+      "pos": "WR",
+      "team": "NYG",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -2785,15 +2794,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "6920",
-      "name": "Isaiah Hodgins",
-      "pos": "WR",
-      "team": "PIT",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2020",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "12527",
       "name": "Ashton Jeanty",
       "pos": "RB",
@@ -2953,15 +2953,6 @@
       "team": "LAC",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "6957",
-      "name": "James Proche II",
-      "pos": "WR",
-      "team": "ARI",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2020",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3187,15 +3178,6 @@
       "team": "PHI",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "12548",
-      "name": "Lenny Krieg",
-      "pos": "K",
-      "team": "GB",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3442,15 +3424,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "13904",
-      "name": "Jacob De Jesus",
-      "pos": "WR",
-      "team": "KC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "10234",
       "name": "Derius Davis",
       "pos": "WR",
@@ -3502,6 +3475,15 @@
       "team": "NYG",
       "sleeper_gsis_id": null,
       "rookie_year": "2020",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "7612",
+      "name": "Dee Eskridge",
+      "pos": "WR",
+      "team": "MIN",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2021",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -4015,15 +3997,6 @@
       "team": "HOU",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "10223",
-      "name": "Eric Gray",
-      "pos": "RB",
-      "team": "NYG",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -5197,6 +5170,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12907",
+      "name": "Quentin Skinner",
+      "pos": "WR",
+      "team": "PHI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "9500",
       "name": "Josh Downs",
       "pos": "WR",
@@ -5542,7 +5524,7 @@
       "player_id": "11748",
       "name": "Bub Means",
       "pos": "WR",
-      "team": "KC",
+      "team": "ARI",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -6097,15 +6079,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "11065",
-      "name": "Adrian Martinez",
-      "pos": "QB",
-      "team": "SEA",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "7527",
       "name": "Mac Jones",
       "pos": "QB",
@@ -6185,15 +6158,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "12015",
-      "name": "Harrison Mevis",
-      "pos": "K",
-      "team": "BAL",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
-      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "12185",
