@@ -2,9 +2,9 @@
   {
     "player_id": "10218",
     "name": "Xavier Hutchinson",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.2,
+    "hours_to_lock": 24.1,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,17 +18,29 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 66,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Dalton Kincaid, Christian Benford listed as out of Bills practice - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLV83ejA1NkhubmdIVVYwWkY3NjBYV21TMWUwSE8wakYyTEVaNWUyaEpPcTNmZTZEeUpySWVUNkdveW5IdWk1eXVabXhNRC1UaHVGa09rckhCLU12Z3o0LW9Bbkk1d09zQ2ZYLU14SVBtcEN5WkhmVEtDOW1ONFRGV0hvcHJFNEtRZWlLM245Q2Vqdw?oc=5",
+        "published": "2026-11-18T22:02:43+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Bills' Dalton Kincaid: Does not practice Wednesday - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUtMaUFUYXVLbENidFZZNWVCN1lVYV8xMFVtVWRSTDlIQTVackstZncwSmJkQ1AzYnpYdzNFbVhWRUN5Ty0tV0xYWXVDYzJ2RDgxdDhneUtzVlB6OUt5WVg3MGFfZE9VNkFSZ1Z0UGhBZ3FGbzk0Q1F5UnMteUY5TFpvX1BYYUpiNTRaMkNqWF9sanUtaDY2alA1WjVPQQ?oc=5",
+        "published": "2026-11-18T21:29:08+00:00",
+        "source": "CBS Sports"
+      },
       {
         "title": "Final Injury Report for Bills-Jets: Will Garrett Wilson, Dalton Kincaid Play? - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdXRCWVNPTGM4MGpMNU8zSlZiY3V1anJyZGdDb0hGQ3Zsdmo0NXVabUZ4cVI4ZWo4NWNXQkVZaDFXc2E5WF9YZ2tPaDJta29sdURVRXk4Tmx4SXhjWHNOdWNKUzZmSngzSVl5Zjh4Z3hlLU5jX211WlVHWE9GemJnbmk1VVJuQQ?oc=5",
@@ -41,44 +53,62 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 66,
-    "label": "No material negative news found",
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 87,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
       {
-        "title": "3 Things We Learned From the Jaguars' Beatdown of Titans: Bhayshul Tuten's Role is Clear - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnVHbkgtNDBwU1hNZUlENWdkSXpUcmI5TUJYa3JvX2xxR3Y3cUI4MjJnemJNSmhaQ1hoYzFuMWJNN1hnNEU1YUZldXJqVXN3ZnhRRWk3N1huM3JrNV9oTmFlRWFzZm1FMkNRVDZhbVlnOG9KRDhKR3lkU2RaQU56SnNzMDlQbzJLNUNMdl9HVlFhXzhVX3BKalNiY2UtZXZfeDlkNlNaNlZGNEc1cEJsVDFfUFI4bU00cloxRVVUODdRNnhHeXc?oc=5",
-        "published": "2026-11-16T16:01:06+00:00",
-        "source": "Sports Illustrated"
+        "title": "Jaguars’ Bhayshul Tuten Injury Update Arrives Before Week 11 - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmgxdzVMQTF2TEs1cVpUbWx2MUlIbGFMWmxzY1RERWlzd3VXOEZwU1pnSlBHRVItVm4tYTVyWVI4QkdkdUtRZWtfTW9wOTRKNW80X2hIaDZwV01kQ1gzR21xZjBjcjdZazVlSm96MGs4RThUbXp5S3VzQnNOYXRrLURkM0ozUkpmbkhJYzF3UQ?oc=5",
+        "published": "2026-11-19T00:23:00+00:00",
+        "source": "Yahoo Sports"
       },
       {
-        "title": "Final Injury Report for Jaguars-Titans: Will Bhayshul Tuten, Carnell Tate Play? - Athlon Sports",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd25kYWt2VG5YUTZDNTBwN3VDZWxJb0FOMzdpdUZtaWNoRjJrQ0tFajVLTFJfT2hCZVpsYWxhdnczemF4Yjl3MEdfMU1NcVRQZGVMUG8tRHVxT1NkZ1J4MXk5QlN2ZnBINGctLUpPSkxrM0Y4WDA1b3ZUdU5DSkVESEtENUxmNGhmVk9RYmFFb2RWMnhYTTBHVlRZNEFzTGtiR0dGX3dXNWVtdlVUbE8zejhzdUE?oc=5",
-        "published": "2026-11-15T15:00:00+00:00",
-        "source": "Athlon Sports"
+        "title": "Bhayshul Tuten (foot/ankle) limited in practice - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa2ZZMVlnR1hzenRmZFBBTndUamxjNV9TS1Zqc2g5ejhTU1RHRktjemo3U0VSUmhUd3Y2SldVaGxrbGVNVXljbEpwUTVtdGU0NzlRM1FobHhNbmJ2Z0N6YnMtRURldEJhdXQtN05PQzB4Ukw3ZTBXaUZHTkp3YTlCVEZGWEVVSGxERW83ajg0dVE1OU9HcDhValZlTGJfQ1ppQTBWZHRNYUVUVU9HSDJTZg?oc=5",
+        "published": "2026-11-18T23:38:14+00:00",
+        "source": "NBC Sports"
       },
       {
-        "title": "Is Bhayshul Tuten Playing Today? (Injury Update, Betting Impact for Jaguars vs. Titans in NFL Week 10) - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3VfWEMzTFBLUnNuY3VHT1VYaXRVSnB6RW9lNE43eC1MWUtyTTF6UlB6eVQ4bTAxODRiS2RYMVZoR1BfNHVKUV9ETDJseE1aT0hScDBVVW92TldSUDJvWUlqSWVYY1BQUnN1OFBnQURNLWRXTjF4TlJwZU9hN0JyVGVwbjdUUGxmVTB0eDYwNXdfRktYUEtrU3ZHaEpaSUk2Zm93NzhxMk13Q1VoYWRkVmpB?oc=5",
-        "published": "2026-11-15T11:25:00+00:00",
-        "source": "Sports Illustrated"
+        "title": "Bhayshul Tuten (ankle/foot) limited at practice Wednesday - FantasyPros",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaDdRdWhMc0pFVDBMR0ZUdl9jS25CU3pRUnZVQkxQTno1cWt3azlEWktFU1JQMVlLSEd2MlB5UjBNeXh4MU9INmR4bFZLS3g2d2ozZi1TcVZLY1FpSW14enB0X0xSU2ZzUXlfc0paRlBhNnc2dlRtdjViaTAyenduWkN6SkZYQWtlQnJJUUJpaTI4RmhEckFHYTB1ODJjVllQ0gGmAUFVX3lxTE5tQTV2UFIwSXR0S2M0T1d5TjQta0RuVnh2MUdpOUFVUDllYUs4WjhHU3Y5cXpaWHg1V0tFSFJUdFlYcmc5QktDVlJFNVJtTFMteF9kM3BDSTE2QjNuUU9jZmFoMDJDUlhzNk9IUXRWc000Q3VvOHA0bFRWVE1mbE10VlN4VF9ac3NNS2h5Z0pFRm9KRmdhNFh4dGNtV29NUmJ5RGFtN3c?oc=5",
+        "published": "2026-11-18T22:08:40+00:00",
+        "source": "FantasyPros"
+      },
+      {
+        "title": "Bhayshul Tuten Logs limited practice Wednesday - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenhGRmdLMTU1ZW9Ia2FhazVIMmIyWEpFZ3ZTZTBVSVR1dWNiM3UxYjV5UTRDRHJTcjI4WXlTdlJUOTlBZ0VHdmJ6X1dRekFfV0JNX2F2c3hKX0ZzZU5uSE1qYkpTR1pNVmJVWWplT2FUci1PanpsUHRNNEFCbHpvaG8ySHFYSUxjM2Joc1QxNERiTy1Tb2lkVjQwcmN0dw?oc=5",
+        "published": "2026-11-18T21:47:09+00:00",
+        "source": "Fantasy Footballers Podcast"
+      },
+      {
+        "title": "Jaguars RBs Bhayshul Tuten, Chris Rodriguez were limited in practice Wednesday - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNUdLclZsTl9OVm5lT1dXMXlrdUR1bzd2SVZjajFjZmdENVI1Um1Pdl85WWhoU0w3RVhiSk1DY29zWWJmRi12d3o0em9jaWdlbzZqd1RHalZEelZENXFFSkVvUE0zM0hhYzlIaTZ6TS1vc2l3MDVpSVMxeUlncndBWmdpbkI5WXh3MlRIWWU2Nmk1eUVHWDJSZ1drR1dadmRPZmJ2RHd2NTBuTlBDWFk1bUFsR0RIQm81T0pSbjhoUUJkNUptRlRCRVVaRllxWGxsRGFkZWR3?oc=5",
+        "published": "2026-11-18T21:27:19+00:00",
+        "source": "NBC Sports"
+      },
+      {
+        "title": "Jaguars’ Bhayshul Tuten Injury Update Arrives Before Week 11 - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmFKcnlJN0MwME9RUlNQVU5vV0xxdDVBbWltLVRIYmNoTXJSX1ktUGFFb2FtNkpMUmticXlWWFdaakh5OC10YTZzR0J5RDlPYWE0cm5DNlJET0dKbV9VZm1KT3dMZTk4ckZVbVBqS1Ruek5QeGJ0aC1vUkVueW9IY0N0TzhvWGhFb0ZhUDZmNHpHSjEyYm9DdjdnQXR2WXptRFVicVVhYjFLTHVNaldZ?oc=5",
+        "published": "2026-11-18T21:25:40+00:00",
+        "source": "Heavy.com"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "Bhayshul Tuten Logs limited practice Wednesday - Fantasy Footballers Podcast"
   },
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.3,
+    "hours_to_lock": 92.3,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -92,9 +122,9 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -103,6 +133,30 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Bears' injury report features news on Kyle Monangai, Jeffery Simmons - NBC 5 Chicago",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2l3ajNOdXhEd1NkWWR0Z2pOYW5UR1dzQzlBMDNwV1dOcHR0WUxTOGdKblE2ck9HcmpfT2p4bEkzaENrcXR5R0c1Zk5seEtSZHZUOFI1dUhxcE1iaGlYbkhteXJGRkFFempGRjRaZUY5TTlKUHlTWWxDSUVJT0cxNm1tQkw2UnlMV2dnelZGUnZlazliVEdxWVJJOHlCNVoxWFN1TDlpMnphZmw4YWVGazZkREdGUktmQURjMHV4aV80Y01WalV4QWtQc2hSeFJLUDI1dkw4MEVwdHMtZHM1S3NhMNIB6wFBVV95cUxORG9XT1Z2d0FPdFBGYTZpTXJyNnY0LVhHZTM1aHJ2eTl4VG9zUVVoRGdHOV9aR05uMEtVdGJaNlBpYm1rSkhYMHRKLXozbjYyMUFmV3F5Z1ZvNXM1U0RwTzBrdk5Uc1BMTUJ5TFhmbUctUXR1Nkw4YTI0dFVHZnFFWlBuNkg1NGduRkQ3NXFXdm1NbkRuNGVQa2I3eTdoaE1leTNNVmxyckpSUUNEYkNCd0lyWHYxWnV5WUotNURyQTZUUlpUX0JuYjRBZ3JtdTh2WjlPbFdJblpRakFRbGNiSlZQR3VIdVlsbk1R?oc=5",
+        "published": "2026-11-18T23:13:53+00:00",
+        "source": "NBC 5 Chicago"
+      },
+      {
+        "title": "Bears Announce Encouraging Kyle Monangai Injury News Before Saints Game - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLW5qWkJDeGV1eXJQMUdhMFdJRndrUVNnSjhPVWhGb1FyZXpQQTFSMDZjcFBMUDVjQjNvaElHWFBiVkJOMlp3OG51cS1wVFI1MjMzR1hHQ0ItRGhFeXRlbGstemNrbjZDZnRDZWp4cGN0aE5RY2Y5WEVZUnI3WmxNTk8wcW84MU1Mdnhnc2hETmQ4WWM?oc=5",
+        "published": "2026-11-18T21:30:59+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Kyle Monangai listed as full participant Wednesday - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUtVbWZPVUFqQUwwcDE5RVdUNW13OWNpSFBBUDVFRU5ISERnUnNnY3otRTBjSU5rT2RPbWdXWmNrYlJtRnJZUXNROEtwU1VmUlB5UVVNeFdCRGdCNU9RRS1kSEtNdVFXckJUbTRraDhqb3lMVTFsLWJPWi1RRzlUakpveGlUM2ZxYUMyN2N3dw?oc=5",
+        "published": "2026-11-18T21:22:36+00:00",
+        "source": "Yahoo Sports"
+      },
+      {
+        "title": "Bears Wednesday injury report: Latest on Kyle Monangai, Kyler Gordon - Bears Wire",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbDJycGdyZXkxek15RFNueEc1Z21qTkNTSk9EYXFVLV9la04yS2FrM3FZWVZSRkY5NUloS1VMeUxCMFBZV2NaYTVScERORHViSUNLMVNBRGg3YUxHTk55OWI5SWFUcVJSb0ZCbWwxbHhkWEFPaG5EM0ZXRzZkYmNTcHlud0dGdk91bUc2YjRsUll2N3JZSG55TUZfbFM0RkhuajdybFE4b2Q1ZUZ2VFRKbTRvYmFYQkNydXI2c29UVmM0dkJYTTFVcF9LbnNheGZJNUxiblBKaXQ?oc=5",
+        "published": "2026-11-18T21:05:00+00:00",
+        "source": "Bears Wire"
+      },
       {
         "title": "Kyle Monangai Makes Troubling Admission About Turf Toe Injury Ahead of Return for Bears - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fQTJKeUZ5Rnh3U2x0WGF4Y1NMWFBCbFVqSVBhV2xZNkExcUxibnY4U1FBekYtOV9jclA4RzdVSG0taFlNY2VIbUQwQmN3dW45SEcwclFPdXlTVEdCRmlyR2N2dUhQY1l0YzItbWk2WUJVcW1BeDZya0RHcw?oc=5",
@@ -114,32 +168,14 @@
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaGEyT0VwbEtCckNSVXhnR05Zd0hfUGZzQk10eFA2Wk1aUEFyTzAtZ1lKVUF4dGlJUXVzWDFCZUc5anF6SFBvV1J6TjFKOU13MGNELXNvYmZNcUdqM1Z0Mi1LZGQ0SHB0Y25lYVJpYW41d0laZDRSa3pPVTVEMmZXcg?oc=5",
         "published": "2026-11-16T22:00:03+00:00",
         "source": "Sports Illustrated"
-      },
-      {
-        "title": "Kyle Monangai and Luther Burden III Spotted at Bears Practice Today - Bleacher Nation",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BSEZyc3NVcDRMOVA3MVBTbjM2TkE2cVEzbUNYU2JLM21jYXA4NVdqcWZVZ1Jqb1ExeUVIMW5NN2ZtMnFNSVQySVliTUlFeGdzQlo1UmxDSzZyYnlGcVNjN2FfNk5OdXhueExSVFRaak1venRjaGFZWFFVeHZUUQ?oc=5",
-        "published": "2026-11-16T20:16:54+00:00",
-        "source": "Bleacher Nation"
-      },
-      {
-        "title": "Bears report: CB Kyler Gordon out for Monday practice; WR Luther Burden, RB Kyle Monangai active - Chicago Sun-Times",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcG5hbnpaSC1NdjhheXdTWjdUX1J5NVIyeGNOTGJMWV9PZWd6WXBKR19FQzVNMmRyNkxQblVnZUtxNHdiYjdtbHZsZU1Qek16MlZBcGpFelVnQ0tEX2MzUmxpX1dObXpKRlJZZUpmYXlzc2lJMmMwWk16OVI3TDdOS1hVRE95V3lRNkVYeWM0QmFLMzhfLVRwdnR6eGNCOXcxUndOaHhyR2lfd09pSmNNT0Zia2RhcE5zQW9hS2p0em05SnQwY01CanRmT2U1TTVLTXJKdHVB?oc=5",
-        "published": "2026-11-16T19:44:00+00:00",
-        "source": "Chicago Sun-Times"
-      },
-      {
-        "title": "Will Kyle Monangai Return in Week 11? Latest Injury Update on Chicago Bears RB - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkZabVF0LUwxN0FlVHFndk5OaHdPaW1TZ19scjEzZS1YbG1TX0gxeHRZclRDcUdnWmtnQWF2RnhpZDN6MURJMGtua0JfZEMwX3huc0JnMmNJeW04X1lzeHB6Nl9fOXNoVUV3akFrekc1XzdyYlU5TVM4Z28xbkpTZFF6UjJvOVM2SllVQVdFWFJsdFoxZUE?oc=5",
-        "published": "2026-11-16T14:28:30+00:00",
-        "source": "Sports Illustrated"
       }
     ],
-    "reason": "Bears report: CB Kyler Gordon out for Monday practice; WR Luther Burden, RB Kyle Monangai active - Chicago Sun-Times"
+    "reason": "Kyle Monangai listed as full participant Wednesday - Yahoo Sports"
   },
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -155,9 +191,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.3,
+    "hours_to_lock": 92.3,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -171,9 +207,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 102.2,
+    "hours_to_lock": 96.2,
     "kickoff_utc": "2026-11-23T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -187,25 +223,32 @@
   {
     "player_id": "5045",
     "name": "Courtland Sutton",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 98.3,
+    "hours_to_lock": 92.3,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Courtland Sutton listed as limited Wednesday - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFdKMlFGTmQ0U3VGRk45RXhmWFJQQ3luU3pxQUZFUHJPVFZOQloxSV8yUzVIQ0hLd25tLU5pTmVMaU1SU3Z3cFpvODBxdzA5cnBzMmJqb0d1LWFUZ0VKOXhKSDNWQTJPMFB0YnRISnVBQjZqWGd5UkhaN2s4NEd0WVFpUlgzT0xJM3Q0OHFtejhwMWFF?oc=5",
+        "published": "2026-11-19T00:47:00+00:00",
+        "source": "Yahoo Sports"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -219,9 +262,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -235,9 +278,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -251,9 +294,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -280,9 +323,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 262.9,
+    "hours_to_lock": 256.8,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -296,9 +339,9 @@
   {
     "player_id": "9758",
     "name": "C.J. Stroud",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 30.2,
+    "hours_to_lock": 24.1,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -312,9 +355,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-18T19:05:42.145688+00:00",
+    "generated_at": "2026-11-19T01:09:44.305195+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 94.9,
+    "hours_to_lock": 88.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -324,15 +367,15 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Game Report, 2026 Week 10: Jaguars 40, Titans 23 - Jacksonville Jaguars",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55ak1kamp2cXZCelVZaGxxRzRZQm5SMWExZTBoU0hnb3JJVEczQTA2aDlRR1poVUpjRFY2dUpxOGlrNzJQM2RQeHNiV3Jva2czd1ZBOGo2ODN4V0FHU0ZBSHhvQmFZTGMwV0xYN2VLaHdPX25YQlE?oc=5",
-        "published": "2026-11-18T08:24:27+00:00",
+        "title": "Wednesday Insider: Monheim \"Is Going To Be Ready…\" - Jacksonville Jaguars",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0FqcmRFME81b3BjaEVUY3lyUGZaM2p6UjJOOG5VemtRZ05SQnpOY0F0cV9RZkpJc09oT25VN1drUmRnSm5nS0ZSWmd6aWFWZTRXbjcwUWtraFZvVWRhM1lfWVV5YWFvS1FTdGRpMXhCWDg1dVJpQy1ETFdjdUk2MQ?oc=5",
+        "published": "2026-11-19T00:15:44+00:00",
         "source": "Jacksonville Jaguars"
       },
       {
-        "title": "Responding To Change: “It’s Not Easy To Do What He’s Doing…” - Jacksonville Jaguars",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGpvRGtKaDZIUm1ySHNCeDhBcl9FNWJNTUp0UVMzV3pRS29jeWU0UzNuZmppY09uZWl0U2lmV201b0xTbjBWZFlNWGZjdnZ6cmdYV3d0akdfQVprMlh4OHpsUm1WLVJtNkpCY1VVS0VmeWZlMXZkZDVUVWloazRoLU1hSVlzOGk3bHI3azZn?oc=5",
-        "published": "2026-11-17T18:55:35+00:00",
+        "title": "Game Report, 2026 Week 10: Jaguars 40, Titans 23 - Jacksonville Jaguars",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55ak1kamp2cXZCelVZaGxxRzRZQm5SMWExZTBoU0hnb3JJVEczQTA2aDlRR1poVUpjRFY2dUpxOGlrNzJQM2RQeHNiV3Jva2czd1ZBOGo2ODN4V0FHU0ZBSHhvQmFZTGMwV0xYN2VLaHdPX25YQlE?oc=5",
+        "published": "2026-11-18T08:24:27+00:00",
         "source": "Jacksonville Jaguars"
       }
     ],

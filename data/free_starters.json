@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:05:44.426910+00:00",
+  "generated_at": "2026-11-19T01:09:46.406380+00:00",
   "league_id": "1388315713940262912",
   "count": 5,
   "players": [
@@ -22,7 +22,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 141845,
+      "drops_24h": 131465,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -55,7 +55,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 106281,
+      "drops_24h": 103698,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
@@ -153,7 +153,7 @@
       "ceiling_2025": 0.0,
       "targets_pg": 0.0,
       "carries_pg": 0.0,
-      "adds_24h": 63410,
+      "adds_24h": 56250,
       "drops_24h": 0,
       "next_game": {
         "week": 11,
@@ -162,10 +162,10 @@
         "home": "HOU",
         "away": "IND",
         "spread": 12.5,
-        "total": 44.5,
+        "total": 43.5,
         "opponent": "HOU",
         "home_game": false,
-        "implied_team_points": 28.5
+        "implied_team_points": 28.0
       }
     }
   ],
