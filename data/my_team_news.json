@@ -2,9 +2,9 @@
   {
     "player_id": "10218",
     "name": "Xavier Hutchinson",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -3.7,
+    "hours_to_lock": -12.5,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -48,12 +48,6 @@
         "source": "CBS Sports"
       },
       {
-        "title": "Dalton Kincaid Week 11 Outlook - Dolphins at Bills - FantasyPros",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHFJNURib3BEQjJJcXdjNHhYOVpLaUdUa0toZ1FxQVBOMXY3enBhYy1uRUp4OWwweFBxXzZpY0NRNW0tTkhrbXhIU3ZxcGhPbW9GZkx2Mzc4LUNHcUtTNy1jT2VWaEV5WHVyTUw3a1NaZkM5QlRySVh4aHJWanMtY291M2t0ZF8yZXF2V9IBkgFBVV95cUxOLUlMODl5MF9YRnE5NllWLWkxLS1TUUJjbGxVTVNNNzF5ZWFKb3hESTJDT3hPUTRsWWIwRVMzTnlOdTlpWnRUSEUxWjZmOVdfU0FYX2hCZDctMm5aLXRaempwNTZhbTlYMmsyZjdBTHZlSlZVRnRPQTJoam15eDZDVlpqcjhWNDFyQjdXX0RyQnR5QQ?oc=5",
-        "published": "2026-11-19T18:35:00+00:00",
-        "source": "FantasyPros"
-      },
-      {
         "title": "Bills' Week 11 Injury Report: Dalton Kincaid One of Five Starters Absent Wednesday - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTk1QaEo3cnp2ZFNSSno1NkxoNTlrVFRZbHZ0bHlHeUtCY1ZGMDQ3aGdqQk05WFZQcXJYdnIzMHh5cGg3Z0FpV1NzR2pCZjVieG1DTDd2YnJLZm1kRFRZV2pCRkNabTVtdkxuSGZRSm4wdmhRQkNSLVhLVjA2cVpEblFRZ1BpY3hUWDRFMHNWS1Z1Y29td2ttbWRMbkRUQlpIWEV5bllKREM0N2dIMGxtU2g3MHE?oc=5",
         "published": "2026-11-19T14:37:53+00:00",
@@ -64,6 +58,12 @@
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSGd4eHRHNGROZ1NWRldKMjdFeXVzSGEyWUxEX2tzZWpfVUdSaGROSWZBN2pUZGFNajVMZXJyelFwcjZPZ3dtOUwtVTdvbm42VldzNUM3VUgzeklNRlZyT1lkamJmRXI1UmVJeUJHU05YLVltMFZ6S1ZBYWI1b1EzMg?oc=5",
         "published": "2026-11-19T07:06:00+00:00",
         "source": "Yahoo Sports"
+      },
+      {
+        "title": "Dalton Kincaid, Christian Benford listed as out of Bills practice - NBC Sports",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjIzcWhJRFd1R3hKSFVPbktRWThzelFFUXd1eEJJMnQ4RUYtUzJXeEJTTFFhY0t6dWd4UWVlT29VUzREdVhnekhJYi1pVzJ2aWJ6X0U5SGxkR2h2dmlhVmFFWmVFNTVwWTZBN1dMZVpCMURYaGNhWk9RWkNCLVBWM3dNRDZkWUxqbGpkWkpxaGJieXQ4MTJZZTgwclFrWnBZSkpoZFBheW5mUzVEa0Q1cWlUOVBRbzU3VGp5dHk5bWstWG1r?oc=5",
+        "published": "2026-11-18T22:03:53+00:00",
+        "source": "NBC Sports"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -71,9 +71,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -82,6 +82,12 @@
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Jags Insider Reveals Expected Status for Bhayshul Tuten Week 11 - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRW0yQkVMdWhZZHViNVBnMkNuM1llWUl1XzZRNDNySWlqeWxSb0xjT2dlXzZvVXFpRWdSVVI5X3B2R1B4UEg2Sl9oNF8wWU1haUd2ZThOQmdRMjdsZ3FTSkQySkdqaXQ3YU5OQ2VJa0lZaGlybVVwTk1SbnlpZEtIOTZEd2J4QzR0eXNJbQ?oc=5",
+        "published": "2026-11-20T12:01:45+00:00",
+        "source": "Heavy.com"
+      },
       {
         "title": "Bhayshul Tuten injury news: Latest Week 11 practice update for Jaguars RB - Jaguars Wire",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa2psaHY4ZEgzUTJ1eXVsWFdQTXoxc1JkNWNXRHVMdmxkZ3o3aHRmVE80STByU1JLcTYyVFVKYjZ3S2lwdzFJOVdSby1LS0Rybk56S0ZvTkhvOURFVTdJNENLRjlINTZvUHZtTlRVLU9Yc0x4THJpT1QwS3RFMXRmWHFpUjhYd19RQkVoSGZzTHY4ZDJNQnFxVmxaRWhhOUtSMlJhYTdtY2FKaVJTczFkOUpycFBGeFFCMDYzNTlZMGMzX3c1QVctdkVrZVkybGZydWVuVlV0VTFKeUVhR21oYnRuSXI?oc=5",
@@ -111,12 +117,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3p3bmQ5MTBoZzZkWGo5RFVxYUxnb1o5NVI3Q2swa0N6LWY1WDA1UDRCNjRaMnp6MmdydE5tWlR1cjBQOFM3U0lEbWx0T2pkSE16VHBENUJoc1NOa0VWVWstMWZ5ZkJobHlnMjh1Wm1XV204SGx5R1VMLTVPOWtidFNNZEtRTWhYNy0yZ1didHRRZFZDVWRDUHhxeWYtOV9QUlA1NW9YelRxZEtsTlIxYnhqb1ZJVjduU1hZOTJWWDd6RVVtQ21ibWlraw?oc=5",
         "published": "2026-11-19T23:08:12+00:00",
         "source": "The Florida Times-Union"
-      },
-      {
-        "title": "Jaguars injury report: Bhayshul Tuten misses practice Thursday - Bradenton Herald",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XS0cwSFViMUM3VFBTTjR2eWFUdTVveXI1dzFWTFRUMG1BZjdqdUNPWkduMVVnVzNTTlplQXZNQjJtQWZZZV9NUWtTT29KNnluRXNnRFlxTEk0RTJXdmNJdEwxWVA?oc=5",
-        "published": "2026-11-19T23:04:00+00:00",
-        "source": "Bradenton Herald"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -124,9 +124,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 64.5,
+    "hours_to_lock": 55.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +140,9 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -193,7 +193,7 @@
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -216,9 +216,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 64.5,
+    "hours_to_lock": 55.7,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -232,9 +232,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 68.4,
+    "hours_to_lock": 59.6,
     "kickoff_utc": "2026-11-23T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -248,9 +248,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -264,9 +264,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -280,9 +280,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -296,9 +296,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -312,9 +312,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 229.1,
+    "hours_to_lock": 220.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -328,9 +328,9 @@
   {
     "player_id": "9758",
     "name": "C.J. Stroud",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -3.7,
+    "hours_to_lock": -12.5,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -344,9 +344,9 @@
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-20T04:54:20.870313+00:00",
+    "generated_at": "2026-11-20T13:43:51.709294+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.1,
+    "hours_to_lock": 52.3,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
