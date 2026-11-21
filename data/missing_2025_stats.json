@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:42:55.004423+00:00",
+  "generated_at": "2026-11-21T22:24:32.587027+00:00",
   "season": "2025",
   "missing_count": 734,
   "players": [
@@ -217,6 +217,15 @@
       "team": "CAR",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "8116",
+      "name": "Pierre Strong Jr.",
+      "pos": "RB",
+      "team": "GB",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -5512,15 +5521,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "7559",
-      "name": "Ihmir Smith-Marsette",
-      "pos": "WR",
-      "team": "CAR",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2021",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "11748",
       "name": "Bub Means",
       "pos": "WR",
@@ -6612,16 +6612,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1668
+      "gsis": 1662
     },
     "2024": {
-      "gsis": 1656
+      "gsis": 1646
     },
     "2025": {
-      "gsis": 1534
+      "gsis": 1521
     },
     "2026": {
-      "gsis": 811
+      "gsis": 800
     }
   }
 }

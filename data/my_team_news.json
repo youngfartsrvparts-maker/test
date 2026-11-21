@@ -2,9 +2,9 @@
   {
     "player_id": "10218",
     "name": "Xavier Hutchinson",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -40.5,
+    "hours_to_lock": -45.2,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -71,9 +71,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
@@ -83,10 +83,16 @@
     "practice": null,
     "headlines": [
       {
-        "title": "Jaguars Week 11 injury report vs. Giants: Bhayshul Tuten injuries leave Jacksonville backfield in question? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmd3QjFSR0JadnB2U3J1UVZJNG0zSl9aa3J6N2F4LUZHLXhhdXdTbW5RcGU3a29tTkZpQl9TaTFjT1paRWZ1VFkwTFN5a0g1RVVHcEVpaGg5S0R4RkRWUVoxRm1OTkRpX0xmQ05EX0VpcTFTTzRNLXJBYWNfSnFEZWw4VUE?oc=5",
-        "published": "2026-11-21T17:33:35+00:00",
-        "source": "Yahoo Sports"
+        "title": "Jaguars Week 11 injury report vs. Giants: Bhayshul Tuten injuries leave Jacksonville backfield in question? - ClutchPoints",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmdoUWx0cnpOYWZlRlF5eE0wOTliYVBNRjljUUlQOERFd0NaSTVVTjltcFJ4M2JmRzNneDJMRkc1MUhaTEtXUDN3RTNGSW9WaFVrNEFZS08yNXMzRGtVdS1HNzBMcW5oUHNmSXgzaG9KUkFoeTJhUklkdGo0cmx1R0VPdmhlcXdpSGhaOTlLRlVOSmdJLVJaQVc2QnBNSFN5cXRRckZPZnBDYkRleHBJY1dvMm1xa2FvWWxNbUxOVnhKNHJ0WUNmdFc1NUdIUGh6MW9aeUhkR3VhM3o5RXdYWUs0eEZTWTdrb2c?oc=5",
+        "published": "2026-11-21T17:33:42+00:00",
+        "source": "ClutchPoints"
+      },
+      {
+        "title": "Week 11 Fantasy Football Injury Report: The Latest Updates On Brock Bowers, Bhayshul Tuten, Mike Evans, And More - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWHRPbXVPNVdxTkNrckFjM3BlM3NHNnpGazV6UDZqZDVYZ0cxSS1YdGwyVTVFb2pyeW50VS0ydmRLY2FPcTI0dG1Jd3BlWkgyeWRZWmZrbkpZcHZCWXhvNU5vM3V4akdTNmlvS1dJQ3cyWloxQ2JvWjMtcUx1NVNaVHJNSWtBTHRsbFllQjhHUm1PUXJSYTdaR0JoWU9XSkxuQ29yVjRrMzh4UEZiX3lUU1Vubm5ndkQ5eV9vUlRVcnBnM0VHMzNuenc0RklUV2pJd2dJTlNpckR4VnFiNVJwZkdGaw?oc=5",
+        "published": "2026-11-21T10:00:00+00:00",
+        "source": "Sports Illustrated"
       },
       {
         "title": "Bhayshul Tuten set to play in Week 11 - Yahoo Sports",
@@ -111,12 +117,6 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFdEai01Z1lWaFR2WEZ4MGtLMkZOODRQY1F5cWJJeUxmMVhRS2NmUUs0eUNUWE1qbkFYdUpadWN0Z25QbVRITmVEeXRWMUhlU2FlRmdGT3UyZzRYR1UxaF9HcDd1bkx3QTJmS3JrR2tHLVpiTkpGMVFRSDljNlYzR3kxNXBYTlhRVXk0aTNzSHZKWGcwRkhrNVlB?oc=5",
         "published": "2026-11-20T22:03:33+00:00",
         "source": "Fantasy Guru"
-      },
-      {
-        "title": "Jaguars-Giants Injury Report: A Healthy Bhayshul Tuten Now Holds the Key to Week 11 Clash - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObk8zd0dlZGxHNThfOXFyblF3UjRmQVphWVhaOTJjXzFoWTVqQlpIXzh1M0JTTWR0RnhCVWxXMzBLSUlFZDcxZU1IRkFsSGt4N1JET3AySDZZdVRCbkZjdTdmOGxyU05IZlRSNHRFNkFKUi1uaTFyRExxOGJOUkkybEpaOGVJZFhOdUl6TWZvRkE2U1daWm5YWnBVLW16SldhRUExWlU5ZzNQWURQdXV3N2VSNkdBYTZ4RlNNd2gzVFlsREFPTE1GSg?oc=5",
-        "published": "2026-11-20T21:59:09+00:00",
-        "source": "Sports Illustrated"
       }
     ],
     "reason": "Bhayshul Tuten set to play in Week 11 - Yahoo Sports"
@@ -124,9 +124,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 27.7,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.0,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +140,9 @@
   {
     "player_id": "12499",
     "name": "Elic Ayomanor",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,9 +156,9 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 1,
     "model_modifier": 0.25,
@@ -191,7 +191,7 @@
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -214,9 +214,9 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 27.7,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 23.0,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -230,9 +230,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 31.6,
+    "hours_to_lock": 26.9,
     "kickoff_utc": "2026-11-23T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -246,9 +246,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -262,9 +262,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -278,9 +278,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -294,9 +294,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -310,9 +310,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 192.3,
+    "hours_to_lock": 187.6,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -326,40 +326,45 @@
   {
     "player_id": "9758",
     "name": "C.J. Stroud",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -40.5,
+    "hours_to_lock": -45.2,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Colts Cornerback Injuries Give C.J. Stroud and the Texans a Matchup to Test - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzdrZEN4cXZqSVE5UW8wczBFcnc2MlcwYVFkN1VVWXJFYUprSEJ3MXg5NkstUk4yUnZkeUxUSlg5UGlyNEZkQjlXcldlUHpJSkZfMmxYLUd2S0N2S3dLMnB5Q1BVSXN3SVFIeXpES1Zyd19ObG51YjNlN2pCaC1aUnh0LXk?oc=5",
-        "published": "2026-11-19T21:00:04+00:00",
-        "source": "Yahoo Sports"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-21T17:42:56.023655+00:00",
-    "urgency": "MONITOR",
-    "hours_to_lock": 24.3,
+    "generated_at": "2026-11-21T22:24:33.965959+00:00",
+    "urgency": "TODAY",
+    "hours_to_lock": 19.6,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 59,
-    "label": "No material negative news found",
+    "score": -1,
+    "model_modifier": -0.25,
+    "confidence": 73,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Roster Moves: Jaguars Elevate OL Eli Cox - Jacksonville Jaguars",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dlJKRDlXSGRybXdpeHByY2x0R183RDhCRlNCSXlTZXVUME5JSDBkeDBEanJTYWVOYWZPVkxUR1h5dmNkQlJKLTJ4a3pkT0NWR0lQWTRaNXIxdnlyaEhla0RrWG5SdEM2bVIzOEIzaGVLZHZNZHRR?oc=5",
+        "published": "2026-11-21T21:06:34+00:00",
+        "source": "Jacksonville Jaguars"
+      },
+      {
+        "title": "Jacksonville Jaguars just got some terrible news days before their Week 11 game, while the New York Giants gained an advantage - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ3JkS0YzeVI2cV9RbkdaR05VTVQ0OHJWX2ZVMUJSMWJaeFZBelYtVUo1SEwzZ2dlQWprM3dvTmVkWXhNVzNhWTAtS2FQQm5DWDJ4R3k1Z2Z3RVBtY2FxcjNUZkR4NmlzamtWSXJHb01uN1FBNG1BQjRGLU5zbnRHSHZTVlVvc3dBNjYwcHRncTM?oc=5",
+        "published": "2026-11-20T11:00:00+00:00",
+        "source": "Yahoo Sports"
+      },
       {
         "title": "Lengthy initial Week 11 injury report for Jacksonville Jaguars - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlRUbjU5Zm9GcFJJOVA5RE5yMllSTFVkUzd5M25YLU1yX3lhVV9YVVFXeUhLQkJyUHNmNE11RGNsY1ZQcU0wSEJzdHE5U2w4dDRIb2pZRmduZlhqamJ1VmhSeFcyQzRXSlpZclRUZmtRZFFfdDNwQXh0Rm9wWk5ldThFQUF4QQ?oc=5",
@@ -373,6 +378,6 @@
         "source": "Jacksonville Jaguars"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "Jacksonville Jaguars just got some terrible news days before their Week 11 game, while the New York Giants gained an advantage - Yahoo Sports"
   }
 ]
