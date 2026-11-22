@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:25:39.150753+00:00",
+  "generated_at": "2026-11-22T09:59:55.239924+00:00",
   "league_id": "1388315713940262912",
   "count": 6,
   "players": [
@@ -21,19 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 15670,
-      "drops_24h": 8860,
+      "adds_24h": 15395,
+      "drops_24h": 9675,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
         "time": "20:20",
         "home": "SF",
         "away": "MIN",
-        "spread": 3.5,
+        "spread": 3.0,
         "total": 46.5,
         "opponent": "SF",
         "home_game": false,
-        "implied_team_points": 25.0
+        "implied_team_points": 24.8
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 7745,
-      "drops_24h": 17165,
+      "adds_24h": 8460,
+      "drops_24h": 18290,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 17028,
+      "drops_24h": 19026,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
