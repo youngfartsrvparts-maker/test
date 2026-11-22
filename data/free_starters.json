@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T09:59:55.239924+00:00",
+  "generated_at": "2026-11-22T17:40:38.790344+00:00",
   "league_id": "1388315713940262912",
-  "count": 6,
+  "count": 7,
   "players": [
     {
       "player_id": "8408",
@@ -21,19 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 15395,
-      "drops_24h": 9675,
+      "adds_24h": 22810,
+      "drops_24h": 18635,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
         "time": "20:20",
         "home": "SF",
         "away": "MIN",
-        "spread": 3.0,
+        "spread": 3.5,
         "total": 46.5,
         "opponent": "SF",
         "home_game": false,
-        "implied_team_points": 24.8
+        "implied_team_points": 25.0
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 8460,
-      "drops_24h": 18290,
+      "adds_24h": 14505,
+      "drops_24h": 32905,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 19026,
+      "drops_24h": 38880,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
@@ -100,6 +100,39 @@
         "opponent": "LA",
         "home_game": false,
         "implied_team_points": 24.2
+      }
+    },
+    {
+      "player_id": "10213",
+      "name": "Tre Tucker",
+      "pos": "WR",
+      "team": "LV",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 7.01,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 20706,
+      "drops_24h": 38004,
+      "next_game": {
+        "week": 11,
+        "date": "2026-11-22",
+        "time": "16:25",
+        "home": "DEN",
+        "away": "LV",
+        "spread": 10.5,
+        "total": 40.5,
+        "opponent": "DEN",
+        "home_game": false,
+        "implied_team_points": 25.5
       }
     },
     {
