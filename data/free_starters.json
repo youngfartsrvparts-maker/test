@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:40:38.790344+00:00",
+  "generated_at": "2026-11-22T22:47:25.842962+00:00",
   "league_id": "1388315713940262912",
   "count": 7,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 22810,
-      "drops_24h": 18635,
+      "adds_24h": 28320,
+      "drops_24h": 28470,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 14505,
-      "drops_24h": 32905,
+      "adds_24h": 14465,
+      "drops_24h": 47860,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 38880,
+      "drops_24h": 52920,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
@@ -120,19 +120,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 20706,
-      "drops_24h": 38004,
+      "adds_24h": 37158,
+      "drops_24h": 50736,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
         "time": "16:25",
         "home": "DEN",
         "away": "LV",
-        "spread": 10.5,
-        "total": 40.5,
+        "spread": 11.5,
+        "total": 41.5,
         "opponent": "DEN",
         "home_game": false,
-        "implied_team_points": 25.5
+        "implied_team_points": 26.5
       }
     },
     {
@@ -194,11 +194,11 @@
         "time": "20:20",
         "home": "CLE",
         "away": "LV",
-        "spread": 4.5,
-        "total": 40.5,
+        "spread": null,
+        "total": null,
         "opponent": "LV",
         "home_game": true,
-        "implied_team_points": 18.0
+        "implied_team_points": null
       }
     },
     {

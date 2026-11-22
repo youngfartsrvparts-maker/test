@@ -2,9 +2,9 @@
   {
     "player_id": "10218",
     "name": "Xavier Hutchinson",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -64.4,
+    "hours_to_lock": -69.5,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,22 +18,28 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": -3,
-    "model_modifier": -0.75,
+    "score": -5,
+    "model_modifier": -1.25,
     "confidence": 95,
     "label": "Negative availability signal",
-    "injury": "Doubtful",
+    "injury": "Out",
     "practice": null,
     "headlines": [
       {
         "title": "Is Dalton Kincaid playing today? Latest on Bills tight end for Week 11 - Democrat and Chronicle",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN0VRWGU4V2tkV194RzZMRkZGLXQ1RzJyQnBEVENxU3p3M0tNSllMNU5LSWlMN1hJYTgxbXVjQ0RLOWN0V1d3dENXZHdTWUhVY3QwTHlJMzZ5V3p3QjBsMm0xMDdBeW5tU3phTkIzdjlBdlRpM0tkNnZkSEhUV0tlYnF1VEppSjB5aGE0eXdneFZMcGk3LWstc0JkTUQ2dDNfTlJJSHVxcU90amJST25UUTFINWxfWm90RHdkb0NqZ1FhalhKbEZsdUR1M0wtSEM2SmZtbkFDVnZjc1U?oc=5",
-        "published": "2026-11-22T13:19:00+00:00",
+        "published": "2026-11-22T16:37:00+00:00",
         "source": "Democrat and Chronicle"
+      },
+      {
+        "title": "Final Injury Report for Dolphins-Bills: Will Dalton Kincaid Play? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYkNBSUdGTmpRUnBBYTZPYWF1SzY5SThTSlc3amlQWmJZSzBzZktSbV9NbU44VHVzT0VoZ1BMWi1zLWtJZnZZa2dnUE56Z0ZHRl82cWp5Y0ItZmRSNzNvZVQxT0NUZUxsSnM4LU5TVi10aXNzRUdTbWxQemprdFhqeFd1ME1KTlFWRXhR?oc=5",
+        "published": "2026-11-22T15:00:00+00:00",
+        "source": "Yahoo Sports"
       },
       {
         "title": "Dalton Kincaid’s Injury May Force Bills to Rework Tight End Plan - Athlon Sports",
@@ -58,12 +64,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVS1tVHo5VW1vc1RZVkdRYVhJSWVzdXR5SnR5NHVIUDlhSkVHZVhVMm9NTHVwdVRsVnJmRWFFWWFmOGxfeVBudkpUNjctVWs5bWdGbHY3cFBPQzV0N0owSkZnaU4wSUM0UHdRVzdheFFhV2F6ck9Lak1NaHU4RHBrUTFqemxwTnFiWXNLMlEybUcxb1dGQnJvOFVRZw?oc=5",
         "published": "2026-11-21T13:01:09+00:00",
         "source": "The Big Lead"
-      },
-      {
-        "title": "Bills vs. Dolphins final Week 11 injury report: Dalton Kincaid trending down - BuffaLowDown",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXpOUXM1N1N4OG14dGJFdGFtUlVqc0ZjNlFVa0JvNzdoLVl4Z2pySUoyQ3VJTndHc2RiQzNZU2N0TnBVWGItOGtfQXRUdVpNRmNocFVGMDVLZFZNVDhOZC02NE1EdFRkdW5VcHpJazFxN01iRGE5SVd5TjNXcmpUVHhiX1NTTkxScFFTM1RPNG5ZWWxxUE0yOVBnci1ORlBUV0xyUXFiM2w0eEZPT000eklB?oc=5",
-        "published": "2026-11-20T22:00:00+00:00",
-        "source": "BuffaLowDown"
       }
     ],
     "reason": "Dalton Kincaid doubtful for Bills vs. Dolphins with injuries - KSL Sports"
@@ -71,10 +71,10 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
-    "kickoff_utc": "2026-11-22T18:00:00+00:00",
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -1.4,
+    "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 2,
     "model_modifier": 0.5,
     "confidence": 87,
@@ -87,6 +87,12 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcmdoUWx0cnpOYWZlRlF5eE0wOTliYVBNRjljUUlQOERFd0NaSTVVTjltcFJ4M2JmRzNneDJMRkc1MUhaTEtXUDN3RTNGSW9WaFVrNEFZS08yNXMzRGtVdS1HNzBMcW5oUHNmSXgzaG9KUkFoeTJhUklkdGo0cmx1R0VPdmhlcXdpSGhaOTlLRlVOSmdJLVJaQVc2QnBNSFN5cXRRckZPZnBDYkRleHBJY1dvMm1xa2FvWWxNbUxOVnhKNHJ0WUNmdFc1NUdIUGh6MW9aeUhkR3VhM3o5RXdYWUs0eEZTWTdrb2c?oc=5",
         "published": "2026-11-21T22:23:22+00:00",
         "source": "ClutchPoints"
+      },
+      {
+        "title": "Jaguars Week 11 injury report vs. Giants: Bhayshul Tuten injuries leave Jacksonville backfield in question? - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmd3QjFSR0JadnB2U3J1UVZJNG0zSl9aa3J6N2F4LUZHLXhhdXdTbW5RcGU3a29tTkZpQl9TaTFjT1paRWZ1VFkwTFN5a0g1RVVHcEVpaGg5S0R4RkRWUVoxRm1OTkRpX0xmQ05EX0VpcTFTTzRNLXJBYWNfSnFEZWw4VUE?oc=5",
+        "published": "2026-11-21T17:33:35+00:00",
+        "source": "Yahoo Sports"
       },
       {
         "title": "Bhayshul Tuten set to play in Week 11 - Yahoo Sports",
@@ -111,12 +117,6 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFdEai01Z1lWaFR2WEZ4MGtLMkZOODRQY1F5cWJJeUxmMVhRS2NmUUs0eUNUWE1qbkFYdUpadWN0Z25QbVRITmVEeXRWMUhlU2FlRmdGT3UyZzRYR1UxaF9HcDd1bkx3QTJmS3JrR2tHLVpiTkpGMVFRSDljNlYzR3kxNXBYTlhRVXk0aTNzSHZKWGcwRkhrNVlB?oc=5",
         "published": "2026-11-20T22:03:33+00:00",
         "source": "Fantasy Guru"
-      },
-      {
-        "title": "Jaguars-Giants Injury Report: A Healthy Bhayshul Tuten Now Holds the Key to Week 11 Clash - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObk8zd0dlZGxHNThfOXFyblF3UjRmQVphWVhaOTJjXzFoWTVqQlpIXzh1M0JTTWR0RnhCVWxXMzBLSUlFZDcxZU1IRkFsSGt4N1JET3AySDZZdVRCbkZjdTdmOGxyU05IZlRSNHRFNkFKUi1uaTFyRExxOGJOUkkybEpaOGVJZFhOdUl6TWZvRkE2U1daWm5YWnBVLW16SldhRUExWlU5ZzNQWURQdXV3N2VSNkdBYTZ4RlNNd2gzVFlsREFPTE1GSg?oc=5",
-        "published": "2026-11-20T21:59:09+00:00",
-        "source": "Sports Illustrated"
       }
     ],
     "reason": "Bhayshul Tuten set to play in Week 11 - Yahoo Sports"
@@ -124,9 +124,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 3.7,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -1.4,
     "kickoff_utc": "2026-11-22T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +140,9 @@
   {
     "player_id": "12499",
     "name": "Elic Ayomanor",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -156,17 +156,29 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": 1,
-    "model_modifier": 0.25,
-    "confidence": 80,
-    "label": "Positive/clear signal",
+    "score": -2,
+    "model_modifier": -0.5,
+    "confidence": 87,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Bears RB Kyle Monangai’s Injury Sparks Concern Amid Return - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmoxUk55TldHSS1aRVJfNGoyTDFwMTJtZnZGSWNqOEZGcjdJMVJaRHdfSTNJUVdzbDlvQmh6RzlYSFNnZUFBM0JVMllTY1NqTHFjYmo2WHlWVEVRaFVuSVlxbzllOXo4OVZPTDQ3ZmtwV2xSQk9ZUHpnVTlmMVNHby1MY3h0cDNOdndTaV9kTl83cWxYcmRaYU9BOFp3SFk2QnIzVEJB?oc=5",
+        "published": "2026-11-22T20:42:49+00:00",
+        "source": "Heavy.com"
+      },
+      {
+        "title": "Bears' inactives list: Kyle Monangai in, Kyler Gordon out vs. Saints - NBC Chicago",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEFsc0Q5QnJWV194b2VNXzU3WUVGbWNTcENYLTVCN0FwS1g2c1hJaUx2dWJ5c3I2Ylg4UXd3ZzlvdEJ0bF9TV0ZyelFSbDNhTnVtY0ZRVkhwTzdrNG9uTUQtSjlkNENMTGlOOUloSHFabTBJRFljdUJocEtmaTRNcGNkWlk2RG4xVHlUWmg5RFkwMzVEeVVWQ2ZZcnR1bV90NDJkb2xIeFhCUTVyeUN3WdIBuAFBVV95cUxNRGxicEFvd2JWNzJjVFNfMzdwOTZxZXRiNVJUVFRRWFNhdGxGVV9TOFpyMEFNSWlTbGk2YjF1RFhpTGFNcW9ZdFlmeG1SblRNLTVzYlJTSHZKdHhCRHVjbGk4MHFMblJBcWptV2VnWldGTW1YX1VWY05sMXNaamxOajFkYkY2RWNZalc0alBTYmxoV3hYcFhlaS1NbEtzRlNDd2NQVVFQb1VxTngtUGNMcmRrUDVId1VT?oc=5",
+        "published": "2026-11-22T16:39:28+00:00",
+        "source": "NBC Chicago"
+      },
       {
         "title": "Is Kyle Monangai playing today? Latest on Bears RB vs. Saints - Saints Wire",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1VmT3J5bGhVbHdxYVU1Z2M1amZGeTBocEU1LUhKT3FJZlFzRVJoNGhZSV80d1Z0VkFwOS02MmtxaG9uN3hKNkRyZjVLM2RLdkhmLTFVUml6c25mcTAzeHVzZjA5ZGVya1c5d1BFVmF6REhna19xeEhrUWoxRllqS3daSVdnaE5FX0kyTkJQWXBFeU4zOE9Qc2tTZ0VCWWVwS3BSVG53TWQzcW5QZEtCSExTWTgxTEdISGRmWlllNjN1V1k?oc=5",
@@ -186,24 +198,18 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "Why Bears Could Limit Kyle Monangai's Workload in Week 11 vs. Saints - Sports Illustrated",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHM0QU82MXd6TzFRM1dacS16UXlDakxMZmh1RjM4RXRRVzNUTnh5NUJzVnRTTFVzUzNHWkJGLXdPWExaZ0VyQjRCVmh3Q0JuMXNQdVpZVndnMFJVemp1Y0Z5d09xYTRfUFhzeWhTclpKZnFDRXJjYW9xRjBOQ05EXzZ4dw?oc=5",
-        "published": "2026-11-19T16:30:00+00:00",
-        "source": "Sports Illustrated"
-      },
-      {
         "title": "Bears' injury report features news on Kyle Monangai, Jeffery Simmons - NBC 5 Chicago",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb2l3ajNOdXhEd1NkWWR0Z2pOYW5UR1dzQzlBMDNwV1dOcHR0WUxTOGdKblE2ck9HcmpfT2p4bEkzaENrcXR5R0c1Zk5seEtSZHZUOFI1dUhxcE1iaGlYbkhteXJGRkFFempGRjRaZUY5TTlKUHlTWWxDSUVJT0cxNm1tQkw2UnlMV2dnelZGUnZlazliVEdxWVJJOHlCNVoxWFN1TDlpMnphZmw4YWVGazZkREdGUktmQURjMHV4aV80Y01WalV4QWtQc2hSeFJLUDI1dkw4MEVwdHMtZHM1S3NhMNIB6wFBVV95cUxORG9XT1Z2d0FPdFBGYTZpTXJyNnY0LVhHZTM1aHJ2eTl4VG9zUVVoRGdHOV9aR05uMEtVdGJaNlBpYm1rSkhYMHRKLXozbjYyMUFmV3F5Z1ZvNXM1U0RwTzBrdk5Uc1BMTUJ5TFhmbUctUXR1Nkw4YTI0dFVHZnFFWlBuNkg1NGduRkQ3NXFXdm1NbkRuNGVQa2I3eTdoaE1leTNNVmxyckpSUUNEYkNCd0lyWHYxWnV5WUotNURyQTZUUlpUX0JuYjRBZ3JtdTh2WjlPbFdJblpRakFRbGNiSlZQR3VIdVlsbk1R?oc=5",
         "published": "2026-11-18T23:13:53+00:00",
         "source": "NBC 5 Chicago"
       }
     ],
-    "reason": "Jeffery Simmons, Luther Burden, Kyle Monangai have no injury designations for Sunday - Yahoo Sports"
+    "reason": "Bears' inactives list: Kyle Monangai in, Kyler Gordon out vs. Saints - NBC Chicago"
   },
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -226,10 +232,10 @@
   {
     "player_id": "13294",
     "name": "Makai Lemon",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 3.7,
-    "kickoff_utc": "2026-11-22T21:25:00+00:00",
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
+    "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -242,9 +248,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 7.7,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 2.5,
     "kickoff_utc": "2026-11-23T01:20:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -258,9 +264,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -274,9 +280,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -290,9 +296,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -306,9 +312,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -4.8,
     "kickoff_utc": "2026-11-22T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -322,9 +328,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 168.3,
+    "hours_to_lock": 163.2,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -338,40 +344,51 @@
   {
     "player_id": "9758",
     "name": "C.J. Stroud",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -64.4,
+    "hours_to_lock": -69.5,
     "kickoff_utc": "2026-11-20T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 45,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [
-      {
-        "title": "Colts Cornerback Injuries Give C.J. Stroud and the Texans a Matchup to Test - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzdrZEN4cXZqSVE5UW8wczBFcnc2MlcwYVFkN1VVWXJFYUprSEJ3MXg5NkstUk4yUnZkeUxUSlg5UGlyNEZkQjlXcldlUHpJSkZfMmxYLUd2S0N2S3dLMnB5Q1BVSXN3SVFIeXpES1Zyd19ObG51YjNlN2pCaC1aUnh0LXk?oc=5",
-        "published": "2026-11-19T21:00:04+00:00",
-        "source": "Yahoo Sports"
-      }
-    ],
+    "headlines": [],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "JAX",
     "name": "Jacksonville Jaguars",
-    "generated_at": "2026-11-22T17:40:36.779464+00:00",
-    "urgency": "URGENT",
-    "hours_to_lock": 0.3,
-    "kickoff_utc": "2026-11-22T18:00:00+00:00",
-    "score": 0,
-    "model_modifier": 0.0,
-    "confidence": 59,
-    "label": "No material negative news found",
+    "generated_at": "2026-11-22T22:47:23.776950+00:00",
+    "urgency": "LOCKED",
+    "hours_to_lock": -1.4,
+    "kickoff_utc": "2026-11-22T21:25:00+00:00",
+    "score": -2,
+    "model_modifier": -0.5,
+    "confidence": 80,
+    "label": "Some availability risk",
     "injury": null,
     "practice": null,
     "headlines": [
+      {
+        "title": "Jacksonville Jaguars lose CB Jarrian Jones to chest injury vs. Giants - The Florida Times-Union",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORHdDRjRrSW8zVWF2QVg3VHZnVjczRG9OSWRqV1FxMkN6ZmxRRDYzcWYtU25PZnNSUThPd1U1c0NzZVdYX0JVOWJyaFhkYjF5em9idXFwOWxFS1MtZjZJZHBkZTU3ak1vZXUtUFpsbnVoWXo1WnRPeHQ2cl9OamdObl96Yk9aVHBQU3h0MUhXd09OZ051elFpREJ0TGtsdVJ3MW5LeUhPMndhb09COUZxWkZISmQ2dFJ4SU93WlM1My0xWHh3ejdkZ0VLdFBZcmszU3FLN2o4V3FudjZqWTYzM2J3?oc=5",
+        "published": "2026-11-22T22:23:07+00:00",
+        "source": "The Florida Times-Union"
+      },
+      {
+        "title": "In and Out, 2026 Week 11: Davis, Bates Active for Jaguars vs. Giants - Jacksonville Jaguars",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOalMzQTVYZW5DcXRPVURRaXVTbW9wOV9LbmM3LTZTVjQ1TldreTNmcllGTG5sZUJSczV6OG9ydGNBbkRrSEtKY3JBM3F0RGFmdUJ0QkZEVHpkZHRqb2lGb0J0N2hJaHR2eGE2a0IwTnBBNVlLekJadzlDRlkySDM2Z2ZaMW9EVXZSYzJJaXBFQUdTQXh1S2lKbw?oc=5",
+        "published": "2026-11-22T20:01:38+00:00",
+        "source": "Jacksonville Jaguars"
+      },
+      {
+        "title": "Jacksonville Jaguars vs. Giants inactives: Who won't play in Week 11? - The Florida Times-Union",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTEpwZnJLNkJaNVJrS29VemZuNHVaNjdlSTIyNmY0UmppOG1uZUZKUDZEb3BiTUltUlBaRGNBemJhdFFtWDV0MFlGbXdrRnFDTXhDVjVWeTV0Q2JETGl3Wjc0YWNkX0Qyb1RpMW1fejUybzRfaEJVNVRGNk42cUZ2dnUzQnh1WS11UXA3UEI5aF9CUGxsSEw5c3RJaEdpVF8wSnpMdmd5d1NhZER2eHpjOVpZY0ttRmpUX2hrNlBOQnBMeVdvVko0Vzk4UVR3Q21od3c?oc=5",
+        "published": "2026-11-22T20:00:33+00:00",
+        "source": "The Florida Times-Union"
+      },
       {
         "title": "Jacksonville Jaguars at New York Giants - Where to Watch, Stream Info, TV Channel, and Live Updates (November 22, 2026) - Fubo",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTBYYXBYbFlKSGdIYXNyVkQ1aDZ1ZHJzc3JSMk90M05famVKUWkyZl9iRTNkencwLVlDcmVTdERjaFhaRl9OaFpjOEVKbXVEOHhyTE1TNGRnZ2RGUlNsdUVKbl9PSnNpWUowaWtrSnk5R1ZCZHBfV0puT2oybWl0MzNjR0ZJdGh5LUZSQUpvZm84NWVjb3FCZTZUSnZMcGhNS2E3Y2E5UW5kVElFVlFjbkptaHA3bV9lWVp5cXBNZjIyTGtaM0xqOVo1MGdpUEU3WGV3MWw1YVQ?oc=5",
@@ -385,6 +402,6 @@
         "source": "Jacksonville Jaguars"
       }
     ],
-    "reason": "No material roster-specific risk headline found in the last 3 days."
+    "reason": "In and Out, 2026 Week 11: Davis, Bates Active for Jaguars vs. Giants - Jacksonville Jaguars"
   }
 ]
