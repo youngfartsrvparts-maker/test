@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:47:25.842962+00:00",
+  "generated_at": "2026-11-23T03:22:51.873770+00:00",
   "league_id": "1388315713940262912",
   "count": 7,
   "players": [
@@ -21,19 +21,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 28320,
-      "drops_24h": 28470,
+      "adds_24h": 29030,
+      "drops_24h": 29900,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
         "time": "20:20",
         "home": "SF",
         "away": "MIN",
-        "spread": 3.5,
-        "total": 46.5,
+        "spread": 4.5,
+        "total": 44.5,
         "opponent": "SF",
         "home_game": false,
-        "implied_team_points": 25.0
+        "implied_team_points": 24.5
       }
     },
     {
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 14465,
-      "drops_24h": 47860,
+      "adds_24h": 0,
+      "drops_24h": 51245,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -88,7 +88,7 @@
       "targets_pg": null,
       "carries_pg": null,
       "adds_24h": 0,
-      "drops_24h": 52920,
+      "drops_24h": 51831,
       "next_game": {
         "week": 12,
         "date": "2026-11-25",
@@ -96,10 +96,10 @@
         "home": "LA",
         "away": "GB",
         "spread": 3.0,
-        "total": 45.5,
+        "total": 44.5,
         "opponent": "LA",
         "home_game": false,
-        "implied_team_points": 24.2
+        "implied_team_points": 23.8
       }
     },
     {
@@ -120,8 +120,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 37158,
-      "drops_24h": 50736,
+      "adds_24h": 37218,
+      "drops_24h": 54288,
       "next_game": {
         "week": 11,
         "date": "2026-11-22",
@@ -194,11 +194,11 @@
         "time": "20:20",
         "home": "CLE",
         "away": "LV",
-        "spread": null,
-        "total": null,
+        "spread": 4.5,
+        "total": 40.5,
         "opponent": "LV",
         "home_game": true,
-        "implied_team_points": null
+        "implied_team_points": 18.0
       }
     },
     {
