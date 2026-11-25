@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T20:56:33.546020+00:00",
+  "generated_at": "2026-11-25T03:54:47.594257+00:00",
   "league_id": "1388315713940262912",
-  "count": 7,
+  "count": 8,
   "players": [
     {
       "player_id": "8408",
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 17260,
-      "drops_24h": 39650,
+      "adds_24h": 25325,
+      "drops_24h": 46010,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -30,10 +30,10 @@
         "home": "MIN",
         "away": "ATL",
         "spread": 7.0,
-        "total": 42.5,
+        "total": 41.5,
         "opponent": "ATL",
         "home_game": true,
-        "implied_team_points": 17.8
+        "implied_team_points": 17.2
       }
     },
     {
@@ -54,26 +54,26 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 23485,
-      "drops_24h": 45385,
+      "adds_24h": 34395,
+      "drops_24h": 51800,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
         "time": "16:25",
         "home": "ARI",
         "away": "WAS",
-        "spread": -7.5,
-        "total": 42.5,
+        "spread": -7.0,
+        "total": 41.5,
         "opponent": "WAS",
         "home_game": true,
-        "implied_team_points": 25.0
+        "implied_team_points": 24.2
       }
     },
     {
-      "player_id": "11581",
-      "name": "MarShawn Lloyd",
+      "player_id": "12533",
+      "name": "Jacory Croskey-Merritt",
       "pos": "RB",
-      "team": "GB",
+      "team": "WAS",
       "depth": 1,
       "injury": null,
       "status": "Active",
@@ -82,24 +82,57 @@
       "why_flagged": [
         "Sleeper depth order 1"
       ],
-      "ppg_2025": 2.8,
+      "ppg_2025": null,
       "floor_2025": null,
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 26991,
+      "adds_24h": 416970,
+      "drops_24h": 25056,
+      "next_game": {
+        "week": 12,
+        "date": "2026-11-29",
+        "time": "16:25",
+        "home": "ARI",
+        "away": "WAS",
+        "spread": -7.0,
+        "total": 41.5,
+        "opponent": "ARI",
+        "home_game": false,
+        "implied_team_points": 17.2
+      }
+    },
+    {
+      "player_id": "9501",
+      "name": "DeMario Douglas",
+      "pos": "WR",
+      "team": "NE",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": null,
+      "role_confidence": null,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": 8.78,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
       "drops_24h": 0,
       "next_game": {
         "week": 12,
-        "date": "2026-11-25",
-        "time": "20:00",
-        "home": "LA",
-        "away": "GB",
-        "spread": 2.5,
-        "total": 44.5,
-        "opponent": "LA",
+        "date": "2026-11-29",
+        "time": "16:05",
+        "home": "LAC",
+        "away": "NE",
+        "spread": 1.5,
+        "total": 35.5,
+        "opponent": "LAC",
         "home_game": false,
-        "implied_team_points": 23.5
+        "implied_team_points": 18.5
       }
     },
     {
@@ -120,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 27258,
-      "drops_24h": 34950,
+      "adds_24h": 35838,
+      "drops_24h": 45438,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -129,10 +162,10 @@
         "home": "CLE",
         "away": "LV",
         "spread": 4.5,
-        "total": 41.5,
+        "total": 40.5,
         "opponent": "CLE",
         "home_game": false,
-        "implied_team_points": 23.0
+        "implied_team_points": 22.5
       }
     },
     {
@@ -153,7 +186,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 0,
+      "adds_24h": 15544,
       "drops_24h": 0,
       "next_game": {
         "week": 12,
@@ -161,11 +194,11 @@
         "time": "16:25",
         "home": "ARI",
         "away": "WAS",
-        "spread": -7.5,
-        "total": 42.5,
+        "spread": -7.0,
+        "total": 41.5,
         "opponent": "WAS",
         "home_game": true,
-        "implied_team_points": 25.0
+        "implied_team_points": 24.2
       }
     },
     {
@@ -174,7 +207,7 @@
       "pos": "WR",
       "team": "CLE",
       "depth": 1,
-      "injury": null,
+      "injury": "Questionable",
       "status": "Active",
       "role": null,
       "role_confidence": null,
@@ -186,7 +219,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 15860,
+      "adds_24h": 22142,
       "drops_24h": 0,
       "next_game": {
         "week": 12,
@@ -195,10 +228,10 @@
         "home": "CLE",
         "away": "LV",
         "spread": 4.5,
-        "total": 41.5,
+        "total": 40.5,
         "opponent": "LV",
         "home_game": true,
-        "implied_team_points": 18.5
+        "implied_team_points": 18.0
       }
     },
     {
@@ -220,7 +253,7 @@
       "targets_pg": 0.0,
       "carries_pg": 0.0,
       "adds_24h": 0,
-      "drops_24h": 34090,
+      "drops_24h": 46335,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",

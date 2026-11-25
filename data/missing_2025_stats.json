@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T20:56:29.657439+00:00",
+  "generated_at": "2026-11-25T03:54:44.475399+00:00",
   "season": "2025",
-  "missing_count": 735,
+  "missing_count": 732,
   "players": [
     {
       "player_id": "11533",
@@ -683,15 +683,6 @@
       "name": "Miles Kitselman",
       "pos": "TE",
       "team": "DET",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
-      "player_id": "13310",
-      "name": "Miller Moss",
-      "pos": "QB",
-      "team": "CHI",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
@@ -2524,6 +2515,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12036",
+      "name": "Ian Wheeler",
+      "pos": "RB",
+      "team": "LAC",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "5119",
       "name": "Jason Sanders",
       "pos": "K",
@@ -2650,12 +2650,12 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "11648",
-      "name": "Kedon Slovis",
-      "pos": "QB",
-      "team": "BAL",
+      "player_id": "6964",
+      "name": "Sean McKeon",
+      "pos": "TE",
+      "team": "IND",
       "sleeper_gsis_id": null,
-      "rookie_year": "2024",
+      "rookie_year": "2020",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -3148,7 +3148,7 @@
       "player_id": "8002",
       "name": "Shane Buechele",
       "pos": "QB",
-      "team": "BUF",
+      "team": "IND",
       "sleeper_gsis_id": null,
       "rookie_year": "2021",
       "reason": "no nflverse 2025 weekly match"
@@ -5251,15 +5251,6 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
-      "player_id": "6803",
-      "name": "Brandon Aiyuk",
-      "pos": "WR",
-      "team": "SF",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2020",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "12544",
       "name": "LeQuint Allen Jr.",
       "pos": "RB",
@@ -5917,30 +5908,12 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "13778",
-      "name": "EJ Smith",
-      "pos": "RB",
-      "team": "KC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
-    },
-    {
       "player_id": "12510",
       "name": "Jalen Milroe",
       "pos": "QB",
       "team": "SEA",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "11963",
-      "name": "Chris Collier",
-      "pos": "RB",
-      "team": "LV",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6050,6 +6023,15 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "7865",
+      "name": "Brandon Smith",
+      "pos": "WR",
+      "team": "PIT",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2021",
+      "reason": "no nflverse 2025 weekly match"
     },
     {
       "player_id": "13580",
@@ -6473,15 +6455,6 @@
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "13312",
-      "name": "Josh Kattus",
-      "pos": "TE",
-      "team": "CIN",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2026",
-      "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
       "player_id": "6828",
