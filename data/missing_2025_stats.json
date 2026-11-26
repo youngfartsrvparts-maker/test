@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T22:47:26.832286+00:00",
+  "generated_at": "2026-11-26T04:36:31.864087+00:00",
   "season": "2025",
-  "missing_count": 732,
+  "missing_count": 736,
   "players": [
     {
       "player_id": "11533",
@@ -143,15 +143,6 @@
       "name": "Oronde Gadsden",
       "pos": "TE",
       "team": "LAC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "12699",
-      "name": "LaJohntay Wester",
-      "pos": "WR",
-      "team": "BAL",
       "sleeper_gsis_id": null,
       "rookie_year": "2025",
       "reason": "no nflverse 2025 weekly match"
@@ -2659,6 +2650,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "11648",
+      "name": "Kedon Slovis",
+      "pos": "QB",
+      "team": "ARI",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "13416",
       "name": "Roman Hemby",
       "pos": "RB",
@@ -3419,6 +3419,15 @@
       "name": "Seydou Traore",
       "pos": "TE",
       "team": "MIA",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
+      "player_id": "13904",
+      "name": "Jacob De Jesus",
+      "pos": "WR",
+      "team": "SEA",
       "sleeper_gsis_id": null,
       "rookie_year": "2026",
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
@@ -4711,15 +4720,6 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
-      "player_id": "12860",
-      "name": "Theo Wease Jr.",
-      "pos": "WR",
-      "team": "LAC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2025",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
       "player_id": "12688",
       "name": "Cam Miller",
       "pos": "QB",
@@ -5251,6 +5251,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "6803",
+      "name": "Brandon Aiyuk",
+      "pos": "WR",
+      "team": "WAS",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2020",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "12544",
       "name": "LeQuint Allen Jr.",
       "pos": "RB",
@@ -5302,15 +5311,6 @@
       "team": "NE",
       "sleeper_gsis_id": null,
       "rookie_year": "2023",
-      "reason": "no nflverse 2025 weekly match"
-    },
-    {
-      "player_id": "7050",
-      "name": "Josiah Deguara",
-      "pos": "TE",
-      "team": "LAC",
-      "sleeper_gsis_id": null,
-      "rookie_year": "2020",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -5545,6 +5545,15 @@
       "team": "NE",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "8200",
+      "name": "Kevin Austin Jr.",
+      "pos": "WR",
+      "team": "NO",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2022",
       "reason": "no nflverse 2025 weekly match"
     },
     {
@@ -6061,6 +6070,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "11065",
+      "name": "Adrian Martinez",
+      "pos": "QB",
+      "team": "SEA",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2023",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "7527",
       "name": "Mac Jones",
       "pos": "QB",
@@ -6259,6 +6277,15 @@
       "reason": "2026 rookie — correctly has no 2025 NFL stats"
     },
     {
+      "player_id": "13861",
+      "name": "Daniel Sobkowicz",
+      "pos": "WR",
+      "team": "HOU",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2026",
+      "reason": "2026 rookie — correctly has no 2025 NFL stats"
+    },
+    {
       "player_id": "13663",
       "name": "Wesley Grimes",
       "pos": "WR",
@@ -6299,6 +6326,15 @@
       "name": "Ray Davis",
       "pos": "RB",
       "team": "BUF",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2024",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
+      "player_id": "11245",
+      "name": "Patrick Murtagh",
+      "pos": "TE",
+      "team": "NO",
       "sleeper_gsis_id": null,
       "rookie_year": "2024",
       "reason": "no nflverse 2025 weekly match"
@@ -6594,16 +6630,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1646
+      "gsis": 1643
     },
     "2024": {
-      "gsis": 1636
+      "gsis": 1626
     },
     "2025": {
-      "gsis": 1508
+      "gsis": 1512
     },
     "2026": {
-      "gsis": 862
+      "gsis": 864
     }
   }
 }
