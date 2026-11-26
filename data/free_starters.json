@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-11-26T14:26:34.217445+00:00",
+  "generated_at": "2026-11-26T23:09:38.980215+00:00",
   "league_id": "1388315713940262912",
   "count": 8,
   "players": [
+    {
+      "player_id": "12504",
+      "name": "Kaleb Johnson",
+      "pos": "RB",
+      "team": "GB",
+      "depth": 1,
+      "injury": null,
+      "status": "Active",
+      "role": "Fresh negative availability/role signal",
+      "role_confidence": 58,
+      "why_flagged": [
+        "Sleeper depth order 1"
+      ],
+      "ppg_2025": null,
+      "floor_2025": null,
+      "ceiling_2025": null,
+      "targets_pg": null,
+      "carries_pg": null,
+      "adds_24h": 0,
+      "drops_24h": 0,
+      "next_game": {
+        "week": 12,
+        "date": "2026-11-25",
+        "time": "20:00",
+        "home": "LA",
+        "away": "GB",
+        "spread": 2.5,
+        "total": 43.5,
+        "opponent": "LA",
+        "home_game": false,
+        "implied_team_points": 23.0
+      }
+    },
     {
       "player_id": "8408",
       "name": "Jordan Mason",
@@ -21,7 +54,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 36490,
+      "adds_24h": 27300,
       "drops_24h": 0,
       "next_game": {
         "week": 12,
@@ -54,8 +87,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 31165,
-      "drops_24h": 31240,
+      "adds_24h": 20525,
+      "drops_24h": 19940,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -67,39 +100,6 @@
         "opponent": "WAS",
         "home_game": true,
         "implied_team_points": 24.0
-      }
-    },
-    {
-      "player_id": "12504",
-      "name": "Kaleb Johnson",
-      "pos": "RB",
-      "team": "GB",
-      "depth": 1,
-      "injury": null,
-      "status": "Active",
-      "role": null,
-      "role_confidence": null,
-      "why_flagged": [
-        "Sleeper depth order 1"
-      ],
-      "ppg_2025": null,
-      "floor_2025": null,
-      "ceiling_2025": null,
-      "targets_pg": null,
-      "carries_pg": null,
-      "adds_24h": 0,
-      "drops_24h": 0,
-      "next_game": {
-        "week": 12,
-        "date": "2026-11-25",
-        "time": "20:00",
-        "home": "LA",
-        "away": "GB",
-        "spread": 2.5,
-        "total": 43.5,
-        "opponent": "LA",
-        "home_game": false,
-        "implied_team_points": 23.0
       }
     },
     {
@@ -128,11 +128,11 @@
         "time": "16:05",
         "home": "LAC",
         "away": "NE",
-        "spread": -1.5,
+        "spread": -2.5,
         "total": 35.5,
         "opponent": "LAC",
         "home_game": false,
-        "implied_team_points": 17.0
+        "implied_team_points": 16.5
       }
     },
     {
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 21654,
-      "drops_24h": 47856,
+      "adds_24h": 11760,
+      "drops_24h": 35136,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
