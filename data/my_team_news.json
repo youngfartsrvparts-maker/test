@@ -2,9 +2,9 @@
   {
     "player_id": "10218",
     "name": "Xavier Hutchinson",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 85.4,
+    "hours_to_lock": 75.6,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,17 +18,23 @@
   {
     "player_id": "10236",
     "name": "Dalton Kincaid",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 20.7,
+    "hours_to_lock": 10.9,
     "kickoff_utc": "2026-11-27T01:20:00+00:00",
-    "score": -5,
-    "model_modifier": -1.25,
+    "score": -4,
+    "model_modifier": -1.0,
     "confidence": 95,
     "label": "Negative availability signal",
     "injury": "Questionable",
     "practice": null,
     "headlines": [
+      {
+        "title": "Is Dalton Kincaid Playing Tonight? (Injury Update, Betting Impact for Chiefs vs. Bills in NFL Week 12) - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVnRHFTYmE0SnlLclRuTlYwVTF2Y3FtMmNISmRmd3hqcTBueHVveG91YmMxc2JNNllXb0haTnRweGlta2lCYm9IcFFsdzBnSjdmcWk0TjJlTkEtekt4WERTRnFTVVBidnpFVGpSVmRrNkNQU3RwTFZENFBkTXV6OTdQdDNRUFYyYUtEU3c3Q09IS1ljRnZnY3ZzWE96Q3hySDVPaFZ1ekZoTzQ3Nmhv?oc=5",
+        "published": "2026-11-26T10:35:00+00:00",
+        "source": "Sports Illustrated"
+      },
       {
         "title": "Bills' Final Week 12 Injury Report: Dalton Kincaid One of Four Starters Questionable vs. Chiefs - Sports Illustrated",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYThteG94dEw4MVk1RFZJTjRfTmdnR1V4N0l5TFlTTGdMV0hwTGtqVzREU0pjaGVPdy1LamtHUnFRbDBJUk5zMTM5anExNjlHSGpOUHZDYW5xbThxeXZMb1ZTLW04RnBidXFZR2t4RGNIQ2ZSSFZ4VDNLRUwyazBmYTZ6Y1FNRTN2YXN5NllqMzh5dHRabTdfbENZbTJWbnh1Q3c2NWhKbzE3eDc3bEVtbmllT1NEQmZySnZmZU1LQi12TzI5?oc=5",
@@ -42,15 +48,9 @@
         "source": "NBC Sports"
       },
       {
-        "title": "Dalton Kincaid questionable for Week 12 - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVMyMEs0OHZxUEsxQWdrRTFua1NkZk5GSHI4UDNVU0pPN2djZHBUZEt6Q01oX2cyRDcwdW5NUHdpTmlXVkJYTkdUQ1gtbi14LWtOZTJXcGxiZ1I4SlFOcENnWW5ialoyeUlSNTN5YjN6X0ZTMUloRmV6Z3Z3NE9UMjF3QmZWeV9sM284WWVfaXF0ZmRUVlBZVkJ2SVdWbUZGZ3EyT3FrZ2g?oc=5",
-        "published": "2026-11-25T23:36:37+00:00",
-        "source": "NBC Sports"
-      },
-      {
         "title": "Dalton Kincaid questionable as Bills get multiple injury updates for Chiefs game - Yahoo Sports",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejFMS0VoLVE2ZkVsT3RHbVR1aE1TWUhBUlE2TTB6TDRkcm9TbGRUcXBBT245cDhNSmI5T2czNVdsd1ZBOWZhYUVrR01VX2sxQTBoZnBpNW1KYkpPNTloZEpvbTdJakg4YmRRS1p0MlZxbVdPbW5leXlUN1Y2eFlXVWFKLXhlaE8yN0FiSHh0M2JkU3JhbF9oT1pxYw?oc=5",
-        "published": "2026-11-25T19:54:12+00:00",
+        "published": "2026-11-25T20:03:27+00:00",
         "source": "Yahoo Sports"
       },
       {
@@ -60,10 +60,10 @@
         "source": "Yahoo Sports"
       },
       {
-        "title": "Dalton Kincaid questionable for Week 12 - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOWVIRDhRam5QSzdXZlU4WmlTYVZmZmV4WTB5VlJNbmtSZWhrMkpfdmt1dEpVQXdJRTJVZ3A5RkVCbmdUVEZkNjliOU1STmxiUzgxZnRDT25jUWxEQldYeHVDV3hLVy1iVWc4YWtwbTRKYzd6SWEyTlNZUm9qM2tMQ2s4cDlKdw?oc=5",
-        "published": "2026-11-25T18:55:44+00:00",
-        "source": "AOL.com"
+        "title": "Bills' Dalton Kincaid: Questionable for Thursday's game - CBS Sports",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTlIeUFiUUt4a1pqYlh3SnVXRUw1NldRTVY5R08zLU5qekx0M3FTR2xGbFMxMmxGY1hwWVB5TjV5T0dlUk5KdjA4MWxWaVdJMXVEYWxwcXVWQU9oZGpZWFNmVFpicWRSVnlSaFB2Vm5iTm5xUFpHN3dOQWhyOW5MSTU0TkhuNXl4QkRUbmIxT0R4MHFXNUJrb1JWdlp3UTI4czJn?oc=5",
+        "published": "2026-11-25T18:53:04+00:00",
+        "source": "CBS Sports"
       }
     ],
     "reason": "Bills' Final Week 12 Injury Report: Dalton Kincaid One of Four Starters Questionable vs. Chiefs - Sports Illustrated"
@@ -71,9 +71,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 85.4,
+    "hours_to_lock": 75.6,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -89,22 +89,16 @@
         "source": "Bradenton Herald"
       },
       {
-        "title": "Jaguars injury report vs. Titans includes Bhayshul Tuten (but it's not bad news) - Black and Teal",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDBmelktMnJzc0JVMjNQaXR6OGV6ektINzRVTDJnaFJQYmxYVTgtTk1mOWFkQUdYSUdPQnI4WHJMd1R2ZTVUdzFiVUhQUjd6ZHpaMGRpVkxtYnhYenNpczFFTXJqYTdsVUxCaTlXRk9mWG9NY21aYl9mOXduMXpreFdaVkdBcFVWWXVyNEZsaTdRWGlyazR1b0FMNG5RRzdfZ24wWFdHWV83bGVWUXEwM3FR?oc=5",
-        "published": "2026-11-25T22:12:39+00:00",
-        "source": "Black and Teal"
-      },
-      {
         "title": "Bhayshul Tuten Misses Practice on Wednesday - NFL News | Fantasy Football - RotoBaller",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkozTGVYVjExWFQ2RzNRUVkzSHNQdnVEZVhKNkJsSmJHaElNMkMwZm51U2FKU1lxRmFMM2QyenYyVGJ0RnVaYnpiOXF4cERHWjFCYl83Vm93eGdXQlpENWpUU19IdUEzWXJYU1VNSUJhM2RHSFBrWThydEhYS2lGQmZaaTkyM3VoY1RYazB6ZVUyUQ?oc=5",
         "published": "2026-11-25T21:49:00+00:00",
         "source": "RotoBaller"
       },
       {
-        "title": "Jaguars-Titans Injury Report: Is a Rest Week Finally Coming for Bhayshul Tuten? - Yahoo Sports",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2Q1dUJ3VVNPZEptM1pQRDFCVFRZVTR3d2lQSGlMN2FkOXVQbUN6MWc4QjhlZExmaEhiQlNCZ0paS1Y0bUxQTXRiMW9Ud0RiSjMzSHlCNWtNQmsxWG9tTXZpWi00TGhNckZVMEpjU1BUYUVqMUM3eTVfUVRZRnVlVTlRUExTM0t2ZnVMV2tPbw?oc=5",
-        "published": "2026-11-25T21:45:21+00:00",
-        "source": "Yahoo Sports"
+        "title": "Jaguars-Titans Injury Report: Is a Rest Week Finally Coming for Bhayshul Tuten? - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd05Ha0RWSm01Y28wTFpqamZ3Zm9LVFd6SHhDTVVxNUlORzBvcGxsZm5HTl92OGc3akkyNlpsNEx0alFUQTNVYUR3UWxTU3NVc1owQWFLa1dIT1FyM2hoaTNrOXBvc2ZVLVNUVnFTZVZUOV9QUFlJbXF1TVRnc2ZiZkQ3RkpONlBGUG1uY2QxMFpHQkpiRVdKb3ZOelNPUExCSzJJU1RsLTVUTnQySkhCMXlDOE1xdVVuWHc?oc=5",
+        "published": "2026-11-25T21:45:20+00:00",
+        "source": "Sports Illustrated"
       },
       {
         "title": "Jaguars injury report: Bhayshul Tuten misses practice Wednesday - The Florida Times-Union",
@@ -117,6 +111,12 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xVk1MVU0ycnpFcU5DbWZOYm9VT2IzdWZ2NS1Bb2R5MGlORHp1dVhteDU2VDN1RW5ETUs3S3l5QW1HaWhpVml0OWpzRGdZdFR3NUdKQ1lqY1ZWTWtfc1FuVHNVanQ?oc=5",
         "published": "2026-11-25T21:25:00+00:00",
         "source": "Bradenton Herald"
+      },
+      {
+        "title": "Bhayshul Tuten Fantasy Football Injury Update - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjhDU2Q2eHo3Ulh4M0FVQ3oxTkpKVlZ1UzJHalotWEFJR05qeUROZXZfdUlJOENyY1RRLTRycFBaOXVRMGIydXFoWkR2MGJQU012NzdQU1p6enMxd0I0SE1BSDlxRmlmYnBWcDJaekRtMHNHeFJrTjdpd3FFR0E4U284MTJQdWpzVExCQWhVa2xUd0U0Rlc5d0Vpaw?oc=5",
+        "published": "2026-11-25T16:39:01+00:00",
+        "source": "Yahoo Sports"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -124,9 +124,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 39.4,
+    "hours_to_lock": 29.6,
     "kickoff_utc": "2026-11-27T20:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -140,9 +140,9 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 13.4,
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.6,
     "kickoff_utc": "2026-11-26T18:00:00+00:00",
     "score": -3,
     "model_modifier": -0.75,
@@ -158,16 +158,16 @@
         "source": "A to Z Sports"
       },
       {
+        "title": "Bears RB Kyle Monangai’s Injury Sparks Concern Amid Return - Heavy.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmoxUk55TldHSS1aRVJfNGoyTDFwMTJtZnZGSWNqOEZGcjdJMVJaRHdfSTNJUVdzbDlvQmh6RzlYSFNnZUFBM0JVMllTY1NqTHFjYmo2WHlWVEVRaFVuSVlxbzllOXo4OVZPTDQ3ZmtwV2xSQk9ZUHpnVTlmMVNHby1MY3h0cDNOdndTaV9kTl83cWxYcmRaYU9BOFp3SFk2QnIzVEJB?oc=5",
+        "published": "2026-11-22T20:42:49+00:00",
+        "source": "Heavy.com"
+      },
+      {
         "title": "Bears' inactives list: Kyle Monangai in, Kyler Gordon out vs. Saints - NBC 5 Chicago",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEFsc0Q5QnJWV194b2VNXzU3WUVGbWNTcENYLTVCN0FwS1g2c1hJaUx2dWJ5c3I2Ylg4UXd3ZzlvdEJ0bF9TV0ZyelFSbDNhTnVtY0ZRVkhwTzdrNG9uTUQtSjlkNENMTGlOOUloSHFabTBJRFljdUJocEtmaTRNcGNkWlk2RG4xVHlUWmg5RFkwMzVEeVVWQ2ZZcnR1bV90NDJkb2xIeFhCUTVyeUN3WdIBuAFBVV95cUxNRGxicEFvd2JWNzJjVFNfMzdwOTZxZXRiNVJUVFRRWFNhdGxGVV9TOFpyMEFNSWlTbGk2YjF1RFhpTGFNcW9ZdFlmeG1SblRNLTVzYlJTSHZKdHhCRHVjbGk4MHFMblJBcWptV2VnWldGTW1YX1VWY05sMXNaamxOajFkYkY2RWNZalc0alBTYmxoV3hYcFhlaS1NbEtzRlNDd2NQVVFQb1VxTngtUGNMcmRrUDVId1VT?oc=5",
         "published": "2026-11-22T16:39:28+00:00",
         "source": "NBC 5 Chicago"
-      },
-      {
-        "title": "Is Kyle Monangai playing today? Latest on Bears RB vs. Saints - Saints Wire",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1VmT3J5bGhVbHdxYVU1Z2M1amZGeTBocEU1LUhKT3FJZlFzRVJoNGhZSV80d1Z0VkFwOS02MmtxaG9uN3hKNkRyZjVLM2RLdkhmLTFVUml6c25mcTAzeHVzZjA5ZGVya1c5d1BFVmF6REhna19xeEhrUWoxRllqS3daSVdnaE5FX0kyTkJQWXBFeU4zOE9Qc2tTZ0VCWWVwS3BSVG53TWQzcW5QZEtCSExTWTgxTEdISGRmWlllNjN1V1k?oc=5",
-        "published": "2026-11-22T14:21:00+00:00",
-        "source": "Saints Wire"
       }
     ],
     "reason": "Bears' inactives list: Kyle Monangai in, Kyler Gordon out vs. Saints - NBC 5 Chicago"
@@ -175,7 +175,7 @@
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -191,9 +191,9 @@
   {
     "player_id": "4147",
     "name": "Samaje Perine",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 85.4,
+    "hours_to_lock": 75.6,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -207,9 +207,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.8,
+    "hours_to_lock": 79.0,
     "kickoff_utc": "2026-11-29T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -223,9 +223,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 116.6,
+    "hours_to_lock": 106.8,
     "kickoff_utc": "2026-12-01T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -239,9 +239,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "TODAY",
-    "hours_to_lock": 16.9,
+    "hours_to_lock": 7.1,
     "kickoff_utc": "2026-11-26T21:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -255,9 +255,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 13.4,
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 3.6,
     "kickoff_utc": "2026-11-26T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -271,9 +271,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 85.4,
+    "hours_to_lock": 75.6,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -287,9 +287,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 85.4,
+    "hours_to_lock": 75.6,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -303,9 +303,9 @@
   {
     "player_id": "9758",
     "name": "C.J. Stroud",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 85.4,
+    "hours_to_lock": 75.6,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -319,9 +319,9 @@
   {
     "player_id": "SF",
     "name": "San Francisco 49ers",
-    "generated_at": "2026-11-26T04:36:32.974305+00:00",
+    "generated_at": "2026-11-26T14:26:32.519201+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 88.8,
+    "hours_to_lock": 79.0,
     "kickoff_utc": "2026-11-29T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -333,7 +333,7 @@
       {
         "title": "San Francisco 49ers Depth Chart 2026 (Week 12) - A to Z Sports",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oaGtvOG51U3VtNldpQlFMc2czVTZxczhSdy0zSW5Ta2pLc1dqOEI5RmVKanRrUFUwRFJ0Tk4ycVdseExpMG1kYldXVVdrWGNsOGhCeGhJRzQwaGZkX1pXZDNtaEs?oc=5",
-        "published": "2026-11-24T09:58:29+00:00",
+        "published": "2026-11-26T09:19:12+00:00",
         "source": "A to Z Sports"
       }
     ],

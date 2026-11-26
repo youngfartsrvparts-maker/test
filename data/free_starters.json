@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T04:36:34.786806+00:00",
+  "generated_at": "2026-11-26T14:26:34.217445+00:00",
   "league_id": "1388315713940262912",
   "count": 8,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 43680,
-      "drops_24h": 36445,
+      "adds_24h": 36490,
+      "drops_24h": 0,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -54,19 +54,19 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 39600,
-      "drops_24h": 45440,
+      "adds_24h": 31165,
+      "drops_24h": 31240,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
         "time": "16:25",
         "home": "ARI",
         "away": "WAS",
-        "spread": -7.0,
+        "spread": -6.5,
         "total": 41.5,
         "opponent": "WAS",
         "home_game": true,
-        "implied_team_points": 24.2
+        "implied_team_points": 24.0
       }
     },
     {
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 32274,
-      "drops_24h": 60546,
+      "adds_24h": 21654,
+      "drops_24h": 47856,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -162,10 +162,10 @@
         "home": "CLE",
         "away": "LV",
         "spread": 4.5,
-        "total": 39.5,
+        "total": 40.5,
         "opponent": "CLE",
         "home_game": false,
-        "implied_team_points": 22.0
+        "implied_team_points": 22.5
       }
     },
     {
@@ -194,11 +194,11 @@
         "time": "16:25",
         "home": "ARI",
         "away": "WAS",
-        "spread": -7.0,
+        "spread": -6.5,
         "total": 41.5,
         "opponent": "WAS",
         "home_game": true,
-        "implied_team_points": 24.2
+        "implied_team_points": 24.0
       }
     },
     {
@@ -219,7 +219,7 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 16834,
+      "adds_24h": 0,
       "drops_24h": 0,
       "next_game": {
         "week": 12,
@@ -228,10 +228,10 @@
         "home": "CLE",
         "away": "LV",
         "spread": 4.5,
-        "total": 39.5,
+        "total": 40.5,
         "opponent": "LV",
         "home_game": true,
-        "implied_team_points": 17.5
+        "implied_team_points": 18.0
       }
     },
     {
@@ -253,7 +253,7 @@
       "targets_pg": 0.0,
       "carries_pg": 0.0,
       "adds_24h": 0,
-      "drops_24h": 41690,
+      "drops_24h": 0,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
