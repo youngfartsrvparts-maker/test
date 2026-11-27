@@ -2,9 +2,9 @@
   {
     "player_id": "10218",
     "name": "Xavier Hutchinson",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.0,
+    "hours_to_lock": 51.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -18,9 +18,9 @@
   {
     "player_id": "12490",
     "name": "Bhayshul Tuten",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.0,
+    "hours_to_lock": 51.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": -1,
     "model_modifier": -0.25,
@@ -42,10 +42,10 @@
         "source": "Sports Illustrated"
       },
       {
-        "title": "Jaguars injury report: Bhayshul Tuten misses practice Wednesday - The Florida Times-Union",
+        "title": "Jaguars injury report: Bhayshul Tuten misses practice Wednesday - FL Times-Union",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOemFOZ2JWSk90QUhkZ1ZGT2U0ODRJaHZqQk1EZFJxb2tIdFo2Mmh5NkJJa3RHNjBETU05VF9VZ092MXBsc1RVNkE1Q25XUWQyVHRIemJETHQ1RTVvemE4cTNZN2JvT2JvRmk2RmdKRUk0dGd0S2JtbUFUSVJ5YnNSNVpGbXY0U3haR3JOWV9xYWlFTlNqUU0taE1MaXZBYTh5TXBuRGE0RnRmanJBTm5sNUZDN052ZVhEb3JhQnRTYk1aT2pxOVpaSE16Yw?oc=5",
         "published": "2026-11-25T21:28:11+00:00",
-        "source": "The Florida Times-Union"
+        "source": "FL Times-Union"
       },
       {
         "title": "Jaguars | Bhayshul Tuten’s foot/ankle re-check ‘wasn’t too bad’, practice to be limited - Fantasy Guru",
@@ -59,9 +59,9 @@
   {
     "player_id": "12492",
     "name": "Pat Bryant",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
-    "urgency": "TODAY",
-    "hours_to_lock": 15.0,
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
+    "urgency": "URGENT",
+    "hours_to_lock": 5.3,
     "kickoff_utc": "2026-11-27T20:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -75,23 +75,30 @@
   {
     "player_id": "12534",
     "name": "Kyle Monangai",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.0,
+    "hours_to_lock": -20.7,
     "kickoff_utc": "2026-11-26T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 45,
+    "confidence": 52,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
-    "headlines": [],
+    "headlines": [
+      {
+        "title": "Bears' quiet usage of Kyle Monangai against the Saints could be setting up a Thanksgiving explosion against the Lions - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeENRMUhWOTFXWVpJdlVuNGl1N1RMcGZwNkxQeWJZVlI1VDFNUVBoQVlJVmtUQW5fRE5IZHdBUWRyU05neGJyc0R4anN3bTh4WmpsWDdzeXdKS3pNX0k0UW5EaHBZcnFiVkxJTmtkWHl1Vmxaemt5R3ZKX0tSSE8yODcxY1JhQlU?oc=5",
+        "published": "2026-11-23T16:44:54+00:00",
+        "source": "Yahoo Sports"
+      }
+    ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
   },
   {
     "player_id": "12718",
     "name": "Konata Mumpfield",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
     "hours_to_lock": null,
     "kickoff_utc": null,
@@ -107,10 +114,26 @@
   {
     "player_id": "4147",
     "name": "Samaje Perine",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.0,
+    "hours_to_lock": 51.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
+    "score": 0,
+    "model_modifier": 0.0,
+    "confidence": 45,
+    "label": "No material negative news found",
+    "injury": null,
+    "practice": null,
+    "headlines": [],
+    "reason": "No material roster-specific risk headline found in the last 3 days."
+  },
+  {
+    "player_id": "4177",
+    "name": "Mack Hollins",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
+    "urgency": "MONITOR",
+    "hours_to_lock": 54.3,
+    "kickoff_utc": "2026-11-29T21:05:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
     "confidence": 45,
@@ -123,9 +146,9 @@
   {
     "player_id": "4217",
     "name": "George Kittle",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 64.4,
+    "hours_to_lock": 54.7,
     "kickoff_utc": "2026-11-29T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -139,9 +162,9 @@
   {
     "player_id": "6650",
     "name": "Chase McLaughlin",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 92.3,
+    "hours_to_lock": 82.5,
     "kickoff_utc": "2026-12-01T01:15:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -155,9 +178,9 @@
   {
     "player_id": "6786",
     "name": "CeeDee Lamb",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -7.5,
+    "hours_to_lock": -17.2,
     "kickoff_utc": "2026-11-26T21:30:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -171,9 +194,9 @@
   {
     "player_id": "6790",
     "name": "D'Andre Swift",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "LOCKED",
-    "hours_to_lock": -11.0,
+    "hours_to_lock": -20.7,
     "kickoff_utc": "2026-11-26T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -187,9 +210,9 @@
   {
     "player_id": "7543",
     "name": "Travis Etienne Jr.",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.0,
+    "hours_to_lock": 51.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -203,9 +226,9 @@
   {
     "player_id": "8112",
     "name": "Drake London",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.0,
+    "hours_to_lock": 51.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -219,9 +242,9 @@
   {
     "player_id": "8121",
     "name": "Romeo Doubs",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 64.1,
+    "hours_to_lock": 54.3,
     "kickoff_utc": "2026-11-29T21:05:00+00:00",
     "score": -5,
     "model_modifier": -1.25,
@@ -243,16 +266,10 @@
         "source": "RotoWire"
       },
       {
-        "title": "Romeo Doubs a limited participant Thursday - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUTFkVUZqTl95VkRnLWdJMmMyR2pOTkRjaVE1WGFnRmRFQ0hZejBOTUVUY2o4OHFRU3VacjcxN3A0TXZJVXpVNldDZ1VYaHQ5TnhZeXNUd1JoQ3RQQktZU3dkc3hvYXNGY0dqOFIyaVB5LU5HcGRmQ1pndWxPdzdXSVJGZDFlUnhYbWVJWg?oc=5",
+        "title": "Romeo Doubs a limited participant Thursday - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEtuUWpHNHBTdVdrUUJ5VU9EUGdxb0pCU012eTFseHh3QlA0U3ZaMGxHUXJ2MlBGZTNQaVVKU1FCTENiVDRFUjUxNzdjR092M3dzaXBaeHU2aEx6bXhFRG4zRnRiOEE4SHNKLU5ZcW1jM0MxdlRrb0hNLU12eU8wdzhnVTFXSzV3OTdKVFhoV003dw?oc=5",
         "published": "2026-11-26T21:36:45+00:00",
-        "source": "AOL.com"
-      },
-      {
-        "title": "Romeo Doubs (shoulder) returns to practice - NBC Sports",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWWZFWHJUS2J2eFZTbExaVjJDckh0ZmM2azcxcDE3MDVTS0JOQlZVR0VjUGpuWnRaNGE2NkN5Q1gycDV0d3RoSXhqRVc0YnFoQ0FyX2laanRCOHFCUmdRSmhnbFo4Q1NjR054Ym1jV1gzc2VHX2NVVjBhVUpXbHFhNGtHZlV2Q2dsTDlSOXVTRXU4UEozXzdMU01ETEY5c1RySnV2OUdlSU50UQ?oc=5",
-        "published": "2026-11-26T05:40:38+00:00",
-        "source": "NBC Sports"
+        "source": "Yahoo"
       },
       {
         "title": "Romeo Doubs returns to practice Wednesday - AOL.com",
@@ -265,6 +282,12 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2hTTWtPNE9oZ2htWVVzakdtekN0WHJGT0pkcDFObU5SV3NkcmZ1UWk2ZnBQM2lRU0dSeG5PWGQzeHlFM2hzTFFvZzVpUmVkXzVMUkNLd0FyR3dnWnk4cndkZDl0Y3gxSGVycjMxQU80emkxRGxsNjBtMTZ4OEZCZnhwMVNSNEp5RENQYlR2VQ?oc=5",
         "published": "2026-11-26T00:58:00+00:00",
         "source": "Yahoo"
+      },
+      {
+        "title": "Romeo Doubs Officially limited in practice return - Fantasy Footballers Podcast",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUndrMjhIR2xSSU1FTm9qMElGdlA2QkJHLW5UYVhHQmljM2g0ZHJaSHRzVnh1eW1ITWstSG5oN0U2VHJ4eTU2NFh2M1F4ejI1LUd5NllVRzRFZG53eGFDY05IN2VLejRUZjFmejhmdzFMUE4zQTNMZGlBZVBrRWxCLVZtV1lsd3pjYnlqT0ttVEhNS0NGSXhyOF9TR1FzZ2cyblE?oc=5",
+        "published": "2026-11-26T00:29:27+00:00",
+        "source": "Fantasy Footballers Podcast"
       }
     ],
     "reason": "Sleeper injury/practice status is the main signal."
@@ -272,9 +295,9 @@
   {
     "player_id": "9758",
     "name": "C.J. Stroud",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 61.0,
+    "hours_to_lock": 51.3,
     "kickoff_utc": "2026-11-29T18:00:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
@@ -288,13 +311,13 @@
   {
     "player_id": "SF",
     "name": "San Francisco 49ers",
-    "generated_at": "2026-11-27T04:59:05.048105+00:00",
+    "generated_at": "2026-11-27T14:44:49.933865+00:00",
     "urgency": "MONITOR",
-    "hours_to_lock": 64.4,
+    "hours_to_lock": 54.7,
     "kickoff_utc": "2026-11-29T21:25:00+00:00",
     "score": 0,
     "model_modifier": 0.0,
-    "confidence": 52,
+    "confidence": 66,
     "label": "No material negative news found",
     "injury": null,
     "practice": null,
@@ -302,8 +325,20 @@
       {
         "title": "San Francisco 49ers Depth Chart 2026 (Week 12) - A to Z Sports",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oaGtvOG51U3VtNldpQlFMc2czVTZxczhSdy0zSW5Ta2pLc1dqOEI5RmVKanRrUFUwRFJ0Tk4ycVdseExpMG1kYldXVVdrWGNsOGhCeGhJRzQwaGZkX1pXZDNtaEs?oc=5",
-        "published": "2026-11-26T09:19:12+00:00",
+        "published": "2026-11-27T08:00:56+00:00",
         "source": "A to Z Sports"
+      },
+      {
+        "title": "San Francisco 49ers Injury Report Week 11 - A to Z Sports",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YSTA5R25HNmczTVV1ZXFnRFpPTmsxc3hzQTVXM2RtVE5zZXJKMFZWSXBuOFF4TWlQWXN4YWFHdHEyd2hMUzBwUExxNE40dkZxclRwcmpFOFFWS3Ytb0FreTd5S0lfbE5VT3Y3N1FOWW4?oc=5",
+        "published": "2026-11-26T02:24:35+00:00",
+        "source": "A to Z Sports"
+      },
+      {
+        "title": "Jaxon Smith-Njigba’s Injury Status Matters for Seattle Seahawks vs. San Francisco 49ers - TWSN",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3lidlVDWThjVm5SOG1oLUJNeTViclpyeEM0R0tJSGpKLW5WbFEzZ25SV3k4YWpFM0F2LWdIYURQSU9oN2s3Vi1NXzEwRXhwNEk4LVJCdE9JVEtFbXFKRGpjR1NjNF84UXU4c1kxRS1TOWVOcGR3UUQtVnVsNkdUTUhLZ094eEt4VG1CVlpUZDYtQ000OFFiYzBOdXBZc29sTC0zN2ExaXVYd2Zrb2M3TDJ5WQ?oc=5",
+        "published": "2026-11-26T01:29:00+00:00",
+        "source": "TWSN"
       }
     ],
     "reason": "No material roster-specific risk headline found in the last 3 days."
