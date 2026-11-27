@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:44:52.045958+00:00",
+  "generated_at": "2026-11-27T22:58:31.171012+00:00",
   "league_id": "1388315713940262912",
   "count": 8,
   "players": [
@@ -21,8 +21,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 16070,
-      "drops_24h": 0,
+      "adds_24h": 13595,
+      "drops_24h": 11535,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -54,8 +54,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 12540,
-      "drops_24h": 12270,
+      "adds_24h": 13935,
+      "drops_24h": 15235,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -129,10 +129,10 @@
         "home": "LAC",
         "away": "NE",
         "spread": -2.5,
-        "total": 35.5,
+        "total": 34.5,
         "opponent": "LAC",
         "home_game": false,
-        "implied_team_points": 16.5
+        "implied_team_points": 16.0
       }
     },
     {
@@ -153,8 +153,8 @@
       "ceiling_2025": null,
       "targets_pg": null,
       "carries_pg": null,
-      "adds_24h": 7596,
-      "drops_24h": 22506,
+      "adds_24h": 8544,
+      "drops_24h": 27552,
       "next_game": {
         "week": 12,
         "date": "2026-11-29",
@@ -260,11 +260,11 @@
         "time": "13:00",
         "home": "IND",
         "away": "NYG",
-        "spread": -6.0,
+        "spread": -5.5,
         "total": 41.5,
         "opponent": "NYG",
         "home_game": true,
-        "implied_team_points": 23.8
+        "implied_team_points": 23.5
       }
     }
   ],
