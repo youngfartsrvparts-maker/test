@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T23:09:35.886103+00:00",
+  "generated_at": "2026-11-27T04:59:04.000409+00:00",
   "season": "2025",
-  "missing_count": 736,
+  "missing_count": 737,
   "players": [
     {
       "player_id": "11533",
@@ -4720,6 +4720,15 @@
       "reason": "no nflverse 2025 weekly match"
     },
     {
+      "player_id": "12860",
+      "name": "Theo Wease Jr.",
+      "pos": "WR",
+      "team": "LAC",
+      "sleeper_gsis_id": null,
+      "rookie_year": "2025",
+      "reason": "no nflverse 2025 weekly match"
+    },
+    {
       "player_id": "12688",
       "name": "Cam Miller",
       "pos": "QB",
@@ -6630,16 +6639,16 @@
   ],
   "match_modes": {
     "2023": {
-      "gsis": 1643
+      "gsis": 1633
     },
     "2024": {
-      "gsis": 1626
+      "gsis": 1593
     },
     "2025": {
-      "gsis": 1512
+      "gsis": 1482
     },
     "2026": {
-      "gsis": 872
+      "gsis": 859
     }
   }
 }
